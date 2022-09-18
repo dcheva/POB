@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="1" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Witch" ascendClassName="Elementalist" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="None">
-		<PlayerStat stat="AverageDamage" value="1.4110759493671"/>
+		<PlayerStat stat="AverageDamage" value="1.5506329113924"/>
 		<PlayerStat stat="Speed" value="1.2"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="0"/>
 		<PlayerStat stat="CritChance" value="0"/>
 		<PlayerStat stat="CritMultiplier" value="1.5"/>
-		<PlayerStat stat="HitChance" value="91"/>
-		<PlayerStat stat="TotalDPS" value="1.6932911392405"/>
+		<PlayerStat stat="HitChance" value="100"/>
+		<PlayerStat stat="TotalDPS" value="1.8607594936709"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="1.6932911392405"/>
-		<PlayerStat stat="WithIgniteDPS" value="1.6932911392405"/>
-		<PlayerStat stat="WithPoisonDPS" value="1.6932911392405"/>
+		<PlayerStat stat="WithBleedDPS" value="1.8607594936709"/>
+		<PlayerStat stat="WithIgniteDPS" value="1.8607594936709"/>
+		<PlayerStat stat="WithPoisonDPS" value="1.8607594936709"/>
 		<PlayerStat stat="TotalDotDPS" value="0"/>
 		<PlayerStat stat="CullingDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="1.6932911392405"/>
+		<PlayerStat stat="CombinedDPS" value="1.8607594936709"/>
 		<PlayerStat stat="ManaCost" value="0"/>
 		<PlayerStat stat="LifeCost" value="0"/>
 		<PlayerStat stat="ESCost" value="0"/>
@@ -27,36 +27,36 @@
 		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
 		<PlayerStat stat="ESPerSecondCost" value="0"/>
 		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
-		<PlayerStat stat="Str" value="14"/>
-		<PlayerStat stat="Dex" value="14"/>
-		<PlayerStat stat="Int" value="102"/>
+		<PlayerStat stat="Str" value="34"/>
+		<PlayerStat stat="Dex" value="34"/>
+		<PlayerStat stat="Int" value="122"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="TotalEHP" value="91"/>
-		<PlayerStat stat="PhysicalMaximumHitTaken" value="91"/>
-		<PlayerStat stat="LightningMaximumHitTaken" value="56.875"/>
-		<PlayerStat stat="FireMaximumHitTaken" value="56.875"/>
-		<PlayerStat stat="ColdMaximumHitTaken" value="56.875"/>
-		<PlayerStat stat="ChaosMaximumHitTaken" value="41.875"/>
-		<PlayerStat stat="Life" value="67"/>
+		<PlayerStat stat="TotalEHP" value="105"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="104"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="70.748299319728"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="70.748299319728"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="70.748299319728"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="49.375"/>
+		<PlayerStat stat="Life" value="79"/>
 		<PlayerStat stat="Spec:LifeInc" value="18"/>
-		<PlayerStat stat="LifeUnreserved" value="67"/>
-		<PlayerStat stat="LifeRecoverable" value="67"/>
+		<PlayerStat stat="LifeUnreserved" value="79"/>
+		<PlayerStat stat="LifeRecoverable" value="79"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
 		<PlayerStat stat="LifeRegenRecovery" value="0"/>
 		<PlayerStat stat="LifeLeechGainRate" value="0"/>
-		<PlayerStat stat="Mana" value="163"/>
+		<PlayerStat stat="Mana" value="175"/>
 		<PlayerStat stat="Spec:ManaInc" value="28"/>
-		<PlayerStat stat="ManaUnreserved" value="163"/>
+		<PlayerStat stat="ManaUnreserved" value="175"/>
 		<PlayerStat stat="ManaUnreservedPercent" value="100"/>
-		<PlayerStat stat="ManaRegenRecovery" value="2.9"/>
+		<PlayerStat stat="ManaRegenRecovery" value="3.1"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
 		<PlayerStat stat="Ward" value="0"/>
-		<PlayerStat stat="EnergyShield" value="24"/>
-		<PlayerStat stat="EnergyShieldRecoveryCap" value="24"/>
+		<PlayerStat stat="EnergyShield" value="25"/>
+		<PlayerStat stat="EnergyShieldRecoveryCap" value="25"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
 		<PlayerStat stat="EnergyShieldRegenRecovery" value="0"/>
 		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
-		<PlayerStat stat="Evasion" value="15"/>
+		<PlayerStat stat="Evasion" value="16"/>
 		<PlayerStat stat="Spec:EvasionInc" value="0"/>
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
 		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
@@ -68,11 +68,11 @@
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
 		<PlayerStat stat="SpellSuppressionChance" value="0"/>
-		<PlayerStat stat="FireResist" value="-60"/>
+		<PlayerStat stat="FireResist" value="-47"/>
 		<PlayerStat stat="FireResistOverCap" value="0"/>
-		<PlayerStat stat="ColdResist" value="-60"/>
+		<PlayerStat stat="ColdResist" value="-47"/>
 		<PlayerStat stat="ColdResistOverCap" value="0"/>
-		<PlayerStat stat="LightningResist" value="-60"/>
+		<PlayerStat stat="LightningResist" value="-47"/>
 		<PlayerStat stat="LightningResistOverCap" value="0"/>
 		<PlayerStat stat="ChaosResist" value="-60"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
@@ -130,13 +130,13 @@
 		<Section subsection="MaximumHitTaken" collapsed="false" id="DamageTaken"/>
 		<Section subsection="DotsandDegens" collapsed="false" id="DamageTaken"/>
 	</Calcs>
-	<Skills sortGemsByDPSField="CombinedDPS" matchGemLevelToCharacterLevel="false" activeSkillSet="1" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="nil" showSupportGemTypes="ALL" showAltQualityGems="false">
+	<Skills sortGemsByDPSField="CombinedDPS" matchGemLevelToCharacterLevel="false" activeSkillSet="1" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="20" showSupportGemTypes="ALL" showAltQualityGems="false">
 		<SkillSet id="1"/>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="2" masteryEffects="" nodes="27203,36542,16023,37569,27929,54447,11420,57264,2292,4397,48362" treeVersion="3_19" classId="3">
+		<Spec ascendClassId="2" masteryEffects="" nodes="44723,1346,16790,54447,11420,48362,27203,36542,16023,37569,27929,61419,53279,2292,53493,4397,57264,19635,8135,11128" treeVersion="3_19" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCCWpDjr6SwW0ZLJzfsAj0ES286gAA
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCEq6zBUJBliycvOpqQ46-ksFtGe_r0B8I9ND1ES3fsEyzH8creAAA
 			</URL>
 			<Sockets/>
 		</Spec>
@@ -144,9 +144,9 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="910.6856" showHeatMap="nil" zoomLevel="7" showStatDifferences="true" zoomX="-53.8672"/>
-	<Items activeItemSet="1" useSecondWeaponSet="nil">
-		<ItemSet useSecondWeaponSet="nil" id="1">
+	<TreeView searchStr="" zoomY="910.6856" showHeatMap="false" zoomLevel="7" showStatDifferences="true" zoomX="-53.8672"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false">
+		<ItemSet useSecondWeaponSet="false" id="1">
 			<Slot name="Weapon 1Swap Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
 			<Slot name="Weapon 1" itemId="0"/>
