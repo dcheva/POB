@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="76" targetVersion="3_0" pantheonMajorGod="TheBrineKing" bandit="Alira" className="Witch" ascendClassName="Elementalist" mainSocketGroup="1" viewMode="ITEMS" pantheonMinorGod="Yugul">
-		<PlayerStat stat="AverageHit" value="549455.74387704"/>
+		<PlayerStat stat="AverageHit" value="558682.01626248"/>
 		<PlayerStat stat="Speed" value="2.4285714285714"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="65.17"/>
 		<PlayerStat stat="CritChance" value="65.17"/>
 		<PlayerStat stat="CritMultiplier" value="3"/>
-		<PlayerStat stat="TotalDPS" value="1334392.5208442"/>
+		<PlayerStat stat="TotalDPS" value="1356799.1823517"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="1334392.5208442"/>
-		<PlayerStat stat="WithIgniteDPS" value="1334392.5208442"/>
-		<PlayerStat stat="WithPoisonDPS" value="1334392.5208442"/>
+		<PlayerStat stat="WithBleedDPS" value="1356799.1823517"/>
+		<PlayerStat stat="WithIgniteDPS" value="1356799.1823517"/>
+		<PlayerStat stat="WithPoisonDPS" value="1356799.1823517"/>
 		<PlayerStat stat="TotalDotDPS" value="0"/>
-		<PlayerStat stat="CullingDPS" value="148265.83564936"/>
-		<PlayerStat stat="CombinedDPS" value="1482658.3564936"/>
+		<PlayerStat stat="CullingDPS" value="150755.46470575"/>
+		<PlayerStat stat="CombinedDPS" value="1507554.6470575"/>
 		<PlayerStat stat="ManaCost" value="0"/>
 		<PlayerStat stat="LifeCost" value="0"/>
 		<PlayerStat stat="ESCost" value="0"/>
@@ -36,9 +36,9 @@
 		<PlayerStat stat="TotalEHP" value="4508.1081081081"/>
 		<PlayerStat stat="PhysicalMaximumHitTaken" value="3097.5903614458"/>
 		<PlayerStat stat="LightningMaximumHitTaken" value="3493.2065217391"/>
-		<PlayerStat stat="FireMaximumHitTaken" value="3512.2950819672"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="3919.2073170732"/>
 		<PlayerStat stat="ColdMaximumHitTaken" value="3365.1832460733"/>
-		<PlayerStat stat="ChaosMaximumHitTaken" value="3338.961038961"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="6121.4285714286"/>
 		<PlayerStat stat="Life" value="2571"/>
 		<PlayerStat stat="Spec:LifeInc" value="97"/>
 		<PlayerStat stat="LifeUnreserved" value="2571"/>
@@ -70,13 +70,13 @@
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
 		<PlayerStat stat="SpellSuppressionChance" value="0"/>
-		<PlayerStat stat="FireResist" value="26.8"/>
+		<PlayerStat stat="FireResist" value="34.4"/>
 		<PlayerStat stat="FireResistOverCap" value="0"/>
 		<PlayerStat stat="ColdResist" value="23.6"/>
 		<PlayerStat stat="ColdResistOverCap" value="0"/>
 		<PlayerStat stat="LightningResist" value="26.4"/>
 		<PlayerStat stat="LightningResistOverCap" value="0"/>
-		<PlayerStat stat="ChaosResist" value="23"/>
+		<PlayerStat stat="ChaosResist" value="58"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.29"/>
 		<PlayerStat stat="FullDPS" value="0"/>
@@ -167,15 +167,15 @@
 				<Gem enableGlobal2="false" level="18" enableGlobal1="true" skillId="Conductivity" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemConductivity" quality="0" enabled="true" count="1" nameSpec="Conductivity"/>
 				<Gem enableGlobal2="false" skillMinionSkillCalcs="1" level="10" enableGlobal1="true" skillId="SummonChaosGolem" skillMinionSkill="1" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemSummonChaosGolem" quality="0" enabled="true" count="1" nameSpec="Summon Chaos Golem" skillMinion="SummonedChaosGolem"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" source="Item:19:Corpse Paw, Embroidered Gloves" enabled="true" slot="Gloves" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" level="1" enableGlobal1="true" skillId="EnchantmentOfReflectionWhenHit" skillMinionSkill="1" quality="0" enabled="true" count="nil" nameSpec="" skillMinion="Clone"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" source="Item:19:Corpse Paw, Embroidered Gloves" enabled="true" slot="Gloves" mainActiveSkill="1">
+				<Gem enableGlobal2="false" skillMinionSkillCalcs="1" level="1" enableGlobal1="true" skillId="EnchantmentOfReflectionWhenHit" skillMinionSkill="1" qualityId="Default" quality="0" enabled="true" count="1" nameSpec="Word of Reflection" skillMinion="Clone"/>
 			</Skill>
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="2" masteryEffects="{12503,31331},{53188,12119},{43818,47642},{34723,40307},{58816,64063},{5230,28589}" nodes="4184,47873,54447,60472,15167,37999,56716,48362,27203,41472,5230,42760,34171,41251,53493,46842,36452,8135,49254,12503,21958,19501,11420,12536,61471,258,61419,29061,54694,57362,13164,55993,1203,31875,16790,23215,56029,4854,19635,53957,56158,44723,1346,39648,34173,16954,58998,5456,22702,54954,7444,27038,37569,46340,54279,24229,58816,2292,36542,56461,33435,11128,27929,6712,30225,44799,12783,57264,26196,24362,36678,4397,29199,29781,36949,20528,8302,21330,15064,53188,26866,44184,13009,58604,33755,12888,34723,10031,53279,32431,17821,16023,43818,4977,17735,9261,63398,36121,34506,24872,12852,4367,55647,60398,14936" treeVersion="3_19" classId="3">
+		<Spec ascendClassId="2" masteryEffects="{12503,31331},{53188,12119},{43818,47642},{34723,40307},{58816,64063},{5230,28589}" nodes="4184,47873,54447,60472,15167,37999,56716,48362,27203,41472,5230,42760,34171,41251,53493,46842,36452,8135,49254,12503,21958,19501,11420,12536,61471,258,61419,29061,54694,37569,13164,46340,54279,31875,14936,60398,56461,4854,19635,53957,56158,44723,1346,16790,7444,16954,54954,5456,24872,58998,36121,63398,39648,57362,55993,24229,1203,23215,36542,6712,33435,11128,27929,17821,30225,44799,12783,57264,26196,24362,20528,4397,29199,29781,36949,36678,8302,10031,15064,12888,33755,58604,13009,44184,26866,53188,34723,21330,53279,32431,2292,16023,43818,4977,17735,9261,27038,34173,34506,22702,12852,4367,55647,56029,58816" treeVersion="3_19" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCZxBYuwHsODs_lG_djLzqakOiABRupwiFe6Ej0PW2-o5kH8fAZjDXVcZMLSycMPjwHwEC7-txhdWm4BIzbNq5BLN8g0GWWq_a3RL2TLPSxdterrMFQprghX1COuZ2FVBYrtaqHRRpnpLBtQTUB16l5cAI9I6-3I2Cmyt4bRkaOHYRrv8x79-wZlRfKo9GES1yD3RVkFVQMCBuU1I62M_EaPKsmDLR5OyD2zJYh6MnL9Affq9FnasqE3FFRyQt96aNGYbKYSgyNBEP2V_r7jpYAAZvrRRuemMw1_o_5cAvV8_EnXOHo7oaqyo=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCZxBYuwHsODs_lG_djLzqakOiABRupwiFe6Ej0PW2-o5kH8fAZjDXVcZMLSycMPjwHwEC7-txhdWmksEzbLUE1Ad8gzpY6-7cjRL2TLPSxdterrMFQkGWHRRCOtaqFVBhKOZ2jRn3pprg4BLauV6lBLNar46-GjiCmyt4bRlFnXYRrv8x79-wZlRfKlAwES1yD3RVkFWPRiBuJy862DJYg9vk7DLRrJho8s_Eh6NTUtAffq8I9KsqE3FFRyQtaZ6FfYbKWK4yNBEP2V_a3eXAAAZvrRRuemMw1y9Xz8Sdc4ejuhqrKvo_5cA=
 			</URL>
 			<Sockets>
 				<Socket nodeId="26196" itemId="3"/>
@@ -289,28 +289,6 @@ Gain 2 Mana per Enemy Killed
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
 			<ModRange range="0.5" id="7"/>
-		</Item>
-		<Item id="1">
-			Rarity: RARE
-Amulet
-Citrine Amulet
-Crafted: true
-Prefix: {range:0.5}SpellDamage3
-Prefix: None
-Prefix: None
-Suffix: None
-Suffix: {range:1}ManaRegeneration6
-Suffix: {range:1}FireResist4
-LevelReq: 63
-Implicits: 1
-{range:0.5}+(16-24) to Strength and Dexterity
-15% increased Spell Damage
-69% increased Mana Regeneration Rate
-+29% to Fire Resistance
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
 		</Item>
 		<Item id="2">
 			Rarity: UNIQUE
@@ -529,6 +507,30 @@ Implicits: 1
 			<ModRange range="0.5" id="7"/>
 			<ModRange range="0.5" id="8"/>
 		</Item>
+		<Item id="4">
+			Rarity: RARE
+Amulet
+Citrine Amulet
+Crafted: true
+Prefix: {range:1}SpellDamage5
+Prefix: None
+Prefix: None
+Suffix: {range:1}ChaosResist6
+Suffix: {range:1}ManaRegeneration6
+Suffix: {range:1}FireResist8
+LevelReq: 67
+Implicits: 1
+{range:0.5}+(16-24) to Strength and Dexterity
+26% increased Spell Damage
+69% increased Mana Regeneration Rate
++48% to Fire Resistance
++35% to Chaos Resistance
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
 		<Slot name="Weapon 1" itemId="20"/>
 		<Slot name="Flask 3" itemId="7"/>
 		<Slot name="Gloves" itemId="19"/>
@@ -542,7 +544,7 @@ Implicits: 1
 		<Slot name="Body Armour" itemId="21"/>
 		<Slot name="Ring 1" itemId="9"/>
 		<Slot name="Boots" itemId="16"/>
-		<Slot name="Amulet" itemId="1"/>
+		<Slot name="Amulet" itemId="4"/>
 		<ItemSet useSecondWeaponSet="false" id="1">
 			<Slot name="Weapon 1Swap Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
@@ -614,7 +616,7 @@ Implicits: 1
 			<Slot name="Gloves Abyssal Socket 6" itemId="0"/>
 			<Slot name="Boots" itemId="16"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 5" itemId="0"/>
-			<Slot name="Amulet" itemId="1"/>
+			<Slot name="Amulet" itemId="4"/>
 		</ItemSet>
 	</Items>
 	<Config>
@@ -629,14 +631,14 @@ Implicits: 1
 		<Input name="conditionConvergence" boolean="true"/>
 		<Input name="useFrenzyCharges" boolean="true"/>
 		<Input name="bloodSandStance" string="SAND"/>
-		<Input name="conditionEnemyInChillingArea" boolean="true"/>
-		<Input name="conditionGainedPowerChargeRecently" boolean="true"/>
-		<Input name="waveOfConvictionExposureType" string="Lightning"/>
-		<Input name="usePowerCharges" boolean="true"/>
-		<Input name="conditionEnemyOnConsecratedGround" boolean="true"/>
-		<Input name="pantheonMinorGod" string="Yugul"/>
-		<Input name="multiplierManaSpentRecently" number="450"/>
 		<Input name="buffVaalArcLuckyHits" boolean="true"/>
+		<Input name="conditionGainedPowerChargeRecently" boolean="true"/>
+		<Input name="multiplierManaSpentRecently" number="450"/>
+		<Input name="conditionEnemyOnConsecratedGround" boolean="true"/>
+		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="pantheonMinorGod" string="Yugul"/>
+		<Input name="waveOfConvictionExposureType" string="Lightning"/>
+		<Input name="conditionEnemyInChillingArea" boolean="true"/>
 		<Input name="aspectOfTheSpiderWebStacks" number="3"/>
 		<Placeholder name="enemySpeed" number="700"/>
 		<Placeholder name="enemyCritDamage" number="30"/>
