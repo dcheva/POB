@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="95" targetVersion="3_0" pantheonMajorGod="TheBrineKing" bandit="Alira" className="Witch" ascendClassName="Elementalist" mainSocketGroup="2" viewMode="TREE" pantheonMinorGod="Yugul">
+	<Build level="95" targetVersion="3_0" pantheonMajorGod="TheBrineKing" bandit="Alira" className="Witch" ascendClassName="Elementalist" mainSocketGroup="2" viewMode="ITEMS" pantheonMinorGod="Yugul">
 		<PlayerStat stat="AverageHit" value="5646542.6847389"/>
 		<PlayerStat stat="Speed" value="2.5714285714286"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="55.9"/>
@@ -189,53 +189,41 @@
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="7">
-		<Spec ascendClassId="2" masteryEffects="" nodes="39841,7444,5743,3537,20987,23027,54447,37999,57226,48362,27203,5823,56716,36121,5696,2292,63447,61653,25260,27659,53493,46842,34173,27788,18663,49254,26196,32932,32210,9877,21958,47873,10763,8948,11420,12536,61320,41263,61471,52502,258,41472,61419,35283,54694,27163,57362,1203,63398,54279,3656,10031,21835,12189,35894,19635,18769,56158,44723,1346,16790,61834,16954,44184,26270,21678,55247,38190,47362,48778,33435,5875,1822,32710,40362,33755,6712,53213,25058,14936,29781,41989,44799,12783,58218,21974,24362,20528,9788,65203,13885,36949,36678,8302,28754,64210,29199,4502,15064,27929,56461,15167,58244,25831,63799,25411,32431,7112,16023,12888,36452,24050,9261,15117,7960,34506,24872,5935,4367,55647,18865,37671" treeVersion="3_12" classId="3">
+		<Spec ascendClassId="2" masteryEffects="" nodes="39841,7444,2292,3537,20987,23027,54447,37999,56716,48362,27203,41472,18865,18769,5696,27659,47873,61653,12189,63447,5935,27788,34173,46842,18663,49254,57226,32932,15117,9877,21958,25260,10763,26196,11420,12536,61320,35283,61471,12888,258,52502,61419,41263,54694,27163,57362,8948,54279,3656,10031,21835,32210,35894,19635,5823,56158,44723,1346,16790,61834,16954,1822,40362,21678,55247,38190,47362,48778,53213,5875,44184,32710,26270,27929,56461,33435,58218,33755,13885,41989,44799,15064,25058,21974,24362,20528,9788,29199,29781,36949,36678,8302,28754,4502,65203,64210,12783,14936,6712,5743,53493,25831,63799,25411,32431,7112,16023,36452,1203,24050,9261,63398,15167,34506,24872,58244,4367,55647,36121,37671" treeVersion="3_12" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCeJuhHRQWbw3RUftZ85Rv34q86mpDFr_djI0ZFkAI9PfX8NVirGwL0PW2-oV9bIxI58BmZlSApH3SJpVVxrsBKgsi9CycMPjviKEv8B_NFgECogDv64nT1aZqG-ASBLP3ptQHDkgnL1VLL52MNkyzSVHbXq6zBUJBlvGKQjqsmGaeVK7Xz5UuuQK-ioKbFvMHHn_GnaqD2xo4z91h4jpYdFWkBa7_Me_jalXWXypQMCY8_rM2PZBVj0YgbnBS-tJyDxGWOthtGdyNOz_jhGTn-TdjQ36vG8gyWI5kXfIkLTsNHxiGymEoFy8RD9lfSbGTJwAA
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCd5uhHRQI9A3RUftZ85Rv3Yy86mpDogBJsUlRFkBsC7sB8NUvnffXFy9sjIV9tvpI58Bm34qApDsNJpVVxmKsKgtmVCycMPjviInT8B8yWAECzRbv66Ev1aZqG-ASIvTUBw5IJy9VS33SjDZMsxa_216uswVCQZbxikI6Bx6dqlSu18-VLrkCvorP3RbzrJh_xmaebRncjYKb42qD2zY9pAWu_zrYYeJV1l8qUDAmPHIPdFWQVY9GIG5wUhGW_rP60jHvOlgaOBZv0PVk5_k3Y0N-rxvIjmQEs13yJC33pjs_hsphKOOEEQ_ZX40ZkycAAA==
 			</URL>
-			<Sockets>
-				<Socket nodeId="36634" itemId="1"/>
-				<Socket nodeId="7960" itemId="1"/>
-			</Sockets>
+			<Sockets/>
 		</Spec>
-		<Spec ascendClassId="2" masteryEffects="" nodes="39841,18865,7444,5823,54447,3537,52502,23027,12888,12189,15167,37999,56716,48362,27203,41472,20987,5935,5696,64210,27038,61653,25260,63447,53493,46842,36452,27788,24050,49254,58244,7960,15117,9877,21958,57226,7112,8948,11420,12536,61320,58998,61471,63398,258,63799,61419,35283,54694,5743,57362,1203,12475,54279,3656,36121,21835,4502,35894,19635,40810,56158,44723,1346,16790,61834,16954,56461,14936,21678,55247,38190,47362,48778,58218,5875,44184,32710,40362,28754,6712,53213,15064,33755,36678,41989,44799,12783,34173,29781,24362,29199,9788,65203,13885,36949,20528,8302,21974,25058,27929,33435,26270,1822,18769,2292,27659,25831,10031,25411,32431,27163,16023,26196,41263,10763,9261,32210,32932,34506,24872,18663,4367,55647,47873,37671" treeVersion="3_13" classId="3">
+		<Spec ascendClassId="2" masteryEffects="" nodes="57226,39841,18865,7444,15167,54447,3537,52502,23027,12189,5823,37999,56716,48362,27203,41472,18663,27788,5696,64210,27038,61653,25260,63447,53493,46842,36452,1203,24050,49254,32210,32932,58998,9877,21958,5743,7112,26196,11420,12536,61320,58244,61471,15117,258,63799,61419,35283,54694,2292,57362,12888,12475,54279,3656,16954,21835,58218,35894,19635,5875,56158,44723,1346,18769,61834,36121,6712,27929,21678,55247,38190,47362,48778,4502,40810,1822,32710,26270,28754,56461,33435,15064,14936,36678,41989,44799,12783,34173,29781,24362,29199,9788,65203,13885,36949,20528,8302,21974,25058,33755,53213,40362,44184,16790,20987,5935,25831,10031,25411,32431,27163,16023,8948,41263,10763,9261,63398,34506,24872,27659,4367,55647,47873,37671" treeVersion="3_13" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCfJuhSbEdFBa_DdHNFlnzMlgvnTs_lG_djLzqakOiAFH7Fy8WQPrSaZ7w1WKs99fQ9bb6jmRsjF3ywGbjhB8YOw0mlVXG34obyCL0LJww-O-I5nbwH_emAQL5N-_ridPVphZv4BIEszC71AcOSI0ZVUsRlow2TLOfatterrMFQkGW8YpCOtyNOlhUrtfPlS65Ar6K42oW86yYf8adqnBSGjjP3TrYg9uPRqQFrv8x74V9dFVfKnIPJjz-szY9kFVQMCBuVdZh4m0ZgptmngceSVEI9GwLZOcnL2NDfq9qG2ZUoS8qCyQtfdKApIbKYShI5xEP2V-7AZMnAAA=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCe9-Km6FJsR0UOz8N0c0WWfMvnRa_lG_djLzqakOiAEjnbIwWQPrSaZ7w1WKs99fQ9bb6jmQEs13ywGZ90oCk5nYmlVXGFm8byGZULJww-O-I44TwHzsNAQL5N-_ridPVpgj04BIyWDC71AcOSEI6VUvjaow2TLMW89terrMFQklR8YqNGRo4bRlUrtfPlS65Ar6KEZafagcef8ZmnnBS3I2CmzrYOliPRqQFrv8x74V9dFVfKnIPJjz-szY9kFVQMCBuVdZh4oPbz92dqqyYQZZR-xcvZOcnL2NDfq9qGyL0oS8qCyQt96aGymEobAsRD9lfuwGTJwAA
 			</URL>
-			<Sockets>
-				<Socket nodeId="36634" itemId="1"/>
-				<Socket nodeId="7960" itemId="1"/>
-			</Sockets>
+			<Sockets/>
 		</Spec>
-		<Spec ascendClassId="2" masteryEffects="" nodes="39841,1346,7444,47873,54447,3537,52502,23027,25260,58244,18663,37999,56716,48362,27203,5823,53493,1203,5696,32932,32210,61653,12189,63447,5935,27788,12888,5743,10763,49254,41263,7960,26196,9877,21958,15117,27163,8948,11420,12536,61320,27038,61471,20987,258,10031,61419,35283,54694,46842,57362,27659,2292,54279,3656,18769,21835,1822,35894,19635,26270,56158,44723,18865,16790,61834,36121,33435,27929,21678,55247,38190,47362,48778,25058,40810,44184,32710,40362,21974,56461,53213,12783,14936,20528,41989,44799,15064,34173,13885,24362,65203,9788,29199,29781,36949,36678,8302,28754,4502,33755,6712,5875,58218,16954,12475,41472,25831,63799,25411,32431,7112,16023,64210,58998,24050,9261,63398,57226,34506,24872,36452,4367,55647,15167,37671" treeVersion="3_15" classId="3">
+		<Spec ascendClassId="2" masteryEffects="" nodes="25260,39841,1346,7444,47873,54447,3537,52502,23027,36452,27659,37999,56716,48362,27203,41472,12888,5743,5696,63398,61653,12189,63447,53493,46842,18663,2292,10763,49254,41263,32932,8948,9877,21958,58998,27163,26196,11420,12536,61320,32210,61471,57226,258,10031,61419,35283,54694,27788,57362,5935,20987,54279,3656,16790,21835,44184,35894,19635,40362,56158,44723,18865,18769,61834,16954,53213,33755,21678,55247,38190,47362,48778,25058,5875,1822,32710,26270,21974,6712,33435,12783,27929,20528,41989,44799,15064,34173,13885,24362,65203,9788,29199,29781,36949,36678,8302,28754,58218,14936,56461,40810,4502,36121,12475,1203,25831,63799,25411,32431,7112,16023,15117,58244,24050,9261,27038,64210,34506,24872,15167,4367,55647,5823,37671" treeVersion="3_15" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCfJuhBUIdFLsBDdHNFlnzYqzjhEjnlG_djLzqakMWv9D1BLMWQICkfdLw1S-d99cXL2yMMlgWbyoLwGahLx8YZlQmlVXGOw1qGyL0LJww-O-IaZ7wH1H7AQInL-_ridPVprb64BJsCwj01AcOSElRVUsHHow2TLNmntterrNJsUGW8YqNGYKbbRlUrtfPlS65Ar6KYeKfaqyYf8adqlXW3I3P3THvOlhQMKQFrv862IV9Nj1fKv6zJjxyD3RVkFWPRiBucFIRloPbGjgW8-NqQjowu6IAZOf5N2NDfq8byPrS5nZd8iQt96bfiobKYSiOZBEP2V87P5MnAAA=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCe2Ksm6EFQh0UuwEN0c0WWfOOZGwLlG_djLzqakOiADJYFm8WQPem8NUvnffX0PW2-kjnCPQqC8BmoS-ApCL0JpVVxuZ2ahtmVCycMPjviH3S8B_figECJy_v64nT1aZsjOASFy9R-9QHDkhBllVLrJiMNkyznarbXq6zSbFJUfGKQjrP3YPbVK7Xz5UuuQK-imHiFvMHHn_GZp5V1ho4gpsx720ZUDCkBa7_OtiFfTY9Xyr-syY8cg90VZBVj0YgbnBS42o6WNyNn2oRlo0ZMLsEs2Tn-TdjQ36vG8g7DeOEXfIkLWme-tKGymEoOz8RD9lfFr-TJwAA
 			</URL>
-			<Sockets>
-				<Socket nodeId="36634" itemId="1"/>
-				<Socket nodeId="7960" itemId="1"/>
-			</Sockets>
+			<Sockets/>
 		</Spec>
-		<Spec ascendClassId="2" masteryEffects="{10495,64875},{53188,64642},{16123,61534},{58816,64063},{52462,59936},{25281,64381},{34723,14100},{12125,47642},{47197,34383}" nodes="7388,40644,2292,3537,15167,36634,49308,56716,48362,16123,57197,58244,46842,36452,19595,49254,9877,8948,61320,21575,61419,41263,52462,21835,35894,47197,56158,44723,1346,14057,16954,34098,21678,55247,48778,56461,33435,41989,12783,24362,4397,13009,53188,36678,25058,6359,25281,44908,32431,7112,24050,15117,34506,24872,4367,55647,60398,37671,7444,5743,57226,27203,41472,42760,12189,27659,5935,12888,12125,10495,32932,50862,21958,19501,11420,20546,61471,15405,258,54694,57362,46340,54279,31875,19635,18865,26866,61834,36121,5456,5875,44184,53213,14936,44799,9386,33631,3167,29781,5823,42686,8302,21974,54447,32210,47873,9788,25411,37114,21413,34723,25831,63799,61259,64210,20528,16023,1767,27929,17735,9261,63398,58816,21301,2913,1203,42804,58218,56029,33755" treeVersion="3_16" classId="3">
+		<Spec ascendClassId="2" masteryEffects="{10495,64875},{53188,64642},{16123,61534},{58816,64063},{52462,59936},{25281,64381},{34723,14100},{12125,47642},{47197,34383}" nodes="7388,40644,2292,3537,15167,49308,56716,48362,16123,57197,58244,46842,36452,19595,49254,9877,8948,61320,21575,61419,41263,52462,21835,35894,47197,56158,44723,1346,14057,16954,34098,21678,55247,48778,56461,33435,41989,12783,24362,4397,13009,53188,36678,58218,6359,25281,44908,32431,7112,24050,15117,34506,24872,4367,55647,60398,37671,7444,5743,57226,27203,5823,42760,12189,27659,5935,12888,12125,10495,32932,50862,21958,19501,11420,20546,61471,15405,258,54694,57362,46340,54279,31875,19635,18865,26866,61834,36121,5456,5875,44184,53213,33755,44799,9386,33631,3167,29781,42686,58816,8302,21974,54447,32210,14936,9788,25411,37114,21413,34723,25831,63799,61259,25058,20528,16023,47873,27929,17735,9261,63398,41472,21301,2913,1203,42804,64210,56029,1767" treeVersion="3_16" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCgBzcnsQI9A3ROz-PGsCc3Yy86j77323jhLb6jmRMi8BmJpUi9O-IVEfv66EvzO5VS4w2uF3bXq6zBUI26UI6hTJUrtfPvorcjYKbpAUx718qES0y0c_Ej0Zh4hjXYsGvbH6vG8hd8jsNhsphKBEP2V_r7pMnHRQWb9-KakOiAKcIL51sCxcvMlgvXSj_gKTGrlXGTC0snFBC8B88LQEC1abgErUE1Ad8g0yzSbFo8vGKjRkVUBbzrJjP3TpYrv8kqoNfDF90VRa_pr4gblXWfdK7ASY8Y0OQ-lOlh6Nk5_k370v60lAwBudtGUVHJC33puXAUzULYQSzpzTjatrdg9sACfBePvvqIMzuhk-4XfyCz8T7fWLBuhovXf1rKP83FIej-j_lwA==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCfxzcnsQI9A3ROz_AnN2MvOo--99t44S2-o5kTIvAZiaVIvTviFRH7-uhL8zuVUuMNrhd216uswVCNulCOoUyVK7Xz76K3I2Cm6QFMe9fKhEtMtHPxI9G42oY12LBr2x-rxvIXfI7DYbKYSgRD9lf6-6TJx0UFm_fimpDFr-nCC-dbAsXLzJYL10o_4Ckxq5VxkwtLJxQQvAfPC0BAtWm4BK1BNQHfINMs0mxaPLxio0ZFVAW86yYz92D267_JKqDXwxfdFWmvuXAIG5V1n3SOlgmPGNDkPpTpYejZOf5N-9LYeJQMLsBbRlFRyQt96aiAFM1C2EEs6c0-tLa3QbnAAnwXj776iDM7oZPuF38gs_E-31iwboaL139ayj_-j_lwDcUh6M=
 			</URL>
 			<Sockets>
 				<Socket nodeId="61419" itemId="11"/>
-				<Socket nodeId="7960" itemId="1"/>
-				<Socket nodeId="36634" itemId="1"/>
 				<Socket nodeId="61834" itemId="12"/>
 				<Socket nodeId="33631" itemId="15"/>
 				<Socket nodeId="41263" itemId="3"/>
 			</Sockets>
 		</Spec>
-		<Spec ascendClassId="2" masteryEffects="{10495,64875},{53188,64642},{16123,61534},{34723,14100},{25281,64381},{12125,47642},{58816,64063}" nodes="58556,40644,7444,54447,3537,15167,23027,49308,47873,56716,48362,27203,41472,58244,16123,36452,57197,58816,42760,12189,27659,5935,46842,12888,19595,12125,49254,10495,32932,57226,25831,1767,21301,2292,8948,11420,12536,61320,15117,61471,42686,258,60472,61419,41263,54694,1203,57362,63398,16023,54279,63447,5743,42804,63799,35894,19635,34723,56158,44723,1346,14057,61834,16954,34171,5456,21678,55247,18865,34173,48778,56461,5875,44184,26196,26270,33755,6712,53213,15064,27929,58218,41989,44799,12783,9386,36949,24362,8302,9788,20528,29781,53188,36678,27575,21974,64210,14936,33435,36121,26866,37114,20546,19501,25281,10031,25411,32431,7112,44202,21575,61259,24050,9261,32210,21958,34506,24872,39841,4367,55647,56029,37671" treeVersion="3_17" classId="3">
+		<Spec ascendClassId="2" masteryEffects="{10495,64875},{53188,64642},{16123,61534},{34723,14100},{25281,64381},{12125,47642},{58816,64063}" nodes="58556,40644,7444,54447,3537,15167,23027,49308,47873,56716,48362,27203,41472,58244,16123,36452,57197,39841,42760,12189,27659,5935,46842,12888,19595,12125,49254,10495,32932,21575,61259,1767,21301,1203,8948,11420,12536,61320,63398,61471,15117,258,2292,61419,41263,54694,14936,57362,60472,16023,54279,57226,5743,42804,63799,35894,19635,34723,56158,44723,1346,14057,61834,16954,58816,5456,21678,55247,34171,18865,48778,12783,5875,44184,6712,26270,34173,56461,33435,26196,33755,58218,41989,44799,15064,9386,36949,24362,8302,9788,20528,29781,53188,36678,27575,21974,64210,27929,53213,36121,26866,37114,20546,19501,25281,10031,25411,32431,7112,44202,21958,42686,24050,9261,32210,63447,34506,24872,25831,4367,55647,56029,37671" treeVersion="3_17" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCeeS8nsQdFA3ROz9Z88CcuwHdjLzqakOiAOOEPvuOZN9t5cCnCC-dbAsXL7b6MlhMiy9dwGYo_4Ck34pk5wbnUzUI9CL0LJww-O-IOw3wH6a-AQLsOO_roS_VpgSz4BL3ptQH99cWb6c0-TeMNkyzh6PbXq6zBUI26fGKQjqFexVQVK7Xz0mxhX2-ityNFvOsmGZUZp6D2xo4z9062G0Z42qkBa7_Me8kqpBVXyogbiY8UDB0Vc_Ej0Zrt1XW-tI6WIKbjRlo8pD6UEJMLWLBJy9jQ36vG8isqlRH70td8iQtfdJVxobKYSiboREP2V_a3ZMnAAfwXj77-j_lwLoaL139ayj_NxSHo_yCz8T7fWLB
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCeeS8nsQdFA3ROz9Z88CcuwHdjLzqakOiAOOEPvuOZN9tm6GnCC-dbAsXL7b6MlhMiy9dwGYo_4CkVEfvSwbnUzUEsyL0LJww-O-I96bwHzsNAQII9O_roS_VpjpY4BLsONQH34oWb6c0-TeMNkyzh6PbXq6zBUI26fGKQjrlwBVQVK7Xz4V7SbG-ijHvFvOsmBo4Zp6FfdyNgptmVIPb42qkBa7_OtgkqpBVXyogbiY8UDB0Vc_Ej0Zrt1XW-tJtGc_djRlo8pD6UEJMLWLBJy9jQ36vG8isqlXGpr5d8iQtfdL314bKYShk5xEP2V_a3ZMnAAfwXj77uhovXf1rKP83FIej-j_lwPyCz8T7fWLB
 			</URL>
 			<Sockets>
 				<Socket nodeId="61419" itemId="11"/>
-				<Socket nodeId="7960" itemId="1"/>
 				<Socket nodeId="36634" itemId="15"/>
 				<Socket nodeId="61834" itemId="12"/>
 				<Socket nodeId="33631" itemId="15"/>
@@ -243,13 +231,12 @@
 				<Socket nodeId="26196" itemId="3"/>
 			</Sockets>
 		</Spec>
-		<Spec ascendClassId="2" masteryEffects="{53188,64642},{41415,64381},{16123,61534},{58816,64063},{52462,59936},{5230,28589},{34723,14100},{12125,47642},{44298,30502}" nodes="7388,54447,15167,23027,36634,56716,48362,16123,57197,34171,41251,53493,46842,36452,19595,49254,15073,26196,44298,61419,37569,13164,1203,56158,44723,1346,14057,16954,17821,36542,6712,33435,12783,57264,24362,4397,13009,53188,41415,27575,64210,6359,34723,44908,32431,44202,4977,15117,19939,34506,22702,62021,55647,60398,58556,47873,58816,60472,27203,41472,5230,13714,42760,5935,34173,12125,32932,50862,21958,46910,19501,11420,12536,61471,15405,258,29061,54694,57362,55993,21413,31875,55485,19635,53957,26866,36121,44184,14936,44799,15064,9386,63398,33631,3167,4367,24872,29781,46340,2292,8302,21974,5743,12888,10031,65034,16790,37114,58218,20528,25831,21330,61259,36949,36678,16023,33755,56461,17735,9261,33740,24229,54279,39648,2913,52462,7444,56029,65167" treeVersion="3_18" classId="3">
+		<Spec ascendClassId="2" masteryEffects="{53188,64642},{41415,64381},{16123,61534},{58816,64063},{52462,59936},{5230,28589},{34723,14100},{12125,47642},{44298,30502}" nodes="7388,54447,15167,23027,36634,56716,48362,16123,57197,34171,41251,53493,46842,36452,19595,49254,15073,26196,44298,61419,37569,13164,1203,56158,44723,1346,14057,16954,17821,36542,6712,33435,12783,57264,24362,4397,13009,53188,41415,27575,64210,6359,34723,44908,32431,44202,4977,15117,19939,34506,22702,62021,55647,60398,58556,47873,58816,60472,27203,41472,5230,13714,65167,5935,34173,12125,32932,50862,21958,46910,19501,11420,12536,61471,15405,258,29061,54694,57362,55993,21413,31875,55485,19635,53957,26866,36121,24229,14936,44799,15064,9386,7444,33631,3167,4367,24872,29781,46340,2292,8302,21974,5743,12888,10031,44184,16790,37114,58218,20528,25831,21330,61259,36949,42760,16023,33755,56461,17735,9261,63398,33740,54279,65034,39648,2913,52462,56029,36678" treeVersion="3_18" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCfxzcOz9Z848a3Yy86j77322Fe6Ej0PW2-o5kTIvAZjrhZlStCu_rksEzbASz216uswVCNulCOkWdjr4aOIKbMe_fsF8qES0y0c_Eocdrt_rSGNeHo69sfq-sqhNxOw1N44bKWK7yRdlf6-7kvLsB5cDsOGpDogAUbjWSpwgXL4V9L12ApMauVca3PkwtLJww-PAfPC0BAnGF1abgEtq5U6V8g9i9TLPSxWjyjRmsmDpYrv862CSq96aDXwxfEQ9hKHRVtQQI9CBuVdYWbzJYJy_-CkGWkPrjalAwZOdTUu9LkFWPRoPb3I1FRyQtg8xepdQHmuALYczuHRTa3f6PAAnwXj77dyatCvyCz8T7faHHNxSHo_o_5cBvrRRuuhovXeogzO4=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCfxzcOz9Z848a3Yy86j77322Fe6Ej0PW2-o5kTIvAZjrhZlStCu_rksEzbASz216uswVCNulCOkWdjr4aOIKbMe_fsF8qES0y0c_Eocdrt_rSGNeHo69sfq-sqhNxOw1N44bKWK7yRdlf6-7kvLsB5cDsOGpDogAUbjWS_o8XL4V9L12ApMauVca3PkwtLJww-PAfPC0BAnGF1abgEtq5U6V8g9i9TLPSxWjyjRlepTpYrv862CSqHRSDXwxfEQ9hKHRVtQQI9CBuVdYWbzJYJy-smEGWkPrjalAwZOdTUu9LkFWnCIPb3I1FRyQt96aDzNQH_gqa4AthzO7a3Y9GAAnwXj77dyatCvyCz8T7faHHNxSHo_o_5cBvrRRuuhovXeogzO4=
 			</URL>
 			<Sockets>
 				<Socket nodeId="61419" itemId="11"/>
-				<Socket nodeId="7960" itemId="1"/>
 				<Socket nodeId="36634" itemId="11"/>
 				<Socket nodeId="61834" itemId="12"/>
 				<Socket nodeId="33631" itemId="12"/>
@@ -257,142 +244,25 @@
 				<Socket nodeId="26196" itemId="15"/>
 			</Sockets>
 		</Spec>
-		<Spec ascendClassId="2" masteryEffects="{53188,64642},{41415,64381},{16123,61534},{58816,64063},{52462,59936},{5230,28589},{34723,14100},{12125,47642},{44298,30502}" nodes="7388,54447,15167,23027,36634,56716,48362,16123,57197,34171,41251,53493,46842,36452,19595,49254,15073,26196,44298,61419,37569,13164,1203,56158,44723,1346,14057,16954,17821,36542,6712,33435,12783,57264,24362,4397,13009,53188,20528,27575,64210,6359,34723,44908,32431,44202,4977,15117,19939,34506,22702,62021,55647,60398,58556,7444,58816,60472,27203,41472,5230,13714,42760,5935,34173,12125,32932,50862,21958,46910,19501,11420,12536,61471,15405,258,29061,54694,57362,55993,21413,31875,55485,19635,53957,26866,36121,65034,14936,44799,15064,9386,47873,33631,3167,4367,24872,29781,46340,2292,8302,21974,5743,12888,10031,24229,16790,37114,58218,36678,25831,21330,61259,36949,65167,16023,33755,56461,17735,9261,33740,44184,54279,41415,39648,2913,52462,56029,63398" treeVersion="3_19" classId="3">
+		<Spec ascendClassId="2" masteryEffects="{53188,64642},{41415,64381},{16123,61534},{58816,64063},{52462,59936},{5230,28589},{34723,14100},{12125,47642},{44298,30502}" nodes="7388,54447,15167,23027,36634,56716,48362,16123,57197,34171,41251,53493,46842,36452,19595,49254,15073,26196,44298,61419,37569,13164,52462,56158,44723,1346,39648,16954,17821,36542,56461,33435,12783,57264,24362,4397,13009,36949,20528,27575,58218,6359,34723,44908,32431,44202,4977,15117,19939,34506,24872,4367,55647,60398,58556,47873,5743,60472,27203,41472,5230,13714,65167,5935,12888,12125,32932,50862,21958,46910,19501,11420,12536,61471,15405,258,29061,54694,57362,55993,54279,2913,55485,19635,53957,16790,36121,65034,33755,44799,15064,9386,36678,33631,3167,62021,22702,29781,2292,46340,8302,21974,58816,34173,10031,24229,26866,37114,64210,41415,25831,21330,61259,53188,7444,16023,14936,6712,17735,9261,33740,44184,21413,14057,31875,1203,42760,56029,63398" treeVersion="3_19" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCfxzcOz9Z848a3Yy86j77322Fe6Ej0PW2-o5kTIvAZjrhZlStCu_rksEzbASz216uswVCNulCOkWdjr4aOIKbMe_fsF8qES0y0c_EUDBrt_rSGNeHo69sfq-sqhNxOw1N44bKWK7yRdlf6-7kvB0U5cDsOGpDogAUbjWSpwgXL4V9L12ApMauVca3PkwtLJww-PAfPC0BAnGF1abgEtq5U6V8g9i9TLPSxWjyjRn-CjpYrv862CSquwGDXwxfEQ9hKHRVtQQI9CBuVdYWbzJYJy9epUGWkPrjao9GZOdTUu9LkFX-j4Pb3I1FRyQtg8ysmNQHocea4AthzO7a3femAAnwXj77dyatCvyCz8Q3FIej-j_lwG-tFG66Gi9d-32hx-ogzO4=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCfxzcOz9Z848a3Yy86j77322Fe6Ej0PW2-o5kTIvAZjrhZlStCu_rksEzbMzu216uswVCmuBCOkWdjr7cjYKbMe_fsF8qES0y0ZBVUDBrt-NqGNeHo69sfq-sqhNxOw1N44bKYSgRD9lf6-7kvLsBFm_sOGpDogAUbjWS_o8XLzJYL12ApMauVca3PkwtLJww-PAfPC0BAnGF1abgEtq51AcLYdi9TLPSxUGWjRn-CoPbrv862CSqj0aDXwxf8kVYrnRVCPS1BCBuVdblwIV9Jy9epWjykPr60qHHZOdTUu9Lz8QdFDpYGjhFRyQtg8ysmFOlNul8gwSzpwja3femAAnwXj77dyatCuogzO43FIejb60UbroaL136P-XA-32hx_yCz8Q=
 			</URL>
 			<Sockets>
 				<Socket nodeId="61834" itemId="12"/>
 				<Socket nodeId="36634" itemId="11"/>
-				<Socket nodeId="7960" itemId="1"/>
 				<Socket nodeId="26196" itemId="15"/>
-				<Socket nodeId="61419" itemId="11"/>
+				<Socket nodeId="61419" itemId="12"/>
 				<Socket nodeId="41263" itemId="3"/>
-				<Socket nodeId="33631" itemId="12"/>
+				<Socket nodeId="33631" itemId="3"/>
 			</Sockets>
 		</Spec>
 	</Tree>
 	<Notes>
-		Pasted from 
-https://pobb.in/2EYMYHKKvHfU
-
-Omnipotent Arc Elementalist Build Guide - Strike Your Enemies with Lightning (PoE Lake of Kalandra 3.19) 
-https://www.poe-vault.com/guides/arc-elementalist-build-guide
+		
 	</Notes>
-	<TreeView searchStr="" zoomY="539.66608850409" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="128.10682820414"/>
+	<TreeView searchStr="" zoomY="263.45263765437" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="14.28819990434"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
-		<Item variant="1" id="1">
-			Rarity: UNIQUE
-Glorious Vanity
-Timeless Jewel
-League: Legion
-Variant: Doryani
-Variant: Xibaqua
-Variant: Zerphi
-Variant: Ahuana
-Selected Variant: 1
-Timeless Jewel
-LevelReq: 20
-Radius: Large
-Limited to: 1
-Implicits: 0
-{variant:1}{range:0.5}Bathed in the blood of (100-8000) sacrificed in the name of Doryani
-{variant:2}{range:0.5}Bathed in the blood of (100-8000) sacrificed in the name of Xibaqua
-{variant:3}{range:0.5}Bathed in the blood of (100-8000) sacrificed in the name of Zerphi
-{variant:4}{range:0.5}Bathed in the blood of (100-8000) sacrificed in the name of Ahuana
-Passives in radius are Conquered by the Vaal
-Historic
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
-		</Item>
-		<Item id="4">
-			Rarity: RARE
-Ring
-Vermillion Ring
-Elder Item
-Crafted: true
-Prefix: {range:0.521}IncreasedLife7
-Prefix: {range:0.627}IncreasedMana12
-Prefix: None
-Suffix: None
-Suffix: None
-Suffix: {range:0.028}ManaRegeneration6
-Catalyst: Fertile
-CatalystQuality: 20
-LevelReq: 80
-Implicits: 1
-{range:1}(5-7)% increased maximum Life
-+90 to maximum Life
-+86 to maximum Mana
-72% increased Mana Regeneration Rate
-{tags:elemental,resistance}{crafted}{range:1}+(9-12)% to all Elemental Resistances
-			<ModRange range="1" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="1" id="5"/>
-		</Item>
-		<Item id="5">
-			Rarity: RARE
-Awakened Helmet
-Hubris Circlet
-Energy Shield: 110
-EnergyShieldBasePercentile: 0.97
-Shaper Item
-Warlord Item
-Crafted: true
-Prefix: {range:1}SpellAddedLightningDamageUber3
-Prefix: {range:0.5}MaximumPowerChargeInfluence1
-Prefix: None
-Suffix: None
-Suffix: None
-Suffix: None
-CatalystQuality: 20
-Quality: 20
-Sockets: B-B-B-B
-LevelReq: 69
-Implicits: 1
-{crafted}Arc Chains an additional time
-Adds 7 to 93 Lightning Damage to Spells
-+1 to Maximum Power Charges
-{crafted}Can have up to 3 Crafted Modifiers
-{tags:elemental,cold,chaos,resistance}{crafted}{range:1}+(13-15)% to Cold and Chaos Resistances
-{tags:resource,life}{crafted}{range:0.78}+(56-70) to maximum Life
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="1" id="5"/>
-			<ModRange range="0.78" id="6"/>
-		</Item>
-		<Item id="6">
-			Rarity: RARE
-Awakened Body
-Vaal Regalia
-Energy Shield: 236
-EnergyShieldBasePercentile: 0.99
-Hunter Item
-Redeemer Item
-Crafted: true
-Prefix: {range:0.574}IncreasedLife10
-Prefix: None
-Prefix: None
-Suffix: {range:0.5}FrenzyChargeOnHitChanceInfluence1
-Suffix: {range:1}AdditionalCritWithSpellsInfluence1
-Suffix: None
-Quality: 20
-Sockets: B-B-B-B-B-B
-LevelReq: 68
-Implicits: 0
-+105 to maximum Life
-10% chance to gain a Frenzy Charge on Hit
-+1.5% to Spell Critical Strike Chance
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="3"/>
-		</Item>
 		<Item id="7">
 			Rarity: RARE
 Example Boots
@@ -451,35 +321,6 @@ Cannot be Stunned by Spells if your other Ring is a Shaper Item
 			<ModRange range="0.866" id="5"/>
 			<ModRange range="0.5" id="7"/>
 		</Item>
-		<Item id="10">
-			Rarity: RARE
-Expensive Wand
-Prophecy Wand
-Crafted: true
-Prefix: {range:0.725}SpellDamageOnWeapon7
-Prefix: {range:0.504}WeaponLightningAddedAsChaos1h3_
-Prefix: {range:0.5}GlobalLightningSpellGemsLevel1
-Suffix: None
-Suffix: {range:0.049}LocalCriticalMultiplier6
-Suffix: None
-CatalystQuality: 20
-Quality: 20
-Sockets: B-B-B
-LevelReq: 68
-Implicits: 1
-{range:1}(36-40)% increased Spell Damage
-95% increased Spell Damage
-+35% to Global Critical Strike Multiplier
-+1 to Level of all Lightning Spell Skill Gems
-Gain 12% of Lightning Damage as Extra Chaos Damage
-{tags:skill,unveiled_mod,caster,gem}{crafted}Trigger a Socketed Spell when you Use a Skill, with a 8 second Cooldown and 150% more Cost
-			<ModRange range="1" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
-		</Item>
 		<Item id="13">
 			Rarity: MAGIC
 Apprentice&apos;s Diamond Flask of the Owl
@@ -514,83 +355,6 @@ Removes Bleeding on use
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
 		</Item>
-		<Item id="17">
-			Rarity: RARE
-Starter Wand
-Prophecy Wand
-Crafted: true
-Prefix: {range:0.894}SpellDamageOnWeapon3
-Prefix: None
-Prefix: {range:0.5}GlobalLightningSpellGemsLevel1
-Suffix: None
-Suffix: None
-Suffix: None
-Quality: 20
-Sockets: B-B-B
-LevelReq: 68
-Implicits: 1
-{range:1}(36-40)% increased Spell Damage
-38% increased Spell Damage
-+1 to Level of all Lightning Spell Skill Gems
-{crafted}Trigger a Socketed Spell when you Use a Skill
-			<ModRange range="1" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-		</Item>
-		<Item id="19">
-			Rarity: RARE
-Starter Regalia
-Vaal Regalia
-Energy Shield: 236
-EnergyShieldBasePercentile: 0.99
-Redeemer Item
-Crafted: true
-Prefix: {range:0.532}IncreasedLife7
-Prefix: None
-Prefix: None
-Suffix: None
-Suffix: None
-Suffix: {range:0.5}FrenzyChargeOnHitChanceInfluence1
-Quality: 20
-Sockets: B-B-B-B-B-B
-LevelReq: 68
-Implicits: 0
-+75 to maximum Life
-10% chance to gain a Frenzy Charge on Hit
-{tags:energy_shield,defences}{crafted}{range:1}Gain (9-10)% of Maximum Life as Extra Maximum Energy Shield
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="1" id="3"/>
-		</Item>
-		<Item id="21">
-			Rarity: RARE
-Expensive Wand
-Prophecy Wand
-Crafted: true
-Prefix: {range:0.725}SpellDamageOnWeapon7
-Prefix: {range:0.211}SpellAddedColdDamage7
-Prefix: {range:0.5}GlobalLightningSpellGemsLevel1
-Suffix: None
-Suffix: {range:0.049}LocalCriticalMultiplier6
-Suffix: None
-CatalystQuality: 20
-Quality: 20
-Sockets: B-B-B
-LevelReq: 68
-Implicits: 1
-{range:1}(36-40)% increased Spell Damage
-95% increased Spell Damage
-Adds 22 to 42 Cold Damage to Spells
-+35% to Global Critical Strike Multiplier
-+1 to Level of all Lightning Spell Skill Gems
-{crafted}Trigger a Socketed Spell when you Use a Skill
-			<ModRange range="1" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
-		</Item>
 		<Item id="22">
 			Rarity: RARE
 Energy Shield Gloves
@@ -619,35 +383,6 @@ Implicits: 0
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
 		</Item>
-		<Item id="23">
-			Rarity: RARE
-Expensive Wand
-Prophecy Wand
-Crafted: true
-Prefix: {range:0.725}SpellDamageOnWeapon7
-Prefix: {range:0.211}SpellAddedColdDamage7
-Prefix: {range:0.5}GlobalLightningSpellGemsLevel1
-Suffix: None
-Suffix: {range:0.049}LocalCriticalMultiplier6
-Suffix: None
-CatalystQuality: 20
-Quality: 20
-Sockets: B-B-B
-LevelReq: 68
-Implicits: 1
-{range:1}(36-40)% increased Spell Damage
-95% increased Spell Damage
-Adds 22 to 42 Cold Damage to Spells
-+35% to Global Critical Strike Multiplier
-+1 to Level of all Lightning Spell Skill Gems
-{tags:caster,speed}{crafted}{range:0.5}(15-18)% increased Cast Speed
-			<ModRange range="1" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
-		</Item>
 		<Item variant="2" id="25">
 			Rarity: UNIQUE
 Bottled Faith
@@ -673,22 +408,6 @@ Consecrated Ground created by this Flask has Tripled Radius
 			<ModRange range="0.5" id="6"/>
 			<ModRange range="0.5" id="7"/>
 			<ModRange range="0.5" id="8"/>
-		</Item>
-		<Item id="29">
-			Rarity: MAGIC
-Apprentice&apos;s Silver Flask of the Deer
-Crafted: true
-Prefix: {range:0.69}FlaskChargesUsed1
-Suffix: {range:0.5}FlaskFreezeAndChillImmunityDuringEffect
-Quality: 20
-LevelReq: 40
-Implicits: 0
-15% reduced Charges per use
-47% less Duration
-Immunity to Freeze and Chill during Flask Effect
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
 		</Item>
 		<Item id="30">
 			Rarity: MAGIC
@@ -724,32 +443,6 @@ Implicits: 1
 Transfiguration of Soul
 Transfiguration of Body
 Transfiguration of Mind
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
-		</Item>
-		<Item id="32">
-			Rarity: UNIQUE
-Option 2 Crown of the Inward Eye
-Prophet Crown
-Armour: 1169
-ArmourBasePercentile: 1
-Energy Shield: 168
-EnergyShieldBasePercentile: 1
-Quality: 20
-Sockets: R-R-R-R
-LevelReq: 63
-Implicits: 1
-{tags:power_charge}+1 to Maximum Power Charges
-333% increased Armour and Energy Shield
-{range:0.5}(9-21)% increased maximum Life, Mana and Global Energy Shield
-Transfiguration of Soul
-Transfiguration of Body
-Transfiguration of Mind
-Corrupted
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="0.5" id="3"/>
@@ -1043,79 +736,6 @@ Implicits: 2
 			<Slot name="Weapon 2Swap Abyssal Socket 5" itemId="0"/>
 			<Slot name="Amulet" itemId="28"/>
 		</ItemSet>
-		<ItemSet useSecondWeaponSet="false" title="Starter Set" id="3">
-			<Slot name="Weapon 1Swap Abyssal Socket 5" itemId="0"/>
-			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
-			<Slot name="Weapon 1" itemId="17"/>
-			<Slot name="Boots Abyssal Socket 5" itemId="0"/>
-			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
-			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
-			<Slot active="true" name="Flask 3" itemId="0"/>
-			<Slot name="Weapon 2Swap Abyssal Socket 3" itemId="0"/>
-			<Slot name="Weapon 1 Abyssal Socket 5" itemId="0"/>
-			<Slot name="Weapon 2 Abyssal Socket 5" itemId="0"/>
-			<Slot name="Weapon 2 Abyssal Socket 4" itemId="0"/>
-			<Slot name="Weapon 1 Abyssal Socket 6" itemId="0"/>
-			<Slot name="Weapon 2 Abyssal Socket 6" itemId="0"/>
-			<Slot name="Weapon 2Swap Abyssal Socket 1" itemId="0"/>
-			<Slot name="Boots Abyssal Socket 3" itemId="0"/>
-			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
-			<Slot name="Belt Abyssal Socket 6" itemId="0"/>
-			<Slot name="Helmet Abyssal Socket 2" itemId="0"/>
-			<Slot name="Gloves" itemId="0"/>
-			<Slot name="Helmet Abyssal Socket 3" itemId="0"/>
-			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
-			<Slot name="Helmet Abyssal Socket 4" itemId="0"/>
-			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
-			<Slot name="Weapon 1 Abyssal Socket 4" itemId="0"/>
-			<Slot name="Belt" itemId="0"/>
-			<Slot name="Gloves Abyssal Socket 4" itemId="0"/>
-			<Slot name="Boots Abyssal Socket 4" itemId="0"/>
-			<Slot name="Weapon 2 Abyssal Socket 2" itemId="0"/>
-			<Slot active="true" name="Flask 5" itemId="13"/>
-			<Slot name="Boots Abyssal Socket 2" itemId="0"/>
-			<Slot name="Belt Abyssal Socket 3" itemId="0"/>
-			<Slot name="Body Armour Abyssal Socket 1" itemId="0"/>
-			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
-			<Slot name="Helmet Abyssal Socket 5" itemId="0"/>
-			<Slot name="Helmet Abyssal Socket 6" itemId="0"/>
-			<Slot name="Helmet" itemId="0"/>
-			<Slot active="true" name="Flask 1" itemId="0"/>
-			<Slot name="Gloves Abyssal Socket 5" itemId="0"/>
-			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
-			<Slot name="Boots Abyssal Socket 6" itemId="0"/>
-			<Slot name="Weapon 1 Abyssal Socket 3" itemId="0"/>
-			<Slot name="Weapon 2 Abyssal Socket 3" itemId="0"/>
-			<Slot name="Belt Abyssal Socket 4" itemId="0"/>
-			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
-			<Slot name="Belt Abyssal Socket 1" itemId="0"/>
-			<Slot name="Body Armour Abyssal Socket 3" itemId="0"/>
-			<Slot active="true" name="Flask 4" itemId="14"/>
-			<Slot active="true" name="Flask 2" itemId="0"/>
-			<Slot name="Belt Abyssal Socket 5" itemId="0"/>
-			<Slot name="Weapon 1Swap Abyssal Socket 3" itemId="0"/>
-			<Slot name="Weapon 2" itemId="17"/>
-			<Slot name="Weapon 2Swap Abyssal Socket 6" itemId="0"/>
-			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
-			<Slot name="Body Armour Abyssal Socket 4" itemId="0"/>
-			<Slot name="Weapon 2Swap Abyssal Socket 4" itemId="0"/>
-			<Slot name="Weapon 2 Swap" itemId="0"/>
-			<Slot name="Weapon 1 Swap" itemId="0"/>
-			<Slot name="Weapon 1Swap Abyssal Socket 6" itemId="0"/>
-			<Slot name="Ring 2" itemId="9"/>
-			<Slot name="Gloves Abyssal Socket 2" itemId="0"/>
-			<Slot name="Body Armour Abyssal Socket 6" itemId="0"/>
-			<Slot name="Weapon 1 Abyssal Socket 1" itemId="0"/>
-			<Slot name="Body Armour" itemId="19"/>
-			<Slot name="Gloves Abyssal Socket 3" itemId="0"/>
-			<Slot name="Ring 1" itemId="4"/>
-			<Slot name="Weapon 1Swap Abyssal Socket 4" itemId="0"/>
-			<Slot name="Body Armour Abyssal Socket 5" itemId="0"/>
-			<Slot name="Gloves Abyssal Socket 6" itemId="0"/>
-			<Slot name="Boots" itemId="7"/>
-			<Slot name="Weapon 2Swap Abyssal Socket 5" itemId="0"/>
-			<Slot name="Amulet" itemId="0"/>
-		</ItemSet>
 	</Items>
 	<Config>
 		<Input name="conditionLeeching" boolean="true"/>
@@ -1132,10 +752,10 @@ Implicits: 2
 		<Input name="buffVaalArcLuckyHits" boolean="true"/>
 		<Input name="conditionGainedPowerChargeRecently" boolean="true"/>
 		<Input name="multiplierManaSpentRecently" number="450"/>
-		<Input name="conditionEnemyOnConsecratedGround" boolean="true"/>
-		<Input name="usePowerCharges" boolean="true"/>
-		<Input name="pantheonMinorGod" string="Yugul"/>
 		<Input name="waveOfConvictionExposureType" string="Lightning"/>
+		<Input name="conditionEnemyOnConsecratedGround" boolean="true"/>
+		<Input name="pantheonMinorGod" string="Yugul"/>
+		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="conditionEnemyInChillingArea" boolean="true"/>
 		<Input name="aspectOfTheSpiderWebStacks" number="3"/>
 		<Placeholder name="enemySpeed" number="700"/>
