@@ -145,51 +145,51 @@
 	<Skills sortGemsByDPSField="CombinedDPS" matchGemLevelToCharacterLevel="false" activeSkillSet="1" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="20" showSupportGemTypes="ALL" showAltQualityGems="false">
 		<SkillSet id="1">
 			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" enabled="true" slot="Helmet" mainActiveSkill="1">
-				<Gem enableGlobal2="nil" level="14" enableGlobal1="true" skillId="ExplosiveConcoction" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemExplosiveConcoction" quality="0" enabled="true" skillPartCalcs="1" count="9" nameSpec="Explosive Concoction"/>
-				<Gem enableGlobal2="nil" level="13" enableGlobal1="true" skillId="SupportGreaterMultipleProjectiles" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles" quality="0" enabled="true" count="nil" nameSpec="Greater Multiple Projectiles"/>
-				<Gem enableGlobal2="nil" level="13" enableGlobal1="true" skillId="SupportGreaterVolley" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemGreaterVolley" quality="0" enabled="true" count="nil" nameSpec="Greater Volley"/>
-				<Gem enableGlobal2="nil" level="16" enableGlobal1="true" skillId="SupportAddedFireDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedFireDamage" quality="3" enabled="true" count="nil" nameSpec="Added Fire Damage"/>
+				<Gem enableGlobal2="false" level="14" enableGlobal1="true" skillId="ExplosiveConcoction" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemExplosiveConcoction" quality="0" enabled="true" skillPartCalcs="1" count="9" nameSpec="Explosive Concoction"/>
+				<Gem enableGlobal2="false" level="13" enableGlobal1="true" skillId="SupportGreaterMultipleProjectiles" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles" quality="0" enabled="true" count="1" nameSpec="Greater Multiple Projectiles"/>
+				<Gem enableGlobal2="false" level="13" enableGlobal1="true" skillId="SupportGreaterVolley" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemGreaterVolley" quality="0" enabled="true" count="1" nameSpec="Greater Volley"/>
+				<Gem enableGlobal2="false" level="16" enableGlobal1="true" skillId="SupportAddedFireDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedFireDamage" quality="3" enabled="true" count="1" nameSpec="Added Fire Damage"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Weapon 2 Swap" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="16" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="nil" nameSpec="Precision"/>
-				<Gem enableGlobal2="nil" level="16" enableGlobal1="true" skillId="SupportOnslaught" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemOnslaught" quality="0" enabled="true" count="nil" nameSpec="Onslaught"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Weapon 2 Swap" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="16" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="1" nameSpec="Precision"/>
+				<Gem enableGlobal2="false" level="16" enableGlobal1="true" skillId="SupportOnslaught" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemOnslaught" quality="0" enabled="true" count="1" nameSpec="Onslaught"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="true" label="" enabled="true" slot="Gloves" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" level="15" enableGlobal1="true" skillId="SummonFireGolem" skillMinionSkill="1" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemSummonFlameGolem" quality="0" enabled="true" count="1" nameSpec="Summon Flame Golem" skillMinion="SummonedFlameGolem"/>
-				<Gem enableGlobal2="nil" level="16" enableGlobal1="true" skillId="Vitality" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemVitality" quality="0" enabled="true" count="nil" nameSpec="Vitality"/>
-				<Gem enableGlobal2="nil" level="14" enableGlobal1="true" skillId="MoltenShell" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemMoltenShell" quality="0" enabled="true" count="nil" nameSpec="Molten Shell"/>
-				<Gem enableGlobal2="nil" level="11" enableGlobal1="true" skillId="FlameDash" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFlameDash" quality="7" enabled="true" count="nil" nameSpec="Flame Dash"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" enabled="true" slot="Gloves" mainActiveSkill="1">
+				<Gem enableGlobal2="false" skillMinionSkillCalcs="1" level="15" enableGlobal1="true" skillId="SummonFireGolem" skillMinionSkill="1" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemSummonFlameGolem" quality="0" enabled="true" count="1" nameSpec="Summon Flame Golem" skillMinion="SummonedFlameGolem"/>
+				<Gem enableGlobal2="false" level="16" enableGlobal1="true" skillId="Vitality" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemVitality" quality="0" enabled="true" count="1" nameSpec="Vitality"/>
+				<Gem enableGlobal2="false" level="14" enableGlobal1="true" skillId="MoltenShell" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemMoltenShell" quality="0" enabled="true" count="1" nameSpec="Molten Shell"/>
+				<Gem enableGlobal2="false" level="11" enableGlobal1="true" skillId="FlameDash" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFlameDash" quality="7" enabled="true" count="1" nameSpec="Flame Dash"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="true" label="" enabled="true" slot="Weapon 2" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="14" enableGlobal1="true" skillId="NewShieldCharge" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemShieldCharge" quality="0" enabled="true" count="1" nameSpec="Shield Charge"/>
-				<Gem enableGlobal2="nil" level="16" enableGlobal1="true" skillId="SupportAddedFireDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedFireDamage" quality="0" enabled="true" count="nil" nameSpec="Added Fire Damage"/>
-				<Gem enableGlobal2="nil" level="11" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="nil" nameSpec="Pulverise"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" enabled="true" slot="Weapon 2" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="14" enableGlobal1="true" skillId="NewShieldCharge" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemShieldCharge" quality="0" enabled="true" count="1" nameSpec="Shield Charge"/>
+				<Gem enableGlobal2="false" level="16" enableGlobal1="true" skillId="SupportAddedFireDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedFireDamage" quality="0" enabled="true" count="1" nameSpec="Added Fire Damage"/>
+				<Gem enableGlobal2="false" level="11" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="1" nameSpec="Pulverise"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Boots" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="16" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="nil" nameSpec="Precision"/>
-				<Gem enableGlobal2="nil" level="4" enableGlobal1="true" skillId="BloodSandStance" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemBloodAndSand" quality="0" enabled="true" count="nil" nameSpec="Blood and Sand"/>
-				<Gem enableGlobal2="nil" level="15" enableGlobal1="true" skillId="HeraldOfAsh" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemHeraldOfAsh" quality="0" enabled="true" count="nil" nameSpec="Herald of Ash"/>
-				<Gem enableGlobal2="nil" level="15" enableGlobal1="true" skillId="DefianceBanner" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemDefianceBanner" quality="0" enabled="true" count="nil" nameSpec="Defiance Banner"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Boots" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="16" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="1" nameSpec="Precision"/>
+				<Gem enableGlobal2="false" level="4" enableGlobal1="true" skillId="BloodSandStance" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemBloodAndSand" quality="0" enabled="true" count="1" nameSpec="Blood and Sand"/>
+				<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="HeraldOfAsh" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemHeraldOfAsh" quality="0" enabled="true" count="1" nameSpec="Herald of Ash"/>
+				<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="DefianceBanner" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemDefianceBanner" quality="0" enabled="true" count="1" nameSpec="Defiance Banner"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Weapon 1 Swap" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="16" enableGlobal1="true" skillId="ImpactingSteel" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemSplittingSteel" quality="0" enabled="true" count="nil" nameSpec="Splitting Steel"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Weapon 1 Swap" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="16" enableGlobal1="true" skillId="ImpactingSteel" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemSplittingSteel" quality="0" enabled="true" count="1" nameSpec="Splitting Steel"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="true" label="" enabled="true" slot="Body Armour" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="16" enableGlobal1="true" skillId="NewShieldCharge" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemShieldCharge" quality="0" enabled="true" count="5" nameSpec="Shield Charge"/>
-				<Gem enableGlobal2="nil" level="15" enableGlobal1="true" skillId="GeneralsCry" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemGeneralsCry" quality="0" enabled="true" count="1" nameSpec="General&apos;s Cry"/>
-				<Gem enableGlobal2="nil" level="16" enableGlobal1="true" skillId="SupportAddedFireDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedFireDamage" quality="0" enabled="true" count="nil" nameSpec="Added Fire Damage"/>
-				<Gem enableGlobal2="nil" level="15" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="nil" nameSpec="Pulverise"/>
-				<Gem enableGlobal2="nil" level="15" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="nil" nameSpec="Melee Physical Damage"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="16" enableGlobal1="true" skillId="NewShieldCharge" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemShieldCharge" quality="0" enabled="true" count="5" nameSpec="Shield Charge"/>
+				<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="GeneralsCry" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemGeneralsCry" quality="0" enabled="true" count="1" nameSpec="General&apos;s Cry"/>
+				<Gem enableGlobal2="false" level="16" enableGlobal1="true" skillId="SupportAddedFireDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedFireDamage" quality="0" enabled="true" count="1" nameSpec="Added Fire Damage"/>
+				<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="1" nameSpec="Pulverise"/>
+				<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="1" nameSpec="Melee Physical Damage"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="true" label="" source="Item:13:Honour Grip, Sapphire Ring" enabled="true" slot="Ring 1" mainActiveSkill="1">
-				<Gem enableGlobal2="nil" level="23" enableGlobal1="true" skillId="Flammability" quality="0" enabled="true" count="nil" nameSpec=""/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" source="Item:13:Honour Grip, Sapphire Ring" enabled="true" slot="Ring 1" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="23" enableGlobal1="true" skillId="Flammability" qualityId="Default" quality="0" enabled="true" count="1" nameSpec="Flammability"/>
 			</Skill>
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="3" masteryEffects="{62015,12916},{25031,23021},{62235,49522},{38436,50228},{59335,37925},{8460,60034}" nodes="13922,49178,14813,52632,23090,12236,44606,36704,31700,28265,50858,50986,15451,30691,20010,25781,14930,31257,62235,24383,50515,38436,61198,5152,30155,50360,11792,20551,26523,2355,48807,47426,36222,60508,24984,43833,62530,34009,1340,62015,54776,39530,8460,49538,61602,53558,49412,31080,49445,17201,59335,17383,19782,56370,55392,28475,4944,60002,53002,58449,22703,57900,35185,24865,14056,34400,224,18025,33940,9171,18703,14767,476,19711,34601,25031,53987,19261,47389,42911,40867,43374" treeVersion="3_19" classId="4">
+		<Spec ascendClassId="3" masteryEffects="{62015,12916},{25031,23021},{62235,49522},{38436,50228},{59335,37925},{8460,60034}" nodes="13922,49178,14813,52632,23090,12236,44606,36704,31700,28265,50858,14767,15451,30691,20010,17201,14930,9171,62530,24383,50515,38436,61198,5152,14056,18703,11792,20551,26523,2355,48807,47426,36222,60508,476,43833,40867,34009,1340,25781,54776,39530,8460,49538,31257,53558,49412,56370,49445,62235,19711,24865,55392,59335,42911,28475,4944,60002,50360,58449,43374,57900,35185,33940,18025,62015,224,61602,34400,53002,50986,24984,30155,19782,34601,25031,53987,19261,47389,31080,22703,17383" treeVersion="3_19" classId="4">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgQDUDZiwBo53c2YWjIvzK4-j2B71G5pxqo8W3fjTipktTpSehnzG18_xVOWJO8OFCB1y8S4LhBQR2ebCTO-p7lCjX7sXKs59EKE2QU88j_V-JpqIQzBgvCi0TbBBHlowSVDMefHQ-dNRtwy2GBvOxNQ6mLPCuRRWK_iLIlxYSE26IZgAOBGaYSUI9NJDzmvAdxM_4cpYcfS40s9uR2nn5-jqW4ABsFy8xvENJYkMnTyP-qCIQyUJefHWe1hxw==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgQDUDZiwBo53c2YWjIvzK4-j2B71G5pxqo5rzxbd-NOKkMxOlIj0_RCXz_FU5Yk7w4UIDboSQ8uEFBHZ5sJM76nuUKNfuxcAdyrOZ-jhNkFPGS11fiaaiEMwYJ6GdE2wQTcMsEl8xtM_2Eh2GDnx6efbzsTUOpixLjkUalu4iyJcYSURmnyPwDg8KKGYM8KdctNRocpYcfS40s9uR15aFivQ-cABsQ0liTqgiEMwXLzG5Ql58cydPI_We1hxw==
 			</URL>
 			<Sockets>
 				<Socket nodeId="28475" itemId="17"/>
@@ -199,21 +199,8 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="-415.02" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="-144.2"/>
+	<TreeView searchStr="" zoomY="-433.02" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="89.8"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
-		<Item id="17">
-			Rarity: UNIQUE
-Warlord&apos;s Reach
-Crimson Jewel
-Unique ID: 056caf2b34b49222123f85bd3a8b902dd4aa64412999e083356a0ae014c3e428
-Item Level: 1
-Limited to: 1
-Implicits: 0
-10% increased Attack Damage
-+2 to Melee Strike Range
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-		</Item>
 		<Item id="1">
 			Rarity: RARE
 Bramble Veil
@@ -539,6 +526,19 @@ Implicits: 0
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
 		</Item>
+		<Item id="17">
+			Rarity: UNIQUE
+Warlord&apos;s Reach
+Crimson Jewel
+Unique ID: 056caf2b34b49222123f85bd3a8b902dd4aa64412999e083356a0ae014c3e428
+Item Level: 1
+Limited to: 1
+Implicits: 0
+10% increased Attack Damage
++2 to Melee Strike Range
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+		</Item>
 		<Slot name="Flask 3" itemId="16"/>
 		<Slot name="Gloves" itemId="7"/>
 		<Slot name="Belt" itemId="15"/>
@@ -632,23 +632,23 @@ Implicits: 0
 	<Config>
 		<Input name="enemyIsBoss" string="Pinnacle"/>
 		<Input name="conditionUsingFlask" boolean="true"/>
-		<Input name="bannerStages" number="50"/>
+		<Input name="buffAdrenaline" boolean="true"/>
 		<Input name="bandit" string="Alira"/>
 		<Input name="conditionEnemyPoisoned" boolean="true"/>
 		<Input name="conditionUsedWarcryRecently" boolean="true"/>
 		<Input name="useFrenzyCharges" boolean="true"/>
-		<Input name="useEnduranceCharges" boolean="true"/>
+		<Input name="buffFortification" boolean="true"/>
 		<Input name="bannerPlanted" boolean="true"/>
-		<Input name="pantheonMajorGod" string="Arakaali"/>
+		<Input name="bannerStages" number="50"/>
+		<Input name="overrideFrenzyCharges" number="3"/>
 		<Input name="multiplierWitheredStackCount" number="15"/>
-		<Input name="buffOnslaught" boolean="true"/>
-		<Input name="buffAdrenaline" boolean="true"/>
+		<Input name="multiplierWarcryUsedRecently" number="10"/>
+		<Input name="pantheonMajorGod" string="Arakaali"/>
 		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="pantheonMinorGod" string="Shakari"/>
-		<Input name="overrideFrenzyCharges" number="3"/>
-		<Input name="multiplierWarcryUsedRecently" number="10"/>
+		<Input name="useEnduranceCharges" boolean="true"/>
 		<Input name="overrideFortification" number="21"/>
-		<Input name="buffFortification" boolean="true"/>
+		<Input name="buffOnslaught" boolean="true"/>
 		<Placeholder name="enemySpeed" number="700"/>
 		<Placeholder name="enemyPhysicalDamage" number="2320"/>
 		<Placeholder name="enemyChaosResist" number="30"/>
