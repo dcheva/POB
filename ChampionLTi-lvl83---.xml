@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="68" targetVersion="3_0" pantheonMajorGod="Arakaali" bandit="Alira" className="Duelist" ascendClassName="Champion" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="Shakari">
-		<PlayerStat stat="AverageDamage" value="2242.526326029"/>
+	<Build level="83" targetVersion="3_0" pantheonMajorGod="Arakaali" bandit="Alira" className="Duelist" ascendClassName="Champion" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="Shakari">
+		<PlayerStat stat="AverageDamage" value="2270.643760704"/>
 		<PlayerStat stat="Speed" value="3"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="16.2"/>
-		<PlayerStat stat="CritChance" value="14.094"/>
+		<PlayerStat stat="CritChance" value="14.256"/>
 		<PlayerStat stat="CritMultiplier" value="1.7"/>
-		<PlayerStat stat="HitChance" value="87"/>
-		<PlayerStat stat="TotalDPS" value="6727.578978087"/>
+		<PlayerStat stat="HitChance" value="88"/>
+		<PlayerStat stat="TotalDPS" value="6811.931282112"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="6727.578978087"/>
-		<PlayerStat stat="IgniteDPS" value="4991.1141692444"/>
-		<PlayerStat stat="WithIgniteDPS" value="11718.693147331"/>
-		<PlayerStat stat="WithPoisonDPS" value="6727.578978087"/>
-		<PlayerStat stat="TotalDotDPS" value="4991.1141692444"/>
+		<PlayerStat stat="WithBleedDPS" value="6811.931282112"/>
+		<PlayerStat stat="IgniteDPS" value="4996.5818565095"/>
+		<PlayerStat stat="WithIgniteDPS" value="11808.513138621"/>
+		<PlayerStat stat="WithPoisonDPS" value="6811.931282112"/>
+		<PlayerStat stat="TotalDotDPS" value="4996.5818565095"/>
 		<PlayerStat stat="CullingDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="11718.693147331"/>
+		<PlayerStat stat="CombinedDPS" value="11808.513138621"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="18"/>
 		<PlayerStat stat="ManaCost" value="24"/>
 		<PlayerStat stat="LifeCost" value="0"/>
@@ -37,24 +37,24 @@
 		<PlayerStat stat="ReqInt" value="102"/>
 		<PlayerStat stat="Devotion" value="0"/>
 		<PlayerStat stat="TotalEHP" value="36073.170731707"/>
-		<PlayerStat stat="PhysicalMaximumHitTaken" value="29265.82278481"/>
-		<PlayerStat stat="LightningMaximumHitTaken" value="18535.021097046"/>
-		<PlayerStat stat="FireMaximumHitTaken" value="18535.021097046"/>
-		<PlayerStat stat="ColdMaximumHitTaken" value="18535.021097046"/>
-		<PlayerStat stat="ChaosMaximumHitTaken" value="3928.2983603772"/>
-		<PlayerStat stat="Life" value="1486"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="30884.74350433"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="19560.337552743"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="19560.337552743"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="19560.337552743"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="4145.6031549437"/>
+		<PlayerStat stat="Life" value="1729"/>
 		<PlayerStat stat="Spec:LifeInc" value="35"/>
-		<PlayerStat stat="LifeUnreserved" value="1486"/>
-		<PlayerStat stat="LifeRecoverable" value="1486"/>
+		<PlayerStat stat="LifeUnreserved" value="1729"/>
+		<PlayerStat stat="LifeRecoverable" value="1729"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegenRecovery" value="215.208"/>
-		<PlayerStat stat="LifeLeechGainRate" value="322.92379094818"/>
-		<PlayerStat stat="Mana" value="1001"/>
+		<PlayerStat stat="LifeRegenRecovery" value="222.012"/>
+		<PlayerStat stat="LifeLeechGainRate" value="326.97270154138"/>
+		<PlayerStat stat="Mana" value="1148"/>
 		<PlayerStat stat="Spec:ManaInc" value="63"/>
-		<PlayerStat stat="ManaUnreserved" value="310"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="30.969030969031"/>
-		<PlayerStat stat="ManaRegenRecovery" value="44.8"/>
-		<PlayerStat stat="ManaLeechGainRate" value="53.820631824696"/>
+		<PlayerStat stat="ManaUnreserved" value="406"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="35.365853658537"/>
+		<PlayerStat stat="ManaRegenRecovery" value="49.9"/>
+		<PlayerStat stat="ManaLeechGainRate" value="54.495450256896"/>
 		<PlayerStat stat="Ward" value="0"/>
 		<PlayerStat stat="EnergyShield" value="0"/>
 		<PlayerStat stat="EnergyShieldRecoveryCap" value="0"/>
@@ -82,12 +82,12 @@
 		<PlayerStat stat="ChaosResist" value="-49"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.82"/>
-		<PlayerStat stat="FullDPS" value="151705.42905755"/>
-		<PlayerStat stat="FullDotDPS" value="5997.2113825777"/>
-		<FullDPSSkill skillPart="" source="" stat="5x Shield Charge" value="64618.69157223"/>
-		<FullDPSSkill skillPart="No Flasks" source="" stat="9x Explosive Concoction" value="60548.210802783"/>
-		<FullDPSSkill skillPart="" source="" stat="Shield Charge" value="20216.239873767"/>
-		<FullDPSSkill skillPart="" source="Explosive Concoction" stat="Best Ignite DPS" value="4991.1141692444"/>
+		<PlayerStat stat="FullDPS" value="153540.67308737"/>
+		<PlayerStat stat="FullDotDPS" value="6002.6790698428"/>
+		<FullDPSSkill skillPart="" source="" stat="5x Shield Charge" value="65434.387575447"/>
+		<FullDPSSkill skillPart="No Flasks" source="" stat="9x Explosive Concoction" value="61307.381539008"/>
+		<FullDPSSkill skillPart="" source="" stat="Shield Charge" value="20471.149476883"/>
+		<FullDPSSkill skillPart="" source="Explosive Concoction" stat="Best Ignite DPS" value="4996.5818565095"/>
 		<FullDPSSkill skillPart="" source="Flame Dash" stat="Best Burning Ground DPS" value="1006.0972133333"/>
 		<FullDPSSkill skillPart="" source="" stat="Flame Dash" value="189.09315119278"/>
 		<FullDPSSkill skillPart="Flame Golem: Immolate" source="" stat="Summon Flame Golem" value="135.982275"/>
@@ -187,9 +187,9 @@
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="3" masteryEffects="{62015,12916},{25031,23021},{62235,49522},{38436,50228},{25446,57298},{59335,37925},{8460,60034}" nodes="55085,13922,49178,14813,31928,52632,23122,23090,49343,12236,44606,36704,31700,28265,25324,50858,14767,15451,30691,20010,25781,14930,9171,28330,19144,17201,62235,31683,65167,19939,12702,13714,24383,17383,50515,38436,46578,61198,61868,5152,10542,58545,30155,18703,11792,8544,20551,1159,26523,2355,36761,47030,476,48807,40867,35750,42911,6982,47426,19261,12878,31257,36222,60508,8460,43833,55392,34009,1340,47389,54776,39530,59335,49538,43162,53558,49412,56370,49445,46730,50986,18025,224,14056,19711,28475,4944,60002,35185,58449,24865,57900,53002,19782,30733,33940,62015,61602,49969,24984,65308,31080,50360,6718,34601,25031,53987,25446,62530,34400,22703,43374" treeVersion="3_19" classId="4">
+		<Spec ascendClassId="3" masteryEffects="{62015,12916},{25031,23021},{62235,49522},{38436,50228},{25446,57298},{59335,37925},{8460,60034}" nodes="55085,13922,49178,14813,31928,52632,23122,23090,49343,12236,44606,36704,65167,28265,25324,35750,50986,15451,59335,30691,20010,25781,14930,31257,43374,19144,22703,62235,34400,62530,25446,12702,47030,24383,34601,1159,38436,6718,61198,50360,5152,31080,14767,30155,18703,11792,24984,20551,17201,26523,2355,61602,62015,33940,48807,61868,19782,53002,6982,47426,50858,12878,24865,36222,60508,55392,43833,35185,31683,1340,47389,54776,39530,8460,49538,43162,53558,49412,56370,49445,46730,46578,14056,50515,58545,28475,4944,60002,34009,58449,17383,57900,19711,9171,30733,10542,224,18025,49969,13714,65308,8544,31700,36761,19939,25031,53987,19261,42911,28330,40867,476" treeVersion="3_19" classId="4">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgQDbtctNmLAGjndfLjNmFpSWjLAvy_Mrj6PYHvUbmli7MaqOa88W3fjTipktTpSI9NuqkrIQzHzG3vD_o9N4zGeNZJfP0PnxVOWJLXy7w7xrBQgKS7ksXXLSQ8uECFgUEcEh2ebCTOPmbe2Ady-p5-ji6annxtGuUJLPTJOehmNfuxcIQyrOdhghNkFPLkd1fiaaufHwYKomtE2wQTcMsEltopGaQDgNuhM_287E1DqYolx5FFhIeIszwpNRngNhJTyP_CiwzH_HHloxLgaPocpYcfS42Nm9EKGYFivqW4AB8Fy8xvENJYk6oIhDJQl58cydPI_We1hx9_SY2Y=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgQDbtctNmLAGjndfLjNmFpSWjLAvy_Mrj6PYP6Pbmli7IumPFvnx3fjTipktTpSehmpbkrIWK_zG4Zg9EJjZjGet7ZfP4cpBIeWJBo-7w7EuBQgeWg5r3XLSQ8uEFBHQzFnmwkz8KLyP4SUvqfxrE1GzwobRrlCxqoyTmEhjX7sXNhgqzmJcXvDBTy5HdX4mmohDMGCqJrRNsEE3DLBJbaKtfI26MVT5LFvOxNQ6mKE2eRRQ-fiLEz_I9N4DSkuAOBGacMxNZL_HCFge9SPmU3jYcfS40s9p59uqp-jAdwAB5Ql58fBcvMb39JjZsQ0liQydPI_6oIhDFntYcc=
 			</URL>
 			<Sockets>
 				<Socket nodeId="28475" itemId="17"/>
@@ -199,7 +199,7 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="-477.02" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="96.8"/>
+	<TreeView searchStr="" zoomY="-814.88991111111" showHeatMap="false" zoomLevel="7" showStatDifferences="true" zoomX="252.48422222222"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="17">
 			Rarity: UNIQUE
@@ -633,37 +633,37 @@ Implicits: 0
 		<Input name="enemyIsBoss" string="Pinnacle"/>
 		<Input name="conditionUsingFlask" boolean="true"/>
 		<Input name="bannerStages" number="50"/>
-		<Input name="overrideFrenzyCharges" number="3"/>
-		<Input name="conditionEnemyPoisoned" boolean="true"/>
-		<Input name="buffOnslaught" boolean="true"/>
-		<Input name="useFrenzyCharges" boolean="true"/>
 		<Input name="bandit" string="Alira"/>
+		<Input name="conditionEnemyPoisoned" boolean="true"/>
+		<Input name="buffAdrenaline" boolean="true"/>
+		<Input name="useFrenzyCharges" boolean="true"/>
+		<Input name="buffOnslaught" boolean="true"/>
 		<Input name="bannerPlanted" boolean="true"/>
-		<Input name="useEnduranceCharges" boolean="true"/>
+		<Input name="conditionUsedWarcryRecently" boolean="true"/>
 		<Input name="pantheonMajorGod" string="Arakaali"/>
 		<Input name="multiplierWitheredStackCount" number="15"/>
 		<Input name="buffFortification" boolean="true"/>
 		<Input name="multiplierWarcryUsedRecently" number="10"/>
 		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="pantheonMinorGod" string="Shakari"/>
-		<Input name="conditionUsedWarcryRecently" boolean="true"/>
+		<Input name="overrideFrenzyCharges" number="3"/>
 		<Input name="overrideFortification" number="21"/>
-		<Input name="buffAdrenaline" boolean="true"/>
+		<Input name="useEnduranceCharges" boolean="true"/>
 		<Placeholder name="enemySpeed" number="700"/>
 		<Placeholder name="enemyPhysicalDamage" number="2320"/>
 		<Placeholder name="enemyChaosResist" number="30"/>
 		<Placeholder name="enemyLightningDamage" number="2320"/>
 		<Placeholder name="enemyCritChance" number="5"/>
-		<Placeholder name="enemyLightningPen" number="5"/>
+		<Placeholder name="enemyFirePen" number="5"/>
 		<Placeholder name="enemyFireResist" number="50"/>
 		<Placeholder name="enemyColdDamage" number="2320"/>
 		<Placeholder name="enemyColdPen" number="5"/>
-		<Placeholder name="enemyLevel" number="84"/>
+		<Placeholder name="enemyFireDamage" number="2320"/>
 		<Placeholder name="enemyCritDamage" number="30"/>
 		<Placeholder name="enemyChaosDamage" number="580"/>
 		<Placeholder name="enemyColdResist" number="50"/>
-		<Placeholder name="enemyFireDamage" number="2320"/>
-		<Placeholder name="enemyFirePen" number="5"/>
+		<Placeholder name="enemyLevel" number="84"/>
+		<Placeholder name="enemyLightningPen" number="5"/>
 		<Placeholder name="enemyLightningResist" number="50"/>
 	</Config>
 </PathOfBuilding>
