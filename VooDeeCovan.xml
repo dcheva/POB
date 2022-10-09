@@ -833,14 +833,40 @@ Glancing Blows
 		</ItemSet>
 	</Items>
 	<Config>
-		<Input name="conditionLeeching" boolean="true"/>
-		<Input name="pantheonMinorGod" string="None"/>
-		<Input name="enemyIsBoss" string="None"/>
-		<Input name="pantheonMajorGod" string="None"/>
-		<Input name="bandit" string="None"/>
+		<Input name="enemyIsBoss" string="Pinnacle"/>
+		<Input name="conditionUsingFlask" boolean="true"/>
+		<Input name="buffAdrenaline" boolean="true"/>
+		<Input name="bandit" string="Alira"/>
+		<Input name="conditionEnemyPoisoned" boolean="true"/>
+		<Input name="useEnduranceCharges" boolean="true"/>
+		<Input name="useFrenzyCharges" boolean="true"/>
+		<Input name="buffFortification" boolean="true"/>
+		<Input name="bannerPlanted" boolean="true"/>
+		<Input name="buffOnslaught" boolean="true"/>
+		<Input name="multiplierWitheredStackCount" number="15"/>
+		<Input name="multiplierWarcryUsedRecently" number="10"/>
+		<Input name="pantheonMajorGod" string="Arakaali"/>
+		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="pantheonMinorGod" string="Shakari"/>
+		<Input name="overrideFrenzyCharges" number="3"/>
+		<Input name="bannerStages" number="50"/>
+		<Input name="overrideFortification" number="21"/>
+		<Input name="conditionUsedWarcryRecently" boolean="true"/>
 		<Placeholder name="enemySpeed" number="700"/>
-		<Placeholder name="enemyCritDamage" number="30"/>
+		<Placeholder name="enemyPhysicalDamage" number="2320"/>
+		<Placeholder name="enemyChaosResist" number="30"/>
+		<Placeholder name="enemyLightningDamage" number="2320"/>
 		<Placeholder name="enemyCritChance" number="5"/>
-		<Placeholder name="enemyPhysicalDamage" number="1174"/>
+		<Placeholder name="enemyLightningPen" number="5"/>
+		<Placeholder name="enemyFireResist" number="50"/>
+		<Placeholder name="enemyColdDamage" number="2320"/>
+		<Placeholder name="enemyColdPen" number="5"/>
+		<Placeholder name="enemyLevel" number="84"/>
+		<Placeholder name="enemyCritDamage" number="30"/>
+		<Placeholder name="enemyChaosDamage" number="580"/>
+		<Placeholder name="enemyColdResist" number="50"/>
+		<Placeholder name="enemyFireDamage" number="2320"/>
+		<Placeholder name="enemyFirePen" number="5"/>
+		<Placeholder name="enemyLightningResist" number="50"/>
 	</Config>
 </PathOfBuilding>
