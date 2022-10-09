@@ -971,3 +971,796 @@
 2022/10/09 22:05:10 427001859 47bbea58 [INFO Client 9680] Changing to device "Ухи (High Definition Audio Device)"
 2022/10/09 22:05:10 427001859 951bc057 [INFO Client 9680] [STARTUP] Audio in 0.129816 seconds
 2022/10/09 22:05:10 427002125 951bc057 [INFO Client 9680] [STARTUP] Registration in 0.409656 seconds
+2022/10/09 22:43:12 ***** LOG FILE OPENING *****
+2022/10/09 22:43:12 429283937 340884db [DEBUG Client 10800] [RENDER] StopDevice
+2022/10/09 22:43:12 429283937 84a7e6f1 [INFO Client 10800] [ENGINE] Clear
+2022/10/09 22:43:12 429283937 7bb5422 [INFO Client 10800] [BUNDLE2] Deinit
+2022/10/09 22:43:12 429283937 84a7e691 [INFO Client 10800] [JOB] Clear
+2022/10/09 22:43:12 429283937 84a7e7bf [INFO Client 10800] [ANIMATION] Clear
+2022/10/09 22:43:12 429283937 84a7e7be [INFO Client 10800] [PHYSICS] Clear
+2022/10/09 22:43:12 429283937 84a7e7bd [INFO Client 10800] [SHADER] Clear
+2022/10/09 22:43:12 429283937 84a7e7bc [INFO Client 10800] [ENTITY] Clear
+2022/10/09 22:43:12 429283937 84a7e7bb [INFO Client 10800] [SOUND] Clear
+2022/10/09 22:43:12 429283937 84a7e7ba [INFO Client 10800] [VIDEO] Clear
+2022/10/09 22:43:12 429283937 84a7e7b9 [INFO Client 10800] [SCENE] Clear
+2022/10/09 22:43:12 429283937 84a7e7b8 [INFO Client 10800] [GRAPH] Clear
+2022/10/09 22:43:12 429283937 84a7e7b7 [INFO Client 10800] [TELEMETRY] Clear
+2022/10/09 22:43:12 429283937 84a7e7b6 [INFO Client 10800] [RESOURCE] GarbageCollect
+2022/10/09 22:43:12 429283937 84a7e75e [INFO Client 10800] [RESOURCE] Clear
+2022/10/09 22:43:12 429283937 84a7e75b [INFO Client 10800] [RENDER] Clear
+2022/10/09 22:43:12 429283937 84a7e758 [INFO Client 10800] [ENGINE] Done
+2022/10/09 22:43:13 ***** LOG FILE OPENING *****
+2022/10/09 22:43:13 429284890 f954428c [INFO Client 10756] [STARTUP] Job Queues
+2022/10/09 22:43:13 429284906 9e6a0b0a [INFO Client 10756] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/09 22:43:13 429284968 9e6a1d2a [INFO Client 10756] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 22:43:13 429284968 9e6a1363 [INFO Client 10756] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/09 22:43:13 429284968 9e6a0b0a [INFO Client 10756] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/09 22:43:13 429284984 9e6a1d2a [INFO Client 10756] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 22:43:13 429284984 84a7d27d [INFO Client 10756] [ENGINE] Init
+2022/10/09 22:43:13 429284984 55713145 [INFO Client 10756] [JOB] HIGH: 2
+2022/10/09 22:43:13 429284984 55713145 [INFO Client 10756] [JOB] MEDIUM: 2
+2022/10/09 22:43:13 429284984 55713145 [INFO Client 10756] [JOB] LOW: 2
+2022/10/09 22:43:13 429284984 55713145 [INFO Client 10756] [JOB] IDLE: 1
+2022/10/09 22:43:13 429284984 7bb548f [INFO Client 10756] [BUNDLE2] Init
+2022/10/09 22:43:13 429284984 7bb36c4 [INFO Client 10756] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/09 22:43:13 429285187 7bb61e6 [INFO Client 10756] [BUNDLE2] File cache size: 1024
+2022/10/09 22:43:13 429285187 b51d61ab [INFO Client 10756] [RENDER] Async: ON
+2022/10/09 22:43:13 429285187 b51d60c8 [INFO Client 10756] [RENDER] Warmup: ON
+2022/10/09 22:43:13 429285187 b51d60ce [INFO Client 10756] [RENDER] Skip: ON
+2022/10/09 22:43:13 429285187 b51d60eb [INFO Client 10756] [RENDER] Throttling: ON
+2022/10/09 22:43:13 429285187 32759a7a [INFO Client 10756] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/09 22:43:13 429285187 32759a70 [INFO Client 10756] [SHADER] Async: ON
+2022/10/09 22:43:13 429285187 32759a9f [INFO Client 10756] [SHADER] Delay: OFF
+2022/10/09 22:43:13 429285187 32759aba [INFO Client 10756] [SHADER] Limit: ON
+2022/10/09 22:43:13 429285187 32759abc [INFO Client 10756] [SHADER] Warmup: ON
+2022/10/09 22:43:13 429285187 327599d7 [INFO Client 10756] [SHADER] Parallel: OFF
+2022/10/09 22:43:13 429285187 84a7e376 [INFO Client 10756] [ENGINE] Running Engine version 1.6.0
+2022/10/09 22:43:13 429285203 47bbd159 [INFO Client 10756] [SOUND] Buffer size = 64.0 MB
+2022/10/09 22:43:13 429285218 9b0d205 [INFO Client 10756] [VIDEO] Enable: ON
+2022/10/09 22:43:13 429285250 84a7d2d8 [INFO Client 10756] [ENGINE] Ready
+2022/10/09 22:43:13 429285265 951bc0b0 [INFO Client 10756] [STARTUP] Bundle Startup Start
+2022/10/09 22:43:13 429285265 951bc057 [INFO Client 10756] [STARTUP] Bundle Startup in 5.4e-05 seconds
+2022/10/09 22:43:13 429285265 951bc0b0 [INFO Client 10756] [STARTUP] Game Start
+2022/10/09 22:43:13 429285437 ca86fd3f [DEBUG Client 10756] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/09 22:43:13 429285656 951bc057 [INFO Client 10756] [STARTUP] Game in 0.387031 seconds
+2022/10/09 22:43:13 429285656 951bc0b0 [INFO Client 10756] [STARTUP] Window Start
+2022/10/09 22:43:13 429285656 9e6a0b0a [INFO Client 10756] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/09 22:43:14 429285718 9e6a1d2a [INFO Client 10756] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 22:43:14 429285718 9e6a1363 [INFO Client 10756] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/09 22:43:14 429285718 9e6a0b0a [INFO Client 10756] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/09 22:43:14 429285734 9e6a1d2a [INFO Client 10756] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 22:43:14 429285765 951bc057 [INFO Client 10756] [STARTUP] Window in 0.101398 seconds
+2022/10/09 22:43:14 429285765 413b61ff [DEBUG Client 10756] [GamepadManager] Initialising
+2022/10/09 22:43:14 429285765 951bc0b0 [INFO Client 10756] [STARTUP] Device Start
+2022/10/09 22:43:14 429285765 b51d6589 [INFO Client 10756] [RENDER] StartDevice: DirectX11
+2022/10/09 22:43:14 429285906 71b3b00 [DEBUG Client 10756] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/09 22:43:14 429285906 97ce04a4 [WARN Client 10756] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/09 22:43:14 429285968 fafff8cf [DEBUG Client 10756] CreateSwapChain: SetFullScreenState 0
+2022/10/09 22:43:14 429285968 29d4ce01 [INFO Client 10756] [D3D11] Runtime version = 11.1
+2022/10/09 22:43:14 429285968 29d4ce00 [INFO Client 10756] [D3D11] Feature Level = 11.1
+2022/10/09 22:43:14 429285968 29d4ce03 [INFO Client 10756] [D3D11] Driver Command Lists = NO
+2022/10/09 22:43:14 429285968 29d4ce02 [INFO Client 10756] [D3D11] Driver Concurrent Creates = YES
+2022/10/09 22:43:14 429285968 29d4ce05 [INFO Client 10756] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/09 22:43:14 429286015 9d4eeb40 [DEBUG Client 10756] [WINDOW] TrigggerDeviceCreate
+2022/10/09 22:43:14 429286203 9d4eeba7 [DEBUG Client 10756] [WINDOW] TrigggerDeviceReset
+2022/10/09 22:43:14 429286218 9d4eec8a [DEBUG Client 10756] [WINDOW] TrigggerDeviceLost
+2022/10/09 22:43:14 429286218 9d4eeba7 [DEBUG Client 10756] [WINDOW] TrigggerDeviceReset
+2022/10/09 22:43:14 429286234 951bc057 [INFO Client 10756] [STARTUP] Device in 0.468864 seconds
+2022/10/09 22:43:14 429286234 951bc0b0 [INFO Client 10756] [STARTUP] Tencent Start
+2022/10/09 22:43:14 429286234 951bc057 [INFO Client 10756] [STARTUP] Tencent in 4.6e-05 seconds
+2022/10/09 22:43:14 429286234 951bc0b0 [INFO Client 10756] [STARTUP] Loading Start
+2022/10/09 22:43:14 429286265 951bc057 [INFO Client 10756] [STARTUP] Loading in 0.025626 seconds
+2022/10/09 22:43:14 429286265 951bc0b0 [INFO Client 10756] [STARTUP] DebugGUI Start
+2022/10/09 22:43:14 429286265 951bc057 [INFO Client 10756] [STARTUP] DebugGUI in 2.1e-05 seconds
+2022/10/09 22:43:14 429286265 951bc0b0 [INFO Client 10756] [STARTUP] Bundle Tiny Start
+2022/10/09 22:43:14 429286265 951bc0b0 [INFO Client 10756] [STARTUP] Bundle Login Start
+2022/10/09 22:43:14 429286265 951bc057 [INFO Client 10756] [STARTUP] Bundle Login in 2.8e-05 seconds
+2022/10/09 22:43:14 429286265 951bc0b0 [INFO Client 10756] [STARTUP] Registration Start
+2022/10/09 22:43:14 429286265 951bc057 [INFO Client 10756] [STARTUP] Bundle Tiny in 8.5e-05 seconds
+2022/10/09 22:43:14 429286296 951bc0b0 [INFO Client 10756] [STARTUP] Audio Start
+2022/10/09 22:43:14 429286296 47bbee18 [INFO Client 10756] [SOUND] Channel count = 128 (asked for 128)
+2022/10/09 22:43:14 429286296 47bbee19 [INFO Client 10756] [SOUND] Source count = 512
+2022/10/09 22:43:14 429286406 47bbea58 [INFO Client 10756] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/09 22:43:14 429286406 951bc057 [INFO Client 10756] [STARTUP] Audio in 0.109646 seconds
+2022/10/09 22:43:14 429286703 951bc057 [INFO Client 10756] [STARTUP] Registration in 0.444046 seconds
+2022/10/09 22:43:18 429289812 890da8d3 [INFO Client 10756] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/09 22:43:18 429289921 890d9d9b [INFO Client 10756] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/09 22:43:52 ***** LOG FILE OPENING *****
+2022/10/09 22:43:52 429324203 340884db [DEBUG Client 11316] [RENDER] StopDevice
+2022/10/09 22:43:52 429324203 84a7e6f1 [INFO Client 11316] [ENGINE] Clear
+2022/10/09 22:43:52 429324203 7bb5422 [INFO Client 11316] [BUNDLE2] Deinit
+2022/10/09 22:43:52 429324203 84a7e691 [INFO Client 11316] [JOB] Clear
+2022/10/09 22:43:52 429324203 84a7e7bf [INFO Client 11316] [ANIMATION] Clear
+2022/10/09 22:43:52 429324203 84a7e7be [INFO Client 11316] [PHYSICS] Clear
+2022/10/09 22:43:52 429324203 84a7e7bd [INFO Client 11316] [SHADER] Clear
+2022/10/09 22:43:52 429324203 84a7e7bc [INFO Client 11316] [ENTITY] Clear
+2022/10/09 22:43:52 429324203 84a7e7bb [INFO Client 11316] [SOUND] Clear
+2022/10/09 22:43:52 429324203 84a7e7ba [INFO Client 11316] [VIDEO] Clear
+2022/10/09 22:43:52 429324203 84a7e7b9 [INFO Client 11316] [SCENE] Clear
+2022/10/09 22:43:52 429324203 84a7e7b8 [INFO Client 11316] [GRAPH] Clear
+2022/10/09 22:43:52 429324203 84a7e7b7 [INFO Client 11316] [TELEMETRY] Clear
+2022/10/09 22:43:52 429324203 84a7e7b6 [INFO Client 11316] [RESOURCE] GarbageCollect
+2022/10/09 22:43:52 429324203 84a7e75e [INFO Client 11316] [RESOURCE] Clear
+2022/10/09 22:43:52 429324203 84a7e75b [INFO Client 11316] [RENDER] Clear
+2022/10/09 22:43:52 429324203 84a7e758 [INFO Client 11316] [ENGINE] Done
+2022/10/09 22:44:12 ***** LOG FILE OPENING *****
+2022/10/09 22:44:12 429344718 f954428c [INFO Client 12568] [STARTUP] Job Queues
+2022/10/09 22:44:13 429344718 9e6a0b0a [INFO Client 12568] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/09 22:44:13 429344953 9e6a1d2a [INFO Client 12568] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 22:44:13 429344953 9e6a1363 [INFO Client 12568] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/09 22:44:13 429344953 9e6a0b0a [INFO Client 12568] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/09 22:44:13 429344953 9e6a1d2a [INFO Client 12568] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 22:44:13 429344953 84a7d27d [INFO Client 12568] [ENGINE] Init
+2022/10/09 22:44:13 429344953 55713145 [INFO Client 12568] [JOB] HIGH: 2
+2022/10/09 22:44:13 429344953 55713145 [INFO Client 12568] [JOB] MEDIUM: 2
+2022/10/09 22:44:13 429344953 55713145 [INFO Client 12568] [JOB] LOW: 2
+2022/10/09 22:44:13 429344953 55713145 [INFO Client 12568] [JOB] IDLE: 1
+2022/10/09 22:44:13 429344953 7bb548f [INFO Client 12568] [BUNDLE2] Init
+2022/10/09 22:44:13 429344953 7bb36c4 [INFO Client 12568] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/09 22:44:13 429345265 7bb61e6 [INFO Client 12568] [BUNDLE2] File cache size: 1024
+2022/10/09 22:44:13 429345265 b51d61ab [INFO Client 12568] [RENDER] Async: ON
+2022/10/09 22:44:13 429345265 b51d60c8 [INFO Client 12568] [RENDER] Warmup: ON
+2022/10/09 22:44:13 429345265 b51d60ce [INFO Client 12568] [RENDER] Skip: ON
+2022/10/09 22:44:13 429345265 b51d60eb [INFO Client 12568] [RENDER] Throttling: ON
+2022/10/09 22:44:13 429345265 32759a7a [INFO Client 12568] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/09 22:44:13 429345265 32759a70 [INFO Client 12568] [SHADER] Async: ON
+2022/10/09 22:44:13 429345265 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 22:44:13 429345265 32759aba [INFO Client 12568] [SHADER] Limit: ON
+2022/10/09 22:44:13 429345265 32759abc [INFO Client 12568] [SHADER] Warmup: ON
+2022/10/09 22:44:13 429345265 327599d7 [INFO Client 12568] [SHADER] Parallel: OFF
+2022/10/09 22:44:13 429345281 84a7e376 [INFO Client 12568] [ENGINE] Running Engine version 1.6.0
+2022/10/09 22:44:13 429345281 47bbd159 [INFO Client 12568] [SOUND] Buffer size = 64.0 MB
+2022/10/09 22:44:13 429345343 9b0d205 [INFO Client 12568] [VIDEO] Enable: ON
+2022/10/09 22:44:13 429345390 84a7d2d8 [INFO Client 12568] [ENGINE] Ready
+2022/10/09 22:44:13 429345468 951bc0b0 [INFO Client 12568] [STARTUP] Bundle Startup Start
+2022/10/09 22:44:13 429345468 951bc057 [INFO Client 12568] [STARTUP] Bundle Startup in 7.9e-05 seconds
+2022/10/09 22:44:13 429345468 951bc0b0 [INFO Client 12568] [STARTUP] Game Start
+2022/10/09 22:44:14 429346171 ca86fd3f [DEBUG Client 12568] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/09 22:44:14 429346578 951bc057 [INFO Client 12568] [STARTUP] Game in 1.11491 seconds
+2022/10/09 22:44:14 429346578 951bc0b0 [INFO Client 12568] [STARTUP] Window Start
+2022/10/09 22:44:14 429346578 9e6a0b0a [INFO Client 12568] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/09 22:44:14 429346671 9e6a1d2a [INFO Client 12568] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 22:44:14 429346671 9e6a1363 [INFO Client 12568] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/09 22:44:14 429346671 9e6a0b0a [INFO Client 12568] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/09 22:44:14 429346671 9e6a1d2a [INFO Client 12568] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 22:44:14 429346718 951bc057 [INFO Client 12568] [STARTUP] Window in 0.141722 seconds
+2022/10/09 22:44:15 429346734 413b61ff [DEBUG Client 12568] [GamepadManager] Initialising
+2022/10/09 22:44:15 429346734 951bc0b0 [INFO Client 12568] [STARTUP] Device Start
+2022/10/09 22:44:15 429346750 b51d6589 [INFO Client 12568] [RENDER] StartDevice: DirectX11
+2022/10/09 22:44:15 429347218 71b3b00 [DEBUG Client 12568] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/09 22:44:15 429347218 97ce04a4 [WARN Client 12568] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/09 22:44:15 429347312 fafff8cf [DEBUG Client 12568] CreateSwapChain: SetFullScreenState 0
+2022/10/09 22:44:15 429347312 29d4ce01 [INFO Client 12568] [D3D11] Runtime version = 11.1
+2022/10/09 22:44:15 429347312 29d4ce00 [INFO Client 12568] [D3D11] Feature Level = 11.1
+2022/10/09 22:44:15 429347312 29d4ce03 [INFO Client 12568] [D3D11] Driver Command Lists = NO
+2022/10/09 22:44:15 429347312 29d4ce02 [INFO Client 12568] [D3D11] Driver Concurrent Creates = YES
+2022/10/09 22:44:15 429347312 29d4ce05 [INFO Client 12568] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/09 22:44:15 429347390 9d4eeb40 [DEBUG Client 12568] [WINDOW] TrigggerDeviceCreate
+2022/10/09 22:44:15 429347625 9d4eeba7 [DEBUG Client 12568] [WINDOW] TrigggerDeviceReset
+2022/10/09 22:44:15 429347656 9d4eec8a [DEBUG Client 12568] [WINDOW] TrigggerDeviceLost
+2022/10/09 22:44:15 429347656 9d4eeba7 [DEBUG Client 12568] [WINDOW] TrigggerDeviceReset
+2022/10/09 22:44:15 429347671 951bc057 [INFO Client 12568] [STARTUP] Device in 0.935264 seconds
+2022/10/09 22:44:15 429347671 951bc0b0 [INFO Client 12568] [STARTUP] Tencent Start
+2022/10/09 22:44:15 429347671 951bc057 [INFO Client 12568] [STARTUP] Tencent in 2.9e-05 seconds
+2022/10/09 22:44:15 429347671 951bc0b0 [INFO Client 12568] [STARTUP] Loading Start
+2022/10/09 22:44:15 429347718 951bc057 [INFO Client 12568] [STARTUP] Loading in 0.033902 seconds
+2022/10/09 22:44:15 429347718 951bc0b0 [INFO Client 12568] [STARTUP] DebugGUI Start
+2022/10/09 22:44:15 429347718 951bc057 [INFO Client 12568] [STARTUP] DebugGUI in 3.2e-05 seconds
+2022/10/09 22:44:15 429347718 951bc0b0 [INFO Client 12568] [STARTUP] Bundle Tiny Start
+2022/10/09 22:44:15 429347718 951bc0b0 [INFO Client 12568] [STARTUP] Bundle Login Start
+2022/10/09 22:44:15 429347718 951bc057 [INFO Client 12568] [STARTUP] Bundle Login in 4.2e-05 seconds
+2022/10/09 22:44:15 429347718 951bc0b0 [INFO Client 12568] [STARTUP] Registration Start
+2022/10/09 22:44:15 429347718 951bc057 [INFO Client 12568] [STARTUP] Bundle Tiny in 0.000106 seconds
+2022/10/09 22:44:16 429347734 951bc0b0 [INFO Client 12568] [STARTUP] Audio Start
+2022/10/09 22:44:16 429347734 47bbee18 [INFO Client 12568] [SOUND] Channel count = 128 (asked for 128)
+2022/10/09 22:44:16 429347734 47bbee19 [INFO Client 12568] [SOUND] Source count = 512
+2022/10/09 22:44:16 429348000 47bbea58 [INFO Client 12568] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/09 22:44:16 429348000 951bc057 [INFO Client 12568] [STARTUP] Audio in 0.267366 seconds
+2022/10/09 22:44:16 429348546 951bc057 [INFO Client 12568] [STARTUP] Registration in 0.835996 seconds
+2022/10/09 22:44:20 429352328 890da8d3 [INFO Client 12568] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/09 22:44:20 429352390 890d9d9b [INFO Client 12568] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/09 22:44:24 429356281 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 22:44:24 429356328 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 22:44:24 429356328 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.142:6112
+2022/10/09 22:44:24 429356406 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 47ms
+2022/10/09 22:44:24 429356578 1186952b [DEBUG Client 12568] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/09 22:44:34 429366484 f22b69a6 [INFO Client 12568] Tile hash: 3842481850
+2022/10/09 22:44:34 429366484 f22b69a7 [INFO Client 12568] Doodad hash: 3697406269
+2022/10/09 22:44:36 429368515 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 22:44:37 429368953 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429368968 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429368984 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429369000 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429369000 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429369015 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429369015 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429369015 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429369031 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429369031 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429369031 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429369046 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:37 429369156 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [114123]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 22:44:38 429370234 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/09 22:44:38 429370234 cff943d8 [INFO Client 12568] #<1•HP> NoMoreMojito: решил перед сном сбегать
+2022/10/09 22:44:38 429370343 cff943d8 [INFO Client 12568] #<1•HP> NoMoreMojito: Орлиный подбой, Жертвенное облачение
+2022/10/09 22:44:38 429370468 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:38 429370468 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:38 429370468 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:38 429370468 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [114123]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:39 429371250 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:44:39 429371250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 22:44:40 429371859 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 22:44:40 429372203 374e1126 [INFO Client 12568] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/09 22:44:40 429372203 374e1287 [INFO Client 12568] [Item Filter] Hash for online filter 5XMehq is: 4a221c77eb78e657df374953d305b5f4
+2022/10/09 22:44:40 429372531 374e12ea [INFO Client 12568] [Item Filter] Online item filter 5XMehq returned status: 200
+2022/10/09 22:44:40 429372531 374e0d87 [DEBUG Client 12568] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/09 22:44:40 429372531 374e0d8f [DEBUG Client 12568] [Item Filter] X-HW: 1665344849.dop218.pa1.t,1665344849.cds203.pa1.shn,1665344849.dop218.pa1.t,1665344849.cds237.pa1.c
+2022/10/09 22:44:40 429372546 374e0d61 [INFO Client 12568] [Item Filter] Successfully saved online filter 5XMehq. Hash is now: 73dba18d580f1c53f30332682adbfc8a
+2022/10/09 22:44:40 429372562 78847107 [INFO Client 12568] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 73dba18d580f1c53f30332682adbfc8a. Message: 
+2022/10/09 22:44:40 429372562 2a14a9a7 [INFO Client 12568] PrecalcBaseTypeHashMap
+2022/10/09 22:44:40 429372671 2a14a9a1 [INFO Client 12568] PrecalcModNameHashMap
+2022/10/09 22:44:42 429373984 2a14a9a3 [INFO Client 12568] PrecalcItemClassMap
+2022/10/09 22:44:42 429373984 2a14a9ad [INFO Client 12568] PrecalcSoundEffects
+2022/10/09 22:44:42 429373984 2a14a902 [INFO Client 12568] PrecalcDropEffects
+2022/10/09 22:44:42 429373984 2a14a900 [INFO Client 12568] PrecalcNonEnchantModHashes
+2022/10/09 22:44:42 429373984 2a14a906 [INFO Client 12568] PrecalcRuleNameToTypeMap
+2022/10/09 22:44:42 429373984 2a14a904 [INFO Client 12568] PrecalcCJESPNIndexMap
+2022/10/09 22:44:42 429374000 2a14a90a [INFO Client 12568] PrecalcGemAlternateQualityMap
+2022/10/09 22:45:50 429442140 cff943d8 [INFO Client 12568] : Не удалось применить предмет: Предмет отражён
+2022/10/09 22:46:29 429480734 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 22:46:29 429480765 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 22:46:29 429480765 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.138:6112
+2022/10/09 22:46:29 429480812 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 31ms
+2022/10/09 22:46:29 429480875 1186952b [DEBUG Client 12568] Generating level 68 area "MapWorldsStrand" with seed 980243491
+2022/10/09 22:46:30 429481984 f22b69a6 [INFO Client 12568] Tile hash: 1935376728
+2022/10/09 22:46:30 429481984 f22b69a7 [INFO Client 12568] Doodad hash: 3146528181
+2022/10/09 22:46:32 429483765 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 22:46:32 429484296 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Взморье.
+2022/10/09 22:46:33 429485328 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 22:50:30 429721734 890da8d3 [INFO Client 12568] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/09 22:50:30 429721781 890d9d9b [INFO Client 12568] Connected to mil01.login.pathofexile.com in 16ms.
+2022/10/09 22:50:34 429725906 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 22:50:34 429725906 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 22:50:34 429725906 ca3a6737 [INFO Client 12568] Connecting to instance server at 159.122.142.253:6112
+2022/10/09 22:50:34 429725968 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 32ms
+2022/10/09 22:50:34 429726031 1186952b [DEBUG Client 12568] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/09 22:50:34 429726218 f22b69a6 [INFO Client 12568] Tile hash: 3842481850
+2022/10/09 22:50:34 429726218 f22b69a7 [INFO Client 12568] Doodad hash: 3697406269
+2022/10/09 22:50:37 429729515 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 22:50:38 429730312 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/09 22:50:40 429731828 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 22:50:40 429731859 374e1126 [INFO Client 12568] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/09 22:50:40 429731859 374e1287 [INFO Client 12568] [Item Filter] Hash for online filter 5XMehq is: 73dba18d580f1c53f30332682adbfc8a
+2022/10/09 22:50:40 429732109 374e12ea [INFO Client 12568] [Item Filter] Online item filter 5XMehq returned status: 304
+2022/10/09 22:50:40 429732109 374e0d87 [DEBUG Client 12568] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/09 22:50:40 429732109 374e0d8f [DEBUG Client 12568] [Item Filter] X-HW: 1665345208.dop033.pa1.t,1665345209.cds240.pa1.shn,1665345209.dop033.pa1.t,1665345209.cds237.pa1.c
+2022/10/09 22:50:40 429732125 78847107 [INFO Client 12568] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 73dba18d580f1c53f30332682adbfc8a. Message: 
+2022/10/09 22:51:26 429778546 cff943d8 [INFO Client 12568] : Сделка совершена.
+2022/10/09 22:51:54 429806484 cff943d8 [INFO Client 12568] : Не удалось применить предмет: Это не обычная цель.
+2022/10/09 22:52:07 429819640 cff943d8 [INFO Client 12568] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2022/10/09 22:53:03 429875484 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 22:53:03 429875500 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 22:53:03 429875500 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.167:6112
+2022/10/09 22:53:03 429875546 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 31ms
+2022/10/09 22:53:03 429875625 1186952b [DEBUG Client 12568] Generating level 68 area "MapWorldsStrand" with seed 4068877812
+2022/10/09 22:53:04 429875921 f22b69a6 [INFO Client 12568] Tile hash: 4194594612
+2022/10/09 22:53:04 429875921 f22b69a7 [INFO Client 12568] Doodad hash: 1443225308
+2022/10/09 22:53:05 429877140 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 22:53:05 429877546 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Взморье.
+2022/10/09 22:53:06 429878265 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 22:54:59 429991187 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:55:50 430042593 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:57:17 430129203 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 22:59:19 430250781 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:04 430355765 890da8d3 [INFO Client 12568] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/09 23:01:04 430355796 890d9d9b [INFO Client 12568] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/09 23:01:07 430359609 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:01:07 430359609 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:01:07 430359609 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.142:6112
+2022/10/09 23:01:07 430359656 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 47ms
+2022/10/09 23:01:08 430359765 1186952b [DEBUG Client 12568] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/09 23:01:10 430362125 f22b69a6 [INFO Client 12568] Tile hash: 3842481850
+2022/10/09 23:01:10 430362125 f22b69a7 [INFO Client 12568] Doodad hash: 3697406269
+2022/10/09 23:01:12 430363843 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:01:12 430364140 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364140 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364140 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364156 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364156 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364156 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364156 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364156 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364156 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364156 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364156 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364156 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364203 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [114341]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:01:12 430364531 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/09 23:01:12 430364531 cff943d8 [INFO Client 12568] #Gusizpeska: Таинственный гребень, Карта храма ваал типо таких?
+2022/10/09 23:01:12 430364562 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:12 430364562 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:12 430364562 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:12 430364562 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:12 430364562 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:12 430364562 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:12 430364562 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:12 430364562 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:13 430364890 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:13 430364890 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:13 430364890 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:13 430364890 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:13 430364890 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:13 430364890 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:13 430364890 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:13 430364890 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:13 430364890 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:13 430364890 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:13 430364890 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:13 430364890 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:13 430364890 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:13 430364890 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:13 430364890 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:13 430364890 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:13 430364890 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:01:13 430364890 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [114341]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:01:15 430366843 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:01:15 430366875 374e1126 [INFO Client 12568] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/09 23:01:15 430366875 374e1287 [INFO Client 12568] [Item Filter] Hash for online filter 5XMehq is: 73dba18d580f1c53f30332682adbfc8a
+2022/10/09 23:01:15 430367093 374e12ea [INFO Client 12568] [Item Filter] Online item filter 5XMehq returned status: 304
+2022/10/09 23:01:15 430367093 374e0d87 [DEBUG Client 12568] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/09 23:01:15 430367093 374e0d8f [DEBUG Client 12568] [Item Filter] X-HW: 1665345843.dop203.pa1.t,1665345844.cds237.pa1.shn,1665345844.cds237.pa1.c
+2022/10/09 23:01:15 430367109 78847107 [INFO Client 12568] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 73dba18d580f1c53f30332682adbfc8a. Message: 
+2022/10/09 23:02:38 430449765 cff943d8 [INFO Client 12568] : Сделка совершена.
+2022/10/09 23:03:30 430502156 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:03:30 430502156 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:03:30 430502156 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 23:03:30 430502218 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 31ms
+2022/10/09 23:03:30 430502312 1186952b [DEBUG Client 12568] Generating level 68 area "MapWorldsStrand" with seed 4090554723
+2022/10/09 23:03:31 430503093 f22b69a6 [INFO Client 12568] Tile hash: 4205425734
+2022/10/09 23:03:31 430503093 f22b69a7 [INFO Client 12568] Doodad hash: 2973044659
+2022/10/09 23:03:33 430505000 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:03:33 430505500 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Взморье.
+2022/10/09 23:03:34 430506562 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:05:42 430634265 cff943d8 [INFO Client 12568] Сестра Кассия: И неправедное стало пеплом! И неправедное стало пеплом...пеплом!
+2022/10/09 23:05:47 430639250 cff943d8 [INFO Client 12568] Сестра Кассия: Обрати пылающий взор на мою душу...Обрати пылающий взор на мою душу...
+2022/10/09 23:05:52 430644281 cff943d8 [INFO Client 12568] Сестра Кассия: Обрати пылающий взор на мою душу...Обрати пылающий взор на мою душу...
+2022/10/09 23:06:17 430669171 cff943d8 [INFO Client 12568] Сестра Кассия: Выжигай наши грехи...Выжигай наши грехи...Выжигай наши грехи...Выжигай наши...
+2022/10/09 23:06:25 430677531 cff943d8 [INFO Client 12568] Сестра Кассия: Обрати пылающий взор на мою душу...Обрати пылающий взор на мою душу...
+2022/10/09 23:06:35 430686812 cff943d8 [INFO Client 12568] Сестра Кассия: И неправедное стало пеплом! И неправедное стало пеплом...пеплом!
+2022/10/09 23:06:47 430699703 cff943d8 [INFO Client 12568] Сестра Кассия: Ох!
+2022/10/09 23:08:28 430799750 890da8d3 [INFO Client 12568] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/09 23:08:28 430799781 890d9d9b [INFO Client 12568] Connected to mil01.login.pathofexile.com in 15ms.
+2022/10/09 23:08:32 430803750 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:08:32 430803750 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:08:32 430803750 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.142:6112
+2022/10/09 23:08:32 430803812 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 46ms
+2022/10/09 23:08:32 430803906 1186952b [DEBUG Client 12568] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/09 23:08:32 430804093 f22b69a6 [INFO Client 12568] Tile hash: 3842481850
+2022/10/09 23:08:32 430804093 f22b69a7 [INFO Client 12568] Doodad hash: 3697406269
+2022/10/09 23:08:35 430807125 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:08:35 430807343 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807359 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807359 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807359 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807359 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807375 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807375 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807375 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807375 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807375 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807375 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807375 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807406 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [114486]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807406 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [114487]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:08:35 430807718 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/09 23:08:35 430807718 cff943d8 [INFO Client 12568] #КАПС: Забытый покров, Карта берега УРА УМИРАТЬ
+2022/10/09 23:08:36 430807750 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430807750 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430807750 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430807750 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430807750 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430807750 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430808093 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430808093 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430808093 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430808093 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430808093 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430808093 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430808109 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430808109 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430808109 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430808109 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430808109 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430808109 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430808109 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430808109 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430808109 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430808109 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430808109 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430808109 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:36 430808109 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:08:36 430808109 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [114486]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:08:38 430810531 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:08:38 430810578 374e1126 [INFO Client 12568] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/09 23:08:38 430810578 374e1287 [INFO Client 12568] [Item Filter] Hash for online filter 5XMehq is: 73dba18d580f1c53f30332682adbfc8a
+2022/10/09 23:08:39 430810781 374e12ea [INFO Client 12568] [Item Filter] Online item filter 5XMehq returned status: 304
+2022/10/09 23:08:39 430810781 374e0d87 [DEBUG Client 12568] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/09 23:08:39 430810781 374e0d8f [DEBUG Client 12568] [Item Filter] X-HW: 1665346287.dop031.pa1.t,1665346287.cds241.pa1.shn,1665346287.dop031.pa1.t,1665346287.cds237.pa1.c
+2022/10/09 23:08:39 430810796 78847107 [INFO Client 12568] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 73dba18d580f1c53f30332682adbfc8a. Message: 
+2022/10/09 23:09:44 430876640 cff943d8 [INFO Client 12568] : Не удалось применить предмет: Цель уже опознана.
+2022/10/09 23:09:46 430877984 cff943d8 [INFO Client 12568] : Не удалось применить предмет: Цель уже опознана.
+2022/10/09 23:09:54 430886656 cff943d8 [INFO Client 12568] : Сделка совершена.
+2022/10/09 23:10:29 430921250 cff943d8 [INFO Client 12568] : Сделка отклонена.
+2022/10/09 23:10:42 430934578 cff943d8 [INFO Client 12568] : Сделка совершена.
+2022/10/09 23:12:44 431056093 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [114510]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:12:44 431056093 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:12:44 431056093 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [114510]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:15:32 431223765 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [114541]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:15:32 431223765 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:15:32 431223765 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [114541]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:16:38 431289718 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:16:38 431289718 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:16:38 431289734 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.142:6112
+2022/10/09 23:16:38 431289796 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 31ms
+2022/10/09 23:16:39 431290921 1186952b [DEBUG Client 12568] Generating level 69 area "MapWorldsCarcass" with seed 2728975984
+2022/10/09 23:16:43 431294953 f22b69a6 [INFO Client 12568] Tile hash: 709364876
+2022/10/09 23:16:43 431294953 f22b69a7 [INFO Client 12568] Doodad hash: 3460920561
+2022/10/09 23:16:45 431297046 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:16:45 431297671 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Остов.
+2022/10/09 23:16:46 431298609 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:17:34 431346640 cff943d8 [INFO Client 12568] Ашлинг Лаффрей, Безмолвный палач: Когда мы закончим, никто даже не сможет назвать тебя человеком.
+2022/10/09 23:17:36 431348578 cff943d8 [INFO Client 12568] Камериа Хладнокровный: Нежному цветку вроде тебя не пристало драться в одиночестве.
+2022/10/09 23:17:36 431348609 cff943d8 [INFO Client 12568] Джун, Скрытый мастер: Чудище, Синдикат пытается сдержать твои низменные порывы.
+2022/10/09 23:17:57 431369187 cff943d8 [INFO Client 12568] Джун, Скрытый мастер: Ашлинг, с тебя хватит.
+2022/10/09 23:18:20 431392218 cff943d8 [INFO Client 12568] Джун, Скрытый мастер: Надеюсь, он сумеет нам что-нибудь рассказать.
+2022/10/09 23:18:38 431410328 cff943d8 [INFO Client 12568] Ашлинг Лаффрей, Безмолвный палач: Ты уже начинаешь соображать? Я вижу это по твоим глазам. Но сейчас творится такое, что ты не в силах понять.
+2022/10/09 23:26:37 431888750 cff943d8 [INFO Client 12568] : ChampionLTi был повержен.
+2022/10/09 23:26:39 431890937 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:26:39 431890937 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:26:39 431890937 ca3a6737 [INFO Client 12568] Connecting to instance server at 159.122.142.253:6112
+2022/10/09 23:26:39 431891000 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 47ms
+2022/10/09 23:26:39 431891078 1186952b [DEBUG Client 12568] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/09 23:26:39 431891281 f22b69a6 [INFO Client 12568] Tile hash: 3842481850
+2022/10/09 23:26:39 431891281 f22b69a7 [INFO Client 12568] Doodad hash: 3697406269
+2022/10/09 23:26:39 431891687 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:26:40 431892031 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [7486]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:26:41 431892750 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/09 23:26:42 431893968 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:27:03 431914890 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:27:03 431914890 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:27:03 431914890 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.142:6112
+2022/10/09 23:27:03 431914953 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 47ms
+2022/10/09 23:27:03 431915031 1186952b [DEBUG Client 12568] Generating level 69 area "MapWorldsCarcass" with seed 2728975984
+2022/10/09 23:27:03 431915218 f22b69a6 [INFO Client 12568] Tile hash: 709364876
+2022/10/09 23:27:03 431915218 f22b69a7 [INFO Client 12568] Doodad hash: 3460920561
+2022/10/09 23:27:04 431916156 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:27:04 431916515 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Остов.
+2022/10/09 23:27:05 431917515 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:29:35 432067406 cff943d8 [INFO Client 12568] Тан Йоргин Изгнанный: Это кто? А, новый соперник!
+2022/10/09 23:29:39 432071406 cff943d8 [INFO Client 12568] Камериа Хладнокровный: Обычно я предпочитаю работать один, но для тебя сделаю исключение.
+2022/10/09 23:29:39 432071421 cff943d8 [INFO Client 12568] Джун, Скрытый мастер: Чудище, Синдикат пытается сдержать твои низменные порывы.
+2022/10/09 23:30:05 432096812 cff943d8 [INFO Client 12568] Тан Йоргин Изгнанный: Теперь караван... твой.
+2022/10/09 23:30:12 432104453 cff943d8 [INFO Client 12568] Камериа Хладнокровный: Абсолютная жестокость! Давай ещё!
+2022/10/09 23:30:21 432113515 cff943d8 [INFO Client 12568] Камериа Хладнокровный: Только не рассказывай о моём длинном языке Синдикату. Или расскажи, мне всё равно.
+2022/10/09 23:34:21 432353531 890da8d3 [INFO Client 12568] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/09 23:34:21 432353578 890d9d9b [INFO Client 12568] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/09 23:34:25 432357250 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:34:25 432357265 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:34:25 432357265 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.142:6112
+2022/10/09 23:34:25 432357312 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 31ms
+2022/10/09 23:34:25 432357421 1186952b [DEBUG Client 12568] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/09 23:34:28 432360156 f22b69a6 [INFO Client 12568] Tile hash: 3842481850
+2022/10/09 23:34:28 432360156 f22b69a7 [INFO Client 12568] Doodad hash: 3697406269
+2022/10/09 23:34:30 432361765 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:34:30 432361937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361953 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361953 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361953 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361953 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361953 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361953 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361953 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361953 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432361968 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [114789]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/09 23:34:30 432362312 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/09 23:34:30 432362328 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362328 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362328 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362328 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362328 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362328 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362328 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362328 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [114789]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362703 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362703 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362703 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362703 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362703 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362703 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362703 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362703 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362703 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362703 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362703 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362703 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362703 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362703 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362703 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362703 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:30 432362703 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/09 23:34:30 432362703 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Expression passed to function gave an empty result, expected a location or object
+2022/10/09 23:34:32 432364000 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:34:32 432364031 374e1126 [INFO Client 12568] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/09 23:34:32 432364031 374e1287 [INFO Client 12568] [Item Filter] Hash for online filter 5XMehq is: 73dba18d580f1c53f30332682adbfc8a
+2022/10/09 23:34:32 432364250 374e12ea [INFO Client 12568] [Item Filter] Online item filter 5XMehq returned status: 304
+2022/10/09 23:34:32 432364250 374e0d87 [DEBUG Client 12568] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/09 23:34:32 432364250 374e0d8f [DEBUG Client 12568] [Item Filter] X-HW: 1665347841.dop219.pa1.t,1665347841.cds207.pa1.shn,1665347841.dop219.pa1.t,1665347841.cds237.pa1.c
+2022/10/09 23:34:32 432364265 78847107 [INFO Client 12568] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 73dba18d580f1c53f30332682adbfc8a. Message: 
+2022/10/09 23:34:51 432383015 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:34:51 432383046 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:34:51 432383046 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.140:6112
+2022/10/09 23:34:51 432383093 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 32ms
+2022/10/09 23:34:51 432383156 1186952b [DEBUG Client 12568] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/09 23:34:51 432383640 f22b69a6 [INFO Client 12568] Tile hash: 2509555744
+2022/10/09 23:34:51 432383640 f22b69a7 [INFO Client 12568] Doodad hash: 0
+2022/10/09 23:34:52 432384265 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:34:53 432385718 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/09 23:34:55 432386890 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:37:20 432531765 cff943d8 [INFO Client 12568] : Ошибка: Не удалось войти в область.
+2022/10/09 23:37:57 432568890 cff943d8 [INFO Client 12568] : Ошибка: Не удалось войти в область.
+2022/10/09 23:39:25 432657625 cff943d8 [INFO Client 12568] : Сделка совершена.
+2022/10/09 23:40:02 432694484 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:40:02 432694484 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:40:02 432694484 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 23:40:02 432694546 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 47ms
+2022/10/09 23:40:02 432694625 1186952b [DEBUG Client 12568] Generating level 72 area "MapWorldsStrand" with seed 1386131310
+2022/10/09 23:40:04 432696562 f22b69a6 [INFO Client 12568] Tile hash: 3178347488
+2022/10/09 23:40:04 432696562 f22b69a7 [INFO Client 12568] Doodad hash: 2058958969
+2022/10/09 23:40:07 432699078 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:40:09 432701171 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Взморье.
+2022/10/09 23:40:10 432702203 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:44:54 432985906 cff943d8 [INFO Client 12568] : Вы не можете попасть в убежище отсюда.
+2022/10/09 23:45:22 433014531 3796f5cb [WARN Client 12568] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/09 23:51:50 433402500 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:51:50 433402500 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:51:50 433402500 ca3a6737 [INFO Client 12568] Connecting to instance server at 159.122.142.236:6112
+2022/10/09 23:51:50 433402562 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 46ms
+2022/10/09 23:51:50 433402640 1186952b [DEBUG Client 12568] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/09 23:51:50 433402703 f22b69a6 [INFO Client 12568] Tile hash: 2509555744
+2022/10/09 23:51:50 433402703 f22b69a7 [INFO Client 12568] Doodad hash: 0
+2022/10/09 23:51:51 433403281 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:51:52 433403750 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/09 23:51:52 433404625 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:51:55 433407250 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:51:55 433407250 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:51:55 433407250 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 23:51:55 433407312 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 31ms
+2022/10/09 23:51:55 433407375 1186952b [DEBUG Client 12568] Generating level 72 area "MapWorldsStrand" with seed 1386131310
+2022/10/09 23:51:55 433407500 f22b69a6 [INFO Client 12568] Tile hash: 3178347488
+2022/10/09 23:51:55 433407500 f22b69a7 [INFO Client 12568] Doodad hash: 2058958969
+2022/10/09 23:51:56 433408703 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:51:57 433409093 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Взморье.
+2022/10/09 23:51:58 433409906 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:51:59 433411203 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:51:59 433411203 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:51:59 433411203 ca3a6737 [INFO Client 12568] Connecting to instance server at 159.122.142.236:6112
+2022/10/09 23:51:59 433411265 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 47ms
+2022/10/09 23:51:59 433411343 1186952b [DEBUG Client 12568] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/09 23:51:59 433411437 f22b69a6 [INFO Client 12568] Tile hash: 2509555744
+2022/10/09 23:51:59 433411437 f22b69a7 [INFO Client 12568] Doodad hash: 0
+2022/10/09 23:52:00 433412140 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:52:00 433412500 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/09 23:52:01 433413234 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:53:54 433525921 cff943d8 [INFO Client 12568] : Не удалось применить предмет: Цель уже опознана.
+2022/10/09 23:54:12 433544500 cff943d8 [INFO Client 12568] : Сделка совершена.
+2022/10/09 23:54:28 433560046 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:54:28 433560062 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:54:28 433560062 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 23:54:28 433560125 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 31ms
+2022/10/09 23:54:28 433560187 1186952b [DEBUG Client 12568] Generating level 72 area "MapWorldsStrand" with seed 1386131310
+2022/10/09 23:54:28 433560281 f22b69a6 [INFO Client 12568] Tile hash: 3178347488
+2022/10/09 23:54:28 433560281 f22b69a7 [INFO Client 12568] Doodad hash: 2058958969
+2022/10/09 23:54:29 433561718 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:54:30 433562125 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Взморье.
+2022/10/09 23:54:31 433562953 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:54:32 433564687 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:54:32 433564687 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:54:32 433564687 ca3a6737 [INFO Client 12568] Connecting to instance server at 159.122.142.236:6112
+2022/10/09 23:54:33 433564750 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 47ms
+2022/10/09 23:54:33 433564812 1186952b [DEBUG Client 12568] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/09 23:54:33 433564890 f22b69a6 [INFO Client 12568] Tile hash: 2509555744
+2022/10/09 23:54:33 433564890 f22b69a7 [INFO Client 12568] Doodad hash: 0
+2022/10/09 23:54:33 433565500 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:54:34 433565859 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/09 23:54:34 433566562 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:55:09 433601093 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:55:09 433601109 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:55:09 433601109 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.142:6112
+2022/10/09 23:55:09 433601171 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 31ms
+2022/10/09 23:55:09 433601250 1186952b [DEBUG Client 12568] Generating level 70 area "MapWorldsMuseum" with seed 3501506613
+2022/10/09 23:55:10 433602468 f22b69a6 [INFO Client 12568] Tile hash: 1253688188
+2022/10/09 23:55:10 433602468 f22b69a7 [INFO Client 12568] Doodad hash: 2264560526
+2022/10/09 23:55:11 433602875 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:55:11 433603406 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Музей.
+2022/10/09 23:55:12 433604203 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:55:49 433640937 cff943d8 [INFO Client 12568] : ChampionLTi был повержен.
+2022/10/09 23:55:51 433642828 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:55:51 433642828 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:55:51 433642828 ca3a6737 [INFO Client 12568] Connecting to instance server at 159.122.142.236:6112
+2022/10/09 23:55:51 433642890 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 47ms
+2022/10/09 23:55:51 433642968 1186952b [DEBUG Client 12568] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/09 23:55:51 433643046 f22b69a6 [INFO Client 12568] Tile hash: 2509555744
+2022/10/09 23:55:51 433643046 f22b69a7 [INFO Client 12568] Doodad hash: 0
+2022/10/09 23:55:52 433643890 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:55:52 433644328 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/09 23:55:53 433645015 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:55:56 433648562 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/09 23:55:56 433648562 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/09 23:55:56 433648562 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.142:6112
+2022/10/09 23:55:56 433648640 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 47ms
+2022/10/09 23:55:56 433648703 1186952b [DEBUG Client 12568] Generating level 70 area "MapWorldsMuseum" with seed 3501506613
+2022/10/09 23:55:57 433648750 f22b69a6 [INFO Client 12568] Tile hash: 1253688188
+2022/10/09 23:55:57 433648750 f22b69a7 [INFO Client 12568] Doodad hash: 2264560526
+2022/10/09 23:55:57 433649390 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/09 23:55:58 433649812 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Музей.
+2022/10/09 23:55:58 433650500 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/09 23:59:46 433877937 cff943d8 [INFO Client 12568] : Вы получили очко пассивных умений Атласа.
+2022/10/09 23:59:54 433886531 8da7eb3b [INFO Client 12568] Successfully allocated passive skill id: atlas_zana_1_6, name: Искусная разведка
+2022/10/10 00:01:26 433978203 3796f5cb [WARN Client 12568] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/10 00:02:47 434059250 3796f5cb [WARN Client 12568] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/10 00:02:51 434063578 890da8d3 [INFO Client 12568] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/10 00:02:51 434063609 890d9d9b [INFO Client 12568] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/10 00:02:55 434067468 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/10 00:02:55 434067468 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/10 00:02:55 434067468 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.142:6112
+2022/10/10 00:02:55 434067531 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 47ms
+2022/10/10 00:02:55 434067625 1186952b [DEBUG Client 12568] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/10 00:03:06 434078656 f22b69a6 [INFO Client 12568] Tile hash: 3842481850
+2022/10/10 00:03:06 434078656 f22b69a7 [INFO Client 12568] Doodad hash: 3697406269
+2022/10/10 00:03:07 434079484 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/10 00:03:08 434080109 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080109 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080140 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080140 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080140 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080140 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080140 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080250 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [115078]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:03:08 434080640 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/10 00:03:08 434080671 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:08 434080671 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:08 434080671 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:08 434080671 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:08 434080671 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:08 434080671 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:08 434080671 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:08 434080671 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [115078]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:09 434081125 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:09 434081125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:09 434081125 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:09 434081125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:09 434081125 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:09 434081125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:09 434081125 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:09 434081125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:09 434081125 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:09 434081125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:09 434081125 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:09 434081125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:09 434081125 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:09 434081125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:09 434081125 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:09 434081125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:09 434081125 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:03:09 434081125 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:03:10 434082484 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/10 00:03:10 434082515 374e1126 [INFO Client 12568] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/10 00:03:10 434082515 374e1287 [INFO Client 12568] [Item Filter] Hash for online filter 5XMehq is: 73dba18d580f1c53f30332682adbfc8a
+2022/10/10 00:03:10 434082718 374e12ea [INFO Client 12568] [Item Filter] Online item filter 5XMehq returned status: 304
+2022/10/10 00:03:10 434082718 374e0d87 [DEBUG Client 12568] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/10 00:03:10 434082718 374e0d8f [DEBUG Client 12568] [Item Filter] X-HW: 1665349559.dop041.pa1.t,1665349559.cds238.pa1.shn,1665349559.dop041.pa1.t,1665349559.cds237.pa1.c
+2022/10/10 00:03:11 434082718 78847107 [INFO Client 12568] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 73dba18d580f1c53f30332682adbfc8a. Message: 
+2022/10/10 00:04:25 434157640 cff943d8 [INFO Client 12568] : Не удалось применить предмет: Цель уже опознана.
+2022/10/10 00:04:36 434168234 cff943d8 [INFO Client 12568] : Сделка совершена.
+2022/10/10 00:05:21 434213000 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/10 00:05:21 434213000 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/10 00:05:21 434213000 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.171:6112
+2022/10/10 00:05:21 434213078 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 31ms
+2022/10/10 00:05:21 434213156 1186952b [DEBUG Client 12568] Generating level 71 area "MapWorldsShore" with seed 2778540490
+2022/10/10 00:05:23 434215281 f22b69a6 [INFO Client 12568] Tile hash: 4177702352
+2022/10/10 00:05:23 434215281 f22b69a7 [INFO Client 12568] Doodad hash: 3765661560
+2022/10/10 00:05:24 434215890 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/10 00:05:24 434216390 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берег.
+2022/10/10 00:05:25 434217390 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/10 00:06:50 434302671 cff943d8 [INFO Client 12568] : ChampionLTi (Чемпион) достигает 80 уровня
+2022/10/10 00:06:51 434302796 bce2d656 [INFO Client 12568] Achivement stored: Level80
+2022/10/10 00:06:51 434303000 bce2d691 [INFO Client 12568] Steam stats stored
+2022/10/10 00:10:57 434549546 cff943d8 [INFO Client 12568] : Вы получили очко пассивных умений Атласа.
+2022/10/10 00:11:36 434588343 8da7eb3b [INFO Client 12568] Successfully allocated passive skill id: atlas_kirac_1_8_, name: Шанс задания Кирака
+2022/10/10 00:12:24 434636046 fb7ae269 [INFO Client 12568] Successfully allocated mastery effect id: 35302, mastery: mastery_shield211, name: Мастерство щита
+2022/10/10 00:13:27 434699281 890da8d3 [INFO Client 12568] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/10 00:13:27 434699312 890d9d9b [INFO Client 12568] Connected to mil01.login.pathofexile.com in 15ms.
+2022/10/10 00:13:32 434704375 88a90480 [DEBUG Client 12568] Got Instance Details from login server
+2022/10/10 00:13:32 434704375 32759a9f [INFO Client 12568] [SHADER] Delay: OFF
+2022/10/10 00:13:32 434704375 ca3a6737 [INFO Client 12568] Connecting to instance server at 169.51.201.142:6112
+2022/10/10 00:13:32 434704437 ca3a4d51 [DEBUG Client 12568] Connect time to instance server was 46ms
+2022/10/10 00:13:32 434704531 1186952b [DEBUG Client 12568] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/10 00:13:33 434704750 f22b69a6 [INFO Client 12568] Tile hash: 3842481850
+2022/10/10 00:13:33 434704750 f22b69a7 [INFO Client 12568] Doodad hash: 3697406269
+2022/10/10 00:13:36 434707765 11871c61 [DEBUG Client 12568] Joined guild named Chevaleki with 2 members 
+2022/10/10 00:13:36 434707921 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707937 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707953 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434707984 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [115175]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 00:13:36 434708312 cff943d8 [INFO Client 12568] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/10 00:13:36 434708328 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:36 434708328 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:36 434708328 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:36 434708328 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [115175]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:37 434708718 909127ff [INFO Client 12568] FindClosestObject found no nearby object
+2022/10/10 00:13:37 434708718 d946cb1d [CRIT Client 12568] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 00:13:38 434710515 32759a9f [INFO Client 12568] [SHADER] Delay: ON
+2022/10/10 00:13:38 434710546 374e1126 [INFO Client 12568] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/10 00:13:38 434710546 374e1287 [INFO Client 12568] [Item Filter] Hash for online filter 5XMehq is: 73dba18d580f1c53f30332682adbfc8a
+2022/10/10 00:13:39 434710828 374e12ea [INFO Client 12568] [Item Filter] Online item filter 5XMehq returned status: 200
+2022/10/10 00:13:39 434710828 374e0d87 [DEBUG Client 12568] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/10 00:13:39 434710828 374e0d8f [DEBUG Client 12568] [Item Filter] X-HW: 1665350187.dop221.pa1.t,1665350187.cds232.pa1.shn,1665350187.dop221.pa1.t,1665350187.cds237.pa1.c
+2022/10/10 00:13:39 434710828 374e0d61 [INFO Client 12568] [Item Filter] Successfully saved online filter 5XMehq. Hash is now: 7210648b393f368168ce6215e74a1919
+2022/10/10 00:13:39 434710843 78847107 [INFO Client 12568] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 7210648b393f368168ce6215e74a1919. Message: 
