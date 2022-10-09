@@ -1,0 +1,317 @@
+2022/10/09 13:11:52 ***** LOG FILE OPENING *****
+2022/10/09 13:11:52 395004000 340884db [DEBUG Client 9616] [RENDER] StopDevice
+2022/10/09 13:11:52 395004000 84a7e6f1 [INFO Client 9616] [ENGINE] Clear
+2022/10/09 13:11:52 395004000 7bb5422 [INFO Client 9616] [BUNDLE2] Deinit
+2022/10/09 13:11:52 395004000 84a7e691 [INFO Client 9616] [JOB] Clear
+2022/10/09 13:11:52 395004000 84a7e7bf [INFO Client 9616] [ANIMATION] Clear
+2022/10/09 13:11:52 395004000 84a7e7be [INFO Client 9616] [PHYSICS] Clear
+2022/10/09 13:11:52 395004000 84a7e7bd [INFO Client 9616] [SHADER] Clear
+2022/10/09 13:11:52 395004000 84a7e7bc [INFO Client 9616] [ENTITY] Clear
+2022/10/09 13:11:52 395004000 84a7e7bb [INFO Client 9616] [SOUND] Clear
+2022/10/09 13:11:52 395004000 84a7e7ba [INFO Client 9616] [VIDEO] Clear
+2022/10/09 13:11:52 395004000 84a7e7b9 [INFO Client 9616] [SCENE] Clear
+2022/10/09 13:11:52 395004000 84a7e7b8 [INFO Client 9616] [GRAPH] Clear
+2022/10/09 13:11:52 395004000 84a7e7b7 [INFO Client 9616] [TELEMETRY] Clear
+2022/10/09 13:11:52 395004000 84a7e7b6 [INFO Client 9616] [RESOURCE] GarbageCollect
+2022/10/09 13:11:52 395004000 84a7e75e [INFO Client 9616] [RESOURCE] Clear
+2022/10/09 13:11:52 395004000 84a7e75b [INFO Client 9616] [RENDER] Clear
+2022/10/09 13:11:52 395004000 84a7e758 [INFO Client 9616] [ENGINE] Done
+2022/10/09 13:11:53 ***** LOG FILE OPENING *****
+2022/10/09 13:11:53 395005031 f954428c [INFO Client 4652] [STARTUP] Job Queues
+2022/10/09 13:11:53 395005046 9e6a0b0a [INFO Client 4652] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/09 13:11:53 395005109 9e6a1d2a [INFO Client 4652] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 13:11:53 395005109 9e6a1363 [INFO Client 4652] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/09 13:11:53 395005109 9e6a0b0a [INFO Client 4652] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/09 13:11:53 395005109 9e6a1d2a [INFO Client 4652] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 13:11:53 395005125 84a7d27d [INFO Client 4652] [ENGINE] Init
+2022/10/09 13:11:53 395005125 55713145 [INFO Client 4652] [JOB] HIGH: 2
+2022/10/09 13:11:53 395005125 55713145 [INFO Client 4652] [JOB] MEDIUM: 2
+2022/10/09 13:11:53 395005125 55713145 [INFO Client 4652] [JOB] LOW: 2
+2022/10/09 13:11:53 395005125 55713145 [INFO Client 4652] [JOB] IDLE: 1
+2022/10/09 13:11:53 395005125 7bb548f [INFO Client 4652] [BUNDLE2] Init
+2022/10/09 13:11:53 395005125 7bb36c4 [INFO Client 4652] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/09 13:11:53 395005312 7bb61e6 [INFO Client 4652] [BUNDLE2] File cache size: 1024
+2022/10/09 13:11:53 395005312 b51d61ab [INFO Client 4652] [RENDER] Async: ON
+2022/10/09 13:11:53 395005312 b51d60c8 [INFO Client 4652] [RENDER] Warmup: ON
+2022/10/09 13:11:53 395005312 b51d60ce [INFO Client 4652] [RENDER] Skip: ON
+2022/10/09 13:11:53 395005312 b51d60eb [INFO Client 4652] [RENDER] Throttling: ON
+2022/10/09 13:11:53 395005312 32759a7a [INFO Client 4652] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/09 13:11:53 395005312 32759a70 [INFO Client 4652] [SHADER] Async: ON
+2022/10/09 13:11:53 395005312 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:11:53 395005312 32759aba [INFO Client 4652] [SHADER] Limit: ON
+2022/10/09 13:11:53 395005312 32759abc [INFO Client 4652] [SHADER] Warmup: ON
+2022/10/09 13:11:53 395005312 327599d7 [INFO Client 4652] [SHADER] Parallel: OFF
+2022/10/09 13:11:53 395005312 84a7e376 [INFO Client 4652] [ENGINE] Running Engine version 1.6.0
+2022/10/09 13:11:53 395005328 47bbd159 [INFO Client 4652] [SOUND] Buffer size = 64.0 MB
+2022/10/09 13:11:53 395005359 9b0d205 [INFO Client 4652] [VIDEO] Enable: ON
+2022/10/09 13:11:53 395005375 84a7d2d8 [INFO Client 4652] [ENGINE] Ready
+2022/10/09 13:11:53 395005406 951bc0b0 [INFO Client 4652] [STARTUP] Bundle Startup Start
+2022/10/09 13:11:53 395005406 951bc057 [INFO Client 4652] [STARTUP] Bundle Startup in 5.2e-05 seconds
+2022/10/09 13:11:53 395005406 951bc0b0 [INFO Client 4652] [STARTUP] Game Start
+2022/10/09 13:11:53 395005578 ca86fd3f [DEBUG Client 4652] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/09 13:11:54 395005796 951bc057 [INFO Client 4652] [STARTUP] Game in 0.397015 seconds
+2022/10/09 13:11:54 395005796 951bc0b0 [INFO Client 4652] [STARTUP] Window Start
+2022/10/09 13:11:54 395005796 9e6a0b0a [INFO Client 4652] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/09 13:11:54 395005859 9e6a1d2a [INFO Client 4652] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 13:11:54 395005859 9e6a1363 [INFO Client 4652] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/09 13:11:54 395005859 9e6a0b0a [INFO Client 4652] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/09 13:11:54 395005875 9e6a1d2a [INFO Client 4652] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/09 13:11:54 395005906 951bc057 [INFO Client 4652] [STARTUP] Window in 0.099943 seconds
+2022/10/09 13:11:54 395005906 413b61ff [DEBUG Client 4652] [GamepadManager] Initialising
+2022/10/09 13:11:54 395005906 951bc0b0 [INFO Client 4652] [STARTUP] Device Start
+2022/10/09 13:11:54 395005906 b51d6589 [INFO Client 4652] [RENDER] StartDevice: DirectX11
+2022/10/09 13:11:54 395006046 71b3b00 [DEBUG Client 4652] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/09 13:11:54 395006046 97ce04a4 [WARN Client 4652] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/09 13:11:54 395006109 fafff8cf [DEBUG Client 4652] CreateSwapChain: SetFullScreenState 0
+2022/10/09 13:11:54 395006109 29d4ce01 [INFO Client 4652] [D3D11] Runtime version = 11.1
+2022/10/09 13:11:54 395006109 29d4ce00 [INFO Client 4652] [D3D11] Feature Level = 11.1
+2022/10/09 13:11:54 395006109 29d4ce03 [INFO Client 4652] [D3D11] Driver Command Lists = NO
+2022/10/09 13:11:54 395006109 29d4ce02 [INFO Client 4652] [D3D11] Driver Concurrent Creates = YES
+2022/10/09 13:11:54 395006109 29d4ce05 [INFO Client 4652] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/09 13:11:54 395006171 9d4eeb40 [DEBUG Client 4652] [WINDOW] TrigggerDeviceCreate
+2022/10/09 13:11:54 395006328 9d4eeba7 [DEBUG Client 4652] [WINDOW] TrigggerDeviceReset
+2022/10/09 13:11:54 395006359 9d4eec8a [DEBUG Client 4652] [WINDOW] TrigggerDeviceLost
+2022/10/09 13:11:54 395006359 9d4eeba7 [DEBUG Client 4652] [WINDOW] TrigggerDeviceReset
+2022/10/09 13:11:54 395006375 951bc057 [INFO Client 4652] [STARTUP] Device in 0.464997 seconds
+2022/10/09 13:11:54 395006375 951bc0b0 [INFO Client 4652] [STARTUP] Tencent Start
+2022/10/09 13:11:54 395006375 951bc057 [INFO Client 4652] [STARTUP] Tencent in 6.3e-05 seconds
+2022/10/09 13:11:54 395006375 951bc0b0 [INFO Client 4652] [STARTUP] Loading Start
+2022/10/09 13:11:54 395006406 951bc057 [INFO Client 4652] [STARTUP] Loading in 0.022825 seconds
+2022/10/09 13:11:54 395006406 951bc0b0 [INFO Client 4652] [STARTUP] DebugGUI Start
+2022/10/09 13:11:54 395006406 951bc057 [INFO Client 4652] [STARTUP] DebugGUI in 1.9e-05 seconds
+2022/10/09 13:11:54 395006406 951bc0b0 [INFO Client 4652] [STARTUP] Bundle Tiny Start
+2022/10/09 13:11:54 395006406 951bc0b0 [INFO Client 4652] [STARTUP] Bundle Login Start
+2022/10/09 13:11:54 395006406 951bc0b0 [INFO Client 4652] [STARTUP] Registration Start
+2022/10/09 13:11:54 395006406 951bc057 [INFO Client 4652] [STARTUP] Bundle Login in 2.9e-05 seconds
+2022/10/09 13:11:54 395006406 951bc057 [INFO Client 4652] [STARTUP] Bundle Tiny in 0.000133 seconds
+2022/10/09 13:11:54 395006437 951bc0b0 [INFO Client 4652] [STARTUP] Audio Start
+2022/10/09 13:11:54 395006437 47bbee18 [INFO Client 4652] [SOUND] Channel count = 128 (asked for 128)
+2022/10/09 13:11:54 395006437 47bbee19 [INFO Client 4652] [SOUND] Source count = 512
+2022/10/09 13:11:54 395006546 47bbea58 [INFO Client 4652] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/09 13:11:54 395006546 951bc057 [INFO Client 4652] [STARTUP] Audio in 0.108242 seconds
+2022/10/09 13:11:55 395006875 951bc057 [INFO Client 4652] [STARTUP] Registration in 0.472135 seconds
+2022/10/09 13:11:58 395010250 890da8d3 [INFO Client 4652] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/09 13:11:58 395010437 890d9d9b [INFO Client 4652] Connected to mil01.login.pathofexile.com in 15ms.
+2022/10/09 13:12:03 395015062 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:12:03 395015109 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:12:03 395015109 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 13:12:03 395015171 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 31ms
+2022/10/09 13:12:03 395015250 1186952b [DEBUG Client 4652] Generating level 1 area "1_1_1" with seed 4109967387
+2022/10/09 13:12:04 395016531 f22b69a6 [INFO Client 4652] Tile hash: 3768138580
+2022/10/09 13:12:04 395016531 f22b69a7 [INFO Client 4652] Doodad hash: 3806748656
+2022/10/09 13:12:09 395020968 cff943d8 [INFO Client 4652] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Сумрачное взморье.
+2022/10/09 13:12:09 395021703 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:12:10 395021750 374e1126 [INFO Client 4652] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/09 13:12:10 395021750 374e1287 [INFO Client 4652] [Item Filter] Hash for online filter 5XMehq is: 8b6f99c24aea3dac412cdeff3fe06cd2
+2022/10/09 13:12:10 395021968 374e12ea [INFO Client 4652] [Item Filter] Online item filter 5XMehq returned status: 304
+2022/10/09 13:12:10 395021968 374e0d87 [DEBUG Client 4652] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/09 13:12:10 395021968 374e0d8f [DEBUG Client 4652] [Item Filter] X-HW: 1665310499.dop045.pa1.t,1665310499.cds241.pa1.shn,1665310499.dop045.pa1.t,1665310499.cds237.pa1.c
+2022/10/09 13:12:10 395021968 78847107 [INFO Client 4652] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 8b6f99c24aea3dac412cdeff3fe06cd2. Message: 
+2022/10/09 13:12:11 395022750 2a14a9a7 [INFO Client 4652] PrecalcBaseTypeHashMap
+2022/10/09 13:12:11 395022843 2a14a9a1 [INFO Client 4652] PrecalcModNameHashMap
+2022/10/09 13:12:12 395024078 2a14a9a3 [INFO Client 4652] PrecalcItemClassMap
+2022/10/09 13:12:12 395024078 2a14a9ad [INFO Client 4652] PrecalcSoundEffects
+2022/10/09 13:12:12 395024078 2a14a902 [INFO Client 4652] PrecalcDropEffects
+2022/10/09 13:12:12 395024078 2a14a900 [INFO Client 4652] PrecalcNonEnchantModHashes
+2022/10/09 13:12:12 395024078 2a14a906 [INFO Client 4652] PrecalcRuleNameToTypeMap
+2022/10/09 13:12:12 395024078 2a14a904 [INFO Client 4652] PrecalcCJESPNIndexMap
+2022/10/09 13:12:12 395024093 2a14a90a [INFO Client 4652] PrecalcGemAlternateQualityMap
+2022/10/09 13:13:30 395102437 cff943d8 [INFO Client 4652] : DeeLeetIII (Дуэлянт) достигает 2 уровня
+2022/10/09 13:13:45 395117453 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:13:45 395117468 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:13:45 395117468 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 13:13:45 395117515 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 32ms
+2022/10/09 13:13:45 395117593 1186952b [DEBUG Client 4652] Generating level 13 area "1_1_town" with seed 1
+2022/10/09 13:13:47 395118890 f22b69a6 [INFO Client 4652] Tile hash: 1809335384
+2022/10/09 13:13:47 395118890 f22b69a7 [INFO Client 4652] Doodad hash: 0
+2022/10/09 13:13:47 395119609 cff943d8 [INFO Client 4652] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/09 13:13:48 395120375 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:14:19 395151171 cff943d8 [INFO Client 4652] : Сделка совершена.
+2022/10/09 13:14:34 395166421 cff943d8 [INFO Client 4652] : Указанный предмет уничтожен
+2022/10/09 13:15:10 395201734 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:15:10 395201734 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:15:10 395201734 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.138:6112
+2022/10/09 13:15:10 395201812 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 31ms
+2022/10/09 13:15:10 395201875 1186952b [DEBUG Client 4652] Generating level 2 area "1_1_2" with seed 2487612053
+2022/10/09 13:15:11 395202906 f22b69a6 [INFO Client 4652] Tile hash: 1016531566
+2022/10/09 13:15:11 395202906 f22b69a7 [INFO Client 4652] Doodad hash: 3931236334
+2022/10/09 13:15:12 395203734 cff943d8 [INFO Client 4652] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Побережье.
+2022/10/09 13:15:13 395204765 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:15:24 395216125 fb7ae604 [INFO Client 4652] Successfully allocated passive skill id: physical_attack_damage_life1843, name: Физический урон от атак и здоровье
+2022/10/09 13:17:15 395326937 cff943d8 [INFO Client 4652] : DeeLeetIII (Дуэлянт) достигает 3 уровня
+2022/10/09 13:17:53 395365718 fb7ae604 [INFO Client 4652] Successfully allocated passive skill id: physical_attack_damage1845, name: Физический урон от атак
+2022/10/09 13:18:02 395374437 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:18:02 395374437 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:18:02 395374437 ca3a6737 [INFO Client 4652] Connecting to instance server at 159.122.142.253:6112
+2022/10/09 13:18:02 395374515 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 47ms
+2022/10/09 13:18:02 395374578 1186952b [DEBUG Client 4652] Generating level 4 area "1_1_3" with seed 436853567
+2022/10/09 13:18:03 395375000 f22b69a6 [INFO Client 4652] Tile hash: 1422057504
+2022/10/09 13:18:03 395375000 f22b69a7 [INFO Client 4652] Doodad hash: 2111544651
+2022/10/09 13:18:03 395375578 cff943d8 [INFO Client 4652] : <<set:FP>><<set:F>><<set:P>>Вы вошли в область Илистые низины.
+2022/10/09 13:18:04 395376203 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:18:59 395431468 cff943d8 [INFO Client 4652] : DeeLeetIII (Дуэлянт) достигает 4 уровня
+2022/10/09 13:20:12 395504296 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:20:12 395504296 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:20:12 395504296 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 13:20:12 395504359 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 47ms
+2022/10/09 13:20:12 395504437 1186952b [DEBUG Client 4652] Generating level 5 area "1_1_4_1" with seed 3929169083
+2022/10/09 13:20:13 395504984 f22b69a6 [INFO Client 4652] Tile hash: 51190472
+2022/10/09 13:20:13 395504984 f22b69a7 [INFO Client 4652] Doodad hash: 2350883582
+2022/10/09 13:20:13 395505406 cff943d8 [INFO Client 4652] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сырой проход.
+2022/10/09 13:20:14 395506093 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:20:17 395509406 fb7ae604 [INFO Client 4652] Successfully allocated passive skill id: armour_evasion_life1850, name: Броня, уклонение и здоровье
+2022/10/09 13:20:19 395510859 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:20:19 395510859 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:20:19 395510859 ca3a6737 [INFO Client 4652] Connecting to instance server at 159.122.142.253:6112
+2022/10/09 13:20:19 395510921 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 47ms
+2022/10/09 13:20:19 395511000 1186952b [DEBUG Client 4652] Generating level 4 area "1_1_3" with seed 436853567
+2022/10/09 13:20:19 395511031 f22b69a6 [INFO Client 4652] Tile hash: 1422057504
+2022/10/09 13:20:19 395511031 f22b69a7 [INFO Client 4652] Doodad hash: 2111544651
+2022/10/09 13:20:19 395511718 cff943d8 [INFO Client 4652] : <<set:FP>><<set:F>><<set:P>>Вы вошли в область Илистые низины.
+2022/10/09 13:20:20 395512328 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:20:24 395516375 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:20:24 395516375 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:20:24 395516375 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 13:20:24 395516437 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 31ms
+2022/10/09 13:20:24 395516500 1186952b [DEBUG Client 4652] Generating level 5 area "1_1_4_1" with seed 3929169083
+2022/10/09 13:20:24 395516546 f22b69a6 [INFO Client 4652] Tile hash: 51190472
+2022/10/09 13:20:24 395516546 f22b69a7 [INFO Client 4652] Doodad hash: 2350883582
+2022/10/09 13:20:25 395517125 cff943d8 [INFO Client 4652] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сырой проход.
+2022/10/09 13:20:26 395517718 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:20:34 395526343 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:20:34 395526343 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:20:34 395526343 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.138:6112
+2022/10/09 13:20:34 395526406 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 32ms
+2022/10/09 13:20:34 395526468 1186952b [DEBUG Client 4652] Generating level 2 area "1_1_2" with seed 2487612053
+2022/10/09 13:20:35 395527250 f22b69a6 [INFO Client 4652] Tile hash: 1016531566
+2022/10/09 13:20:35 395527250 f22b69a7 [INFO Client 4652] Doodad hash: 3931236334
+2022/10/09 13:20:35 395527703 cff943d8 [INFO Client 4652] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Побережье.
+2022/10/09 13:20:36 395528468 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:20:53 395545171 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:20:53 395545171 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:20:53 395545171 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.151:6112
+2022/10/09 13:20:53 395545234 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 32ms
+2022/10/09 13:20:53 395545312 1186952b [DEBUG Client 4652] Generating level 3 area "1_1_2a" with seed 4053778137
+2022/10/09 13:20:53 395545625 f22b69a6 [INFO Client 4652] Tile hash: 681166078
+2022/10/09 13:20:53 395545625 f22b69a7 [INFO Client 4652] Doodad hash: 278722676
+2022/10/09 13:20:54 395546062 cff943d8 [INFO Client 4652] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Прибрежный остров.
+2022/10/09 13:20:54 395546687 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:22:22 395633906 890da8d3 [INFO Client 4652] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/09 13:22:22 395633937 890d9d9b [INFO Client 4652] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/09 13:22:25 395636843 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:22:25 395636843 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:22:25 395636843 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 13:22:25 395636890 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 32ms
+2022/10/09 13:22:25 395636968 1186952b [DEBUG Client 4652] Generating level 13 area "1_1_town" with seed 1
+2022/10/09 13:22:26 395638484 f22b69a6 [INFO Client 4652] Tile hash: 1809335384
+2022/10/09 13:22:26 395638484 f22b69a7 [INFO Client 4652] Doodad hash: 0
+2022/10/09 13:22:29 395640843 cff943d8 [INFO Client 4652] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/09 13:22:29 395641484 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:22:29 395641515 374e1126 [INFO Client 4652] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/09 13:22:29 395641515 374e1287 [INFO Client 4652] [Item Filter] Hash for online filter 5XMehq is: 8b6f99c24aea3dac412cdeff3fe06cd2
+2022/10/09 13:22:30 395641718 374e12ea [INFO Client 4652] [Item Filter] Online item filter 5XMehq returned status: 304
+2022/10/09 13:22:30 395641718 374e0d87 [DEBUG Client 4652] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/09 13:22:30 395641718 374e0d8f [DEBUG Client 4652] [Item Filter] X-HW: 1665311118.dop203.pa1.t,1665311119.cds236.pa1.shn,1665311119.dop203.pa1.t,1665311119.cds237.pa1.c
+2022/10/09 13:22:30 395641750 78847107 [INFO Client 4652] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 8b6f99c24aea3dac412cdeff3fe06cd2. Message: 
+2022/10/09 13:23:10 395682500 cff943d8 [INFO Client 4652] : Сделка совершена.
+2022/10/09 13:23:37 395709171 cff943d8 [INFO Client 4652] : Сделка совершена.
+2022/10/09 13:25:27 395819203 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:25:27 395819203 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:25:27 395819203 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 13:25:27 395819265 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 31ms
+2022/10/09 13:25:27 395819328 1186952b [DEBUG Client 4652] Generating level 5 area "1_1_4_1" with seed 3929169083
+2022/10/09 13:25:28 395819781 f22b69a6 [INFO Client 4652] Tile hash: 51190472
+2022/10/09 13:25:28 395819781 f22b69a7 [INFO Client 4652] Doodad hash: 2350883582
+2022/10/09 13:25:28 395820265 cff943d8 [INFO Client 4652] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сырой проход.
+2022/10/09 13:25:29 395820859 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:25:52 395844453 cff943d8 [INFO Client 4652] : DeeLeetIII (Дуэлянт) достигает 5 уровня
+2022/10/09 13:26:18 395870015 fb7ae604 [INFO Client 4652] Successfully allocated passive skill id: armour_evasion_life1851, name: Броня, уклонение и здоровье
+2022/10/09 13:27:26 395938625 cff943d8 [INFO Client 4652] : DeeLeetIII (Дуэлянт) достигает 6 уровня
+2022/10/09 13:27:37 395949062 fb7ae604 [INFO Client 4652] Successfully allocated passive skill id: melee_damage125, name: Физический урон от атак
+2022/10/09 13:28:26 395997968 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:28:26 395997968 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:28:26 395997968 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.151:6112
+2022/10/09 13:28:26 395998031 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 32ms
+2022/10/09 13:28:26 395998093 1186952b [DEBUG Client 4652] Generating level 6 area "1_1_5" with seed 3898342665
+2022/10/09 13:28:26 395998625 f22b69a6 [INFO Client 4652] Tile hash: 4113020244
+2022/10/09 13:28:26 395998625 f22b69a7 [INFO Client 4652] Doodad hash: 491422494
+2022/10/09 13:28:27 395999453 cff943d8 [INFO Client 4652] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Утёс.
+2022/10/09 13:28:28 396000140 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:30:14 396106281 cff943d8 [INFO Client 4652] : DeeLeetIII (Дуэлянт) достигает 7 уровня
+2022/10/09 13:30:33 396124796 fb7ae604 [INFO Client 4652] Successfully allocated passive skill id: might819, name: Повелитель арены
+2022/10/09 13:32:07 396219093 cff943d8 [INFO Client 4652] : DeeLeetIII (Дуэлянт) достигает 8 уровня
+2022/10/09 13:32:24 396235921 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:32:24 396235937 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:32:24 396235937 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.167:6112
+2022/10/09 13:32:24 396236000 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 31ms
+2022/10/09 13:32:24 396236062 1186952b [DEBUG Client 4652] Generating level 7 area "1_1_6" with seed 3268503318
+2022/10/09 13:32:24 396236546 f22b69a6 [INFO Client 4652] Tile hash: 1238681340
+2022/10/09 13:32:24 396236546 f22b69a7 [INFO Client 4652] Doodad hash: 4146362018
+2022/10/09 13:32:25 396237000 cff943d8 [INFO Client 4652] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Склон.
+2022/10/09 13:32:25 396237640 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:32:30 396242281 fb7ae604 [INFO Client 4652] Successfully allocated passive skill id: mana548, name: Мана и скорость регенерации маны
+2022/10/09 13:34:18 396349890 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:34:18 396349890 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:34:18 396349890 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.167:6112
+2022/10/09 13:34:18 396349968 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 47ms
+2022/10/09 13:34:18 396350031 1186952b [DEBUG Client 4652] Generating level 8 area "1_1_7_1" with seed 2248054680
+2022/10/09 13:34:18 396350625 f22b69a6 [INFO Client 4652] Tile hash: 2749442320
+2022/10/09 13:34:18 396350625 f22b69a7 [INFO Client 4652] Doodad hash: 208167042
+2022/10/09 13:34:19 396351109 cff943d8 [INFO Client 4652] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремное подземелье.
+2022/10/09 13:34:20 396351765 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:34:35 396367687 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:34:35 396367687 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:34:35 396367687 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 13:34:36 396367765 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 47ms
+2022/10/09 13:34:36 396367828 1186952b [DEBUG Client 4652] Generating level 13 area "1_1_town" with seed 1
+2022/10/09 13:34:37 396369000 f22b69a6 [INFO Client 4652] Tile hash: 1809335384
+2022/10/09 13:34:37 396369000 f22b69a7 [INFO Client 4652] Doodad hash: 0
+2022/10/09 13:34:37 396369546 cff943d8 [INFO Client 4652] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/09 13:34:38 396370328 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:41:37 396789640 cff943d8 [INFO Client 4652] : Сделка совершена.
+2022/10/09 13:41:47 396799031 cff943d8 [INFO Client 4652] : Сделка совершена.
+2022/10/09 13:45:29 397020781 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:45:29 397020781 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:45:29 397020781 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.151:6112
+2022/10/09 13:45:29 397020843 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 31ms
+2022/10/09 13:45:29 397020906 1186952b [DEBUG Client 4652] Generating level 8 area "1_1_7_1" with seed 1243835337
+2022/10/09 13:45:29 397020953 f22b69a6 [INFO Client 4652] Tile hash: 1420312588
+2022/10/09 13:45:29 397020953 f22b69a7 [INFO Client 4652] Doodad hash: 208167042
+2022/10/09 13:45:30 397021750 cff943d8 [INFO Client 4652] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремное подземелье.
+2022/10/09 13:45:31 397022750 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:46:03 397054812 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:46:03 397054828 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:46:03 397054828 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.142:6112
+2022/10/09 13:46:03 397054890 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 31ms
+2022/10/09 13:46:03 397054953 1186952b [DEBUG Client 4652] Generating level 9 area "1_1_7_2" with seed 3968930466
+2022/10/09 13:46:03 397055625 f22b69a6 [INFO Client 4652] Tile hash: 77509342
+2022/10/09 13:46:03 397055625 f22b69a7 [INFO Client 4652] Doodad hash: 2198706816
+2022/10/09 13:46:04 397056359 cff943d8 [INFO Client 4652] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремные помещения.
+2022/10/09 13:46:05 397057000 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:46:55 397107343 cff943d8 [INFO Client 4652] : DeeLeetIII (Дуэлянт) достигает 9 уровня
+2022/10/09 13:47:15 397127015 fb7ae604 [INFO Client 4652] Successfully allocated passive skill id: mana_flows549, name: Потоки маны
+2022/10/09 13:48:28 397200375 cff943d8 [INFO Client 4652] Вера: Узнаю эту милую мордашку. Великая арена Теополиса.
+У меня на тебя виды, дуэлянт. Тебе понравится.
+2022/10/09 13:49:19 397251515 cff943d8 [INFO Client 4652] Изувер, старший смотритель: Ты считаешь ужасным меня? Я покажу тебе истинный ужас!
+2022/10/09 13:51:53 397404781 cff943d8 [INFO Client 4652] : DeeLeetIII был повержен.
+2022/10/09 13:52:41 397453109 cff943d8 [INFO Client 4652] Изувер, старший смотритель: Вход без спроса — преступление. И наказание за него — смерть!
+2022/10/09 13:54:10 397541781 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:54:10 397541781 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:54:10 397541781 ca3a6737 [INFO Client 4652] Connecting to instance server at 159.122.142.236:6112
+2022/10/09 13:54:10 397541843 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 31ms
+2022/10/09 13:54:10 397541906 1186952b [DEBUG Client 4652] Generating level 10 area "1_1_8" with seed 349770319
+2022/10/09 13:54:10 397542562 f22b69a6 [INFO Client 4652] Tile hash: 3972598152
+2022/10/09 13:54:10 397542562 f22b69a7 [INFO Client 4652] Doodad hash: 1866450130
+2022/10/09 13:54:11 397543218 cff943d8 [INFO Client 4652] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Врата заключённых.
+2022/10/09 13:54:12 397543968 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:55:01 397592812 88a90480 [DEBUG Client 4652] Got Instance Details from login server
+2022/10/09 13:55:01 397592812 32759a9f [INFO Client 4652] [SHADER] Delay: OFF
+2022/10/09 13:55:01 397592812 ca3a6737 [INFO Client 4652] Connecting to instance server at 169.51.201.169:6112
+2022/10/09 13:55:01 397592890 ca3a4d51 [DEBUG Client 4652] Connect time to instance server was 31ms
+2022/10/09 13:55:01 397592953 1186952b [DEBUG Client 4652] Generating level 13 area "1_1_town" with seed 1
+2022/10/09 13:55:02 397594140 f22b69a6 [INFO Client 4652] Tile hash: 1809335384
+2022/10/09 13:55:02 397594140 f22b69a7 [INFO Client 4652] Doodad hash: 0
+2022/10/09 13:55:02 397594703 cff943d8 [INFO Client 4652] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/09 13:55:03 397595468 32759a9f [INFO Client 4652] [SHADER] Delay: ON
+2022/10/09 13:55:30 397622562 cff943d8 [INFO Client 4652] : Сделка совершена.
+2022/10/09 13:55:40 397632093 cff943d8 [INFO Client 4652] : Сделка совершена.
