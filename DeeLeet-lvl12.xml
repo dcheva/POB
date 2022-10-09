@@ -1,63 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="12" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Duelist" ascendClassName="None" mainSocketGroup="1" viewMode="SKILLS" pantheonMinorGod="None">
-		<PlayerStat stat="AverageDamage" value="12.780566271274"/>
-		<PlayerStat stat="Speed" value="1.595"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="5"/>
-		<PlayerStat stat="CritChance" value="4.65"/>
-		<PlayerStat stat="CritMultiplier" value="1.5"/>
-		<PlayerStat stat="HitChance" value="93"/>
-		<PlayerStat stat="TotalDPS" value="20.385003202682"/>
-		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="20.385003202682"/>
-		<PlayerStat stat="WithIgniteDPS" value="20.385003202682"/>
-		<PlayerStat stat="WithPoisonDPS" value="20.385003202682"/>
-		<PlayerStat stat="TotalDotDPS" value="0"/>
-		<PlayerStat stat="CullingDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="20.385003202682"/>
-		<PlayerStat stat="ManaCost" value="0"/>
-		<PlayerStat stat="LifeCost" value="0"/>
-		<PlayerStat stat="ESCost" value="0"/>
-		<PlayerStat stat="RageCost" value="0"/>
-		<PlayerStat stat="ManaPercentCost" value="0"/>
-		<PlayerStat stat="LifePercentCost" value="0"/>
-		<PlayerStat stat="ManaPerSecondCost" value="0"/>
-		<PlayerStat stat="LifePerSecondCost" value="0"/>
-		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
-		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
-		<PlayerStat stat="ESPerSecondCost" value="0"/>
-		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="CombinedDPS" value="0"/>
 		<PlayerStat stat="Str" value="73"/>
-		<PlayerStat stat="ReqStr" value="21"/>
+		<PlayerStat stat="ReqStr" value="29"/>
 		<PlayerStat stat="Dex" value="43"/>
-		<PlayerStat stat="ReqDex" value="27"/>
+		<PlayerStat stat="ReqDex" value="33"/>
 		<PlayerStat stat="Int" value="44"/>
 		<PlayerStat stat="Devotion" value="0"/>
 		<PlayerStat stat="TotalEHP" value="1208.0536912752"/>
 		<PlayerStat stat="PhysicalMaximumHitTaken" value="802.43902439024"/>
-		<PlayerStat stat="LightningMaximumHitTaken" value="205.625"/>
-		<PlayerStat stat="FireMaximumHitTaken" value="205.625"/>
-		<PlayerStat stat="ColdMaximumHitTaken" value="205.625"/>
-		<PlayerStat stat="ChaosMaximumHitTaken" value="205.625"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="329"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="329"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="329"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="329"/>
 		<PlayerStat stat="Life" value="329"/>
 		<PlayerStat stat="Spec:LifeInc" value="8"/>
 		<PlayerStat stat="LifeUnreserved" value="329"/>
 		<PlayerStat stat="LifeRecoverable" value="329"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
 		<PlayerStat stat="LifeRegenRecovery" value="3.29"/>
-		<PlayerStat stat="LifeLeechGainRate" value="0"/>
 		<PlayerStat stat="Mana" value="202"/>
 		<PlayerStat stat="Spec:ManaInc" value="32"/>
-		<PlayerStat stat="ManaUnreserved" value="202"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="100"/>
+		<PlayerStat stat="ManaUnreserved" value="153"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="75.742574257426"/>
 		<PlayerStat stat="ManaRegenRecovery" value="6.2"/>
-		<PlayerStat stat="ManaLeechGainRate" value="0"/>
 		<PlayerStat stat="Ward" value="0"/>
 		<PlayerStat stat="EnergyShield" value="0"/>
 		<PlayerStat stat="EnergyShieldRecoveryCap" value="0"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
 		<PlayerStat stat="EnergyShieldRegenRecovery" value="0"/>
-		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
 		<PlayerStat stat="Evasion" value="295"/>
 		<PlayerStat stat="Spec:EvasionInc" value="12"/>
 		<PlayerStat stat="MeleeEvadeChance" value="51"/>
@@ -70,23 +42,28 @@
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
 		<PlayerStat stat="SpellSuppressionChance" value="0"/>
-		<PlayerStat stat="FireResist" value="-60"/>
+		<PlayerStat stat="FireResist" value="0"/>
 		<PlayerStat stat="FireResistOverCap" value="0"/>
-		<PlayerStat stat="ColdResist" value="-60"/>
+		<PlayerStat stat="ColdResist" value="0"/>
 		<PlayerStat stat="ColdResistOverCap" value="0"/>
-		<PlayerStat stat="LightningResist" value="-60"/>
+		<PlayerStat stat="LightningResist" value="0"/>
 		<PlayerStat stat="LightningResistOverCap" value="0"/>
-		<PlayerStat stat="ChaosResist" value="-60"/>
+		<PlayerStat stat="ChaosResist" value="0"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
-		<PlayerStat stat="EffectiveMovementSpeedMod" value="1"/>
-		<PlayerStat stat="FullDPS" value="0"/>
-		<PlayerStat stat="FullDotDPS" value="0"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.2"/>
+		<PlayerStat stat="FullDPS" value="211.18648409257"/>
+		<PlayerStat stat="FullDotDPS" value="25.726146945776"/>
+		<FullDPSSkill skillPart="" source="" stat="Shield Charge" value="126.9485773936"/>
+		<FullDPSSkill skillPart="No Flask" source="" stat="Poisonous Concoction" value="58.511759753197"/>
+		<FullDPSSkill skillPart="" source="" stat="Full Poison DPS" value="15.13770048"/>
+		<FullDPSSkill skillPart="" source="Shield Charge" stat="Best Ignite DPS" value="10.588446465776"/>
 		<PlayerStat stat="PowerCharges" value="0"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="0"/>
 		<PlayerStat stat="FrenzyChargesMax" value="3"/>
 		<PlayerStat stat="EnduranceCharges" value="0"/>
 		<PlayerStat stat="EnduranceChargesMax" value="3"/>
+		<PlayerStat stat="ActiveTotemLimit" value="1"/>
 		<TimelessData searchList="" searchListFallback=""/>
 	</Build>
 	<Import/>
@@ -132,15 +109,41 @@
 		<Section subsection="MaximumHitTaken" collapsed="false" id="DamageTaken"/>
 		<Section subsection="DotsandDegens" collapsed="false" id="DamageTaken"/>
 	</Calcs>
-	<Skills sortGemsByDPSField="CombinedDPS" matchGemLevelToCharacterLevel="false" activeSkillSet="1" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="nil" showSupportGemTypes="ALL" showAltQualityGems="false">
-		<SkillSet id="1">
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" mainActiveSkill="nil"/>
+	<Skills sortGemsByDPSField="FullDPS" matchGemLevelToCharacterLevel="false" activeSkillSet="2" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="1" showSupportGemTypes="NORMAL" showAltQualityGems="false">
+		<SkillSet title="lvl12 Merveil Splitting Steel" id="2">
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="Splitting Steel [GGR]" enabled="true" slot="Weapon 1" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="ImpactingSteel" skillMinionItemSet="1" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemSplittingSteel" quality="0" enabled="true" skillPartCalcs="1" count="1" nameSpec="Splitting Steel" skillMinion="SkitterbotCold"/>
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="SupportChanceToBleed" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemChanceToBleed" quality="0" enabled="true" count="1" nameSpec="Chance to Bleed"/>
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="SupportOnslaught" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemOnslaught" quality="0" enabled="true" count="1" nameSpec="Onslaught"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="TotemMelee" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemMeleeTotem" quality="0" enabled="true" count="1" nameSpec="Ancestral Protector" skillMinion="SummonedPhantasm"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="BloodstainedBanner" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemWarBanner" quality="0" enabled="true" count="1" nameSpec="War Banner"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="SmokeMine" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemSmokeMine" quality="0" enabled="true" count="1" nameSpec="Smoke Mine"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="1" nameSpec="Precision" skillMinion="SummonedFlameGolem"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="Shield Charge [RRG]" enabled="true" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="NewShieldCharge" skillMinionItemSet="1" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemShieldCharge" quality="0" enabled="true" count="1" nameSpec="Shield Charge" skillMinion="SkitterbotCold"/>
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="SupportFasterAttack" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFasterAttack" quality="0" enabled="true" count="1" nameSpec="Faster Attacks"/>
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="SupportAddedFireDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedFireDamage" quality="0" enabled="true" count="1" nameSpec="Added Fire Damage"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="Poisonous Concoction [GGG]" enabled="true" slot="Body Armour" mainActiveSkill="1">
+				<Gem enableGlobal2="true" skillMinionSkillCalcs="1" level="1" enableGlobal1="true" skillId="PoisonousConcoction" skillMinionSkill="1" skillMinionItemSet="1" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemPoisonousConcoction" quality="0" enabled="true" count="1" nameSpec="Poisonous Concoction" skillMinion="SkitterbotCold"/>
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="SupportParallelProjectiles" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemParallelProjectiles" quality="0" enabled="true" count="1" nameSpec="Volley"/>
+				<Gem enableGlobal2="true" level="1" enableGlobal1="true" skillId="SupportLesserMultipleProjectiles" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemLesserMultipleProjectiles" quality="0" enabled="true" count="1" nameSpec="Lesser Multiple Projectiles"/>
+			</Skill>
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="0" masteryEffects="" nodes="47389,30691,48807,60002,59718,5612,35568,34009,476,54776,28265,30155,50360,50986,51856" treeVersion="3_19" classId="4">
+		<Spec ascendClassId="0" masteryEffects="" nodes="47389,30691,34009,476,48807,54776,60002,28265,59718,30155,5612,50986,35568,50360,51856" treeVersion="3_19" classId="4">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgQADrkdd-O-p-pi6UYV7IrwhNkB3NX4bml1y8S4ypAAAA==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgQADrkdd-OE2QHcvqfV-OpibmnpRnXLFeyK8MS4ypAAAA==
 			</URL>
 			<Sockets/>
 		</Spec>
@@ -148,8 +151,8 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="-614.0936" showHeatMap="nil" zoomLevel="7" showStatDifferences="true" zoomX="-13.276"/>
-	<Items activeItemSet="1" useSecondWeaponSet="nil">
+	<TreeView searchStr="" zoomY="-614.0936" showHeatMap="false" zoomLevel="7" showStatDifferences="true" zoomX="-13.276"/>
+	<Items activeItemSet="1" useSecondWeaponSet="true">
 		<Item id="1">
 			Rarity: NORMAL
 Jade Hatchet
@@ -289,12 +292,13 @@ Implicits: 0
 		<Slot name="Flask 4" itemId="14"/>
 		<Slot name="Flask 2" itemId="12"/>
 		<Slot name="Weapon 2" itemId="2"/>
+		<Slot name="Weapon 2 Swap" itemId="2"/>
 		<Slot name="Ring 2" itemId="9"/>
 		<Slot name="Body Armour" itemId="4"/>
 		<Slot name="Ring 1" itemId="8"/>
 		<Slot name="Boots" itemId="6"/>
 		<Slot name="Amulet" itemId="7"/>
-		<ItemSet useSecondWeaponSet="nil" id="1">
+		<ItemSet useSecondWeaponSet="true" id="1">
 			<Slot name="Weapon 1Swap Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
 			<Slot name="Weapon 1" itemId="1"/>
@@ -350,7 +354,7 @@ Implicits: 0
 			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
 			<Slot name="Body Armour Abyssal Socket 4" itemId="0"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 4" itemId="0"/>
-			<Slot name="Weapon 2 Swap" itemId="0"/>
+			<Slot name="Weapon 2 Swap" itemId="2"/>
 			<Slot name="Weapon 1 Swap" itemId="0"/>
 			<Slot name="Weapon 1Swap Abyssal Socket 6" itemId="0"/>
 			<Slot name="Ring 2" itemId="9"/>
