@@ -1764,3 +1764,1240 @@
 2022/10/10 00:13:39 434710828 374e0d8f [DEBUG Client 12568] [Item Filter] X-HW: 1665350187.dop221.pa1.t,1665350187.cds232.pa1.shn,1665350187.dop221.pa1.t,1665350187.cds237.pa1.c
 2022/10/10 00:13:39 434710828 374e0d61 [INFO Client 12568] [Item Filter] Successfully saved online filter 5XMehq. Hash is now: 7210648b393f368168ce6215e74a1919
 2022/10/10 00:13:39 434710843 78847107 [INFO Client 12568] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 7210648b393f368168ce6215e74a1919. Message: 
+2022/10/10 11:34:25 ***** LOG FILE OPENING *****
+2022/10/10 11:34:26 475557765 340884db [DEBUG Client 10708] [RENDER] StopDevice
+2022/10/10 11:34:26 475557765 84a7e6f1 [INFO Client 10708] [ENGINE] Clear
+2022/10/10 11:34:26 475557765 7bb5422 [INFO Client 10708] [BUNDLE2] Deinit
+2022/10/10 11:34:26 475557765 84a7e691 [INFO Client 10708] [JOB] Clear
+2022/10/10 11:34:26 475557765 84a7e7bf [INFO Client 10708] [ANIMATION] Clear
+2022/10/10 11:34:26 475557765 84a7e7be [INFO Client 10708] [PHYSICS] Clear
+2022/10/10 11:34:26 475557765 84a7e7bd [INFO Client 10708] [SHADER] Clear
+2022/10/10 11:34:26 475557765 84a7e7bc [INFO Client 10708] [ENTITY] Clear
+2022/10/10 11:34:26 475557765 84a7e7bb [INFO Client 10708] [SOUND] Clear
+2022/10/10 11:34:26 475557765 84a7e7ba [INFO Client 10708] [VIDEO] Clear
+2022/10/10 11:34:26 475557765 84a7e7b9 [INFO Client 10708] [SCENE] Clear
+2022/10/10 11:34:26 475557765 84a7e7b8 [INFO Client 10708] [GRAPH] Clear
+2022/10/10 11:34:26 475557765 84a7e7b7 [INFO Client 10708] [TELEMETRY] Clear
+2022/10/10 11:34:26 475557765 84a7e7b6 [INFO Client 10708] [RESOURCE] GarbageCollect
+2022/10/10 11:34:26 475557765 84a7e75e [INFO Client 10708] [RESOURCE] Clear
+2022/10/10 11:34:26 475557765 84a7e75b [INFO Client 10708] [RENDER] Clear
+2022/10/10 11:34:26 475557765 84a7e758 [INFO Client 10708] [ENGINE] Done
+2022/10/10 11:34:33 ***** LOG FILE OPENING *****
+2022/10/10 11:34:33 475565406 f954428c [INFO Client 2276] [STARTUP] Job Queues
+2022/10/10 11:34:33 475565421 9e6a0b0a [INFO Client 2276] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/10 11:34:33 475565515 9e6a1d2a [INFO Client 2276] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 11:34:33 475565515 9e6a1363 [INFO Client 2276] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/10 11:34:33 475565531 9e6a0b0a [INFO Client 2276] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 11:34:33 475565546 9e6a1d2a [INFO Client 2276] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 11:34:33 475565546 84a7d27d [INFO Client 2276] [ENGINE] Init
+2022/10/10 11:34:33 475565546 55713145 [INFO Client 2276] [JOB] HIGH: 2
+2022/10/10 11:34:33 475565546 55713145 [INFO Client 2276] [JOB] MEDIUM: 2
+2022/10/10 11:34:33 475565546 55713145 [INFO Client 2276] [JOB] LOW: 2
+2022/10/10 11:34:33 475565546 55713145 [INFO Client 2276] [JOB] IDLE: 1
+2022/10/10 11:34:33 475565546 7bb548f [INFO Client 2276] [BUNDLE2] Init
+2022/10/10 11:34:33 475565546 7bb36c4 [INFO Client 2276] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/10 11:34:34 475565890 7bb61e6 [INFO Client 2276] [BUNDLE2] File cache size: 1024
+2022/10/10 11:34:34 475565890 b51d61ab [INFO Client 2276] [RENDER] Async: ON
+2022/10/10 11:34:34 475565890 b51d60c8 [INFO Client 2276] [RENDER] Warmup: ON
+2022/10/10 11:34:34 475565890 b51d60ce [INFO Client 2276] [RENDER] Skip: ON
+2022/10/10 11:34:34 475565890 b51d60eb [INFO Client 2276] [RENDER] Throttling: ON
+2022/10/10 11:34:34 475565890 32759a7a [INFO Client 2276] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/10 11:34:34 475565890 32759a70 [INFO Client 2276] [SHADER] Async: ON
+2022/10/10 11:34:34 475565890 32759a9f [INFO Client 2276] [SHADER] Delay: OFF
+2022/10/10 11:34:34 475565890 32759aba [INFO Client 2276] [SHADER] Limit: ON
+2022/10/10 11:34:34 475565890 32759abc [INFO Client 2276] [SHADER] Warmup: ON
+2022/10/10 11:34:34 475565890 327599d7 [INFO Client 2276] [SHADER] Parallel: OFF
+2022/10/10 11:34:34 475565890 84a7e376 [INFO Client 2276] [ENGINE] Running Engine version 1.6.0
+2022/10/10 11:34:34 475565906 47bbd159 [INFO Client 2276] [SOUND] Buffer size = 64.0 MB
+2022/10/10 11:34:34 475565968 9b0d205 [INFO Client 2276] [VIDEO] Enable: ON
+2022/10/10 11:34:34 475566000 84a7d2d8 [INFO Client 2276] [ENGINE] Ready
+2022/10/10 11:34:34 475566062 951bc0b0 [INFO Client 2276] [STARTUP] Bundle Startup Start
+2022/10/10 11:34:34 475566062 951bc057 [INFO Client 2276] [STARTUP] Bundle Startup in 6.7e-05 seconds
+2022/10/10 11:34:34 475566062 951bc0b0 [INFO Client 2276] [STARTUP] Game Start
+2022/10/10 11:34:34 475566375 ca86fd3f [DEBUG Client 2276] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/10 11:34:35 475566734 951bc057 [INFO Client 2276] [STARTUP] Game in 0.672208 seconds
+2022/10/10 11:34:35 475566734 951bc0b0 [INFO Client 2276] [STARTUP] Window Start
+2022/10/10 11:34:35 475566750 9e6a0b0a [INFO Client 2276] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/10 11:34:35 475566812 9e6a1d2a [INFO Client 2276] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 11:34:35 475566812 9e6a1363 [INFO Client 2276] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/10 11:34:35 475566812 9e6a0b0a [INFO Client 2276] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 11:34:35 475566828 9e6a1d2a [INFO Client 2276] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 11:34:35 475566875 951bc057 [INFO Client 2276] [STARTUP] Window in 0.133019 seconds
+2022/10/10 11:34:35 475566890 413b61ff [DEBUG Client 2276] [GamepadManager] Initialising
+2022/10/10 11:34:35 475566890 951bc0b0 [INFO Client 2276] [STARTUP] Device Start
+2022/10/10 11:34:35 475566890 b51d6589 [INFO Client 2276] [RENDER] StartDevice: DirectX11
+2022/10/10 11:34:35 475567156 71b3b00 [DEBUG Client 2276] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/10 11:34:35 475567156 97ce04a4 [WARN Client 2276] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/10 11:34:35 475567250 fafff8cf [DEBUG Client 2276] CreateSwapChain: SetFullScreenState 0
+2022/10/10 11:34:35 475567250 29d4ce01 [INFO Client 2276] [D3D11] Runtime version = 11.1
+2022/10/10 11:34:35 475567250 29d4ce00 [INFO Client 2276] [D3D11] Feature Level = 11.1
+2022/10/10 11:34:35 475567250 29d4ce03 [INFO Client 2276] [D3D11] Driver Command Lists = NO
+2022/10/10 11:34:35 475567250 29d4ce02 [INFO Client 2276] [D3D11] Driver Concurrent Creates = YES
+2022/10/10 11:34:35 475567250 29d4ce05 [INFO Client 2276] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/10 11:34:35 475567359 9d4eeb40 [DEBUG Client 2276] [WINDOW] TrigggerDeviceCreate
+2022/10/10 11:34:36 475567765 9d4eeba7 [DEBUG Client 2276] [WINDOW] TrigggerDeviceReset
+2022/10/10 11:34:36 475567781 9d4eec8a [DEBUG Client 2276] [WINDOW] TrigggerDeviceLost
+2022/10/10 11:34:36 475567781 9d4eeba7 [DEBUG Client 2276] [WINDOW] TrigggerDeviceReset
+2022/10/10 11:34:36 475567812 951bc057 [INFO Client 2276] [STARTUP] Device in 0.912463 seconds
+2022/10/10 11:34:36 475567812 951bc0b0 [INFO Client 2276] [STARTUP] Tencent Start
+2022/10/10 11:34:36 475567812 951bc057 [INFO Client 2276] [STARTUP] Tencent in 4.5e-05 seconds
+2022/10/10 11:34:36 475567812 951bc0b0 [INFO Client 2276] [STARTUP] Loading Start
+2022/10/10 11:34:36 475567859 951bc057 [INFO Client 2276] [STARTUP] Loading in 0.047822 seconds
+2022/10/10 11:34:36 475567859 951bc0b0 [INFO Client 2276] [STARTUP] DebugGUI Start
+2022/10/10 11:34:36 475567859 951bc057 [INFO Client 2276] [STARTUP] DebugGUI in 3.9e-05 seconds
+2022/10/10 11:34:36 475567859 951bc0b0 [INFO Client 2276] [STARTUP] Bundle Tiny Start
+2022/10/10 11:34:36 475567859 951bc0b0 [INFO Client 2276] [STARTUP] Bundle Login Start
+2022/10/10 11:34:36 475567859 951bc057 [INFO Client 2276] [STARTUP] Bundle Login in 4.4e-05 seconds
+2022/10/10 11:34:36 475567859 951bc0b0 [INFO Client 2276] [STARTUP] Registration Start
+2022/10/10 11:34:36 475567859 951bc057 [INFO Client 2276] [STARTUP] Bundle Tiny in 0.000119 seconds
+2022/10/10 11:34:36 475567875 951bc0b0 [INFO Client 2276] [STARTUP] Audio Start
+2022/10/10 11:34:36 475567875 47bbee18 [INFO Client 2276] [SOUND] Channel count = 128 (asked for 128)
+2022/10/10 11:34:36 475567875 47bbee19 [INFO Client 2276] [SOUND] Source count = 512
+2022/10/10 11:34:36 475568015 47bbea58 [INFO Client 2276] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/10 11:34:36 475568015 951bc057 [INFO Client 2276] [STARTUP] Audio in 0.136129 seconds
+2022/10/10 11:34:36 475568406 951bc057 [INFO Client 2276] [STARTUP] Registration in 0.545022 seconds
+2022/10/10 11:35:06 ***** LOG FILE OPENING *****
+2022/10/10 11:35:06 475598609 340884db [DEBUG Client 12084] [RENDER] StopDevice
+2022/10/10 11:35:06 475598609 84a7e6f1 [INFO Client 12084] [ENGINE] Clear
+2022/10/10 11:35:06 475598609 7bb5422 [INFO Client 12084] [BUNDLE2] Deinit
+2022/10/10 11:35:06 475598609 84a7e691 [INFO Client 12084] [JOB] Clear
+2022/10/10 11:35:06 475598609 84a7e7bf [INFO Client 12084] [ANIMATION] Clear
+2022/10/10 11:35:06 475598609 84a7e7be [INFO Client 12084] [PHYSICS] Clear
+2022/10/10 11:35:06 475598609 84a7e7bd [INFO Client 12084] [SHADER] Clear
+2022/10/10 11:35:06 475598609 84a7e7bc [INFO Client 12084] [ENTITY] Clear
+2022/10/10 11:35:06 475598609 84a7e7bb [INFO Client 12084] [SOUND] Clear
+2022/10/10 11:35:06 475598609 84a7e7ba [INFO Client 12084] [VIDEO] Clear
+2022/10/10 11:35:06 475598609 84a7e7b9 [INFO Client 12084] [SCENE] Clear
+2022/10/10 11:35:06 475598609 84a7e7b8 [INFO Client 12084] [GRAPH] Clear
+2022/10/10 11:35:06 475598609 84a7e7b7 [INFO Client 12084] [TELEMETRY] Clear
+2022/10/10 11:35:06 475598609 84a7e7b6 [INFO Client 12084] [RESOURCE] GarbageCollect
+2022/10/10 11:35:06 475598609 84a7e75e [INFO Client 12084] [RESOURCE] Clear
+2022/10/10 11:35:06 475598609 84a7e75b [INFO Client 12084] [RENDER] Clear
+2022/10/10 11:35:06 475598609 84a7e758 [INFO Client 12084] [ENGINE] Done
+2022/10/10 11:35:07 ***** LOG FILE OPENING *****
+2022/10/10 11:35:07 475599515 f954428c [INFO Client 6620] [STARTUP] Job Queues
+2022/10/10 11:35:07 475599531 9e6a0b0a [INFO Client 6620] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/10 11:35:07 475599625 9e6a1d2a [INFO Client 6620] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 11:35:07 475599625 9e6a1363 [INFO Client 6620] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/10 11:35:07 475599625 9e6a0b0a [INFO Client 6620] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 11:35:07 475599625 9e6a1d2a [INFO Client 6620] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 11:35:07 475599625 84a7d27d [INFO Client 6620] [ENGINE] Init
+2022/10/10 11:35:07 475599625 55713145 [INFO Client 6620] [JOB] HIGH: 2
+2022/10/10 11:35:07 475599625 55713145 [INFO Client 6620] [JOB] MEDIUM: 2
+2022/10/10 11:35:07 475599625 55713145 [INFO Client 6620] [JOB] LOW: 2
+2022/10/10 11:35:07 475599625 55713145 [INFO Client 6620] [JOB] IDLE: 1
+2022/10/10 11:35:07 475599625 7bb548f [INFO Client 6620] [BUNDLE2] Init
+2022/10/10 11:35:07 475599625 7bb36c4 [INFO Client 6620] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/10 11:35:08 475599843 7bb61e6 [INFO Client 6620] [BUNDLE2] File cache size: 1024
+2022/10/10 11:35:08 475599843 b51d61ab [INFO Client 6620] [RENDER] Async: ON
+2022/10/10 11:35:08 475599843 b51d60c8 [INFO Client 6620] [RENDER] Warmup: ON
+2022/10/10 11:35:08 475599843 b51d60ce [INFO Client 6620] [RENDER] Skip: ON
+2022/10/10 11:35:08 475599843 b51d60eb [INFO Client 6620] [RENDER] Throttling: ON
+2022/10/10 11:35:08 475599843 32759a7a [INFO Client 6620] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/10 11:35:08 475599843 32759a70 [INFO Client 6620] [SHADER] Async: ON
+2022/10/10 11:35:08 475599843 32759a9f [INFO Client 6620] [SHADER] Delay: OFF
+2022/10/10 11:35:08 475599843 32759aba [INFO Client 6620] [SHADER] Limit: ON
+2022/10/10 11:35:08 475599843 32759abc [INFO Client 6620] [SHADER] Warmup: ON
+2022/10/10 11:35:08 475599843 327599d7 [INFO Client 6620] [SHADER] Parallel: OFF
+2022/10/10 11:35:08 475599843 84a7e376 [INFO Client 6620] [ENGINE] Running Engine version 1.6.0
+2022/10/10 11:35:08 475599843 47bbd159 [INFO Client 6620] [SOUND] Buffer size = 64.0 MB
+2022/10/10 11:35:08 475599875 9b0d205 [INFO Client 6620] [VIDEO] Enable: ON
+2022/10/10 11:35:08 475599906 84a7d2d8 [INFO Client 6620] [ENGINE] Ready
+2022/10/10 11:35:08 475599937 951bc0b0 [INFO Client 6620] [STARTUP] Bundle Startup Start
+2022/10/10 11:35:08 475599937 951bc057 [INFO Client 6620] [STARTUP] Bundle Startup in 5.6e-05 seconds
+2022/10/10 11:35:08 475599937 951bc0b0 [INFO Client 6620] [STARTUP] Game Start
+2022/10/10 11:35:08 475600125 ca86fd3f [DEBUG Client 6620] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/10 11:35:08 475600343 951bc057 [INFO Client 6620] [STARTUP] Game in 0.409526 seconds
+2022/10/10 11:35:08 475600343 951bc0b0 [INFO Client 6620] [STARTUP] Window Start
+2022/10/10 11:35:08 475600343 9e6a0b0a [INFO Client 6620] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/10 11:35:08 475600406 9e6a1d2a [INFO Client 6620] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 11:35:08 475600406 9e6a1363 [INFO Client 6620] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/10 11:35:08 475600406 9e6a0b0a [INFO Client 6620] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 11:35:08 475600421 9e6a1d2a [INFO Client 6620] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 11:35:08 475600453 951bc057 [INFO Client 6620] [STARTUP] Window in 0.106556 seconds
+2022/10/10 11:35:08 475600453 413b61ff [DEBUG Client 6620] [GamepadManager] Initialising
+2022/10/10 11:35:08 475600453 951bc0b0 [INFO Client 6620] [STARTUP] Device Start
+2022/10/10 11:35:08 475600453 b51d6589 [INFO Client 6620] [RENDER] StartDevice: DirectX11
+2022/10/10 11:35:08 475600593 71b3b00 [DEBUG Client 6620] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/10 11:35:08 475600593 97ce04a4 [WARN Client 6620] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/10 11:35:08 475600656 fafff8cf [DEBUG Client 6620] CreateSwapChain: SetFullScreenState 0
+2022/10/10 11:35:08 475600656 29d4ce01 [INFO Client 6620] [D3D11] Runtime version = 11.1
+2022/10/10 11:35:08 475600656 29d4ce00 [INFO Client 6620] [D3D11] Feature Level = 11.1
+2022/10/10 11:35:08 475600656 29d4ce03 [INFO Client 6620] [D3D11] Driver Command Lists = NO
+2022/10/10 11:35:08 475600656 29d4ce02 [INFO Client 6620] [D3D11] Driver Concurrent Creates = YES
+2022/10/10 11:35:08 475600656 29d4ce05 [INFO Client 6620] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/10 11:35:08 475600718 9d4eeb40 [DEBUG Client 6620] [WINDOW] TrigggerDeviceCreate
+2022/10/10 11:35:09 475600890 9d4eeba7 [DEBUG Client 6620] [WINDOW] TrigggerDeviceReset
+2022/10/10 11:35:09 475600906 9d4eec8a [DEBUG Client 6620] [WINDOW] TrigggerDeviceLost
+2022/10/10 11:35:09 475600921 9d4eeba7 [DEBUG Client 6620] [WINDOW] TrigggerDeviceReset
+2022/10/10 11:35:09 475600937 951bc057 [INFO Client 6620] [STARTUP] Device in 0.472398 seconds
+2022/10/10 11:35:09 475600937 951bc0b0 [INFO Client 6620] [STARTUP] Tencent Start
+2022/10/10 11:35:09 475600937 951bc057 [INFO Client 6620] [STARTUP] Tencent in 3.5e-05 seconds
+2022/10/10 11:35:09 475600937 951bc0b0 [INFO Client 6620] [STARTUP] Loading Start
+2022/10/10 11:35:09 475600953 951bc057 [INFO Client 6620] [STARTUP] Loading in 0.027295 seconds
+2022/10/10 11:35:09 475600953 951bc0b0 [INFO Client 6620] [STARTUP] DebugGUI Start
+2022/10/10 11:35:09 475600953 951bc057 [INFO Client 6620] [STARTUP] DebugGUI in 2.1e-05 seconds
+2022/10/10 11:35:09 475600953 951bc0b0 [INFO Client 6620] [STARTUP] Bundle Tiny Start
+2022/10/10 11:35:09 475600953 951bc0b0 [INFO Client 6620] [STARTUP] Bundle Login Start
+2022/10/10 11:35:09 475600953 951bc057 [INFO Client 6620] [STARTUP] Bundle Login in 2.9e-05 seconds
+2022/10/10 11:35:09 475600953 951bc0b0 [INFO Client 6620] [STARTUP] Registration Start
+2022/10/10 11:35:09 475600953 951bc057 [INFO Client 6620] [STARTUP] Bundle Tiny in 9e-05 seconds
+2022/10/10 11:35:09 475601000 951bc0b0 [INFO Client 6620] [STARTUP] Audio Start
+2022/10/10 11:35:09 475601000 47bbee18 [INFO Client 6620] [SOUND] Channel count = 128 (asked for 128)
+2022/10/10 11:35:09 475601000 47bbee19 [INFO Client 6620] [SOUND] Source count = 512
+2022/10/10 11:35:09 475601125 47bbea58 [INFO Client 6620] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/10 11:35:09 475601125 951bc057 [INFO Client 6620] [STARTUP] Audio in 0.131514 seconds
+2022/10/10 11:35:09 475601421 951bc057 [INFO Client 6620] [STARTUP] Registration in 0.461096 seconds
+2022/10/10 11:35:48 475639750 890da8d3 [INFO Client 6620] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/10 11:35:48 475639828 890d9d9b [INFO Client 6620] Connected to mil01.login.pathofexile.com in 16ms.
+2022/10/10 11:35:53 475645125 88a90480 [DEBUG Client 6620] Got Instance Details from login server
+2022/10/10 11:35:53 475645156 32759a9f [INFO Client 6620] [SHADER] Delay: OFF
+2022/10/10 11:35:53 475645156 ca3a6737 [INFO Client 6620] Connecting to instance server at 169.51.201.167:6112
+2022/10/10 11:35:53 475645203 ca3a4d51 [DEBUG Client 6620] Connect time to instance server was 31ms
+2022/10/10 11:35:53 475645281 1186952b [DEBUG Client 6620] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/10 11:36:00 475651937 f22b69a6 [INFO Client 6620] Tile hash: 3842481850
+2022/10/10 11:36:00 475651937 f22b69a7 [INFO Client 6620] Doodad hash: 3697406269
+2022/10/10 11:36:01 475653671 11871c61 [DEBUG Client 6620] Joined guild named Chevaleki with 2 members 
+2022/10/10 11:36:03 475655203 cff943d8 [INFO Client 6620] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/10 11:36:03 475655265 cff943d8 [INFO Client 6620] #Сын_Бандита: Отдам Моровый оберег, Амулет с ониксом
+2022/10/10 11:36:04 475655812 cff943d8 [INFO Client 6620] #Avesalom: кому уник карт насыпать?
+2022/10/10 11:36:05 475656984 32759a9f [INFO Client 6620] [SHADER] Delay: ON
+2022/10/10 11:36:05 475657156 374e1126 [INFO Client 6620] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/10 11:36:05 475657156 374e1287 [INFO Client 6620] [Item Filter] Hash for online filter 5XMehq is: 7210648b393f368168ce6215e74a1919
+2022/10/10 11:36:05 475657468 374e12ea [INFO Client 6620] [Item Filter] Online item filter 5XMehq returned status: 200
+2022/10/10 11:36:05 475657468 374e0d87 [DEBUG Client 6620] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/10 11:36:05 475657468 374e0d8f [DEBUG Client 6620] [Item Filter] X-HW: 1665391133.dop220.pa1.t,1665391133.cds230.pa1.shn,1665391133.dop220.pa1.t,1665391133.cds237.pa1.c
+2022/10/10 11:36:05 475657468 374e0d61 [INFO Client 6620] [Item Filter] Successfully saved online filter 5XMehq. Hash is now: 88d570b89a43bbc6369c7e3e39e5a7e8
+2022/10/10 11:36:05 475657484 78847107 [INFO Client 6620] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 88d570b89a43bbc6369c7e3e39e5a7e8. Message: 
+2022/10/10 11:36:05 475657484 2a14a9a7 [INFO Client 6620] PrecalcBaseTypeHashMap
+2022/10/10 11:36:05 475657609 2a14a9a1 [INFO Client 6620] PrecalcModNameHashMap
+2022/10/10 11:36:08 475659984 2a14a9a3 [INFO Client 6620] PrecalcItemClassMap
+2022/10/10 11:36:08 475659984 2a14a9ad [INFO Client 6620] PrecalcSoundEffects
+2022/10/10 11:36:08 475659984 2a14a902 [INFO Client 6620] PrecalcDropEffects
+2022/10/10 11:36:08 475659984 2a14a900 [INFO Client 6620] PrecalcNonEnchantModHashes
+2022/10/10 11:36:08 475659984 2a14a906 [INFO Client 6620] PrecalcRuleNameToTypeMap
+2022/10/10 11:36:08 475659984 2a14a904 [INFO Client 6620] PrecalcCJESPNIndexMap
+2022/10/10 11:36:08 475659984 2a14a90a [INFO Client 6620] PrecalcGemAlternateQualityMap
+2022/10/10 11:36:39 475691671 88a90480 [DEBUG Client 6620] Got Instance Details from login server
+2022/10/10 11:36:39 475691703 32759a9f [INFO Client 6620] [SHADER] Delay: OFF
+2022/10/10 11:36:39 475691703 ca3a6737 [INFO Client 6620] Connecting to instance server at 169.51.201.151:6112
+2022/10/10 11:36:40 475691750 ca3a4d51 [DEBUG Client 6620] Connect time to instance server was 31ms
+2022/10/10 11:36:40 475691828 1186952b [DEBUG Client 6620] Generating level 68 area "HeistHub" with seed 2647900625
+2022/10/10 11:36:42 475694593 f22b69a6 [INFO Client 6620] Tile hash: 1552403365
+2022/10/10 11:36:42 475694593 f22b69a7 [INFO Client 6620] Doodad hash: 0
+2022/10/10 11:36:43 475695562 11871c61 [DEBUG Client 6620] Joined guild named Chevaleki with 2 members 
+2022/10/10 11:36:45 475696875 cff943d8 [INFO Client 6620] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/10 11:36:46 475698375 32759a9f [INFO Client 6620] [SHADER] Delay: ON
+2022/10/10 11:37:01 475712859 cff943d8 [INFO Client 6620] : Сделка отклонена.
+2022/10/10 11:38:13 475784765 cff943d8 [INFO Client 6620] Карст Взломщик: Охраняй меня. Я сделаю всё остальное.
+2022/10/10 11:38:39 475811296 88a90480 [DEBUG Client 6620] Got Instance Details from login server
+2022/10/10 11:38:39 475811296 32759a9f [INFO Client 6620] [SHADER] Delay: OFF
+2022/10/10 11:38:39 475811296 ca3a6737 [INFO Client 6620] Connecting to instance server at 159.122.142.236:6112
+2022/10/10 11:38:39 475811359 ca3a4d51 [DEBUG Client 6620] Connect time to instance server was 47ms
+2022/10/10 11:38:39 475811437 1186952b [DEBUG Client 6620] Generating level 71 area "HeistCourts9_" with seed 3625020629
+2022/10/10 11:38:41 475812953 f22b69a6 [INFO Client 6620] Tile hash: 2283877968
+2022/10/10 11:38:41 475812953 f22b69a7 [INFO Client 6620] Doodad hash: 1526889506
+2022/10/10 11:38:42 475814046 11871c61 [DEBUG Client 6620] Joined guild named Chevaleki with 2 members 
+2022/10/10 11:38:42 475814578 cff943d8 [INFO Client 6620] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Референтура.
+2022/10/10 11:38:44 475815906 32759a9f [INFO Client 6620] [SHADER] Delay: ON
+2022/10/10 11:38:49 475821031 cff943d8 [INFO Client 6620] Карст Взломщик: Если дело не выгорит, сможешь выбраться без меня?
+2022/10/10 11:38:54 475826421 88a90480 [DEBUG Client 6620] Got Instance Details from login server
+2022/10/10 11:38:54 475826437 32759a9f [INFO Client 6620] [SHADER] Delay: OFF
+2022/10/10 11:38:54 475826437 ca3a6737 [INFO Client 6620] Connecting to instance server at 169.51.201.151:6112
+2022/10/10 11:38:54 475826500 ca3a4d51 [DEBUG Client 6620] Connect time to instance server was 31ms
+2022/10/10 11:38:54 475826562 1186952b [DEBUG Client 6620] Generating level 68 area "HeistHub" with seed 2647900625
+2022/10/10 11:38:54 475826593 f22b69a6 [INFO Client 6620] Tile hash: 1552403365
+2022/10/10 11:38:54 475826593 f22b69a7 [INFO Client 6620] Doodad hash: 0
+2022/10/10 11:38:55 475827296 11871c61 [DEBUG Client 6620] Joined guild named Chevaleki with 2 members 
+2022/10/10 11:38:56 475827843 cff943d8 [INFO Client 6620] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/10 11:38:57 475828984 32759a9f [INFO Client 6620] [SHADER] Delay: ON
+2022/10/10 11:40:45 475937390 88a90480 [DEBUG Client 6620] Got Instance Details from login server
+2022/10/10 11:40:45 475937390 32759a9f [INFO Client 6620] [SHADER] Delay: OFF
+2022/10/10 11:40:45 475937390 ca3a6737 [INFO Client 6620] Connecting to instance server at 159.122.142.236:6112
+2022/10/10 11:40:45 475937453 ca3a4d51 [DEBUG Client 6620] Connect time to instance server was 47ms
+2022/10/10 11:40:45 475937531 1186952b [DEBUG Client 6620] Generating level 71 area "HeistCourts9_" with seed 3625020629
+2022/10/10 11:40:45 475937578 f22b69a6 [INFO Client 6620] Tile hash: 2283877968
+2022/10/10 11:40:45 475937578 f22b69a7 [INFO Client 6620] Doodad hash: 1526889506
+2022/10/10 11:40:46 475938203 11871c61 [DEBUG Client 6620] Joined guild named Chevaleki with 2 members 
+2022/10/10 11:40:46 475938578 cff943d8 [INFO Client 6620] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Референтура.
+2022/10/10 11:40:47 475939359 32759a9f [INFO Client 6620] [SHADER] Delay: ON
+2022/10/10 11:41:00 475952656 cff943d8 [INFO Client 6620] Карст Взломщик: У нас гости.
+2022/10/10 11:42:20 476032703 cff943d8 [INFO Client 6620] Карст Взломщик: Не, я пас. Дерись без меня.
+2022/10/10 11:42:48 476059890 cff943d8 [INFO Client 6620] Карст Взломщик: Вы чего такие злобные?
+2022/10/10 11:43:17 476089140 cff943d8 [INFO Client 6620] Карст Взломщик: У нас гости.
+2022/10/10 11:44:26 476158234 cff943d8 [INFO Client 6620] Карст Взломщик: У нас гости.
+2022/10/10 11:44:45 476176906 cff943d8 [INFO Client 6620] Карст Взломщик: Разберешься без меня, лады?
+2022/10/10 11:44:56 476187968 cff943d8 [INFO Client 6620] Карст Взломщик: Тише, а то получишь.
+2022/10/10 11:49:00 476432156 cff943d8 [INFO Client 6620] : ChampionLTi (Чемпион) достигает 82 уровня
+2022/10/10 11:49:09 476440906 cff943d8 [INFO Client 6620] : Карст получил(а) 660 опыта в навыке взлом
+2022/10/10 11:49:09 476440906 cff943d8 [INFO Client 6620] : Навык взлом персонажа Карст повышен
+2022/10/10 11:49:19 476450953 cff943d8 [INFO Client 6620] Карст Взломщик: Пусть это дело и отняло пару недель моей жизни, но оно того стоило.
+2022/10/10 11:49:23 476455593 fb7ae604 [INFO Client 6620] Successfully allocated passive skill id: bloodless156, name: Бескровный
+2022/10/10 11:49:54 476486187 88a90480 [DEBUG Client 6620] Got Instance Details from login server
+2022/10/10 11:49:54 476486203 32759a9f [INFO Client 6620] [SHADER] Delay: OFF
+2022/10/10 11:49:54 476486203 ca3a6737 [INFO Client 6620] Connecting to instance server at 169.51.201.151:6112
+2022/10/10 11:49:54 476486265 ca3a4d51 [DEBUG Client 6620] Connect time to instance server was 31ms
+2022/10/10 11:49:54 476486328 1186952b [DEBUG Client 6620] Generating level 68 area "HeistHub" with seed 2647900625
+2022/10/10 11:49:54 476486421 f22b69a6 [INFO Client 6620] Tile hash: 1552403365
+2022/10/10 11:49:54 476486421 f22b69a7 [INFO Client 6620] Doodad hash: 0
+2022/10/10 11:49:55 476487000 11871c61 [DEBUG Client 6620] Joined guild named Chevaleki with 2 members 
+2022/10/10 11:49:55 476487421 cff943d8 [INFO Client 6620] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/10 11:49:56 476488312 32759a9f [INFO Client 6620] [SHADER] Delay: ON
+2022/10/10 11:51:01 476553156 cff943d8 [INFO Client 6620] : Сделка отклонена.
+2022/10/10 11:51:07 476558750 cff943d8 [INFO Client 6620] : Сделка совершена.
+2022/10/10 11:54:17 476749468 cff943d8 [INFO Client 6620] : Сделка совершена.
+2022/10/10 11:56:01 476852890 cff943d8 [INFO Client 6620] : Сделка совершена.
+2022/10/10 11:56:11 476863000 cff943d8 [INFO Client 6620] : Сделка отклонена.
+2022/10/10 11:56:35 476887218 cff943d8 [INFO Client 6620] : Сделка совершена.
+2022/10/10 18:47:36 ***** LOG FILE OPENING *****
+2022/10/10 18:47:36 1667968 340884db [DEBUG Client 9808] [RENDER] StopDevice
+2022/10/10 18:47:36 1667968 84a7e6f1 [INFO Client 9808] [ENGINE] Clear
+2022/10/10 18:47:36 1667968 7bb5422 [INFO Client 9808] [BUNDLE2] Deinit
+2022/10/10 18:47:36 1667968 84a7e691 [INFO Client 9808] [JOB] Clear
+2022/10/10 18:47:36 1667968 84a7e7bf [INFO Client 9808] [ANIMATION] Clear
+2022/10/10 18:47:36 1667968 84a7e7be [INFO Client 9808] [PHYSICS] Clear
+2022/10/10 18:47:36 1667968 84a7e7bd [INFO Client 9808] [SHADER] Clear
+2022/10/10 18:47:36 1667968 84a7e7bc [INFO Client 9808] [ENTITY] Clear
+2022/10/10 18:47:36 1667968 84a7e7bb [INFO Client 9808] [SOUND] Clear
+2022/10/10 18:47:36 1667968 84a7e7ba [INFO Client 9808] [VIDEO] Clear
+2022/10/10 18:47:36 1667984 84a7e7b9 [INFO Client 9808] [SCENE] Clear
+2022/10/10 18:47:36 1667984 84a7e7b8 [INFO Client 9808] [GRAPH] Clear
+2022/10/10 18:47:36 1667984 84a7e7b7 [INFO Client 9808] [TELEMETRY] Clear
+2022/10/10 18:47:36 1667984 84a7e7b6 [INFO Client 9808] [RESOURCE] GarbageCollect
+2022/10/10 18:47:36 1667984 84a7e75e [INFO Client 9808] [RESOURCE] Clear
+2022/10/10 18:47:36 1667984 84a7e75b [INFO Client 9808] [RENDER] Clear
+2022/10/10 18:47:36 1667984 84a7e758 [INFO Client 9808] [ENGINE] Done
+2022/10/10 18:47:46 ***** LOG FILE OPENING *****
+2022/10/10 18:47:46 1677921 f954428c [INFO Client 1988] [STARTUP] Job Queues
+2022/10/10 18:47:46 1677937 9e6a0b0a [INFO Client 1988] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/10 18:47:46 1678046 9e6a1d2a [INFO Client 1988] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 18:47:46 1678046 9e6a1363 [INFO Client 1988] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/10 18:47:46 1678062 9e6a0b0a [INFO Client 1988] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 18:47:46 1678062 9e6a1d2a [INFO Client 1988] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 18:47:46 1678062 84a7d27d [INFO Client 1988] [ENGINE] Init
+2022/10/10 18:47:46 1678062 55713145 [INFO Client 1988] [JOB] HIGH: 2
+2022/10/10 18:47:46 1678062 55713145 [INFO Client 1988] [JOB] MEDIUM: 2
+2022/10/10 18:47:46 1678062 55713145 [INFO Client 1988] [JOB] LOW: 2
+2022/10/10 18:47:46 1678062 55713145 [INFO Client 1988] [JOB] IDLE: 1
+2022/10/10 18:47:46 1678062 7bb548f [INFO Client 1988] [BUNDLE2] Init
+2022/10/10 18:47:46 1678062 7bb36c4 [INFO Client 1988] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/10 18:47:46 1678484 7bb61e6 [INFO Client 1988] [BUNDLE2] File cache size: 1024
+2022/10/10 18:47:46 1678484 b51d61ab [INFO Client 1988] [RENDER] Async: ON
+2022/10/10 18:47:46 1678484 b51d60c8 [INFO Client 1988] [RENDER] Warmup: ON
+2022/10/10 18:47:46 1678484 b51d60ce [INFO Client 1988] [RENDER] Skip: ON
+2022/10/10 18:47:46 1678484 b51d60eb [INFO Client 1988] [RENDER] Throttling: ON
+2022/10/10 18:47:46 1678484 32759a7a [INFO Client 1988] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/10 18:47:46 1678484 32759a70 [INFO Client 1988] [SHADER] Async: ON
+2022/10/10 18:47:46 1678484 32759a9f [INFO Client 1988] [SHADER] Delay: OFF
+2022/10/10 18:47:46 1678484 32759aba [INFO Client 1988] [SHADER] Limit: ON
+2022/10/10 18:47:46 1678484 32759abc [INFO Client 1988] [SHADER] Warmup: ON
+2022/10/10 18:47:46 1678484 327599d7 [INFO Client 1988] [SHADER] Parallel: OFF
+2022/10/10 18:47:46 1678484 84a7e376 [INFO Client 1988] [ENGINE] Running Engine version 1.6.0
+2022/10/10 18:47:46 1678500 47bbd159 [INFO Client 1988] [SOUND] Buffer size = 64.0 MB
+2022/10/10 18:47:46 1678578 9b0d205 [INFO Client 1988] [VIDEO] Enable: ON
+2022/10/10 18:47:46 1678609 84a7d2d8 [INFO Client 1988] [ENGINE] Ready
+2022/10/10 18:47:46 1678671 951bc0b0 [INFO Client 1988] [STARTUP] Bundle Startup Start
+2022/10/10 18:47:46 1678671 951bc057 [INFO Client 1988] [STARTUP] Bundle Startup in 6.8e-05 seconds
+2022/10/10 18:47:46 1678671 951bc0b0 [INFO Client 1988] [STARTUP] Game Start
+2022/10/10 18:47:47 1678984 ca86fd3f [DEBUG Client 1988] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/10 18:47:47 1679453 951bc057 [INFO Client 1988] [STARTUP] Game in 0.785163 seconds
+2022/10/10 18:47:47 1679453 951bc0b0 [INFO Client 1988] [STARTUP] Window Start
+2022/10/10 18:47:47 1679453 9e6a0b0a [INFO Client 1988] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/10 18:47:47 1679546 9e6a1d2a [INFO Client 1988] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 18:47:47 1679546 9e6a1363 [INFO Client 1988] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/10 18:47:47 1679562 9e6a0b0a [INFO Client 1988] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 18:47:47 1679562 9e6a1d2a [INFO Client 1988] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 18:47:47 1679593 951bc057 [INFO Client 1988] [STARTUP] Window in 0.136341 seconds
+2022/10/10 18:47:47 1679609 413b61ff [DEBUG Client 1988] [GamepadManager] Initialising
+2022/10/10 18:47:47 1679609 951bc0b0 [INFO Client 1988] [STARTUP] Device Start
+2022/10/10 18:47:47 1679625 b51d6589 [INFO Client 1988] [RENDER] StartDevice: DirectX11
+2022/10/10 18:47:48 1679937 71b3b00 [DEBUG Client 1988] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/10 18:47:48 1679937 97ce04a4 [WARN Client 1988] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/10 18:47:48 1680031 fafff8cf [DEBUG Client 1988] CreateSwapChain: SetFullScreenState 0
+2022/10/10 18:47:48 1680031 29d4ce01 [INFO Client 1988] [D3D11] Runtime version = 11.1
+2022/10/10 18:47:48 1680031 29d4ce00 [INFO Client 1988] [D3D11] Feature Level = 11.1
+2022/10/10 18:47:48 1680031 29d4ce03 [INFO Client 1988] [D3D11] Driver Command Lists = NO
+2022/10/10 18:47:48 1680031 29d4ce02 [INFO Client 1988] [D3D11] Driver Concurrent Creates = YES
+2022/10/10 18:47:48 1680031 29d4ce05 [INFO Client 1988] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/10 18:47:48 1680125 9d4eeb40 [DEBUG Client 1988] [WINDOW] TrigggerDeviceCreate
+2022/10/10 18:47:48 1680343 9d4eeba7 [DEBUG Client 1988] [WINDOW] TrigggerDeviceReset
+2022/10/10 18:47:48 1680359 9d4eec8a [DEBUG Client 1988] [WINDOW] TrigggerDeviceLost
+2022/10/10 18:47:48 1680375 9d4eeba7 [DEBUG Client 1988] [WINDOW] TrigggerDeviceReset
+2022/10/10 18:47:48 1680421 951bc057 [INFO Client 1988] [STARTUP] Device in 0.81102 seconds
+2022/10/10 18:47:48 1680421 951bc0b0 [INFO Client 1988] [STARTUP] Tencent Start
+2022/10/10 18:47:48 1680421 951bc057 [INFO Client 1988] [STARTUP] Tencent in 2.9e-05 seconds
+2022/10/10 18:47:48 1680421 951bc0b0 [INFO Client 1988] [STARTUP] Loading Start
+2022/10/10 18:47:48 1680453 951bc057 [INFO Client 1988] [STARTUP] Loading in 0.030554 seconds
+2022/10/10 18:47:48 1680453 951bc0b0 [INFO Client 1988] [STARTUP] DebugGUI Start
+2022/10/10 18:47:48 1680453 951bc057 [INFO Client 1988] [STARTUP] DebugGUI in 3.2e-05 seconds
+2022/10/10 18:47:48 1680453 951bc0b0 [INFO Client 1988] [STARTUP] Bundle Tiny Start
+2022/10/10 18:47:48 1680453 951bc0b0 [INFO Client 1988] [STARTUP] Bundle Login Start
+2022/10/10 18:47:48 1680453 951bc057 [INFO Client 1988] [STARTUP] Bundle Login in 4.2e-05 seconds
+2022/10/10 18:47:48 1680453 951bc0b0 [INFO Client 1988] [STARTUP] Registration Start
+2022/10/10 18:47:48 1680453 951bc057 [INFO Client 1988] [STARTUP] Bundle Tiny in 0.000101 seconds
+2022/10/10 18:47:48 1680468 951bc0b0 [INFO Client 1988] [STARTUP] Audio Start
+2022/10/10 18:47:48 1680484 47bbee18 [INFO Client 1988] [SOUND] Channel count = 128 (asked for 128)
+2022/10/10 18:47:48 1680484 47bbee19 [INFO Client 1988] [SOUND] Source count = 512
+2022/10/10 18:47:48 1680609 47bbea58 [INFO Client 1988] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/10 18:47:48 1680609 951bc057 [INFO Client 1988] [STARTUP] Audio in 0.131266 seconds
+2022/10/10 18:47:49 1681031 951bc057 [INFO Client 1988] [STARTUP] Registration in 0.567116 seconds
+2022/10/10 18:53:41 2032734 890da8d3 [INFO Client 1988] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/10 18:53:41 2032765 890d9d9b [INFO Client 1988] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/10 18:53:44 2035875 88a90480 [DEBUG Client 1988] Got Instance Details from login server
+2022/10/10 18:53:44 2035906 32759a9f [INFO Client 1988] [SHADER] Delay: OFF
+2022/10/10 18:53:44 2035921 ca3a6737 [INFO Client 1988] Connecting to instance server at 159.122.142.236:6112
+2022/10/10 18:53:44 2035968 ca3a4d51 [DEBUG Client 1988] Connect time to instance server was 32ms
+2022/10/10 18:53:44 2036046 1186952b [DEBUG Client 1988] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/10 20:23:33 ***** LOG FILE OPENING *****
+2022/10/10 20:23:33 1404343 340884db [DEBUG Client 11760] [RENDER] StopDevice
+2022/10/10 20:23:33 1404359 84a7e6f1 [INFO Client 11760] [ENGINE] Clear
+2022/10/10 20:23:33 1404359 7bb5422 [INFO Client 11760] [BUNDLE2] Deinit
+2022/10/10 20:23:33 1404359 84a7e691 [INFO Client 11760] [JOB] Clear
+2022/10/10 20:23:33 1404359 84a7e7bf [INFO Client 11760] [ANIMATION] Clear
+2022/10/10 20:23:33 1404359 84a7e7be [INFO Client 11760] [PHYSICS] Clear
+2022/10/10 20:23:33 1404359 84a7e7bd [INFO Client 11760] [SHADER] Clear
+2022/10/10 20:23:33 1404359 84a7e7bc [INFO Client 11760] [ENTITY] Clear
+2022/10/10 20:23:33 1404359 84a7e7bb [INFO Client 11760] [SOUND] Clear
+2022/10/10 20:23:33 1404359 84a7e7ba [INFO Client 11760] [VIDEO] Clear
+2022/10/10 20:23:33 1404359 84a7e7b9 [INFO Client 11760] [SCENE] Clear
+2022/10/10 20:23:33 1404359 84a7e7b8 [INFO Client 11760] [GRAPH] Clear
+2022/10/10 20:23:33 1404359 84a7e7b7 [INFO Client 11760] [TELEMETRY] Clear
+2022/10/10 20:23:33 1404359 84a7e7b6 [INFO Client 11760] [RESOURCE] GarbageCollect
+2022/10/10 20:23:33 1404359 84a7e75e [INFO Client 11760] [RESOURCE] Clear
+2022/10/10 20:23:33 1404375 84a7e75b [INFO Client 11760] [RENDER] Clear
+2022/10/10 20:23:33 1404375 84a7e758 [INFO Client 11760] [ENGINE] Done
+2022/10/10 20:23:53 ***** LOG FILE OPENING *****
+2022/10/10 20:23:54 1425156 f954428c [INFO Client 9248] [STARTUP] Job Queues
+2022/10/10 20:23:54 1425218 9e6a0b0a [INFO Client 9248] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/10 20:23:55 1425718 9e6a1d2a [INFO Client 9248] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 20:23:55 1425718 9e6a1363 [INFO Client 9248] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/10 20:23:55 1425734 9e6a0b0a [INFO Client 9248] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 20:23:55 1425750 9e6a1d2a [INFO Client 9248] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 20:23:55 1425750 84a7d27d [INFO Client 9248] [ENGINE] Init
+2022/10/10 20:23:55 1425750 55713145 [INFO Client 9248] [JOB] HIGH: 2
+2022/10/10 20:23:55 1425750 55713145 [INFO Client 9248] [JOB] MEDIUM: 2
+2022/10/10 20:23:55 1425750 55713145 [INFO Client 9248] [JOB] LOW: 2
+2022/10/10 20:23:55 1425750 55713145 [INFO Client 9248] [JOB] IDLE: 1
+2022/10/10 20:23:55 1425750 7bb548f [INFO Client 9248] [BUNDLE2] Init
+2022/10/10 20:23:55 1425750 7bb36c4 [INFO Client 9248] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/10 20:23:55 1426531 7bb61e6 [INFO Client 9248] [BUNDLE2] File cache size: 1024
+2022/10/10 20:23:55 1426531 b51d61ab [INFO Client 9248] [RENDER] Async: ON
+2022/10/10 20:23:55 1426531 b51d60c8 [INFO Client 9248] [RENDER] Warmup: ON
+2022/10/10 20:23:55 1426531 b51d60ce [INFO Client 9248] [RENDER] Skip: ON
+2022/10/10 20:23:55 1426531 b51d60eb [INFO Client 9248] [RENDER] Throttling: ON
+2022/10/10 20:23:55 1426531 32759a7a [INFO Client 9248] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/10 20:23:55 1426531 32759a70 [INFO Client 9248] [SHADER] Async: ON
+2022/10/10 20:23:55 1426531 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 20:23:55 1426531 32759aba [INFO Client 9248] [SHADER] Limit: ON
+2022/10/10 20:23:55 1426531 32759abc [INFO Client 9248] [SHADER] Warmup: ON
+2022/10/10 20:23:55 1426531 327599d7 [INFO Client 9248] [SHADER] Parallel: OFF
+2022/10/10 20:23:55 1426531 84a7e376 [INFO Client 9248] [ENGINE] Running Engine version 1.6.0
+2022/10/10 20:23:55 1426578 47bbd159 [INFO Client 9248] [SOUND] Buffer size = 64.0 MB
+2022/10/10 20:23:56 1426718 9b0d205 [INFO Client 9248] [VIDEO] Enable: ON
+2022/10/10 20:23:56 1426843 84a7d2d8 [INFO Client 9248] [ENGINE] Ready
+2022/10/10 20:23:56 1426953 951bc0b0 [INFO Client 9248] [STARTUP] Bundle Startup Start
+2022/10/10 20:23:56 1426953 951bc057 [INFO Client 9248] [STARTUP] Bundle Startup in 6.8e-05 seconds
+2022/10/10 20:23:56 1426953 951bc0b0 [INFO Client 9248] [STARTUP] Game Start
+2022/10/10 20:23:56 1427562 ca86fd3f [DEBUG Client 9248] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/10 20:23:57 1428140 951bc057 [INFO Client 9248] [STARTUP] Game in 1.19522 seconds
+2022/10/10 20:23:57 1428140 951bc0b0 [INFO Client 9248] [STARTUP] Window Start
+2022/10/10 20:23:57 1428156 9e6a0b0a [INFO Client 9248] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/10 20:23:57 1428281 9e6a1d2a [INFO Client 9248] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 20:23:57 1428281 9e6a1363 [INFO Client 9248] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/10 20:23:57 1428281 9e6a0b0a [INFO Client 9248] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 20:23:57 1428296 9e6a1d2a [INFO Client 9248] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 20:23:57 1428328 951bc057 [INFO Client 9248] [STARTUP] Window in 0.185671 seconds
+2022/10/10 20:23:57 1428359 413b61ff [DEBUG Client 9248] [GamepadManager] Initialising
+2022/10/10 20:23:57 1428359 951bc0b0 [INFO Client 9248] [STARTUP] Device Start
+2022/10/10 20:23:57 1428359 b51d6589 [INFO Client 9248] [RENDER] StartDevice: DirectX11
+2022/10/10 20:23:58 1428765 71b3b00 [DEBUG Client 9248] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/10 20:23:58 1428765 97ce04a4 [WARN Client 9248] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/10 20:23:58 1428890 fafff8cf [DEBUG Client 9248] CreateSwapChain: SetFullScreenState 0
+2022/10/10 20:23:58 1428890 29d4ce01 [INFO Client 9248] [D3D11] Runtime version = 11.1
+2022/10/10 20:23:58 1428890 29d4ce00 [INFO Client 9248] [D3D11] Feature Level = 11.1
+2022/10/10 20:23:58 1428890 29d4ce03 [INFO Client 9248] [D3D11] Driver Command Lists = NO
+2022/10/10 20:23:58 1428890 29d4ce02 [INFO Client 9248] [D3D11] Driver Concurrent Creates = YES
+2022/10/10 20:23:58 1428890 29d4ce05 [INFO Client 9248] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/10 20:23:58 1429046 9d4eeb40 [DEBUG Client 9248] [WINDOW] TrigggerDeviceCreate
+2022/10/10 20:23:59 1430140 9d4eeba7 [DEBUG Client 9248] [WINDOW] TrigggerDeviceReset
+2022/10/10 20:24:00 1431343 9d4eec8a [DEBUG Client 9248] [WINDOW] TrigggerDeviceLost
+2022/10/10 20:24:00 1431343 9d4eeba7 [DEBUG Client 9248] [WINDOW] TrigggerDeviceReset
+2022/10/10 20:24:00 1431562 951bc057 [INFO Client 9248] [STARTUP] Device in 3.20424 seconds
+2022/10/10 20:24:00 1431562 951bc0b0 [INFO Client 9248] [STARTUP] Tencent Start
+2022/10/10 20:24:00 1431562 951bc057 [INFO Client 9248] [STARTUP] Tencent in 0.000235 seconds
+2022/10/10 20:24:00 1431562 951bc0b0 [INFO Client 9248] [STARTUP] Loading Start
+2022/10/10 20:24:00 1431593 951bc057 [INFO Client 9248] [STARTUP] Loading in 0.034863 seconds
+2022/10/10 20:24:00 1431593 951bc0b0 [INFO Client 9248] [STARTUP] DebugGUI Start
+2022/10/10 20:24:00 1431593 951bc057 [INFO Client 9248] [STARTUP] DebugGUI in 3.3e-05 seconds
+2022/10/10 20:24:00 1431593 951bc0b0 [INFO Client 9248] [STARTUP] Bundle Tiny Start
+2022/10/10 20:24:00 1431593 951bc0b0 [INFO Client 9248] [STARTUP] Bundle Login Start
+2022/10/10 20:24:00 1431593 951bc057 [INFO Client 9248] [STARTUP] Bundle Login in 3.9e-05 seconds
+2022/10/10 20:24:00 1431593 951bc0b0 [INFO Client 9248] [STARTUP] Registration Start
+2022/10/10 20:24:00 1431593 951bc057 [INFO Client 9248] [STARTUP] Bundle Tiny in 0.000101 seconds
+2022/10/10 20:24:00 1431718 951bc0b0 [INFO Client 9248] [STARTUP] Audio Start
+2022/10/10 20:24:00 1431718 47bbee18 [INFO Client 9248] [SOUND] Channel count = 128 (asked for 128)
+2022/10/10 20:24:00 1431718 47bbee19 [INFO Client 9248] [SOUND] Source count = 512
+2022/10/10 20:24:01 1432421 47bbea58 [INFO Client 9248] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/10 20:24:01 1432421 951bc057 [INFO Client 9248] [STARTUP] Audio in 0.703168 seconds
+2022/10/10 20:24:02 1432781 951bc057 [INFO Client 9248] [STARTUP] Registration in 1.18573 seconds
+2022/10/10 20:25:24 1515125 890da8d3 [INFO Client 9248] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/10 20:25:24 1515281 890d9d9b [INFO Client 9248] Connected to mil01.login.pathofexile.com in 31ms.
+2022/10/10 20:25:30 1520875 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 20:25:30 1520921 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 20:25:30 1520921 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.142:6112
+2022/10/10 20:25:30 1521015 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 63ms
+2022/10/10 20:25:30 1521359 1186952b [DEBUG Client 9248] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/10 20:25:43 1533750 f22b69a6 [INFO Client 9248] Tile hash: 3842481850
+2022/10/10 20:25:43 1533750 f22b69a7 [INFO Client 9248] Doodad hash: 3697406269
+2022/10/10 20:25:45 1536578 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 20:25:48 1539125 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/10 20:25:51 1542093 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 20:25:51 1542203 374e1126 [INFO Client 9248] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/10 20:25:51 1542203 374e1287 [INFO Client 9248] [Item Filter] Hash for online filter 5XMehq is: 88d570b89a43bbc6369c7e3e39e5a7e8
+2022/10/10 20:25:52 1542968 374e12ea [INFO Client 9248] [Item Filter] Online item filter 5XMehq returned status: 200
+2022/10/10 20:25:52 1542968 374e0d87 [DEBUG Client 9248] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/10 20:25:52 1542968 374e0d8f [DEBUG Client 9248] [Item Filter] X-HW: 1665422931.dop216.pa1.t,1665422932.cds025.pa1.shn,1665422932.dop216.pa1.t,1665422932.cds237.pa1.c
+2022/10/10 20:25:52 1542968 374e0d61 [INFO Client 9248] [Item Filter] Successfully saved online filter 5XMehq. Hash is now: e0dc56d9d2f0c6e1a57e2d008d931708
+2022/10/10 20:25:52 1542984 78847107 [INFO Client 9248] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: e0dc56d9d2f0c6e1a57e2d008d931708. Message: 
+2022/10/10 20:25:52 1542984 2a14a9a7 [INFO Client 9248] PrecalcBaseTypeHashMap
+2022/10/10 20:25:52 1543156 2a14a9a1 [INFO Client 9248] PrecalcModNameHashMap
+2022/10/10 20:25:55 1546421 2a14a9a3 [INFO Client 9248] PrecalcItemClassMap
+2022/10/10 20:25:55 1546421 2a14a9ad [INFO Client 9248] PrecalcSoundEffects
+2022/10/10 20:25:55 1546421 2a14a902 [INFO Client 9248] PrecalcDropEffects
+2022/10/10 20:25:55 1546421 2a14a900 [INFO Client 9248] PrecalcNonEnchantModHashes
+2022/10/10 20:25:55 1546421 2a14a906 [INFO Client 9248] PrecalcRuleNameToTypeMap
+2022/10/10 20:25:55 1546421 2a14a904 [INFO Client 9248] PrecalcCJESPNIndexMap
+2022/10/10 20:25:55 1546437 2a14a90a [INFO Client 9248] PrecalcGemAlternateQualityMap
+2022/10/10 20:27:00 1611625 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 20:27:00 1611640 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 20:27:00 1611640 ca3a6737 [INFO Client 9248] Connecting to instance server at 159.122.142.253:6112
+2022/10/10 20:27:01 1611718 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 47ms
+2022/10/10 20:27:01 1611781 1186952b [DEBUG Client 9248] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/10 20:27:01 1612281 f22b69a6 [INFO Client 9248] Tile hash: 2509555744
+2022/10/10 20:27:01 1612281 f22b69a7 [INFO Client 9248] Doodad hash: 0
+2022/10/10 20:27:02 1612937 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 20:27:02 1613718 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/10 20:27:04 1615687 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 20:27:34 1644796 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 20:27:34 1644828 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 20:27:34 1644828 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.138:6112
+2022/10/10 20:27:34 1644875 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 31ms
+2022/10/10 20:27:34 1644953 1186952b [DEBUG Client 9248] Generating level 68 area "HeistHub" with seed 3682873810
+2022/10/10 20:27:36 1647625 f22b69a6 [INFO Client 9248] Tile hash: 1554461523
+2022/10/10 20:27:36 1647625 f22b69a7 [INFO Client 9248] Doodad hash: 0
+2022/10/10 20:27:37 1648562 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 20:27:41 1651968 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/10 20:27:46 1657062 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 20:28:17 1688109 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 20:28:17 1688109 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 20:28:17 1688109 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.167:6112
+2022/10/10 20:28:17 1688156 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 31ms
+2022/10/10 20:28:17 1688234 1186952b [DEBUG Client 9248] Generating level 70 area "HeistMines9" with seed 1946851141
+2022/10/10 20:28:19 1689812 f22b69a6 [INFO Client 9248] Tile hash: 2366516898
+2022/10/10 20:28:19 1689812 f22b69a7 [INFO Client 9248] Doodad hash: 257350741
+2022/10/10 20:28:19 1690625 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 20:28:20 1691125 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Притон контрабандистов.
+2022/10/10 20:28:21 1691937 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 20:34:50 2081109 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 20:34:50 2081125 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 20:34:50 2081125 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.138:6112
+2022/10/10 20:34:50 2081187 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 46ms
+2022/10/10 20:34:50 2081250 1186952b [DEBUG Client 9248] Generating level 68 area "HeistHub" with seed 3682873810
+2022/10/10 20:34:50 2081296 f22b69a6 [INFO Client 9248] Tile hash: 1554461523
+2022/10/10 20:34:50 2081296 f22b69a7 [INFO Client 9248] Doodad hash: 0
+2022/10/10 20:34:51 2081921 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 20:34:52 2083343 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/10 20:34:55 2086687 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 20:35:07 2098421 cff943d8 [INFO Client 9248] : Сделка отклонена.
+2022/10/10 20:36:15 2165890 cff943d8 [INFO Client 9248] : Сделка совершена.
+2022/10/10 20:36:37 2188359 cff943d8 [INFO Client 9248] Карст Взломщик: Охраняй меня. Я сделаю всё остальное.
+2022/10/10 20:37:08 2219250 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 20:37:08 2219250 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 20:37:08 2219250 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.151:6112
+2022/10/10 20:37:08 2219328 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 62ms
+2022/10/10 20:37:08 2219406 1186952b [DEBUG Client 9248] Generating level 71 area "HeistMansion9" with seed 2589337732
+2022/10/10 20:37:10 2220921 f22b69a6 [INFO Client 9248] Tile hash: 2772778134
+2022/10/10 20:37:10 2220921 f22b69a7 [INFO Client 9248] Doodad hash: 3426809892
+2022/10/10 20:37:10 2221656 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 20:37:11 2222171 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Особняк.
+2022/10/10 20:37:12 2223109 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 20:37:14 2225671 cff943d8 [INFO Client 9248] Карст Взломщик: Ты у нас из молчунов?.. Да-а, точно из молчунов. Для вора в самый раз.
+2022/10/10 20:37:33 2244437 cff943d8 [INFO Client 9248] Карст Взломщик: Допрыгались.
+2022/10/10 20:37:44 2255640 cff943d8 [INFO Client 9248] Карст Взломщик: У нас гости.
+2022/10/10 20:37:56 2266937 cff943d8 [INFO Client 9248] Карст Взломщик: Шустрей, пока они не расшумелись.
+2022/10/10 20:39:17 2348421 cff943d8 [INFO Client 9248] Карст Взломщик: Разберешься без меня, лады?
+2022/10/10 20:39:50 2380812 cff943d8 [INFO Client 9248] Карст Взломщик: Разберешься без меня, лады?
+2022/10/10 20:40:42 2433343 cff943d8 [INFO Client 9248] Карст Взломщик: Отвали, дерьма кусок.
+2022/10/10 20:42:18 2529625 cff943d8 [INFO Client 9248] Карст Взломщик: Тише! Не шуми.
+2022/10/10 20:46:21 2772031 cff943d8 [INFO Client 9248] : Карст получил(а) 660 опыта в навыке взлом
+2022/10/10 20:46:23 2774078 cff943d8 [INFO Client 9248] Адия Проводница: Всё прошло по плану? Никто не ранен? Карст?
+2022/10/10 20:46:27 2778125 cff943d8 [INFO Client 9248] Карст Взломщик: Я в порядке, красавица! Лучше не бывает!
+2022/10/10 20:46:29 2780000 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 20:46:29 2780000 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 20:46:29 2780000 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.138:6112
+2022/10/10 20:46:29 2780062 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 46ms
+2022/10/10 20:46:29 2780125 1186952b [DEBUG Client 9248] Generating level 68 area "HeistHub" with seed 3682873810
+2022/10/10 20:46:29 2780187 f22b69a6 [INFO Client 9248] Tile hash: 1554461523
+2022/10/10 20:46:29 2780187 f22b69a7 [INFO Client 9248] Doodad hash: 0
+2022/10/10 20:46:30 2780781 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 20:46:31 2781875 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/10 20:46:33 2784406 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 20:46:44 2794750 cff943d8 [INFO Client 9248] : Сделка отклонена.
+2022/10/10 20:49:55 2986453 cff943d8 [INFO Client 9248] : Не удалось применить предмет: Цель неопознана
+2022/10/10 20:53:00 3170968 cff943d8 [INFO Client 9248] : Сделка совершена.
+2022/10/10 20:54:26 3256843 cff943d8 [INFO Client 9248] Тиббс Великан: Мы всюду прорвёмся.
+2022/10/10 20:55:06 3297671 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 20:55:06 3297671 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 20:55:06 3297687 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.151:6112
+2022/10/10 20:55:07 3297796 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 63ms
+2022/10/10 20:55:07 3297859 1186952b [DEBUG Client 9248] Generating level 72 area "HeistMines9" with seed 3236322455
+2022/10/10 20:55:08 3299359 f22b69a6 [INFO Client 9248] Tile hash: 3279291132
+2022/10/10 20:55:08 3299359 f22b69a7 [INFO Client 9248] Doodad hash: 4145092726
+2022/10/10 20:55:09 3299828 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 20:55:09 3300375 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Притон контрабандистов.
+2022/10/10 20:55:10 3301546 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 20:55:27 3318593 cff943d8 [INFO Client 9248] Тиббс Великан: Каждый раз надеюсь, что не стану волноваться, но всё равно волнуюсь.
+2022/10/10 20:55:41 3331859 cff943d8 [INFO Client 9248] Тиббс Великан: Ненавижу эту часть работы.
+2022/10/10 20:58:00 3471453 cff943d8 [INFO Client 9248] Тиббс Великан: Надо было не отвлекаться на шум.
+2022/10/10 20:58:38 3509125 cff943d8 [INFO Client 9248] Тиббс Великан: Вы ещё пожалеете. А потом и мне станет жаль.
+2022/10/10 20:59:13 3544515 cff943d8 [INFO Client 9248] Тиббс Великан: Тебе это не понравится.
+2022/10/10 20:59:55 3586296 cff943d8 [INFO Client 9248] Тиббс Великан: Надо резвиться поменьше.
+2022/10/10 21:03:37 3808015 cff943d8 [INFO Client 9248] : Тиббс получил(а) 699 опыта в навыке грубая сила
+2022/10/10 21:03:40 3811156 cff943d8 [INFO Client 9248] Тиббс Великан: Эгегей! Знай наших!
+2022/10/10 21:03:51 3821843 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 21:03:51 3821843 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 21:03:51 3821843 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.138:6112
+2022/10/10 21:03:51 3821906 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 47ms
+2022/10/10 21:03:51 3821984 1186952b [DEBUG Client 9248] Generating level 68 area "HeistHub" with seed 3682873810
+2022/10/10 21:03:51 3822031 f22b69a6 [INFO Client 9248] Tile hash: 1554461523
+2022/10/10 21:03:51 3822031 f22b69a7 [INFO Client 9248] Doodad hash: 0
+2022/10/10 21:03:51 3822515 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 21:03:52 3823015 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/10 21:03:53 3823968 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 21:07:41 4052000 cff943d8 [INFO Client 9248] : Сделка совершена.
+2022/10/10 21:09:11 4142125 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 21:09:11 4142140 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 21:09:11 4142140 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.169:6112
+2022/10/10 21:09:11 4142187 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 31ms
+2022/10/10 21:09:11 4142250 1186952b [DEBUG Client 9248] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/10 21:09:12 4142890 f22b69a6 [INFO Client 9248] Tile hash: 2509555744
+2022/10/10 21:09:12 4142890 f22b69a7 [INFO Client 9248] Doodad hash: 0
+2022/10/10 21:09:12 4143640 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 21:09:13 4144375 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/10 21:09:15 4146125 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 21:10:14 4205046 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 21:10:14 4205078 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 21:10:14 4205078 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.167:6112
+2022/10/10 21:10:14 4205125 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 31ms
+2022/10/10 21:10:14 4205203 1186952b [DEBUG Client 9248] Generating level 71 area "MapWorldsShore" with seed 1206182341
+2022/10/10 21:10:16 4207468 f22b69a6 [INFO Client 9248] Tile hash: 1015218498
+2022/10/10 21:10:16 4207468 f22b69a7 [INFO Client 9248] Doodad hash: 4263999059
+2022/10/10 21:10:17 4208296 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 21:10:18 4209468 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берег.
+2022/10/10 21:10:20 4210796 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 21:15:39 4529843 890da8d3 [INFO Client 9248] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/10 21:15:39 4529875 890d9d9b [INFO Client 9248] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/10 21:15:44 4535296 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 21:15:44 4535296 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 21:15:44 4535296 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.142:6112
+2022/10/10 21:15:44 4535359 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 47ms
+2022/10/10 21:15:44 4535546 1186952b [DEBUG Client 9248] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/10 21:16:06 4556828 f22b69a6 [INFO Client 9248] Tile hash: 3842481850
+2022/10/10 21:16:06 4556828 f22b69a7 [INFO Client 9248] Doodad hash: 3697406269
+2022/10/10 21:16:14 4564859 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 21:16:14 4565156 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565171 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565187 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565187 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565187 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565203 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565203 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565218 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565218 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565218 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565218 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:14 4565218 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:16 4566937 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/10 21:16:16 4566937 cff943d8 [INFO Client 9248] #SacamanoGF: спешл фор скамерс
+2022/10/10 21:16:16 4566937 cff943d8 [INFO Client 9248] #Амадейа: лабранеры как вы живёте? я уже 6 раз пробегаю лабу в поисках зачарки и я оч устал
+2022/10/10 21:16:16 4567015 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:16 4567015 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:16 4567015 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:16 4567015 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:16 4567015 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:16 4567015 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:16 4567015 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:16 4567015 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:16 4567015 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:16 4567015 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:16 4567015 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:16 4567015 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:16 4567015 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:16 4567015 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:16 4567015 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:16 4567015 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:16 4567015 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:16 4567015 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:16 4567015 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:16 4567015 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:20 4571156 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:20 4571156 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:20 4571156 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:20 4571156 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:20 4571218 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69
+2022/10/10 21:16:20 4571218 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69
+2022/10/10 21:16:20 4571218 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69
+2022/10/10 21:16:20 4571218 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaSword@69
+2022/10/10 21:16:20 4571218 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaSword@69
+2022/10/10 21:16:20 4571218 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69
+2022/10/10 21:16:20 4571234 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69
+2022/10/10 21:16:20 4571234 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaSword@69
+2022/10/10 21:16:20 4571234 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69
+2022/10/10 21:16:20 4571234 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69
+2022/10/10 21:16:20 4571234 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaSword@69
+2022/10/10 21:16:20 4571234 d946cb75 [CRIT Client 9248] Attempted to trigger GEAL event on destructing object Metadata/Monsters/Epilogue/AtlasMilitiaSword@69
+2022/10/10 21:16:20 4571234 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [125759]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/10 21:16:20 4571234 909127ff [INFO Client 9248] FindClosestObject found no nearby object
+2022/10/10 21:16:20 4571234 d946cb1d [CRIT Client 9248] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [125759]: Expression passed to function gave an empty result, expected a location or object
+2022/10/10 21:16:23 4573781 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 21:16:23 4573906 374e1126 [INFO Client 9248] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/10 21:16:23 4573906 374e1287 [INFO Client 9248] [Item Filter] Hash for online filter 5XMehq is: e0dc56d9d2f0c6e1a57e2d008d931708
+2022/10/10 21:16:23 4574312 374e12ea [INFO Client 9248] [Item Filter] Online item filter 5XMehq returned status: 304
+2022/10/10 21:16:23 4574312 374e0d87 [DEBUG Client 9248] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/10 21:16:23 4574312 374e0d8f [DEBUG Client 9248] [Item Filter] X-HW: 1665425963.dop216.pa1.t,1665425963.cds024.pa1.shn,1665425963.dop216.pa1.t,1665425963.cds237.pa1.c
+2022/10/10 21:16:23 4574328 78847107 [INFO Client 9248] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: e0dc56d9d2f0c6e1a57e2d008d931708. Message: 
+2022/10/10 21:16:29 4579968 88a90480 [DEBUG Client 9248] Got Instance Details from login server
+2022/10/10 21:16:29 4579984 32759a9f [INFO Client 9248] [SHADER] Delay: OFF
+2022/10/10 21:16:29 4579984 ca3a6737 [INFO Client 9248] Connecting to instance server at 169.51.201.167:6112
+2022/10/10 21:16:29 4580046 ca3a4d51 [DEBUG Client 9248] Connect time to instance server was 31ms
+2022/10/10 21:16:29 4580109 1186952b [DEBUG Client 9248] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/10 21:16:29 4580656 f22b69a6 [INFO Client 9248] Tile hash: 2509555744
+2022/10/10 21:16:29 4580656 f22b69a7 [INFO Client 9248] Doodad hash: 0
+2022/10/10 21:16:30 4581437 11871c61 [DEBUG Client 9248] Joined guild named Chevaleki with 2 members 
+2022/10/10 21:16:32 4583390 cff943d8 [INFO Client 9248] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/10 21:16:34 4584906 32759a9f [INFO Client 9248] [SHADER] Delay: ON
+2022/10/10 21:19:27 4758625 cff943d8 [INFO Client 9248] : Сделка совершена.
+2022/10/10 23:39:25 ***** LOG FILE OPENING *****
+2022/10/10 23:39:25 203265 1aec82be [WARN Client 1228] Vulkan drivers not installed.
+2022/10/10 23:39:26 203875 f954428c [INFO Client 1228] [STARTUP] Job Queues
+2022/10/10 23:39:26 204000 9e6a0b0a [INFO Client 1228] Enumerated adapter: VMware SVGA 3D
+2022/10/10 23:39:26 204187 9e6a1d2a [INFO Client 1228] Enumerated device for adapter: VMware SVGA 3D. Selected feature level: 45056. Max feature level: 45056
+2022/10/10 23:39:26 204187 9e6a1363 [INFO Client 1228] Enumerated output for adapter VMware SVGA 3D of \\.\DISPLAY1
+2022/10/10 23:39:26 204187 9e6a0b0a [INFO Client 1228] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 23:39:26 204203 9e6a1d2a [INFO Client 1228] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 23:39:26 204218 84a7d27d [INFO Client 1228] [ENGINE] Init
+2022/10/10 23:39:26 204218 55713145 [INFO Client 1228] [JOB] HIGH: 2
+2022/10/10 23:39:26 204218 55713145 [INFO Client 1228] [JOB] MEDIUM: 2
+2022/10/10 23:39:26 204218 55713145 [INFO Client 1228] [JOB] LOW: 2
+2022/10/10 23:39:26 204234 55713145 [INFO Client 1228] [JOB] IDLE: 1
+2022/10/10 23:39:26 204234 7bb548f [INFO Client 1228] [BUNDLE2] Init
+2022/10/10 23:39:26 204234 7bb36c4 [INFO Client 1228] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/10 23:39:27 204968 7bb61e6 [INFO Client 1228] [BUNDLE2] File cache size: 1024
+2022/10/10 23:39:27 204968 b51d61ab [INFO Client 1228] [RENDER] Async: ON
+2022/10/10 23:39:27 204968 b51d60c8 [INFO Client 1228] [RENDER] Warmup: ON
+2022/10/10 23:39:27 204984 b51d60ce [INFO Client 1228] [RENDER] Skip: ON
+2022/10/10 23:39:27 204984 b51d60eb [INFO Client 1228] [RENDER] Throttling: ON
+2022/10/10 23:39:27 204984 32759a7a [INFO Client 1228] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/10 23:39:27 204984 32759a70 [INFO Client 1228] [SHADER] Async: ON
+2022/10/10 23:39:27 204984 32759a9f [INFO Client 1228] [SHADER] Delay: OFF
+2022/10/10 23:39:27 204984 32759aba [INFO Client 1228] [SHADER] Limit: ON
+2022/10/10 23:39:27 204984 32759abc [INFO Client 1228] [SHADER] Warmup: ON
+2022/10/10 23:39:27 204984 327599d7 [INFO Client 1228] [SHADER] Parallel: OFF
+2022/10/10 23:39:27 205000 84a7e376 [INFO Client 1228] [ENGINE] Running Engine version 1.6.0
+2022/10/10 23:39:27 205000 84a7e35a [INFO Client 1228] [ENGINE] Old file Engine version detected 0.0.0
+2022/10/10 23:39:27 205171 47bbd159 [INFO Client 1228] [SOUND] Buffer size = 64.0 MB
+2022/10/10 23:39:28 205593 9b0d205 [INFO Client 1228] [VIDEO] Enable: ON
+2022/10/10 23:39:28 205734 84a7d2d8 [INFO Client 1228] [ENGINE] Ready
+2022/10/10 23:39:28 205937 951bc0b0 [INFO Client 1228] [STARTUP] Bundle Startup Start
+2022/10/10 23:39:28 205937 951bc057 [INFO Client 1228] [STARTUP] Bundle Startup in 0.001535 seconds
+2022/10/10 23:39:28 205937 951bc0b0 [INFO Client 1228] [STARTUP] Game Start
+2022/10/10 23:39:28 206515 ca86fd3f [DEBUG Client 1228] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/10 23:39:32 209593 951bc057 [INFO Client 1228] [STARTUP] Game in 3.65612 seconds
+2022/10/10 23:39:32 209593 951bc0b0 [INFO Client 1228] [STARTUP] Window Start
+2022/10/10 23:39:32 209625 9e6a0b0a [INFO Client 1228] Enumerated adapter: VMware SVGA 3D
+2022/10/10 23:39:32 209687 9e6a1d2a [INFO Client 1228] Enumerated device for adapter: VMware SVGA 3D. Selected feature level: 45056. Max feature level: 45056
+2022/10/10 23:39:32 209687 9e6a1363 [INFO Client 1228] Enumerated output for adapter VMware SVGA 3D of \\.\DISPLAY1
+2022/10/10 23:39:32 209687 9e6a0b0a [INFO Client 1228] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 23:39:32 209703 9e6a1d2a [INFO Client 1228] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 23:39:32 209796 951bc057 [INFO Client 1228] [STARTUP] Window in 0.202093 seconds
+2022/10/10 23:39:32 209828 413b61ff [DEBUG Client 1228] [GamepadManager] Initialising
+2022/10/10 23:39:32 209828 951bc0b0 [INFO Client 1228] [STARTUP] Device Start
+2022/10/10 23:39:32 209843 b51d6589 [INFO Client 1228] [RENDER] StartDevice: DirectX11
+2022/10/10 23:39:33 210546 71b3b00 [DEBUG Client 1228] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/10 23:39:33 210562 97ce04a4 [WARN Client 1228] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/10 23:39:33 210625 fafff8cf [DEBUG Client 1228] CreateSwapChain: SetFullScreenState 0
+2022/10/10 23:39:33 210640 29d4ce01 [INFO Client 1228] [D3D11] Runtime version = 11.1
+2022/10/10 23:39:33 210640 29d4ce00 [INFO Client 1228] [D3D11] Feature Level = 11.0
+2022/10/10 23:39:33 210640 29d4ce03 [INFO Client 1228] [D3D11] Driver Command Lists = NO
+2022/10/10 23:39:33 210640 29d4ce02 [INFO Client 1228] [D3D11] Driver Concurrent Creates = NO
+2022/10/10 23:39:33 210640 29d4ce05 [INFO Client 1228] [D3D11] Driver Constant Buffer Offsetting = NO
+2022/10/10 23:39:33 211187 9d4eeb40 [DEBUG Client 1228] [WINDOW] TrigggerDeviceCreate
+2022/10/10 23:39:34 212109 9d4eeba7 [DEBUG Client 1228] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:39:35 212781 9d4eec8a [DEBUG Client 1228] [WINDOW] TrigggerDeviceLost
+2022/10/10 23:39:35 212828 9d4eeba7 [DEBUG Client 1228] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:39:35 213390 951bc057 [INFO Client 1228] [STARTUP] Device in 3.55082 seconds
+2022/10/10 23:39:35 213390 951bc0b0 [INFO Client 1228] [STARTUP] Tencent Start
+2022/10/10 23:39:35 213406 951bc057 [INFO Client 1228] [STARTUP] Tencent in 0.014245 seconds
+2022/10/10 23:39:35 213406 951bc0b0 [INFO Client 1228] [STARTUP] Loading Start
+2022/10/10 23:39:37 214828 951bc057 [INFO Client 1228] [STARTUP] Loading in 1.41864 seconds
+2022/10/10 23:39:37 214828 951bc0b0 [INFO Client 1228] [STARTUP] DebugGUI Start
+2022/10/10 23:39:37 214828 951bc057 [INFO Client 1228] [STARTUP] DebugGUI in 0.000518 seconds
+2022/10/10 23:39:37 214828 951bc0b0 [INFO Client 1228] [STARTUP] Bundle Tiny Start
+2022/10/10 23:39:37 214828 951bc0b0 [INFO Client 1228] [STARTUP] Bundle Login Start
+2022/10/10 23:39:37 214828 951bc057 [INFO Client 1228] [STARTUP] Bundle Login in 0.000701 seconds
+2022/10/10 23:39:37 214828 951bc0b0 [INFO Client 1228] [STARTUP] Registration Start
+2022/10/10 23:39:37 214828 951bc057 [INFO Client 1228] [STARTUP] Bundle Tiny in 0.001891 seconds
+2022/10/10 23:39:37 214906 951bc0b0 [INFO Client 1228] [STARTUP] Audio Start
+2022/10/10 23:39:37 215093 47bbee18 [INFO Client 1228] [SOUND] Channel count = 64 (asked for 64)
+2022/10/10 23:39:37 215125 47bbee19 [INFO Client 1228] [SOUND] Source count = 512
+2022/10/10 23:39:43 220921 47bbea58 [INFO Client 1228] Changing to device "Динамики (High Definition Audio Device)"
+2022/10/10 23:39:43 220968 951bc057 [INFO Client 1228] [STARTUP] Audio in 6.06125 seconds
+2022/10/10 23:39:43 221328 951bc057 [INFO Client 1228] [STARTUP] Registration in 6.4987 seconds
+2022/10/10 23:39:45 222968 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:39:45 223000 b51d6447 [DEBUG Client 1228] [RENDER] ResizeWindow
+2022/10/10 23:39:45 223015 9d4eec8a [DEBUG Client 1228] [WINDOW] TrigggerDeviceLost
+2022/10/10 23:39:45 223093 9d4eeba7 [DEBUG Client 1228] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:39:46 223968 b51d614c [DEBUG Client 1228] [RENDER] RestartSwapChain
+2022/10/10 23:39:46 224156 9e6a0b0a [INFO Client 1228] Enumerated adapter: VMware SVGA 3D
+2022/10/10 23:39:47 225156 9e6a1d2a [INFO Client 1228] Enumerated device for adapter: VMware SVGA 3D. Selected feature level: 45056. Max feature level: 45056
+2022/10/10 23:39:47 225218 9e6a1363 [INFO Client 1228] Enumerated output for adapter VMware SVGA 3D of \\.\DISPLAY1
+2022/10/10 23:39:47 225218 9e6a0b0a [INFO Client 1228] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 23:39:48 225796 9e6a1d2a [INFO Client 1228] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 23:39:48 225843 fafff8cf [DEBUG Client 1228] CreateSwapChain: SetFullScreenState 0
+2022/10/10 23:39:48 225906 9d4eec8a [DEBUG Client 1228] [WINDOW] TrigggerDeviceLost
+2022/10/10 23:39:48 225953 9d4eeba7 [DEBUG Client 1228] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:39:49 226625 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:39:49 226640 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:40:58 295609 9d4eec8a [DEBUG Client 1228] [WINDOW] TrigggerDeviceLost
+2022/10/10 23:40:58 295718 9d4eeba7 [DEBUG Client 1228] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:41:31 328671 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:41:31 328687 b51d614c [DEBUG Client 1228] [RENDER] RestartSwapChain
+2022/10/10 23:41:31 328687 9e6a0b0a [INFO Client 1228] Enumerated adapter: VMware SVGA 3D
+2022/10/10 23:41:31 328781 9e6a1d2a [INFO Client 1228] Enumerated device for adapter: VMware SVGA 3D. Selected feature level: 45056. Max feature level: 45056
+2022/10/10 23:41:31 328781 9e6a1363 [INFO Client 1228] Enumerated output for adapter VMware SVGA 3D of \\.\DISPLAY1
+2022/10/10 23:41:31 328781 9e6a0b0a [INFO Client 1228] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 23:41:32 329703 9e6a1d2a [INFO Client 1228] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 23:41:32 329750 fafff8cf [DEBUG Client 1228] CreateSwapChain: SetFullScreenState 0
+2022/10/10 23:41:32 329781 9d4eec8a [DEBUG Client 1228] [WINDOW] TrigggerDeviceLost
+2022/10/10 23:41:32 329828 9d4eeba7 [DEBUG Client 1228] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:41:32 330468 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:41:32 330468 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:42:36 394390 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:42:36 394390 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:42:36 394390 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:43:13 431171 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:43:13 431171 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:43:13 431187 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:43:39 456609 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:43:39 456609 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:43:39 456609 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:43:47 464875 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:43:47 464875 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:43:47 464890 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:44:14 492109 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:44:14 492109 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:44:14 492125 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:44:50 528000 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:44:50 528000 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:44:50 528000 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:45:25 563328 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:45:25 563375 b51d650d [DEBUG Client 1228] [RENDER] ResizeDevice
+2022/10/10 23:45:25 563406 9d4eec8a [DEBUG Client 1228] [WINDOW] TrigggerDeviceLost
+2022/10/10 23:45:26 563546 9d4eeba7 [DEBUG Client 1228] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:45:27 565156 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:45:27 565156 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:45:52 590343 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:45:52 590343 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:45:52 590343 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:46:20 618468 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:46:20 618468 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:46:20 618468 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:47:04 661781 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:47:04 661781 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:47:04 661781 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:47:30 687718 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:47:30 687718 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:47:30 687718 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:47:50 707750 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:47:50 707750 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:47:50 707750 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:48:06 723796 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:48:06 723796 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:48:06 723796 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:48:19 736828 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:48:19 736828 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:48:19 736828 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:48:30 748437 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:48:30 748437 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:48:30 748453 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:48:48 766390 b51d4f61 [DEBUG Client 1228] [RENDER] SetRendererSettings
+2022/10/10 23:48:48 766390 3275a75e [INFO Client 1228] [SHADER] Disable Async: 1 frames
+2022/10/10 23:48:48 766390 b51d610e [INFO Client 1228] [RENDER] Disable Async: 1 frames
+2022/10/10 23:50:41 ***** LOG FILE OPENING *****
+2022/10/10 23:50:41 879250 1aec82be [WARN Client 6320] Vulkan drivers not installed.
+2022/10/10 23:50:42 879781 f954428c [INFO Client 6320] [STARTUP] Job Queues
+2022/10/10 23:50:42 879812 9e6a0b0a [INFO Client 6320] Enumerated adapter: VMware SVGA 3D
+2022/10/10 23:50:42 879937 9e6a1d2a [INFO Client 6320] Enumerated device for adapter: VMware SVGA 3D. Selected feature level: 45056. Max feature level: 45056
+2022/10/10 23:50:42 879937 9e6a1363 [INFO Client 6320] Enumerated output for adapter VMware SVGA 3D of \\.\DISPLAY1
+2022/10/10 23:50:42 879937 9e6a0b0a [INFO Client 6320] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 23:50:42 880000 9e6a1d2a [INFO Client 6320] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 23:50:42 880031 84a7d27d [INFO Client 6320] [ENGINE] Init
+2022/10/10 23:50:42 880031 55713145 [INFO Client 6320] [JOB] HIGH: 2
+2022/10/10 23:50:42 880031 55713145 [INFO Client 6320] [JOB] MEDIUM: 2
+2022/10/10 23:50:42 880031 55713145 [INFO Client 6320] [JOB] LOW: 2
+2022/10/10 23:50:42 880031 55713145 [INFO Client 6320] [JOB] IDLE: 1
+2022/10/10 23:50:42 880031 7bb548f [INFO Client 6320] [BUNDLE2] Init
+2022/10/10 23:50:42 880031 7bb36c4 [INFO Client 6320] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/10 23:50:43 881078 7bb61e6 [INFO Client 6320] [BUNDLE2] File cache size: 1024
+2022/10/10 23:50:43 881078 b51d61ab [INFO Client 6320] [RENDER] Async: ON
+2022/10/10 23:50:43 881078 b51d60c8 [INFO Client 6320] [RENDER] Warmup: ON
+2022/10/10 23:50:43 881093 b51d60ce [INFO Client 6320] [RENDER] Skip: ON
+2022/10/10 23:50:43 881093 b51d60eb [INFO Client 6320] [RENDER] Throttling: ON
+2022/10/10 23:50:43 881093 32759a7a [INFO Client 6320] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/10 23:50:43 881093 32759a70 [INFO Client 6320] [SHADER] Async: ON
+2022/10/10 23:50:43 881093 32759a9f [INFO Client 6320] [SHADER] Delay: OFF
+2022/10/10 23:50:43 881093 32759aba [INFO Client 6320] [SHADER] Limit: ON
+2022/10/10 23:50:43 881093 32759abc [INFO Client 6320] [SHADER] Warmup: ON
+2022/10/10 23:50:43 881093 327599d7 [INFO Client 6320] [SHADER] Parallel: OFF
+2022/10/10 23:50:43 881109 84a7e376 [INFO Client 6320] [ENGINE] Running Engine version 1.6.0
+2022/10/10 23:50:44 881671 47bbd159 [INFO Client 6320] [SOUND] Buffer size = 64.0 MB
+2022/10/10 23:50:44 882078 9b0d205 [INFO Client 6320] [VIDEO] Enable: ON
+2022/10/10 23:50:44 882421 84a7d2d8 [INFO Client 6320] [ENGINE] Ready
+2022/10/10 23:50:45 882781 951bc0b0 [INFO Client 6320] [STARTUP] Bundle Startup Start
+2022/10/10 23:50:45 882781 951bc057 [INFO Client 6320] [STARTUP] Bundle Startup in 0.001212 seconds
+2022/10/10 23:50:45 882781 951bc0b0 [INFO Client 6320] [STARTUP] Game Start
+2022/10/10 23:50:46 883625 ca86fd3f [DEBUG Client 6320] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/10 23:50:48 885828 951bc057 [INFO Client 6320] [STARTUP] Game in 3.04427 seconds
+2022/10/10 23:50:48 885828 951bc0b0 [INFO Client 6320] [STARTUP] Window Start
+2022/10/10 23:50:48 885843 9e6a0b0a [INFO Client 6320] Enumerated adapter: VMware SVGA 3D
+2022/10/10 23:50:48 885890 9e6a1d2a [INFO Client 6320] Enumerated device for adapter: VMware SVGA 3D. Selected feature level: 45056. Max feature level: 45056
+2022/10/10 23:50:48 885890 9e6a1363 [INFO Client 6320] Enumerated output for adapter VMware SVGA 3D of \\.\DISPLAY1
+2022/10/10 23:50:48 885906 9e6a0b0a [INFO Client 6320] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 23:50:48 885937 9e6a1d2a [INFO Client 6320] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 23:50:48 886093 951bc057 [INFO Client 6320] [STARTUP] Window in 0.25599 seconds
+2022/10/10 23:50:48 886125 413b61ff [DEBUG Client 6320] [GamepadManager] Initialising
+2022/10/10 23:50:48 886125 951bc0b0 [INFO Client 6320] [STARTUP] Device Start
+2022/10/10 23:50:48 886140 b51d6589 [INFO Client 6320] [RENDER] StartDevice: DirectX11
+2022/10/10 23:50:49 886546 71b3b00 [DEBUG Client 6320] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/10 23:50:49 886546 97ce04a4 [WARN Client 6320] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/10 23:50:49 886656 fafff8cf [DEBUG Client 6320] CreateSwapChain: SetFullScreenState 0
+2022/10/10 23:50:49 886656 29d4ce01 [INFO Client 6320] [D3D11] Runtime version = 11.1
+2022/10/10 23:50:49 886671 29d4ce00 [INFO Client 6320] [D3D11] Feature Level = 11.0
+2022/10/10 23:50:49 886671 29d4ce03 [INFO Client 6320] [D3D11] Driver Command Lists = NO
+2022/10/10 23:50:49 886687 29d4ce02 [INFO Client 6320] [D3D11] Driver Concurrent Creates = NO
+2022/10/10 23:50:49 886687 29d4ce05 [INFO Client 6320] [D3D11] Driver Constant Buffer Offsetting = NO
+2022/10/10 23:50:50 887593 9d4eeb40 [DEBUG Client 6320] [WINDOW] TrigggerDeviceCreate
+2022/10/10 23:50:50 888281 9d4eeba7 [DEBUG Client 6320] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:50:51 888546 9d4eec8a [DEBUG Client 6320] [WINDOW] TrigggerDeviceLost
+2022/10/10 23:50:51 888578 9d4eeba7 [DEBUG Client 6320] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:50:51 888796 951bc057 [INFO Client 6320] [STARTUP] Device in 2.68214 seconds
+2022/10/10 23:50:51 888812 951bc0b0 [INFO Client 6320] [STARTUP] Tencent Start
+2022/10/10 23:50:51 888812 951bc057 [INFO Client 6320] [STARTUP] Tencent in 0.001284 seconds
+2022/10/10 23:50:51 888812 951bc0b0 [INFO Client 6320] [STARTUP] Loading Start
+2022/10/10 23:50:51 888921 951bc057 [INFO Client 6320] [STARTUP] Loading in 0.117788 seconds
+2022/10/10 23:50:51 888921 951bc0b0 [INFO Client 6320] [STARTUP] DebugGUI Start
+2022/10/10 23:50:51 888921 951bc057 [INFO Client 6320] [STARTUP] DebugGUI in 0.000655 seconds
+2022/10/10 23:50:51 888921 951bc0b0 [INFO Client 6320] [STARTUP] Bundle Tiny Start
+2022/10/10 23:50:51 888937 951bc0b0 [INFO Client 6320] [STARTUP] Bundle Login Start
+2022/10/10 23:50:51 888937 951bc0b0 [INFO Client 6320] [STARTUP] Registration Start
+2022/10/10 23:50:51 888937 951bc057 [INFO Client 6320] [STARTUP] Bundle Login in 0.001444 seconds
+2022/10/10 23:50:51 888937 951bc057 [INFO Client 6320] [STARTUP] Bundle Tiny in 0.008952 seconds
+2022/10/10 23:50:51 889015 951bc0b0 [INFO Client 6320] [STARTUP] Audio Start
+2022/10/10 23:50:51 889046 47bbee18 [INFO Client 6320] [SOUND] Channel count = 32 (asked for 32)
+2022/10/10 23:50:51 889046 47bbee19 [INFO Client 6320] [SOUND] Source count = 512
+2022/10/10 23:50:53 891343 47bbea58 [INFO Client 6320] Changing to device "Динамики (High Definition Audio Device)"
+2022/10/10 23:50:53 891359 951bc057 [INFO Client 6320] [STARTUP] Audio in 2.34339 seconds
+2022/10/10 23:50:54 891953 951bc057 [INFO Client 6320] [STARTUP] Registration in 3.02091 seconds
+2022/10/10 23:50:55 893078 b51d4f61 [DEBUG Client 6320] [RENDER] SetRendererSettings
+2022/10/10 23:50:55 893093 b51d6447 [DEBUG Client 6320] [RENDER] ResizeWindow
+2022/10/10 23:50:55 893093 9d4eec8a [DEBUG Client 6320] [WINDOW] TrigggerDeviceLost
+2022/10/10 23:50:55 893156 9d4eeba7 [DEBUG Client 6320] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:50:56 893796 b51d614c [DEBUG Client 6320] [RENDER] RestartSwapChain
+2022/10/10 23:50:56 893812 9e6a0b0a [INFO Client 6320] Enumerated adapter: VMware SVGA 3D
+2022/10/10 23:50:56 893906 9e6a1d2a [INFO Client 6320] Enumerated device for adapter: VMware SVGA 3D. Selected feature level: 45056. Max feature level: 45056
+2022/10/10 23:50:56 893906 9e6a1363 [INFO Client 6320] Enumerated output for adapter VMware SVGA 3D of \\.\DISPLAY1
+2022/10/10 23:50:56 893921 9e6a0b0a [INFO Client 6320] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/10 23:50:56 893937 9e6a1d2a [INFO Client 6320] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/10 23:50:56 893984 fafff8cf [DEBUG Client 6320] CreateSwapChain: SetFullScreenState 0
+2022/10/10 23:50:56 894015 9d4eec8a [DEBUG Client 6320] [WINDOW] TrigggerDeviceLost
+2022/10/10 23:50:56 894062 9d4eeba7 [DEBUG Client 6320] [WINDOW] TrigggerDeviceReset
+2022/10/10 23:50:56 894328 3275a75e [INFO Client 6320] [SHADER] Disable Async: 1 frames
+2022/10/10 23:50:56 894343 b51d610e [INFO Client 6320] [RENDER] Disable Async: 1 frames
+2022/10/10 23:51:43 941515 890da8d3 [INFO Client 6320] Async connecting to fra01.login.pathofexile.com:20481
+2022/10/10 23:51:47 945062 890d9d9b [INFO Client 6320] Connected to fra01.login.pathofexile.com in 15ms.
+2022/10/10 23:52:07 965296 88a90480 [DEBUG Client 6320] Got Instance Details from login server
+2022/10/10 23:52:07 965500 32759a9f [INFO Client 6320] [SHADER] Delay: OFF
+2022/10/10 23:52:08 965578 ca3a6737 [INFO Client 6320] Connecting to instance server at 37.61.218.49:6112
+2022/10/10 23:52:08 965687 ca3a4d51 [DEBUG Client 6320] Connect time to instance server was 47ms
+2022/10/10 23:52:08 965875 1186952b [DEBUG Client 6320] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/10 23:56:25 1223203 f22b69a6 [INFO Client 6320] Tile hash: 3842481850
+2022/10/10 23:56:25 1223218 f22b69a7 [INFO Client 6320] Doodad hash: 3697406269
+2022/10/10 23:56:30 1228187 aeceac3e [INFO Client 6320] Abnormal disconnect: Произошло неожиданное отключение от сервера.
+2022/10/11 00:02:36 1594406 890da8d3 [INFO Client 6320] Async connecting to fra01.login.pathofexile.com:20481
+2022/10/11 00:02:36 1594468 890d9d9b [INFO Client 6320] Connected to fra01.login.pathofexile.com in 31ms.
+2022/10/11 00:02:42 1600125 88a90480 [DEBUG Client 6320] Got Instance Details from login server
+2022/10/11 00:02:42 1600265 32759a9f [INFO Client 6320] [SHADER] Delay: OFF
+2022/10/11 00:02:42 1600281 ca3a6737 [INFO Client 6320] Connecting to instance server at 85.195.107.171:6112
+2022/10/11 00:02:42 1600406 ca3a4d51 [DEBUG Client 6320] Connect time to instance server was 32ms
+2022/10/11 00:02:43 1601203 1186952b [DEBUG Client 6320] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/11 00:03:13 1630890 f22b69a6 [INFO Client 6320] Tile hash: 3842481850
+2022/10/11 00:03:13 1630890 f22b69a7 [INFO Client 6320] Doodad hash: 3697406269
+2022/10/11 00:03:34 1651875 cff943d8 [INFO Client 6320] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/11 00:03:34 1651875 cff943d8 [INFO Client 6320] #<COSS> Conductorr: разбейте пару диванов и ливает из пати, найс :)
+2022/10/11 00:03:34 1651875 cff943d8 [INFO Client 6320] #Ementr: а что это за гавно?
+2022/10/11 00:03:34 1652156 cff943d8 [INFO Client 6320] #NeoUpMaster: Что с этим делать? Точильный камень Деталь доспеха
+2022/10/11 00:03:34 1652156 cff943d8 [INFO Client 6320] #<Farmer> nerf_ggg: камон, он просто поб случайно вкинул
+2022/10/11 00:03:34 1652171 cff943d8 [INFO Client 6320] #Тангусик: разменяйте плиз 200с Божественная сфера
+2022/10/11 00:03:41 1659156 cff943d8 [INFO Client 6320] #ПивПафБумАй: Вражеская дробь, Колчан пылающих стрел отдам, с фрактуркой т1
+2022/10/11 00:03:41 1659156 cff943d8 [INFO Client 6320] #<MAID> MatjeBall: пермач нахуй
+2022/10/11 00:03:52 1669765 cff943d8 [INFO Client 6320] #СынРФа: Продайте кто нибудь пожалуйста х2 Усилитель только 4го уровня
+2022/10/11 00:03:52 1669812 cff943d8 [INFO Client 6320] #еслибымызналичоэтотакое: Камень Разлома Тул Камень Разлома Уул-Нетол бричи 5 штук фри
+2022/10/11 00:03:52 1669812 cff943d8 [INFO Client 6320] #СынРФа: за 11 бошек
+2022/10/11 00:04:40 1718281 cff943d8 [INFO Client 6320] #Caustic_Kala: Колода карт ого 
+2022/10/11 00:04:55 1733453 32759a9f [INFO Client 6320] [SHADER] Delay: ON
+2022/10/11 00:04:58 1735609 cff943d8 [INFO Client 6320] #вихрьвжвж: Энтропический секач, Инкрустированная шпага Бушующая грань, Инкрустированная шпага почем продать можно?
+2022/10/11 00:05:05 1743031 88a90480 [DEBUG Client 6320] Got Instance Details from login server
+2022/10/11 00:05:05 1743234 32759a9f [INFO Client 6320] [SHADER] Delay: OFF
+2022/10/11 00:05:05 1743250 ca3a6737 [INFO Client 6320] Connecting to instance server at 85.195.107.171:6112
+2022/10/11 00:05:05 1743359 cff943d8 [INFO Client 6320] #<«AD»> Вичмаг: Яростная крепкая шкура, Облачение убийцы хммм
+2022/10/11 00:05:06 1743750 ca3a4d51 [DEBUG Client 6320] Connect time to instance server was 47ms
+2022/10/11 00:05:06 1743859 1186952b [DEBUG Client 6320] Generating level 60 area "HideoutSewer" with seed 1
+2022/10/11 00:05:11 1749187 f22b69a6 [INFO Client 6320] Tile hash: 3200442970
+2022/10/11 00:05:11 1749187 f22b69a7 [INFO Client 6320] Doodad hash: 0
+2022/10/11 00:05:22 1759984 cff943d8 [INFO Client 6320] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище под городом.
+2022/10/11 00:05:22 1759984 cff943d8 [INFO Client 6320] #<ReaPer> яЗаПузыремНеЖдите: разбейте 200с пж Божественная сфера
+2022/10/11 00:05:22 1759984 cff943d8 [INFO Client 6320] #Sertmonstar: Зеркало Рай 4\6
+2022/10/11 00:05:38 1776437 32759a9f [INFO Client 6320] [SHADER] Delay: ON
+2022/10/11 00:05:51 1789328 cff943d8 [INFO Client 6320] : Режим "недоступен" включён. Авто-ответ "Игрок находится в режиме афк.".
+2022/10/11 00:04:05 ***** LOG FILE OPENING *****
+2022/10/11 00:04:05 8684687 340884db [DEBUG Client 8444] [RENDER] StopDevice
+2022/10/11 00:04:05 8684687 84a7e6f1 [INFO Client 8444] [ENGINE] Clear
+2022/10/11 00:04:05 8684687 7bb5422 [INFO Client 8444] [BUNDLE2] Deinit
+2022/10/11 00:04:05 8684687 84a7e691 [INFO Client 8444] [JOB] Clear
+2022/10/11 00:04:05 8684687 84a7e7bf [INFO Client 8444] [ANIMATION] Clear
+2022/10/11 00:04:05 8684687 84a7e7be [INFO Client 8444] [PHYSICS] Clear
+2022/10/11 00:04:05 8684687 84a7e7bd [INFO Client 8444] [SHADER] Clear
+2022/10/11 00:04:05 8684687 84a7e7bc [INFO Client 8444] [ENTITY] Clear
+2022/10/11 00:04:05 8684687 84a7e7bb [INFO Client 8444] [SOUND] Clear
+2022/10/11 00:04:05 8684687 84a7e7ba [INFO Client 8444] [VIDEO] Clear
+2022/10/11 00:04:06 8684734 84a7e7b9 [INFO Client 8444] [SCENE] Clear
+2022/10/11 00:04:06 8684734 84a7e7b8 [INFO Client 8444] [GRAPH] Clear
+2022/10/11 00:04:06 8684734 84a7e7b7 [INFO Client 8444] [TELEMETRY] Clear
+2022/10/11 00:04:06 8684734 84a7e7b6 [INFO Client 8444] [RESOURCE] GarbageCollect
+2022/10/11 00:04:06 8684734 84a7e75e [INFO Client 8444] [RESOURCE] Clear
+2022/10/11 00:04:06 8684734 84a7e75b [INFO Client 8444] [RENDER] Clear
+2022/10/11 00:04:06 8684734 84a7e758 [INFO Client 8444] [ENGINE] Done
+2022/10/11 00:04:45 ***** LOG FILE OPENING *****
+2022/10/11 00:04:45 8724437 f954428c [INFO Client 3896] [STARTUP] Job Queues
+2022/10/11 00:04:45 8724453 9e6a0b0a [INFO Client 3896] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/11 00:04:45 8724562 9e6a1d2a [INFO Client 3896] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/11 00:04:45 8724562 9e6a1363 [INFO Client 3896] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/11 00:04:45 8724562 9e6a0b0a [INFO Client 3896] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/11 00:04:45 8724578 9e6a1d2a [INFO Client 3896] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/11 00:04:45 8724578 84a7d27d [INFO Client 3896] [ENGINE] Init
+2022/10/11 00:04:45 8724578 55713145 [INFO Client 3896] [JOB] HIGH: 2
+2022/10/11 00:04:45 8724578 55713145 [INFO Client 3896] [JOB] MEDIUM: 2
+2022/10/11 00:04:45 8724578 55713145 [INFO Client 3896] [JOB] LOW: 2
+2022/10/11 00:04:45 8724578 55713145 [INFO Client 3896] [JOB] IDLE: 1
+2022/10/11 00:04:45 8724578 7bb548f [INFO Client 3896] [BUNDLE2] Init
+2022/10/11 00:04:45 8724593 7bb36c4 [INFO Client 3896] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/11 00:04:46 8724906 7bb61e6 [INFO Client 3896] [BUNDLE2] File cache size: 1024
+2022/10/11 00:04:46 8724906 b51d61ab [INFO Client 3896] [RENDER] Async: ON
+2022/10/11 00:04:46 8724906 b51d60c8 [INFO Client 3896] [RENDER] Warmup: ON
+2022/10/11 00:04:46 8724906 b51d60ce [INFO Client 3896] [RENDER] Skip: ON
+2022/10/11 00:04:46 8724906 b51d60eb [INFO Client 3896] [RENDER] Throttling: ON
+2022/10/11 00:04:46 8724906 32759a7a [INFO Client 3896] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/11 00:04:46 8724906 32759a70 [INFO Client 3896] [SHADER] Async: ON
+2022/10/11 00:04:46 8724906 32759a9f [INFO Client 3896] [SHADER] Delay: OFF
+2022/10/11 00:04:46 8724906 32759aba [INFO Client 3896] [SHADER] Limit: ON
+2022/10/11 00:04:46 8724906 32759abc [INFO Client 3896] [SHADER] Warmup: ON
+2022/10/11 00:04:46 8724906 327599d7 [INFO Client 3896] [SHADER] Parallel: OFF
+2022/10/11 00:04:46 8724906 84a7e376 [INFO Client 3896] [ENGINE] Running Engine version 1.6.0
+2022/10/11 00:04:46 8725015 47bbd159 [INFO Client 3896] [SOUND] Buffer size = 64.0 MB
+2022/10/11 00:04:46 8725140 9b0d205 [INFO Client 3896] [VIDEO] Enable: ON
+2022/10/11 00:04:46 8725171 84a7d2d8 [INFO Client 3896] [ENGINE] Ready
+2022/10/11 00:04:46 8725218 951bc0b0 [INFO Client 3896] [STARTUP] Bundle Startup Start
+2022/10/11 00:04:46 8725218 951bc057 [INFO Client 3896] [STARTUP] Bundle Startup in 9.7e-05 seconds
+2022/10/11 00:04:46 8725218 951bc0b0 [INFO Client 3896] [STARTUP] Game Start
+2022/10/11 00:04:46 8725562 ca86fd3f [DEBUG Client 3896] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/11 00:04:47 8725984 951bc057 [INFO Client 3896] [STARTUP] Game in 0.765703 seconds
+2022/10/11 00:04:47 8725984 951bc0b0 [INFO Client 3896] [STARTUP] Window Start
+2022/10/11 00:04:47 8726000 9e6a0b0a [INFO Client 3896] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/11 00:04:47 8726093 9e6a1d2a [INFO Client 3896] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/11 00:04:47 8726093 9e6a1363 [INFO Client 3896] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/11 00:04:47 8726093 9e6a0b0a [INFO Client 3896] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/11 00:04:47 8726093 9e6a1d2a [INFO Client 3896] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/11 00:04:47 8726156 951bc057 [INFO Client 3896] [STARTUP] Window in 0.156968 seconds
+2022/10/11 00:04:47 8726171 413b61ff [DEBUG Client 3896] [GamepadManager] Initialising
+2022/10/11 00:04:47 8726171 951bc0b0 [INFO Client 3896] [STARTUP] Device Start
+2022/10/11 00:04:47 8726171 b51d6589 [INFO Client 3896] [RENDER] StartDevice: DirectX11
+2022/10/11 00:04:47 8726531 71b3b00 [DEBUG Client 3896] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/11 00:04:47 8726531 97ce04a4 [WARN Client 3896] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/11 00:04:47 8726625 fafff8cf [DEBUG Client 3896] CreateSwapChain: SetFullScreenState 0
+2022/10/11 00:04:47 8726625 29d4ce01 [INFO Client 3896] [D3D11] Runtime version = 11.1
+2022/10/11 00:04:47 8726625 29d4ce00 [INFO Client 3896] [D3D11] Feature Level = 11.1
+2022/10/11 00:04:47 8726625 29d4ce03 [INFO Client 3896] [D3D11] Driver Command Lists = NO
+2022/10/11 00:04:47 8726625 29d4ce02 [INFO Client 3896] [D3D11] Driver Concurrent Creates = YES
+2022/10/11 00:04:47 8726625 29d4ce05 [INFO Client 3896] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/11 00:04:48 8726750 9d4eeb40 [DEBUG Client 3896] [WINDOW] TrigggerDeviceCreate
+2022/10/11 00:04:48 8727078 9d4eeba7 [DEBUG Client 3896] [WINDOW] TrigggerDeviceReset
+2022/10/11 00:04:48 8727109 9d4eec8a [DEBUG Client 3896] [WINDOW] TrigggerDeviceLost
+2022/10/11 00:04:48 8727109 9d4eeba7 [DEBUG Client 3896] [WINDOW] TrigggerDeviceReset
+2022/10/11 00:04:48 8727140 951bc057 [INFO Client 3896] [STARTUP] Device in 0.969861 seconds
+2022/10/11 00:04:48 8727140 951bc0b0 [INFO Client 3896] [STARTUP] Tencent Start
+2022/10/11 00:04:48 8727140 951bc057 [INFO Client 3896] [STARTUP] Tencent in 0.000183 seconds
+2022/10/11 00:04:48 8727140 951bc0b0 [INFO Client 3896] [STARTUP] Loading Start
+2022/10/11 00:04:48 8727187 951bc057 [INFO Client 3896] [STARTUP] Loading in 0.038518 seconds
+2022/10/11 00:04:48 8727187 951bc0b0 [INFO Client 3896] [STARTUP] DebugGUI Start
+2022/10/11 00:04:48 8727187 951bc057 [INFO Client 3896] [STARTUP] DebugGUI in 5.4e-05 seconds
+2022/10/11 00:04:48 8727187 951bc0b0 [INFO Client 3896] [STARTUP] Bundle Tiny Start
+2022/10/11 00:04:48 8727187 951bc0b0 [INFO Client 3896] [STARTUP] Bundle Login Start
+2022/10/11 00:04:48 8727187 951bc057 [INFO Client 3896] [STARTUP] Bundle Login in 6.5e-05 seconds
+2022/10/11 00:04:48 8727187 951bc0b0 [INFO Client 3896] [STARTUP] Registration Start
+2022/10/11 00:04:48 8727187 951bc057 [INFO Client 3896] [STARTUP] Bundle Tiny in 0.000175 seconds
+2022/10/11 00:04:48 8727250 951bc0b0 [INFO Client 3896] [STARTUP] Audio Start
+2022/10/11 00:04:48 8727250 47bbee18 [INFO Client 3896] [SOUND] Channel count = 128 (asked for 128)
+2022/10/11 00:04:48 8727250 47bbee19 [INFO Client 3896] [SOUND] Source count = 512
+2022/10/11 00:04:48 8727515 47bbea58 [INFO Client 3896] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/11 00:04:48 8727515 951bc057 [INFO Client 3896] [STARTUP] Audio in 0.264315 seconds
+2022/10/11 00:04:49 8727968 951bc057 [INFO Client 3896] [STARTUP] Registration in 0.779655 seconds
+2022/10/11 00:04:58 8737656 b51d4f61 [DEBUG Client 3896] [RENDER] SetRendererSettings
+2022/10/11 00:04:58 8737656 b51d6447 [DEBUG Client 3896] [RENDER] ResizeWindow
+2022/10/11 00:04:58 8737656 9d4eec8a [DEBUG Client 3896] [WINDOW] TrigggerDeviceLost
+2022/10/11 00:04:58 8737656 9d4eeba7 [DEBUG Client 3896] [WINDOW] TrigggerDeviceReset
+2022/10/11 00:04:59 8737718 b51d614c [DEBUG Client 3896] [RENDER] RestartSwapChain
+2022/10/11 00:04:59 8737718 9e6a0b0a [INFO Client 3896] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/11 00:04:59 8737781 9e6a1d2a [INFO Client 3896] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/11 00:04:59 8737781 9e6a1363 [INFO Client 3896] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/11 00:04:59 8737781 9e6a0b0a [INFO Client 3896] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/11 00:04:59 8737796 9e6a1d2a [INFO Client 3896] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/11 00:04:59 8737796 fafff8cf [DEBUG Client 3896] CreateSwapChain: SetFullScreenState 1
+2022/10/11 00:04:59 8738578 9d4eec8a [DEBUG Client 3896] [WINDOW] TrigggerDeviceLost
+2022/10/11 00:04:59 8738578 9d4eeba7 [DEBUG Client 3896] [WINDOW] TrigggerDeviceReset
+2022/10/11 00:04:59 8738640 3275a75e [INFO Client 3896] [SHADER] Disable Async: 1 frames
+2022/10/11 00:04:59 8738640 b51d610e [INFO Client 3896] [RENDER] Disable Async: 1 frames
+2022/10/11 00:05:04 8743640 890da8d3 [INFO Client 3896] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/11 00:05:05 8743890 890d9d9b [INFO Client 3896] Connected to mil01.login.pathofexile.com in 15ms.
+2022/10/11 00:05:08 8747703 88a90480 [DEBUG Client 3896] Got Instance Details from login server
+2022/10/11 00:05:09 8747765 32759a9f [INFO Client 3896] [SHADER] Delay: OFF
+2022/10/11 00:05:09 8747765 ca3a6737 [INFO Client 3896] Connecting to instance server at 169.51.201.142:6112
+2022/10/11 00:05:09 8747859 ca3a4d51 [DEBUG Client 3896] Connect time to instance server was 47ms
+2022/10/11 00:05:09 8748046 1186952b [DEBUG Client 3896] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/11 00:05:22 8760796 f22b69a6 [INFO Client 3896] Tile hash: 3842481850
+2022/10/11 00:05:22 8760796 f22b69a7 [INFO Client 3896] Doodad hash: 3697406269
+2022/10/11 00:05:25 8763890 11871c61 [DEBUG Client 3896] Joined guild named Chevaleki with 2 members 
+2022/10/11 00:05:25 8764468 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764515 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764531 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764546 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764546 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764562 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764562 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764562 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764578 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764578 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764578 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:25 8764578 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:26 8764781 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [127556]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/11 00:05:27 8766703 cff943d8 [INFO Client 3896] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/11 00:05:28 8766843 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:28 8766843 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [11844]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:28 8766843 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:28 8766843 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [11845]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:28 8766843 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:28 8766843 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38317]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:28 8767562 cff943d8 [INFO Client 3896] #павапвап: Есть кто играет через эту хуйню Реликвия соглашения, Витой жезл
+2022/10/11 00:05:29 8767906 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:29 8767906 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [11843]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:29 8767906 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:29 8767906 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12533]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:29 8767906 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:29 8767906 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [12534]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:29 8767906 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:29 8767906 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [12535]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:29 8767906 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:29 8767906 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13181]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:29 8767906 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:29 8767906 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [127556]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:29 8767906 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:29 8767906 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [38315]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:29 8767906 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:29 8767906 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13180]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:29 8767906 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:29 8767906 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [38316]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:29 8767906 909127ff [INFO Client 3896] FindClosestObject found no nearby object
+2022/10/11 00:05:29 8767906 d946cb1d [CRIT Client 3896] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [13179]: Expression passed to function gave an empty result, expected a location or object
+2022/10/11 00:05:29 8768593 32759a9f [INFO Client 3896] [SHADER] Delay: ON
+2022/10/11 00:05:29 8768703 374e1126 [INFO Client 3896] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/11 00:05:29 8768703 374e1287 [INFO Client 3896] [Item Filter] Hash for online filter 5XMehq is: e0dc56d9d2f0c6e1a57e2d008d931708
+2022/10/11 00:05:30 8768968 374e12ea [INFO Client 3896] [Item Filter] Online item filter 5XMehq returned status: 304
+2022/10/11 00:05:30 8768968 374e0d87 [DEBUG Client 3896] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/11 00:05:30 8768968 374e0d8f [DEBUG Client 3896] [Item Filter] X-HW: 1665436110.dop202.pa1.t,1665436110.cds038.pa1.shn,1665436110.dop202.pa1.t,1665436110.cds237.pa1.c
+2022/10/11 00:05:30 8769171 78847107 [INFO Client 3896] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: e0dc56d9d2f0c6e1a57e2d008d931708. Message: 
+2022/10/11 00:05:30 8769171 2a14a9a7 [INFO Client 3896] PrecalcBaseTypeHashMap
+2022/10/11 00:05:30 8769312 2a14a9a1 [INFO Client 3896] PrecalcModNameHashMap
+2022/10/11 00:05:32 8771562 2a14a9a3 [INFO Client 3896] PrecalcItemClassMap
+2022/10/11 00:05:32 8771562 2a14a9ad [INFO Client 3896] PrecalcSoundEffects
+2022/10/11 00:05:32 8771578 2a14a902 [INFO Client 3896] PrecalcDropEffects
+2022/10/11 00:05:32 8771578 2a14a900 [INFO Client 3896] PrecalcNonEnchantModHashes
+2022/10/11 00:05:32 8771578 2a14a906 [INFO Client 3896] PrecalcRuleNameToTypeMap
+2022/10/11 00:05:32 8771578 2a14a904 [INFO Client 3896] PrecalcCJESPNIndexMap
+2022/10/11 00:05:32 8771593 2a14a90a [INFO Client 3896] PrecalcGemAlternateQualityMap
+2022/10/11 00:05:41 8780328 88a90480 [DEBUG Client 3896] Got Instance Details from login server
+2022/10/11 00:05:41 8780359 32759a9f [INFO Client 3896] [SHADER] Delay: OFF
+2022/10/11 00:05:41 8780359 ca3a6737 [INFO Client 3896] Connecting to instance server at 169.51.201.140:6112
+2022/10/11 00:05:41 8780437 ca3a4d51 [DEBUG Client 3896] Connect time to instance server was 47ms
+2022/10/11 00:05:41 8780500 1186952b [DEBUG Client 3896] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/11 00:05:42 8781187 f22b69a6 [INFO Client 3896] Tile hash: 2509555744
+2022/10/11 00:05:42 8781187 f22b69a7 [INFO Client 3896] Doodad hash: 0
+2022/10/11 00:05:43 8781984 11871c61 [DEBUG Client 3896] Joined guild named Chevaleki with 2 members 
+2022/10/11 00:05:44 8783203 cff943d8 [INFO Client 3896] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/11 00:05:46 8784968 32759a9f [INFO Client 3896] [SHADER] Delay: ON
+2022/10/11 00:06:03 8801921 cff943d8 [INFO Client 3896] : Указанный персонаж не существует
+2022/10/11 00:06:06 8805687 b51d4f61 [DEBUG Client 3896] [RENDER] SetRendererSettings
+2022/10/11 00:06:06 8805687 b51d6447 [DEBUG Client 3896] [RENDER] ResizeWindow
+2022/10/11 00:06:06 8805703 9d4eec8a [DEBUG Client 3896] [WINDOW] TrigggerDeviceLost
+2022/10/11 00:06:07 8805796 9d4eeba7 [DEBUG Client 3896] [WINDOW] TrigggerDeviceReset
+2022/10/11 00:06:28 8826828 9d4eec8a [DEBUG Client 3896] [WINDOW] TrigggerDeviceLost
+2022/10/11 00:06:28 8826968 9d4eeba7 [DEBUG Client 3896] [WINDOW] TrigggerDeviceReset
+2022/10/11 00:06:30 8829406 b51d614c [DEBUG Client 3896] [RENDER] RestartSwapChain
+2022/10/11 00:06:30 8829406 9e6a0b0a [INFO Client 3896] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/11 00:06:30 8829484 9e6a1d2a [INFO Client 3896] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/11 00:06:30 8829484 9e6a1363 [INFO Client 3896] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/11 00:06:30 8829484 9e6a0b0a [INFO Client 3896] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/11 00:06:30 8829500 9e6a1d2a [INFO Client 3896] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/11 00:06:30 8829500 fafff8cf [DEBUG Client 3896] CreateSwapChain: SetFullScreenState 0
+2022/10/11 00:06:30 8829500 9d4eec8a [DEBUG Client 3896] [WINDOW] TrigggerDeviceLost
+2022/10/11 00:06:30 8829546 9d4eeba7 [DEBUG Client 3896] [WINDOW] TrigggerDeviceReset
+2022/10/11 00:06:31 8830421 3275a75e [INFO Client 3896] [SHADER] Disable Async: 1 frames
+2022/10/11 00:06:31 8830421 b51d610e [INFO Client 3896] [RENDER] Disable Async: 1 frames
+2022/10/11 00:06:31 8830421 9d4eec8a [DEBUG Client 3896] [WINDOW] TrigggerDeviceLost
+2022/10/11 00:06:31 8830468 9d4eeba7 [DEBUG Client 3896] [WINDOW] TrigggerDeviceReset
+2022/10/11 00:07:56 8915125 cff943d8 [INFO Client 3896] ChampionLTi: 
+2022/10/11 00:08:21 8940000 88a90480 [DEBUG Client 3896] Got Instance Details from login server
+2022/10/11 00:08:21 8940015 32759a9f [INFO Client 3896] [SHADER] Delay: OFF
+2022/10/11 00:08:21 8940015 ca3a6737 [INFO Client 3896] Connecting to instance server at 85.195.107.171:6112
+2022/10/11 00:08:21 8940078 ca3a4d51 [DEBUG Client 3896] Connect time to instance server was 31ms
+2022/10/11 00:08:21 8940140 1186952b [DEBUG Client 3896] Generating level 60 area "HideoutSewer" with seed 1
+2022/10/11 00:08:21 8940578 f22b69a6 [INFO Client 3896] Tile hash: 3200442970
+2022/10/11 00:08:21 8940578 f22b69a7 [INFO Client 3896] Doodad hash: 0
+2022/10/11 00:08:22 8940875 11871c61 [DEBUG Client 3896] Joined guild named Chevaleki with 2 members 
+2022/10/11 00:11:30 2127562 cff943d8 [INFO Client 6320] : ChampionLTi присоединился.
+2022/10/11 00:08:25 8944078 cff943d8 [INFO Client 3896] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище под городом.
+2022/10/11 00:08:27 8945890 32759a9f [INFO Client 3896] [SHADER] Delay: ON
+2022/10/11 00:14:26 2303875 cff943d8 [INFO Client 6320] : В настоящее время этот игрок занят.
+2022/10/11 00:11:22 9121296 cff943d8 [INFO Client 3896] : Сделка отклонена.
+2022/10/11 00:14:30 2308015 cff943d8 [INFO Client 6320] : Сделка отклонена.
+2022/10/11 00:12:56 9215484 cff943d8 [INFO Client 3896] : Сделка совершена.
+2022/10/11 00:16:04 2402203 cff943d8 [INFO Client 6320] : Сделка совершена.
+2022/10/11 00:23:32 2850468 cff943d8 [INFO Client 6320] : Сделка совершена.
+2022/10/11 00:22:13 9772640 cff943d8 [INFO Client 3896] : Сделка совершена.
+2022/10/11 00:25:21 2959421 cff943d8 [INFO Client 6320] : Сделка совершена.
+2022/10/11 00:22:33 9792421 9d4eec8a [DEBUG Client 3896] [WINDOW] TrigggerDeviceLost
+2022/10/11 00:22:33 9792437 9d4eeba7 [DEBUG Client 3896] [WINDOW] TrigggerDeviceReset
+2022/10/11 00:23:26 9844828 cff943d8 [INFO Client 3896] : VooDeeCovan покинул область.
+2022/10/11 00:25:42 9981640 cff943d8 [INFO Client 3896] : Сделка совершена.
+2022/10/11 00:26:57 10055750 cff943d8 [INFO Client 3896] : Не удалось применить предмет: Цель неопознана
+2022/10/11 00:27:15 10074468 cff943d8 [INFO Client 3896] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2022/10/11 00:28:52 10171281 9d4eec8a [DEBUG Client 3896] [WINDOW] TrigggerDeviceLost
+2022/10/11 00:28:52 10171281 9d4eeba7 [DEBUG Client 3896] [WINDOW] TrigggerDeviceReset
