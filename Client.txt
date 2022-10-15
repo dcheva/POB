@@ -3138,3 +3138,734 @@
 2022/10/11 13:18:40 56358875 11871c61 [DEBUG Client 7580] Joined guild named Chevaleki with 2 members 
 2022/10/11 13:18:40 56359578 cff943d8 [INFO Client 7580] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
 2022/10/11 13:18:41 56360531 32759a9f [INFO Client 7580] [SHADER] Delay: ON
+2022/10/13 20:19:53 ***** LOG FILE OPENING *****
+2022/10/13 20:19:53 608375 340884db [DEBUG Client 2916] [RENDER] StopDevice
+2022/10/13 20:19:53 608375 84a7e6f1 [INFO Client 2916] [ENGINE] Clear
+2022/10/13 20:19:53 608375 7bb5422 [INFO Client 2916] [BUNDLE2] Deinit
+2022/10/13 20:19:53 608375 84a7e691 [INFO Client 2916] [JOB] Clear
+2022/10/13 20:19:53 608375 84a7e7bf [INFO Client 2916] [ANIMATION] Clear
+2022/10/13 20:19:53 608375 84a7e7be [INFO Client 2916] [PHYSICS] Clear
+2022/10/13 20:19:53 608375 84a7e7bd [INFO Client 2916] [SHADER] Clear
+2022/10/13 20:19:53 608375 84a7e7bc [INFO Client 2916] [ENTITY] Clear
+2022/10/13 20:19:53 608375 84a7e7bb [INFO Client 2916] [SOUND] Clear
+2022/10/13 20:19:53 608375 84a7e7ba [INFO Client 2916] [VIDEO] Clear
+2022/10/13 20:19:53 608375 84a7e7b9 [INFO Client 2916] [SCENE] Clear
+2022/10/13 20:19:53 608375 84a7e7b8 [INFO Client 2916] [GRAPH] Clear
+2022/10/13 20:19:53 608390 84a7e7b7 [INFO Client 2916] [TELEMETRY] Clear
+2022/10/13 20:19:53 608390 84a7e7b6 [INFO Client 2916] [RESOURCE] GarbageCollect
+2022/10/13 20:19:53 608390 84a7e75e [INFO Client 2916] [RESOURCE] Clear
+2022/10/13 20:19:53 608390 84a7e75b [INFO Client 2916] [RENDER] Clear
+2022/10/13 20:19:53 608390 84a7e758 [INFO Client 2916] [ENGINE] Done
+2022/10/13 20:37:40 ***** LOG FILE OPENING *****
+2022/10/13 20:37:40 1675484 340884db [DEBUG Client 3400] [RENDER] StopDevice
+2022/10/13 20:37:40 1675484 84a7e6f1 [INFO Client 3400] [ENGINE] Clear
+2022/10/13 20:37:40 1675484 7bb5422 [INFO Client 3400] [BUNDLE2] Deinit
+2022/10/13 20:37:40 1675484 84a7e691 [INFO Client 3400] [JOB] Clear
+2022/10/13 20:37:40 1675484 84a7e7bf [INFO Client 3400] [ANIMATION] Clear
+2022/10/13 20:37:40 1675484 84a7e7be [INFO Client 3400] [PHYSICS] Clear
+2022/10/13 20:37:40 1675484 84a7e7bd [INFO Client 3400] [SHADER] Clear
+2022/10/13 20:37:40 1675484 84a7e7bc [INFO Client 3400] [ENTITY] Clear
+2022/10/13 20:37:40 1675484 84a7e7bb [INFO Client 3400] [SOUND] Clear
+2022/10/13 20:37:40 1675484 84a7e7ba [INFO Client 3400] [VIDEO] Clear
+2022/10/13 20:37:40 1675484 84a7e7b9 [INFO Client 3400] [SCENE] Clear
+2022/10/13 20:37:40 1675484 84a7e7b8 [INFO Client 3400] [GRAPH] Clear
+2022/10/13 20:37:40 1675484 84a7e7b7 [INFO Client 3400] [TELEMETRY] Clear
+2022/10/13 20:37:40 1675484 84a7e7b6 [INFO Client 3400] [RESOURCE] GarbageCollect
+2022/10/13 20:37:40 1675484 84a7e75e [INFO Client 3400] [RESOURCE] Clear
+2022/10/13 20:37:40 1675484 84a7e75b [INFO Client 3400] [RENDER] Clear
+2022/10/13 20:37:40 1675484 84a7e758 [INFO Client 3400] [ENGINE] Done
+2022/10/13 20:37:43 ***** LOG FILE OPENING *****
+2022/10/13 20:37:43 1678125 f954428c [INFO Client 2536] [STARTUP] Job Queues
+2022/10/13 20:37:43 1678125 9e6a0b0a [INFO Client 2536] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/13 20:37:43 1678187 9e6a1d2a [INFO Client 2536] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/13 20:37:43 1678203 9e6a1363 [INFO Client 2536] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/13 20:37:43 1678203 9e6a0b0a [INFO Client 2536] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/13 20:37:43 1678203 9e6a1d2a [INFO Client 2536] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/13 20:37:43 1678218 84a7d27d [INFO Client 2536] [ENGINE] Init
+2022/10/13 20:37:43 1678218 55713145 [INFO Client 2536] [JOB] HIGH: 2
+2022/10/13 20:37:43 1678218 55713145 [INFO Client 2536] [JOB] MEDIUM: 2
+2022/10/13 20:37:43 1678218 55713145 [INFO Client 2536] [JOB] LOW: 2
+2022/10/13 20:37:43 1678218 55713145 [INFO Client 2536] [JOB] IDLE: 1
+2022/10/13 20:37:43 1678218 7bb548f [INFO Client 2536] [BUNDLE2] Init
+2022/10/13 20:37:43 1678218 7bb36c4 [INFO Client 2536] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/13 20:37:43 1678437 7bb61e6 [INFO Client 2536] [BUNDLE2] File cache size: 1024
+2022/10/13 20:37:43 1678437 b51d61ab [INFO Client 2536] [RENDER] Async: ON
+2022/10/13 20:37:43 1678437 b51d60c8 [INFO Client 2536] [RENDER] Warmup: ON
+2022/10/13 20:37:43 1678437 b51d60ce [INFO Client 2536] [RENDER] Skip: ON
+2022/10/13 20:37:43 1678437 b51d60eb [INFO Client 2536] [RENDER] Throttling: ON
+2022/10/13 20:37:43 1678437 32759a7a [INFO Client 2536] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/13 20:37:43 1678437 32759a70 [INFO Client 2536] [SHADER] Async: ON
+2022/10/13 20:37:43 1678437 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:37:43 1678437 32759aba [INFO Client 2536] [SHADER] Limit: ON
+2022/10/13 20:37:43 1678437 32759abc [INFO Client 2536] [SHADER] Warmup: ON
+2022/10/13 20:37:43 1678437 327599d7 [INFO Client 2536] [SHADER] Parallel: OFF
+2022/10/13 20:37:43 1678437 84a7e376 [INFO Client 2536] [ENGINE] Running Engine version 1.6.0
+2022/10/13 20:37:43 1678453 47bbd159 [INFO Client 2536] [SOUND] Buffer size = 64.0 MB
+2022/10/13 20:37:43 1678500 9b0d205 [INFO Client 2536] [VIDEO] Enable: ON
+2022/10/13 20:37:43 1678531 84a7d2d8 [INFO Client 2536] [ENGINE] Ready
+2022/10/13 20:37:43 1678546 951bc0b0 [INFO Client 2536] [STARTUP] Bundle Startup Start
+2022/10/13 20:37:43 1678546 951bc057 [INFO Client 2536] [STARTUP] Bundle Startup in 5.3e-05 seconds
+2022/10/13 20:37:43 1678546 951bc0b0 [INFO Client 2536] [STARTUP] Game Start
+2022/10/13 20:37:43 1678718 ca86fd3f [DEBUG Client 2536] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/13 20:37:44 1679000 951bc057 [INFO Client 2536] [STARTUP] Game in 0.45988 seconds
+2022/10/13 20:37:44 1679000 951bc0b0 [INFO Client 2536] [STARTUP] Window Start
+2022/10/13 20:37:44 1679000 9e6a0b0a [INFO Client 2536] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/13 20:37:44 1679078 9e6a1d2a [INFO Client 2536] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/13 20:37:44 1679078 9e6a1363 [INFO Client 2536] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/13 20:37:44 1679078 9e6a0b0a [INFO Client 2536] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/13 20:37:44 1679078 9e6a1d2a [INFO Client 2536] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/13 20:37:44 1679109 951bc057 [INFO Client 2536] [STARTUP] Window in 0.106512 seconds
+2022/10/13 20:37:44 1679125 413b61ff [DEBUG Client 2536] [GamepadManager] Initialising
+2022/10/13 20:37:44 1679125 951bc0b0 [INFO Client 2536] [STARTUP] Device Start
+2022/10/13 20:37:44 1679125 b51d6589 [INFO Client 2536] [RENDER] StartDevice: DirectX11
+2022/10/13 20:37:44 1679312 71b3b00 [DEBUG Client 2536] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/13 20:37:44 1679312 97ce04a4 [WARN Client 2536] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/13 20:37:44 1679375 fafff8cf [DEBUG Client 2536] CreateSwapChain: SetFullScreenState 0
+2022/10/13 20:37:44 1679375 29d4ce01 [INFO Client 2536] [D3D11] Runtime version = 11.1
+2022/10/13 20:37:44 1679375 29d4ce00 [INFO Client 2536] [D3D11] Feature Level = 11.1
+2022/10/13 20:37:44 1679375 29d4ce03 [INFO Client 2536] [D3D11] Driver Command Lists = NO
+2022/10/13 20:37:44 1679375 29d4ce02 [INFO Client 2536] [D3D11] Driver Concurrent Creates = YES
+2022/10/13 20:37:44 1679375 29d4ce05 [INFO Client 2536] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/13 20:37:44 1679468 9d4eeb40 [DEBUG Client 2536] [WINDOW] TrigggerDeviceCreate
+2022/10/13 20:37:44 1679671 9d4eeba7 [DEBUG Client 2536] [WINDOW] TrigggerDeviceReset
+2022/10/13 20:37:44 1679687 951bc057 [INFO Client 2536] [STARTUP] Device in 0.56246 seconds
+2022/10/13 20:37:44 1679687 951bc0b0 [INFO Client 2536] [STARTUP] Tencent Start
+2022/10/13 20:37:44 1679687 951bc057 [INFO Client 2536] [STARTUP] Tencent in 0.000358 seconds
+2022/10/13 20:37:44 1679687 951bc0b0 [INFO Client 2536] [STARTUP] Loading Start
+2022/10/13 20:37:44 1679703 951bc057 [INFO Client 2536] [STARTUP] Loading in 0.017745 seconds
+2022/10/13 20:37:44 1679703 951bc0b0 [INFO Client 2536] [STARTUP] DebugGUI Start
+2022/10/13 20:37:44 1679703 951bc057 [INFO Client 2536] [STARTUP] DebugGUI in 1.9e-05 seconds
+2022/10/13 20:37:44 1679703 951bc0b0 [INFO Client 2536] [STARTUP] Bundle Tiny Start
+2022/10/13 20:37:44 1679703 951bc0b0 [INFO Client 2536] [STARTUP] Bundle Login Start
+2022/10/13 20:37:44 1679703 951bc057 [INFO Client 2536] [STARTUP] Bundle Login in 2.6e-05 seconds
+2022/10/13 20:37:44 1679703 951bc0b0 [INFO Client 2536] [STARTUP] Registration Start
+2022/10/13 20:37:44 1679703 951bc057 [INFO Client 2536] [STARTUP] Bundle Tiny in 6.5e-05 seconds
+2022/10/13 20:37:45 1679734 951bc0b0 [INFO Client 2536] [STARTUP] Audio Start
+2022/10/13 20:37:45 1679734 47bbee18 [INFO Client 2536] [SOUND] Channel count = 128 (asked for 128)
+2022/10/13 20:37:45 1679734 47bbee19 [INFO Client 2536] [SOUND] Source count = 512
+2022/10/13 20:37:45 1679890 47bbea58 [INFO Client 2536] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/13 20:37:45 1679890 951bc057 [INFO Client 2536] [STARTUP] Audio in 0.16072 seconds
+2022/10/13 20:37:45 1680187 951bc057 [INFO Client 2536] [STARTUP] Registration in 0.47417 seconds
+2022/10/13 20:37:54 1689140 890da8d3 [INFO Client 2536] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/13 20:37:54 1689234 890d9d9b [INFO Client 2536] Connected to mil01.login.pathofexile.com in 15ms.
+2022/10/13 20:38:10 1705562 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:38:10 1705593 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:38:10 1705593 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.236:6112
+2022/10/13 20:38:10 1705640 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 20:38:11 1705734 1186952b [DEBUG Client 2536] Generating level 23 area "1_2_town" with seed 1
+2022/10/13 20:38:13 1708218 f22b69a6 [INFO Client 2536] Tile hash: 3956941390
+2022/10/13 20:38:13 1708218 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 20:38:16 1711625 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:38:17 1712609 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лесной лагерь.
+2022/10/13 20:38:19 1714078 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:38:19 1714296 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/13 20:38:19 1714296 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter 5XMehq is: bc46f685ea5322ba5f62f65318b195de
+2022/10/13 20:38:19 1714609 374e12ea [INFO Client 2536] [Item Filter] Online item filter 5XMehq returned status: 200
+2022/10/13 20:38:19 1714609 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 20:38:19 1714609 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665682881.dop221.pa1.t,1665682882.cds218.pa1.shn,1665682882.dop221.pa1.t,1665682882.cds237.pa1.c
+2022/10/13 20:38:19 1714625 374e0d61 [INFO Client 2536] [Item Filter] Successfully saved online filter 5XMehq. Hash is now: 22c247d4ede7ed925afc5ca8c3f309f8
+2022/10/13 20:38:19 1714625 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 22c247d4ede7ed925afc5ca8c3f309f8. Message: 
+2022/10/13 20:38:19 1714625 2a14a9a7 [INFO Client 2536] PrecalcBaseTypeHashMap
+2022/10/13 20:38:19 1714718 2a14a9a1 [INFO Client 2536] PrecalcModNameHashMap
+2022/10/13 20:38:21 1716578 2a14a9a3 [INFO Client 2536] PrecalcItemClassMap
+2022/10/13 20:38:21 1716578 2a14a9ad [INFO Client 2536] PrecalcSoundEffects
+2022/10/13 20:38:21 1716578 2a14a902 [INFO Client 2536] PrecalcDropEffects
+2022/10/13 20:38:21 1716578 2a14a900 [INFO Client 2536] PrecalcNonEnchantModHashes
+2022/10/13 20:38:21 1716578 2a14a906 [INFO Client 2536] PrecalcRuleNameToTypeMap
+2022/10/13 20:38:21 1716578 2a14a904 [INFO Client 2536] PrecalcCJESPNIndexMap
+2022/10/13 20:38:21 1716578 2a14a90a [INFO Client 2536] PrecalcGemAlternateQualityMap
+2022/10/13 20:38:23 1717984 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:38:23 1718000 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:38:23 1718000 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.138:6112
+2022/10/13 20:38:23 1718046 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 46ms
+2022/10/13 20:38:23 1718125 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 20:38:23 1718562 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 20:38:23 1718562 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 20:38:24 1719296 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:38:25 1719968 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 20:38:26 1721015 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:39:13 1768671 9d4eec8a [DEBUG Client 2536] [WINDOW] TrigggerDeviceLost
+2022/10/13 20:39:13 1768687 9d4eeba7 [DEBUG Client 2536] [WINDOW] TrigggerDeviceReset
+2022/10/13 20:39:39 1794531 cff943d8 [INFO Client 2536] : Сделка совершена.
+2022/10/13 20:39:55 1809781 b51d4f61 [DEBUG Client 2536] [RENDER] SetRendererSettings
+2022/10/13 20:39:55 1809781 b51d6447 [DEBUG Client 2536] [RENDER] ResizeWindow
+2022/10/13 20:39:55 1809781 9d4eec8a [DEBUG Client 2536] [WINDOW] TrigggerDeviceLost
+2022/10/13 20:39:55 1809796 9d4eeba7 [DEBUG Client 2536] [WINDOW] TrigggerDeviceReset
+2022/10/13 20:39:55 1810218 b51d614c [DEBUG Client 2536] [RENDER] RestartSwapChain
+2022/10/13 20:39:55 1810218 9e6a0b0a [INFO Client 2536] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/13 20:39:55 1810265 9e6a1d2a [INFO Client 2536] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/13 20:39:55 1810265 9e6a1363 [INFO Client 2536] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/13 20:39:55 1810265 9e6a0b0a [INFO Client 2536] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/13 20:39:55 1810265 9e6a1d2a [INFO Client 2536] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/13 20:39:55 1810281 fafff8cf [DEBUG Client 2536] CreateSwapChain: SetFullScreenState 0
+2022/10/13 20:39:55 1810281 9d4eec8a [DEBUG Client 2536] [WINDOW] TrigggerDeviceLost
+2022/10/13 20:39:55 1810312 9d4eeba7 [DEBUG Client 2536] [WINDOW] TrigggerDeviceReset
+2022/10/13 20:39:56 1810828 3275a75e [INFO Client 2536] [SHADER] Disable Async: 1 frames
+2022/10/13 20:39:56 1810828 b51d610e [INFO Client 2536] [RENDER] Disable Async: 1 frames
+2022/10/13 20:39:56 1810828 9d4eec8a [DEBUG Client 2536] [WINDOW] TrigggerDeviceLost
+2022/10/13 20:39:56 1810859 9d4eeba7 [DEBUG Client 2536] [WINDOW] TrigggerDeviceReset
+2022/10/13 20:41:00 1875093 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/13 20:41:00 1875093 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter 5XMehq is: (empty)
+2022/10/13 20:41:00 1875375 374e12ea [INFO Client 2536] [Item Filter] Online item filter 5XMehq returned status: 200
+2022/10/13 20:41:00 1875375 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 20:41:00 1875375 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665683042.dop038.pa1.t,1665683042.cds240.pa1.shn,1665683042.dop038.pa1.t,1665683042.cds237.pa1.c
+2022/10/13 20:41:00 1875390 374e0d61 [INFO Client 2536] [Item Filter] Successfully saved online filter 5XMehq. Hash is now: 22c247d4ede7ed925afc5ca8c3f309f8
+2022/10/13 20:41:00 1875390 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 22c247d4ede7ed925afc5ca8c3f309f8. Message: 
+2022/10/13 20:41:05 1880187 9d4eec8a [DEBUG Client 2536] [WINDOW] TrigggerDeviceLost
+2022/10/13 20:41:05 1880187 9d4eeba7 [DEBUG Client 2536] [WINDOW] TrigggerDeviceReset
+2022/10/13 20:41:05 1880609 b51d4f61 [DEBUG Client 2536] [RENDER] SetRendererSettings
+2022/10/13 20:41:05 1880609 3275a75e [INFO Client 2536] [SHADER] Disable Async: 1 frames
+2022/10/13 20:41:05 1880609 b51d610e [INFO Client 2536] [RENDER] Disable Async: 1 frames
+2022/10/13 20:41:05 1880625 9d4eec8a [DEBUG Client 2536] [WINDOW] TrigggerDeviceLost
+2022/10/13 20:41:05 1880656 9d4eeba7 [DEBUG Client 2536] [WINDOW] TrigggerDeviceReset
+2022/10/13 20:41:13 1888671 b51d4f61 [DEBUG Client 2536] [RENDER] SetRendererSettings
+2022/10/13 20:41:13 1888671 b51d6447 [DEBUG Client 2536] [RENDER] ResizeWindow
+2022/10/13 20:41:13 1888671 9d4eec8a [DEBUG Client 2536] [WINDOW] TrigggerDeviceLost
+2022/10/13 20:41:13 1888671 9d4eeba7 [DEBUG Client 2536] [WINDOW] TrigggerDeviceReset
+2022/10/13 20:41:14 1889078 b51d614c [DEBUG Client 2536] [RENDER] RestartSwapChain
+2022/10/13 20:41:14 1889093 9e6a0b0a [INFO Client 2536] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/13 20:41:14 1889125 9e6a1d2a [INFO Client 2536] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/13 20:41:14 1889125 9e6a1363 [INFO Client 2536] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/13 20:41:14 1889125 9e6a0b0a [INFO Client 2536] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/13 20:41:14 1889140 9e6a1d2a [INFO Client 2536] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/13 20:41:14 1889140 fafff8cf [DEBUG Client 2536] CreateSwapChain: SetFullScreenState 0
+2022/10/13 20:41:14 1889140 9d4eec8a [DEBUG Client 2536] [WINDOW] TrigggerDeviceLost
+2022/10/13 20:41:14 1889171 9d4eeba7 [DEBUG Client 2536] [WINDOW] TrigggerDeviceReset
+2022/10/13 20:41:14 1889656 3275a75e [INFO Client 2536] [SHADER] Disable Async: 1 frames
+2022/10/13 20:41:14 1889656 b51d610e [INFO Client 2536] [RENDER] Disable Async: 1 frames
+2022/10/13 20:41:14 1889656 9d4eec8a [DEBUG Client 2536] [WINDOW] TrigggerDeviceLost
+2022/10/13 20:41:14 1889687 9d4eeba7 [DEBUG Client 2536] [WINDOW] TrigggerDeviceReset
+2022/10/13 20:42:25 1960281 cff943d8 [INFO Client 2536] : GigaChad_TS присоединился.
+2022/10/13 20:43:02 1996734 cff943d8 [INFO Client 2536] : Сделка отклонена.
+2022/10/13 20:43:05 1999906 cff943d8 [INFO Client 2536] : GigaChad_TS покинул область.
+2022/10/13 20:50:39 2453765 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:50:39 2453796 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:50:39 2453796 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.151:6112
+2022/10/13 20:50:39 2453843 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 32ms
+2022/10/13 20:50:39 2453921 1186952b [DEBUG Client 2536] Generating level 76 area "MapWorldsTribunal" with seed 2931898904
+2022/10/13 20:50:42 2457000 f22b69a6 [INFO Client 2536] Tile hash: 627038054
+2022/10/13 20:50:42 2457000 f22b69a7 [INFO Client 2536] Doodad hash: 2321297173
+2022/10/13 20:50:43 2458375 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:50:44 2459234 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/13 20:50:45 2460531 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:51:04 2478765 cff943d8 [INFO Client 2536] Странный голос: Только ты и имеешь значение.
+2022/10/13 20:51:10 2485562 cff943d8 [INFO Client 2536] : ChampionLTi был повержен.
+2022/10/13 20:51:13 2488625 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:51:13 2488625 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:51:13 2488625 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.253:6112
+2022/10/13 20:51:13 2488687 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 46ms
+2022/10/13 20:51:14 2488765 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 20:51:14 2488906 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 20:51:14 2488906 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 20:51:14 2489687 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:51:15 2490281 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 20:51:16 2491171 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:51:18 2493593 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:51:18 2493593 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:51:18 2493593 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.151:6112
+2022/10/13 20:51:18 2493656 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 20:51:19 2493734 1186952b [DEBUG Client 2536] Generating level 76 area "MapWorldsTribunal" with seed 2931898904
+2022/10/13 20:51:19 2493921 f22b69a6 [INFO Client 2536] Tile hash: 627038054
+2022/10/13 20:51:19 2493921 f22b69a7 [INFO Client 2536] Doodad hash: 2321297173
+2022/10/13 20:51:20 2494765 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:51:20 2495187 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/13 20:51:21 2495906 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:51:28 2503578 cff943d8 [INFO Client 2536] : ChampionLTi был повержен.
+2022/10/13 20:51:31 2505968 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:51:31 2505968 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:51:31 2505968 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.253:6112
+2022/10/13 20:51:31 2506031 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 32ms
+2022/10/13 20:51:31 2506093 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 20:51:31 2506203 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 20:51:31 2506203 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 20:51:32 2507093 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:51:32 2507531 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 20:51:33 2508281 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:51:41 2515843 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:51:41 2515843 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:51:41 2515859 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.151:6112
+2022/10/13 20:51:41 2515906 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 31ms
+2022/10/13 20:51:41 2515984 1186952b [DEBUG Client 2536] Generating level 76 area "MapWorldsTribunal" with seed 2931898904
+2022/10/13 20:51:41 2516093 f22b69a6 [INFO Client 2536] Tile hash: 627038054
+2022/10/13 20:51:41 2516093 f22b69a7 [INFO Client 2536] Doodad hash: 2321297173
+2022/10/13 20:51:42 2517234 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:51:42 2517671 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/13 20:51:44 2518765 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:51:44 2519359 cff943d8 [INFO Client 2536] : ChampionLTi был повержен.
+2022/10/13 20:51:46 2521687 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:51:46 2521687 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:51:46 2521687 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.253:6112
+2022/10/13 20:51:47 2521750 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 31ms
+2022/10/13 20:51:47 2521828 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 20:51:47 2521906 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 20:51:47 2521906 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 20:51:47 2522593 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:51:48 2523031 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 20:51:49 2523796 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:51:56 2530750 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:51:56 2530765 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:51:56 2530765 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.151:6112
+2022/10/13 20:51:56 2530828 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 31ms
+2022/10/13 20:51:56 2530890 1186952b [DEBUG Client 2536] Generating level 76 area "MapWorldsTribunal" with seed 2931898904
+2022/10/13 20:51:56 2531000 f22b69a6 [INFO Client 2536] Tile hash: 627038054
+2022/10/13 20:51:56 2531000 f22b69a7 [INFO Client 2536] Doodad hash: 2321297173
+2022/10/13 20:51:57 2532187 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:51:57 2532656 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/13 20:51:58 2533687 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:51:59 2534421 cff943d8 [INFO Client 2536] : ChampionLTi был повержен.
+2022/10/13 20:52:01 2536703 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:52:01 2536718 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:52:01 2536718 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.253:6112
+2022/10/13 20:52:02 2536781 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 32ms
+2022/10/13 20:52:02 2536843 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 20:52:02 2536906 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 20:52:02 2536906 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 20:52:03 2537734 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:52:03 2538078 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 20:52:04 2538843 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:52:14 2548796 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:52:14 2548796 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:52:14 2548796 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.151:6112
+2022/10/13 20:52:14 2548859 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 20:52:14 2548937 1186952b [DEBUG Client 2536] Generating level 76 area "MapWorldsTribunal" with seed 2931898904
+2022/10/13 20:52:14 2549062 f22b69a6 [INFO Client 2536] Tile hash: 627038054
+2022/10/13 20:52:14 2549062 f22b69a7 [INFO Client 2536] Doodad hash: 2321297173
+2022/10/13 20:52:15 2549734 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:52:15 2550171 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/13 20:52:16 2550906 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:52:17 2552437 cff943d8 [INFO Client 2536] : ChampionLTi был повержен.
+2022/10/13 20:52:23 2558703 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:52:23 2558703 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:52:23 2558703 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.253:6112
+2022/10/13 20:52:24 2558765 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 20:52:24 2558843 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 20:52:24 2558937 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 20:52:24 2558937 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 20:52:25 2559828 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:52:25 2560203 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 20:52:26 2560937 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:52:30 2565281 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:52:30 2565281 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:52:30 2565281 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.151:6112
+2022/10/13 20:52:30 2565343 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 31ms
+2022/10/13 20:52:30 2565406 1186952b [DEBUG Client 2536] Generating level 76 area "MapWorldsTribunal" with seed 2931898904
+2022/10/13 20:52:30 2565531 f22b69a6 [INFO Client 2536] Tile hash: 627038054
+2022/10/13 20:52:30 2565531 f22b69a7 [INFO Client 2536] Doodad hash: 2321297173
+2022/10/13 20:52:31 2566625 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:52:32 2567046 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/13 20:52:33 2567859 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:57:31 2866609 cff943d8 [INFO Client 2536] : ChampionLTi был повержен.
+2022/10/13 20:57:34 2869578 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 20:57:34 2869578 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 20:57:34 2869578 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.142:6112
+2022/10/13 20:57:34 2869640 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 20:57:34 2869718 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 20:57:35 2869796 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 20:57:35 2869796 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 20:57:36 2870765 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 20:57:36 2871203 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 20:57:37 2871968 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 20:59:20 2975500 cff943d8 [INFO Client 2536] : Не удалось применить предмет: Неправильный базовый тип предмета.
+2022/10/13 21:00:53 3067984 cff943d8 [INFO Client 2536] : Сделка совершена.
+2022/10/13 21:01:49 3124078 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 21:01:49 3124093 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 21:01:49 3124093 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.253:6112
+2022/10/13 21:01:49 3124140 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 32ms
+2022/10/13 21:01:49 3124218 1186952b [DEBUG Client 2536] Generating level 76 area "MapWorldsBoneCryptUnique" with seed 366645621
+2022/10/13 21:01:51 3125828 f22b69a6 [INFO Client 2536] Tile hash: 2826258244
+2022/10/13 21:01:51 3125828 f22b69a7 [INFO Client 2536] Doodad hash: 1202889375
+2022/10/13 21:01:51 3126515 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 21:01:52 3126937 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Святилище Ольмека.
+2022/10/13 21:01:53 3127781 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 21:29:02 4756953 cff943d8 [INFO Client 2536] : Режим "отошёл" включён. Авто-ответ "Игрок отошёл.".
+2022/10/13 21:33:06 5001000 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/13 21:33:06 5001000 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter 5XMehq is: (empty)
+2022/10/13 21:33:06 5001296 374e12ea [INFO Client 2536] [Item Filter] Online item filter 5XMehq returned status: 200
+2022/10/13 21:33:06 5001296 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 21:33:06 5001296 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665686168.dop210.pa1.t,1665686168.cds027.pa1.shn,1665686168.dop210.pa1.t,1665686168.cds237.pa1.c
+2022/10/13 21:33:06 5001312 374e0d61 [INFO Client 2536] [Item Filter] Successfully saved online filter 5XMehq. Hash is now: 22c247d4ede7ed925afc5ca8c3f309f8
+2022/10/13 21:33:06 5001328 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 22c247d4ede7ed925afc5ca8c3f309f8. Message: 
+2022/10/13 21:33:11 5005765 374e118e [INFO Client 2536] [Item Filter] Downloading online list
+2022/10/13 21:33:11 5006578 374e11e1 [INFO Client 2536] [Item Filter] Online list returned status: 200
+2022/10/13 21:33:11 5006578 374e1146 [DEBUG Client 2536] [Item Filter] Online list request resolved to: 209.197.3.101
+2022/10/13 21:33:11 5006578 374df800 [INFO Client 2536] [Item Filter] List contained online filter zQBELSz with hash: b2ded3a6c18536c349fc5b9c67cc9441 (local hash is: b2ded3a6c18536c349fc5b9c67cc9441)
+2022/10/13 21:33:11 5006578 374df800 [INFO Client 2536] [Item Filter] List contained online filter Q6KeQsZ with hash: 5890069a9cbb04ee798bfb93c634c60a (local hash is: 5890069a9cbb04ee798bfb93c634c60a)
+2022/10/13 21:33:11 5006578 374df800 [INFO Client 2536] [Item Filter] List contained online filter 5XMehq with hash: 22c247d4ede7ed925afc5ca8c3f309f8 (local hash is: 22c247d4ede7ed925afc5ca8c3f309f8)
+2022/10/13 21:33:11 5006578 374df800 [INFO Client 2536] [Item Filter] List contained online filter GmXoTD with hash: 7de027b76fec37128aa7fbe55420fbc1 (local hash is: 7de027b76fec37128aa7fbe55420fbc1)
+2022/10/13 21:33:11 5006578 374df800 [INFO Client 2536] [Item Filter] List contained online filter wvPeTJ with hash: 916a491420609e3aad71b8bac956951a (local hash is: 916a491420609e3aad71b8bac956951a)
+2022/10/13 21:33:13 5008546 cff943d8 [INFO Client 2536] : Режим "отошёл" выключен.
+2022/10/13 21:33:32 5026906 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 21:33:32 5026906 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 21:33:32 5026906 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.236:6112
+2022/10/13 21:33:32 5026968 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 21:33:32 5027031 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 21:33:32 5027109 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 21:33:32 5027109 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 21:33:33 5028031 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 21:33:33 5028640 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 21:33:34 5029468 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 21:33:47 5042359 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 21:33:47 5042359 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 21:33:47 5042359 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.253:6112
+2022/10/13 21:33:47 5042437 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 21:33:47 5042500 1186952b [DEBUG Client 2536] Generating level 76 area "MapWorldsBoneCryptUnique" with seed 366645621
+2022/10/13 21:33:47 5042578 f22b69a6 [INFO Client 2536] Tile hash: 2826258244
+2022/10/13 21:33:47 5042578 f22b69a7 [INFO Client 2536] Doodad hash: 1202889375
+2022/10/13 21:33:48 5043390 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 21:33:49 5043781 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Святилище Ольмека.
+2022/10/13 21:33:49 5044515 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 21:33:53 5048296 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/13 21:33:53 5048296 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter 5XMehq is: (empty)
+2022/10/13 21:33:53 5048578 374e12ea [INFO Client 2536] [Item Filter] Online item filter 5XMehq returned status: 200
+2022/10/13 21:33:53 5048578 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 21:33:53 5048578 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665686215.dop041.pa1.t,1665686215.cds027.pa1.shn,1665686215.dop041.pa1.t,1665686216.cds237.pa1.c
+2022/10/13 21:33:53 5048593 374e0d61 [INFO Client 2536] [Item Filter] Successfully saved online filter 5XMehq. Hash is now: 22c247d4ede7ed925afc5ca8c3f309f8
+2022/10/13 21:33:53 5048593 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 22c247d4ede7ed925afc5ca8c3f309f8. Message: 
+2022/10/13 21:33:55 5049718 374e118e [INFO Client 2536] [Item Filter] Downloading online list
+2022/10/13 21:33:55 5050546 374e11e1 [INFO Client 2536] [Item Filter] Online list returned status: 200
+2022/10/13 21:33:55 5050546 374e1146 [DEBUG Client 2536] [Item Filter] Online list request resolved to: 209.197.3.101
+2022/10/13 21:33:55 5050546 374df800 [INFO Client 2536] [Item Filter] List contained online filter zQBELSz with hash: b2ded3a6c18536c349fc5b9c67cc9441 (local hash is: b2ded3a6c18536c349fc5b9c67cc9441)
+2022/10/13 21:33:55 5050546 374df800 [INFO Client 2536] [Item Filter] List contained online filter Q6KeQsZ with hash: 5890069a9cbb04ee798bfb93c634c60a (local hash is: 5890069a9cbb04ee798bfb93c634c60a)
+2022/10/13 21:33:55 5050546 374df800 [INFO Client 2536] [Item Filter] List contained online filter 5XMehq with hash: 22c247d4ede7ed925afc5ca8c3f309f8 (local hash is: 22c247d4ede7ed925afc5ca8c3f309f8)
+2022/10/13 21:33:55 5050546 374df800 [INFO Client 2536] [Item Filter] List contained online filter GmXoTD with hash: 7de027b76fec37128aa7fbe55420fbc1 (local hash is: 7de027b76fec37128aa7fbe55420fbc1)
+2022/10/13 21:33:55 5050546 374df800 [INFO Client 2536] [Item Filter] List contained online filter wvPeTJ with hash: 916a491420609e3aad71b8bac956951a (local hash is: 916a491420609e3aad71b8bac956951a)
+2022/10/13 21:33:56 5051593 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter Q6KeQsZ
+2022/10/13 21:33:56 5051593 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter Q6KeQsZ is: (empty)
+2022/10/13 21:33:57 5052703 374e118e [INFO Client 2536] [Item Filter] Downloading online list
+2022/10/13 21:33:58 5052828 374e12ea [INFO Client 2536] [Item Filter] Online item filter Q6KeQsZ returned status: 200
+2022/10/13 21:33:58 5052828 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 21:33:58 5052828 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665686219.dop046.pa1.t,1665686219.cds228.pa1.shn,1665686219.dop046.pa1.t,1665686219.cds205.pa1.s,1665686219.dop106.da2.r,1665686219.cds220.da2.p,1665686219.cds205.pa1.p
+2022/10/13 21:33:58 5052828 374e0d61 [INFO Client 2536] [Item Filter] Successfully saved online filter Q6KeQsZ. Hash is now: 5890069a9cbb04ee798bfb93c634c60a
+2022/10/13 21:33:58 5052843 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter Q6KeQsZ. Result: true. Hash: 5890069a9cbb04ee798bfb93c634c60a. Message: 
+2022/10/13 21:33:58 5053531 374e11e1 [INFO Client 2536] [Item Filter] Online list returned status: 200
+2022/10/13 21:33:58 5053531 374e1146 [DEBUG Client 2536] [Item Filter] Online list request resolved to: 209.197.3.101
+2022/10/13 21:33:58 5053531 374df800 [INFO Client 2536] [Item Filter] List contained online filter zQBELSz with hash: b2ded3a6c18536c349fc5b9c67cc9441 (local hash is: b2ded3a6c18536c349fc5b9c67cc9441)
+2022/10/13 21:33:58 5053531 374df800 [INFO Client 2536] [Item Filter] List contained online filter Q6KeQsZ with hash: 5890069a9cbb04ee798bfb93c634c60a (local hash is: 5890069a9cbb04ee798bfb93c634c60a)
+2022/10/13 21:33:58 5053531 374df800 [INFO Client 2536] [Item Filter] List contained online filter 5XMehq with hash: 22c247d4ede7ed925afc5ca8c3f309f8 (local hash is: 22c247d4ede7ed925afc5ca8c3f309f8)
+2022/10/13 21:33:58 5053531 374df800 [INFO Client 2536] [Item Filter] List contained online filter GmXoTD with hash: 7de027b76fec37128aa7fbe55420fbc1 (local hash is: 7de027b76fec37128aa7fbe55420fbc1)
+2022/10/13 21:33:58 5053531 374df800 [INFO Client 2536] [Item Filter] List contained online filter wvPeTJ with hash: 916a491420609e3aad71b8bac956951a (local hash is: 916a491420609e3aad71b8bac956951a)
+2022/10/13 21:34:13 5068515 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter 5XMehq
+2022/10/13 21:34:13 5068515 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter 5XMehq is: 22c247d4ede7ed925afc5ca8c3f309f8
+2022/10/13 21:34:14 5068718 374e12ea [INFO Client 2536] [Item Filter] Online item filter 5XMehq returned status: 304
+2022/10/13 21:34:14 5068718 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 21:34:14 5068718 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665686236.dop224.pa1.t,1665686236.cds036.pa1.shn,1665686236.dop224.pa1.t,1665686236.cds237.pa1.c
+2022/10/13 21:34:14 5068734 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter 5XMehq. Result: true. Hash: 22c247d4ede7ed925afc5ca8c3f309f8. Message: 
+2022/10/13 21:35:40 5155109 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 21:35:40 5155125 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 21:35:40 5155125 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.171:6112
+2022/10/13 21:35:40 5155171 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 31ms
+2022/10/13 21:35:40 5155250 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 21:35:40 5155328 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 21:35:40 5155328 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 21:35:41 5156234 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 21:35:41 5156656 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 21:35:42 5157359 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 21:36:45 5220578 cff943d8 [INFO Client 2536] : Сделка совершена.
+2022/10/13 21:37:29 5264484 cff943d8 [INFO Client 2536] : Сделка совершена.
+2022/10/13 21:37:59 5294437 cff943d8 [INFO Client 2536] : Сделка отклонена.
+2022/10/13 21:38:02 5296796 cff943d8 [INFO Client 2536] : Сделка отклонена.
+2022/10/13 21:38:15 5309765 cff943d8 [INFO Client 2536] : Сделка совершена.
+2022/10/13 21:38:37 5332343 cff943d8 [INFO Client 2536] : Сделка отклонена.
+2022/10/13 21:38:57 5352625 cff943d8 [INFO Client 2536] : Сделка отклонена.
+2022/10/13 21:39:17 5372578 cff943d8 [INFO Client 2536] : Сделка совершена.
+2022/10/13 21:58:06 6501062 cff943d8 [INFO Client 2536] : grandmaLouie присоединился.
+2022/10/13 21:58:56 6551359 cff943d8 [INFO Client 2536] : Сделка отклонена.
+2022/10/13 21:59:34 6589406 cff943d8 [INFO Client 2536] : Сделка отклонена.
+2022/10/13 21:59:38 6593125 cff943d8 [INFO Client 2536] : grandmaLouie покинул область.
+2022/10/13 22:00:03 6618546 374e118e [INFO Client 2536] [Item Filter] Downloading online list
+2022/10/13 22:00:04 6619328 374e11e1 [INFO Client 2536] [Item Filter] Online list returned status: 200
+2022/10/13 22:00:04 6619328 374e1146 [DEBUG Client 2536] [Item Filter] Online list request resolved to: 209.197.3.101
+2022/10/13 22:00:04 6619328 374df800 [INFO Client 2536] [Item Filter] List contained online filter Q6KeQsZ with hash: 5890069a9cbb04ee798bfb93c634c60a (local hash is: 5890069a9cbb04ee798bfb93c634c60a)
+2022/10/13 22:00:04 6619328 374df800 [INFO Client 2536] [Item Filter] List contained online filter 10Mgxs1 with hash: d82354cf1ea68365252888f16caaf3b3 (local hash is: d82354cf1ea68365252888f16caaf3b3)
+2022/10/13 22:00:04 6619328 374df800 [INFO Client 2536] [Item Filter] List contained online filter 5XMehq with hash: 22c247d4ede7ed925afc5ca8c3f309f8 (local hash is: 22c247d4ede7ed925afc5ca8c3f309f8)
+2022/10/13 22:00:04 6619328 374df800 [INFO Client 2536] [Item Filter] List contained online filter GmXoTD with hash: 7de027b76fec37128aa7fbe55420fbc1 (local hash is: 7de027b76fec37128aa7fbe55420fbc1)
+2022/10/13 22:00:04 6619328 374df800 [INFO Client 2536] [Item Filter] List contained online filter wvPeTJ with hash: 916a491420609e3aad71b8bac956951a (local hash is: 916a491420609e3aad71b8bac956951a)
+2022/10/13 22:00:08 6623437 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/13 22:00:08 6623437 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter 10Mgxs1 is: (empty)
+2022/10/13 22:00:09 6624671 374e12ea [INFO Client 2536] [Item Filter] Online item filter 10Mgxs1 returned status: 200
+2022/10/13 22:00:09 6624671 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 22:00:09 6624671 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665687791.dop219.pa1.t,1665687791.cds025.pa1.shn,1665687791.dop219.pa1.t,1665687791.cds046.pa1.s,1665687791.dop219.da2.r,1665687791.cds240.da2.p,1665687791.cds046.pa1.p
+2022/10/13 22:00:09 6624671 374e0d61 [INFO Client 2536] [Item Filter] Successfully saved online filter 10Mgxs1. Hash is now: d82354cf1ea68365252888f16caaf3b3
+2022/10/13 22:00:09 6624687 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: d82354cf1ea68365252888f16caaf3b3. Message: 
+2022/10/13 22:01:02 6676968 cff943d8 [INFO Client 2536] : Режим "отошёл" включён. Авто-ответ "Игрок отошёл.".
+2022/10/13 22:02:38 6773687 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/13 22:02:38 6773687 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter 10Mgxs1 is: (empty)
+2022/10/13 22:02:39 6774000 374e12ea [INFO Client 2536] [Item Filter] Online item filter 10Mgxs1 returned status: 200
+2022/10/13 22:02:39 6774000 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 22:02:39 6774000 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665687941.dop025.pa1.t,1665687941.cds023.pa1.shn,1665687941.dop025.pa1.t,1665687941.cds046.pa1.c
+2022/10/13 22:02:39 6774015 374e0d61 [INFO Client 2536] [Item Filter] Successfully saved online filter 10Mgxs1. Hash is now: d82354cf1ea68365252888f16caaf3b3
+2022/10/13 22:02:39 6774031 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: d82354cf1ea68365252888f16caaf3b3. Message: 
+2022/10/13 22:02:41 6776421 374e118e [INFO Client 2536] [Item Filter] Downloading online list
+2022/10/13 22:02:42 6777218 374e11e1 [INFO Client 2536] [Item Filter] Online list returned status: 200
+2022/10/13 22:02:42 6777218 374e1146 [DEBUG Client 2536] [Item Filter] Online list request resolved to: 209.197.3.101
+2022/10/13 22:02:42 6777218 374df800 [INFO Client 2536] [Item Filter] List contained online filter Q6KeQsZ with hash: 5890069a9cbb04ee798bfb93c634c60a (local hash is: 5890069a9cbb04ee798bfb93c634c60a)
+2022/10/13 22:02:42 6777218 374df800 [INFO Client 2536] [Item Filter] List contained online filter 10Mgxs1 with hash: d82354cf1ea68365252888f16caaf3b3 (local hash is: d82354cf1ea68365252888f16caaf3b3)
+2022/10/13 22:02:42 6777218 374df800 [INFO Client 2536] [Item Filter] List contained online filter 5XMehq with hash: 22c247d4ede7ed925afc5ca8c3f309f8 (local hash is: 22c247d4ede7ed925afc5ca8c3f309f8)
+2022/10/13 22:02:42 6777218 374df800 [INFO Client 2536] [Item Filter] List contained online filter GmXoTD with hash: 7de027b76fec37128aa7fbe55420fbc1 (local hash is: 7de027b76fec37128aa7fbe55420fbc1)
+2022/10/13 22:02:42 6777218 374df800 [INFO Client 2536] [Item Filter] List contained online filter wvPeTJ with hash: 916a491420609e3aad71b8bac956951a (local hash is: 916a491420609e3aad71b8bac956951a)
+2022/10/13 22:04:41 6896578 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/13 22:04:41 6896578 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter 10Mgxs1 is: (empty)
+2022/10/13 22:04:42 6896875 374e12ea [INFO Client 2536] [Item Filter] Online item filter 10Mgxs1 returned status: 200
+2022/10/13 22:04:42 6896875 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 22:04:42 6896875 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665688064.dop216.pa1.t,1665688064.cds046.pa1.shn,1665688064.cds046.pa1.c
+2022/10/13 22:04:42 6896875 374e0d61 [INFO Client 2536] [Item Filter] Successfully saved online filter 10Mgxs1. Hash is now: d82354cf1ea68365252888f16caaf3b3
+2022/10/13 22:04:42 6896906 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: d82354cf1ea68365252888f16caaf3b3. Message: 
+2022/10/13 22:04:46 6901515 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/13 22:04:46 6901515 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter 10Mgxs1 is: (empty)
+2022/10/13 22:04:47 6901812 374e12ea [INFO Client 2536] [Item Filter] Online item filter 10Mgxs1 returned status: 200
+2022/10/13 22:04:47 6901812 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 22:04:47 6901812 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665688069.dop026.pa1.t,1665688069.cds045.pa1.shn,1665688069.dop026.pa1.t,1665688069.cds046.pa1.c
+2022/10/13 22:04:47 6901812 374e0d61 [INFO Client 2536] [Item Filter] Successfully saved online filter 10Mgxs1. Hash is now: d82354cf1ea68365252888f16caaf3b3
+2022/10/13 22:04:47 6901843 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: d82354cf1ea68365252888f16caaf3b3. Message: 
+2022/10/13 22:04:47 6902296 374e118e [INFO Client 2536] [Item Filter] Downloading online list
+2022/10/13 22:04:48 6903109 374e11e1 [INFO Client 2536] [Item Filter] Online list returned status: 200
+2022/10/13 22:04:48 6903109 374e1146 [DEBUG Client 2536] [Item Filter] Online list request resolved to: 209.197.3.101
+2022/10/13 22:04:48 6903109 374df800 [INFO Client 2536] [Item Filter] List contained online filter 10Mgxs1 with hash: d82354cf1ea68365252888f16caaf3b3 (local hash is: d82354cf1ea68365252888f16caaf3b3)
+2022/10/13 22:04:48 6903109 374df800 [INFO Client 2536] [Item Filter] List contained online filter 5XMehq with hash: 22c247d4ede7ed925afc5ca8c3f309f8 (local hash is: 22c247d4ede7ed925afc5ca8c3f309f8)
+2022/10/13 22:04:48 6903109 374df800 [INFO Client 2536] [Item Filter] List contained online filter GmXoTD with hash: 7de027b76fec37128aa7fbe55420fbc1 (local hash is: 7de027b76fec37128aa7fbe55420fbc1)
+2022/10/13 22:04:48 6903109 374df800 [INFO Client 2536] [Item Filter] List contained online filter wvPeTJ with hash: 916a491420609e3aad71b8bac956951a (local hash is: 916a491420609e3aad71b8bac956951a)
+2022/10/13 22:05:06 6921218 cff943d8 [INFO Client 2536] : Режим "отошёл" выключен.
+2022/10/13 22:05:26 6941578 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:05:26 6941578 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:05:26 6941578 ca3a6737 [INFO Client 2536] Connecting to instance server at 85.195.123.199:6112
+2022/10/13 22:05:26 6941656 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 22:05:26 6941687 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/13 22:05:27 6941984 f22b69a6 [INFO Client 2536] Tile hash: 1532260820
+2022/10/13 22:05:27 6941984 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 22:05:27 6942500 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:05:29 6944187 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/13 22:05:30 6945515 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:06:37 7011906 cff943d8 [INFO Client 2536] : Сделка совершена.
+2022/10/13 22:09:01 7155937 cff943d8 [INFO Client 2536] : VooDeeCovan покинул область.
+2022/10/13 22:10:07 7222281 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:10:07 7222281 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:10:07 7222281 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.167:6112
+2022/10/13 22:10:07 7222343 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 22:10:07 7222406 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 22:10:07 7222484 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 22:10:07 7222484 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 22:10:08 7223140 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:10:08 7223578 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 22:10:09 7224328 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:11:42 7317265 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:11:42 7317281 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:11:42 7317281 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.236:6112
+2022/10/13 22:11:42 7317343 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 31ms
+2022/10/13 22:11:42 7317421 1186952b [DEBUG Client 2536] Generating level 75 area "MapWorldsGhetto" with seed 2221677001
+2022/10/13 22:11:44 7319265 f22b69a6 [INFO Client 2536] Tile hash: 2936883046
+2022/10/13 22:11:44 7319265 f22b69a7 [INFO Client 2536] Doodad hash: 598300330
+2022/10/13 22:11:45 7319968 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:11:45 7320500 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Хибары.
+2022/10/13 22:11:46 7321640 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:14:09 7464515 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:14:09 7464546 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:14:09 7464546 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.171:6112
+2022/10/13 22:14:09 7464593 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 32ms
+2022/10/13 22:14:09 7464671 1186952b [DEBUG Client 2536] Generating level 76 area "EndGame_Labyrinth_trials_lava_#" with seed 1328349056
+2022/10/13 22:14:10 7465625 f22b69a6 [INFO Client 2536] Tile hash: 2109947604
+2022/10/13 22:14:10 7465625 f22b69a7 [INFO Client 2536] Doodad hash: 1463533219
+2022/10/13 22:14:11 7466140 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:14:12 7466734 cff943d8 [INFO Client 2536] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание пылающей яростью.
+2022/10/13 22:14:12 7467484 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:15:34 7549375 cff943d8 [INFO Client 2536] : Дверь заперта
+2022/10/13 22:17:18 7653031 cff943d8 [INFO Client 2536] : Дверь заперта
+2022/10/13 22:17:21 7655968 cff943d8 [INFO Client 2536] : Дверь заперта
+2022/10/13 22:17:33 7668328 cff943d8 [INFO Client 2536] : Дверь заперта
+2022/10/13 22:18:24 7719562 cff943d8 [INFO Client 2536] : Дверь заперта
+2022/10/13 22:18:40 7735593 cff943d8 [INFO Client 2536] : Дверь заперта
+2022/10/13 22:20:48 7863468 cff943d8 [INFO Client 2536] : Сундук заперт
+2022/10/13 22:20:51 7866328 cff943d8 [INFO Client 2536] : Сундук заперт
+2022/10/13 22:21:17 7891765 cff943d8 [INFO Client 2536] Изаро: Позволь мудрости закалиться в горниле былого опыта.
+2022/10/13 22:21:27 7901968 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:21:27 7901968 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:21:27 7901968 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.236:6112
+2022/10/13 22:21:27 7902031 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 22:21:27 7902109 1186952b [DEBUG Client 2536] Generating level 75 area "MapWorldsGhetto" with seed 2221677001
+2022/10/13 22:21:27 7902156 f22b69a6 [INFO Client 2536] Tile hash: 2936883046
+2022/10/13 22:21:27 7902156 f22b69a7 [INFO Client 2536] Doodad hash: 598300330
+2022/10/13 22:21:28 7902812 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:21:28 7903218 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Хибары.
+2022/10/13 22:21:29 7903953 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:22:52 7986828 bce2d691 [INFO Client 2536] Steam stats stored
+2022/10/13 22:23:27 8022000 890da8d3 [INFO Client 2536] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/13 22:23:27 8022031 890d9d9b [INFO Client 2536] Connected to mil01.login.pathofexile.com in 15ms.
+2022/10/13 22:30:15 8430500 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:30:15 8430500 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:30:15 8430500 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.236:6112
+2022/10/13 22:30:15 8430562 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 46ms
+2022/10/13 22:30:15 8430656 1186952b [DEBUG Client 2536] Generating level 23 area "1_2_town" with seed 1
+2022/10/13 22:30:19 8434093 f22b69a6 [INFO Client 2536] Tile hash: 3956941390
+2022/10/13 22:30:19 8434093 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 22:30:21 8436218 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:30:22 8436859 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лесной лагерь.
+2022/10/13 22:30:23 8437781 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:30:23 8437828 374e1126 [INFO Client 2536] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/13 22:30:23 8437828 374e1287 [INFO Client 2536] [Item Filter] Hash for online filter 10Mgxs1 is: d82354cf1ea68365252888f16caaf3b3
+2022/10/13 22:30:23 8438656 374e12ea [INFO Client 2536] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/13 22:30:23 8438656 374e0d87 [DEBUG Client 2536] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/13 22:30:23 8438656 374e0d8f [DEBUG Client 2536] [Item Filter] X-HW: 1665689605.dop022.pa1.t,1665689605.cds028.pa1.shn,1665689605.dop022.pa1.t,1665689605.cds046.pa1.s,1665689605.dop123.da2.r,1665689605.cds240.da2.p,1665689606.cds046.pa1.p
+2022/10/13 22:30:23 8438656 78847107 [INFO Client 2536] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: d82354cf1ea68365252888f16caaf3b3. Message: 
+2022/10/13 22:30:26 8441359 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:30:26 8441375 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:30:26 8441375 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.253:6112
+2022/10/13 22:30:26 8441437 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 31ms
+2022/10/13 22:30:26 8441500 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 22:30:27 8442000 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 22:30:27 8442000 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 22:30:27 8442421 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:30:28 8443218 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 22:30:29 8444265 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:31:22 8497437 cff943d8 [INFO Client 2536] : Сделка совершена.
+2022/10/13 22:34:01 8655781 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:34:01 8655796 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:34:01 8655796 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.236:6112
+2022/10/13 22:34:01 8655859 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 32ms
+2022/10/13 22:34:01 8655921 1186952b [DEBUG Client 2536] Generating level 33 area "Labyrinth_Airlock" with seed 2853715586
+2022/10/13 22:34:01 8656546 f22b69a6 [INFO Client 2536] Tile hash: 1594003974
+2022/10/13 22:34:01 8656546 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 22:34:02 8657125 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:34:02 8657593 cff943d8 [INFO Client 2536] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Площадь претендентов.
+2022/10/13 22:34:03 8658390 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:34:14 8669328 cff943d8 [INFO Client 2536] Изаро: Богиня смотрит.
+2022/10/13 22:34:19 8674593 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:34:19 8674593 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:34:19 8674593 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.169:6112
+2022/10/13 22:34:19 8674656 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 22:34:20 8674750 1186952b [DEBUG Client 2536] Generating level 75 area "EndGame_Labyrinth_OH_branch" with seed 83498926
+2022/10/13 22:34:21 8676625 f22b69a6 [INFO Client 2536] Tile hash: 3603635390
+2022/10/13 22:34:21 8676625 f22b69a7 [INFO Client 2536] Doodad hash: 2447459543
+2022/10/13 22:34:22 8677375 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:34:23 8677906 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Аллеи усадьбы.
+2022/10/13 22:34:24 8679328 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:35:17 8731828 cff943d8 [INFO Client 2536] : Дверь заперта
+2022/10/13 22:35:24 8738953 cff943d8 [INFO Client 2536] : Дверь заперта
+2022/10/13 22:37:22 8857125 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:37:22 8857125 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:37:22 8857125 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.142:6112
+2022/10/13 22:37:22 8857187 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 31ms
+2022/10/13 22:37:22 8857250 1186952b [DEBUG Client 2536] Generating level 75 area "EndGame_Labyrinth_C_straight" with seed 1119305177
+2022/10/13 22:37:23 8858156 f22b69a6 [INFO Client 2536] Tile hash: 1977392332
+2022/10/13 22:37:23 8858156 f22b69a7 [INFO Client 2536] Doodad hash: 3291077118
+2022/10/13 22:37:23 8858515 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:37:24 8858859 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коридоры усыпальницы.
+2022/10/13 22:37:25 8859828 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:38:00 8895515 cff943d8 [INFO Client 2536] Изаро: Аргус? Куси!
+2022/10/13 22:38:31 8926468 cff943d8 [INFO Client 2536] Изаро: Прощай, Аргус. Ты был моим самым преданным любимцем.
+2022/10/13 22:39:04 8958968 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:39:04 8958968 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:39:04 8958968 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.138:6112
+2022/10/13 22:39:04 8959031 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 22:39:04 8959093 1186952b [DEBUG Client 2536] Generating level 75 area "EndGame_Labyrinth_OH_quad_door_#" with seed 3052487650
+2022/10/13 22:39:04 8959234 f22b69a6 [INFO Client 2536] Tile hash: 3507492198
+2022/10/13 22:39:04 8959234 f22b69a7 [INFO Client 2536] Doodad hash: 3483581496
+2022/10/13 22:39:05 8959937 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:39:05 8960234 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Перекрёсток усадьбы.
+2022/10/13 22:39:06 8961187 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:39:34 8989171 cff943d8 [INFO Client 2536] : Пусть сильнее грянет буря
+2022/10/13 22:39:40 8995031 cff943d8 [INFO Client 2536] : Пусть сильнее грянет буря
+2022/10/13 22:41:07 9082000 cff943d8 [INFO Client 2536] : Дверь заперта. Для неё нужен золотой ключ.
+2022/10/13 22:41:07 9082015 cff943d8 [INFO Client 2536] Изаро: Замок на двери только раззадоривает любопытных.
+2022/10/13 22:41:16 9091140 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:41:16 9091140 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:41:16 9091140 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.171:6112
+2022/10/13 22:41:16 9091203 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 22:41:16 9091281 1186952b [DEBUG Client 2536] Generating level 75 area "EndGame_Labyrinth_RT_end_bottleneck" with seed 3514156690
+2022/10/13 22:41:17 9092031 f22b69a6 [INFO Client 2536] Tile hash: 290522780
+2022/10/13 22:41:17 9092031 f22b69a7 [INFO Client 2536] Doodad hash: 251851773
+2022/10/13 22:41:17 9092343 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:41:18 9092750 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Флигель храма.
+2022/10/13 22:41:19 9093781 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:43:41 9235765 cff943d8 [INFO Client 2536] : Дверь заперта
+2022/10/13 22:44:50 9305531 cff943d8 [INFO Client 2536] : Дверь заперта
+2022/10/13 22:45:08 9322921 cff943d8 [INFO Client 2536] Изаро: Где есть золотой ключ, должна быть и золотая дверь.
+2022/10/13 22:45:17 9332531 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:45:17 9332546 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:45:17 9332546 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.138:6112
+2022/10/13 22:45:17 9332609 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 32ms
+2022/10/13 22:45:17 9332671 1186952b [DEBUG Client 2536] Generating level 75 area "EndGame_Labyrinth_OH_quad_door_#" with seed 3052487650
+2022/10/13 22:45:18 9332734 f22b69a6 [INFO Client 2536] Tile hash: 3507492198
+2022/10/13 22:45:18 9332750 f22b69a7 [INFO Client 2536] Doodad hash: 3483581496
+2022/10/13 22:45:18 9333515 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:45:19 9333843 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Перекрёсток усадьбы.
+2022/10/13 22:45:20 9334734 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:45:28 9343640 cff943d8 [INFO Client 2536] Изаро: Пусть день начнётся с золотого сияния возможности.
+2022/10/13 22:45:39 9354671 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:45:39 9354671 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:45:39 9354671 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.253:6112
+2022/10/13 22:45:40 9354734 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 22:45:40 9354812 1186952b [DEBUG Client 2536] Generating level 75 area "EndGame_Labyrinth_boss_1" with seed 209012350
+2022/10/13 22:45:40 9355390 f22b69a6 [INFO Client 2536] Tile hash: 3899379932
+2022/10/13 22:45:40 9355390 f22b69a7 [INFO Client 2536] Doodad hash: 3099552878
+2022/10/13 22:45:40 9355718 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:45:41 9356015 cff943d8 [INFO Client 2536] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание претендента.
+2022/10/13 22:45:41 9356687 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:45:42 9357359 cff943d8 [INFO Client 2536] Изаро: Усталый путник приближается к концу пути.
+2022/10/13 22:46:06 9381218 cff943d8 [INFO Client 2536] Изаро: Император хорош настолько, насколько хороши его слуги.
+2022/10/13 22:47:13 9448578 cff943d8 [INFO Client 2536] Изаро: Откуда у тебя берутся силы?
+2022/10/13 22:47:18 9453578 cff943d8 [INFO Client 2536] Изаро: Осталось трое моих слуг. Видно, убогим нравится быть в компании.
+2022/10/13 22:47:24 9459203 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:47:24 9459218 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:47:24 9459218 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.171:6112
+2022/10/13 22:47:24 9459281 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 32ms
+2022/10/13 22:47:24 9459343 1186952b [DEBUG Client 2536] Generating level 75 area "EndGame_Labyrinth_P_branch_bottleneck_2" with seed 4125606354
+2022/10/13 22:47:25 9460062 f22b69a6 [INFO Client 2536] Tile hash: 2772040474
+2022/10/13 22:47:25 9460062 f22b69a7 [INFO Client 2536] Doodad hash: 3928888483
+2022/10/13 22:47:25 9460484 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:47:26 9460828 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Залы лазарета.
+2022/10/13 22:47:26 9461562 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:48:29 9524140 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:48:29 9524140 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:48:29 9524140 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.169:6112
+2022/10/13 22:48:29 9524203 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 22:48:29 9524281 1186952b [DEBUG Client 2536] Generating level 75 area "EndGame_Labyrinth_DG_branch" with seed 3040597044
+2022/10/13 22:48:30 9525468 f22b69a6 [INFO Client 2536] Tile hash: 1033739892
+2022/10/13 22:48:30 9525468 f22b69a7 [INFO Client 2536] Doodad hash: 1213357204
+2022/10/13 22:48:32 9526796 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:48:32 9527156 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Аллеи имения.
+2022/10/13 22:48:33 9528062 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:52:26 9761265 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:52:26 9761265 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:52:26 9761265 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.253:6112
+2022/10/13 22:52:26 9761328 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 47ms
+2022/10/13 22:52:26 9761406 1186952b [DEBUG Client 2536] Generating level 75 area "EndGame_Labyrinth_boss_2" with seed 1856219558
+2022/10/13 22:52:27 9761921 f22b69a6 [INFO Client 2536] Tile hash: 1277211292
+2022/10/13 22:52:27 9761921 f22b69a7 [INFO Client 2536] Doodad hash: 1157847272
+2022/10/13 22:52:27 9762093 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:52:27 9762437 cff943d8 [INFO Client 2536] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание претендента.
+2022/10/13 22:52:28 9763093 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:52:29 9763921 cff943d8 [INFO Client 2536] Изаро: Когда приходит время битвы, правитель бьёт без колебаний. Предаваться сомнениям значит дёргать смерть за усы.
+2022/10/13 22:52:44 9779343 cff943d8 [INFO Client 2536] Изаро: Когда император повелевает, мир повинуется.
+2022/10/13 22:53:58 9852734 cff943d8 [INFO Client 2536] Изаро: Это твоё предназначение!
+2022/10/13 22:54:03 9858296 cff943d8 [INFO Client 2536] Изаро: Верность подобна огню: она быстро охватывает сухой лес.
+2022/10/13 22:54:09 9864500 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:54:09 9864500 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:54:09 9864500 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.171:6112
+2022/10/13 22:54:09 9864578 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 46ms
+2022/10/13 22:54:09 9864640 1186952b [DEBUG Client 2536] Generating level 75 area "EndGame_Labyrinth_C_straight_bottleneck" with seed 1593308699
+2022/10/13 22:54:10 9865406 f22b69a6 [INFO Client 2536] Tile hash: 125555662
+2022/10/13 22:54:10 9865406 f22b69a7 [INFO Client 2536] Doodad hash: 4045988225
+2022/10/13 22:54:11 9865718 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:54:11 9866046 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коридоры усыпальницы.
+2022/10/13 22:54:12 9866765 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:54:26 9881406 cff943d8 [INFO Client 2536] : ChampionLTi был повержен.
+2022/10/13 22:54:27 9882421 cff943d8 [INFO Client 2536] Изаро: Правосудие подано.
+2022/10/13 22:54:30 9885203 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:54:30 9885203 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:54:30 9885203 ca3a6737 [INFO Client 2536] Connecting to instance server at 159.122.142.236:6112
+2022/10/13 22:54:30 9885265 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 31ms
+2022/10/13 22:54:30 9885328 1186952b [DEBUG Client 2536] Generating level 23 area "1_2_town" with seed 1
+2022/10/13 22:54:32 9887234 f22b69a6 [INFO Client 2536] Tile hash: 3956941390
+2022/10/13 22:54:32 9887234 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 22:54:32 9887531 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:54:33 9888171 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лесной лагерь.
+2022/10/13 22:54:34 9889453 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/13 22:54:52 9907500 88a90480 [DEBUG Client 2536] Got Instance Details from login server
+2022/10/13 22:54:52 9907500 32759a9f [INFO Client 2536] [SHADER] Delay: OFF
+2022/10/13 22:54:52 9907500 ca3a6737 [INFO Client 2536] Connecting to instance server at 169.51.201.169:6112
+2022/10/13 22:54:52 9907562 ca3a4d51 [DEBUG Client 2536] Connect time to instance server was 46ms
+2022/10/13 22:54:52 9907625 1186952b [DEBUG Client 2536] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/13 22:54:53 9908015 f22b69a6 [INFO Client 2536] Tile hash: 2509555744
+2022/10/13 22:54:53 9908015 f22b69a7 [INFO Client 2536] Doodad hash: 0
+2022/10/13 22:54:53 9908437 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
+2022/10/13 22:54:54 9908921 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/13 22:54:54 9909687 32759a9f [INFO Client 2536] [SHADER] Delay: ON
