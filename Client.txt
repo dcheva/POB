@@ -3869,3 +3869,945 @@
 2022/10/13 22:54:53 9908437 11871c61 [DEBUG Client 2536] Joined guild named Chevaleki with 2 members 
 2022/10/13 22:54:54 9908921 cff943d8 [INFO Client 2536] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
 2022/10/13 22:54:54 9909687 32759a9f [INFO Client 2536] [SHADER] Delay: ON
+2022/10/15 23:56:47 ***** LOG FILE OPENING *****
+2022/10/15 23:56:47 102973515 340884db [DEBUG Client 4996] [RENDER] StopDevice
+2022/10/15 23:56:47 102973515 84a7e6f1 [INFO Client 4996] [ENGINE] Clear
+2022/10/15 23:56:47 102973515 7bb5422 [INFO Client 4996] [BUNDLE2] Deinit
+2022/10/15 23:56:47 102973515 84a7e691 [INFO Client 4996] [JOB] Clear
+2022/10/15 23:56:47 102973515 84a7e7bf [INFO Client 4996] [ANIMATION] Clear
+2022/10/15 23:56:47 102973531 84a7e7be [INFO Client 4996] [PHYSICS] Clear
+2022/10/15 23:56:47 102973531 84a7e7bd [INFO Client 4996] [SHADER] Clear
+2022/10/15 23:56:47 102973531 84a7e7bc [INFO Client 4996] [ENTITY] Clear
+2022/10/15 23:56:47 102973531 84a7e7bb [INFO Client 4996] [SOUND] Clear
+2022/10/15 23:56:47 102973531 84a7e7ba [INFO Client 4996] [VIDEO] Clear
+2022/10/15 23:56:47 102973531 84a7e7b9 [INFO Client 4996] [SCENE] Clear
+2022/10/15 23:56:47 102973531 84a7e7b8 [INFO Client 4996] [GRAPH] Clear
+2022/10/15 23:56:47 102973531 84a7e7b7 [INFO Client 4996] [TELEMETRY] Clear
+2022/10/15 23:56:47 102973531 84a7e7b6 [INFO Client 4996] [RESOURCE] GarbageCollect
+2022/10/15 23:56:47 102973531 84a7e75e [INFO Client 4996] [RESOURCE] Clear
+2022/10/15 23:56:47 102973531 84a7e75b [INFO Client 4996] [RENDER] Clear
+2022/10/15 23:56:47 102973531 84a7e758 [INFO Client 4996] [ENGINE] Done
+2022/10/15 23:58:14 ***** LOG FILE OPENING *****
+2022/10/15 23:58:14 103060015 340884db [DEBUG Client 3828] [RENDER] StopDevice
+2022/10/15 23:58:14 103060015 84a7e6f1 [INFO Client 3828] [ENGINE] Clear
+2022/10/15 23:58:14 103060015 7bb5422 [INFO Client 3828] [BUNDLE2] Deinit
+2022/10/15 23:58:14 103060015 84a7e691 [INFO Client 3828] [JOB] Clear
+2022/10/15 23:58:14 103060015 84a7e7bf [INFO Client 3828] [ANIMATION] Clear
+2022/10/15 23:58:14 103060015 84a7e7be [INFO Client 3828] [PHYSICS] Clear
+2022/10/15 23:58:14 103060015 84a7e7bd [INFO Client 3828] [SHADER] Clear
+2022/10/15 23:58:14 103060015 84a7e7bc [INFO Client 3828] [ENTITY] Clear
+2022/10/15 23:58:14 103060015 84a7e7bb [INFO Client 3828] [SOUND] Clear
+2022/10/15 23:58:14 103060015 84a7e7ba [INFO Client 3828] [VIDEO] Clear
+2022/10/15 23:58:14 103060015 84a7e7b9 [INFO Client 3828] [SCENE] Clear
+2022/10/15 23:58:14 103060015 84a7e7b8 [INFO Client 3828] [GRAPH] Clear
+2022/10/15 23:58:14 103060015 84a7e7b7 [INFO Client 3828] [TELEMETRY] Clear
+2022/10/15 23:58:14 103060015 84a7e7b6 [INFO Client 3828] [RESOURCE] GarbageCollect
+2022/10/15 23:58:14 103060015 84a7e75e [INFO Client 3828] [RESOURCE] Clear
+2022/10/15 23:58:14 103060015 84a7e75b [INFO Client 3828] [RENDER] Clear
+2022/10/15 23:58:14 103060015 84a7e758 [INFO Client 3828] [ENGINE] Done
+2022/10/15 23:58:15 ***** LOG FILE OPENING *****
+2022/10/15 23:58:15 103061250 f954428c [INFO Client 6120] [STARTUP] Job Queues
+2022/10/15 23:58:15 103061265 9e6a0b0a [INFO Client 6120] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/15 23:58:15 103061359 9e6a1d2a [INFO Client 6120] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/15 23:58:15 103061359 9e6a1363 [INFO Client 6120] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/15 23:58:15 103061359 9e6a0b0a [INFO Client 6120] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/15 23:58:15 103061375 9e6a1d2a [INFO Client 6120] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/15 23:58:15 103061375 84a7d27d [INFO Client 6120] [ENGINE] Init
+2022/10/15 23:58:15 103061375 55713145 [INFO Client 6120] [JOB] HIGH: 2
+2022/10/15 23:58:15 103061375 55713145 [INFO Client 6120] [JOB] MEDIUM: 2
+2022/10/15 23:58:15 103061375 55713145 [INFO Client 6120] [JOB] LOW: 2
+2022/10/15 23:58:15 103061375 55713145 [INFO Client 6120] [JOB] IDLE: 1
+2022/10/15 23:58:15 103061375 7bb548f [INFO Client 6120] [BUNDLE2] Init
+2022/10/15 23:58:15 103061375 7bb36c4 [INFO Client 6120] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/15 23:58:15 103061625 7bb61e6 [INFO Client 6120] [BUNDLE2] File cache size: 1024
+2022/10/15 23:58:15 103061625 b51d61ab [INFO Client 6120] [RENDER] Async: ON
+2022/10/15 23:58:15 103061625 b51d60c8 [INFO Client 6120] [RENDER] Warmup: ON
+2022/10/15 23:58:15 103061625 b51d60ce [INFO Client 6120] [RENDER] Skip: ON
+2022/10/15 23:58:15 103061625 b51d60eb [INFO Client 6120] [RENDER] Throttling: ON
+2022/10/15 23:58:15 103061625 32759a7a [INFO Client 6120] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/15 23:58:15 103061625 32759a70 [INFO Client 6120] [SHADER] Async: ON
+2022/10/15 23:58:15 103061625 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/15 23:58:15 103061625 32759aba [INFO Client 6120] [SHADER] Limit: ON
+2022/10/15 23:58:15 103061625 32759abc [INFO Client 6120] [SHADER] Warmup: ON
+2022/10/15 23:58:15 103061625 327599d7 [INFO Client 6120] [SHADER] Parallel: OFF
+2022/10/15 23:58:15 103061625 84a7e376 [INFO Client 6120] [ENGINE] Running Engine version 1.6.0
+2022/10/15 23:58:15 103061640 47bbd159 [INFO Client 6120] [SOUND] Buffer size = 64.0 MB
+2022/10/15 23:58:15 103061718 9b0d205 [INFO Client 6120] [VIDEO] Enable: ON
+2022/10/15 23:58:16 103061750 84a7d2d8 [INFO Client 6120] [ENGINE] Ready
+2022/10/15 23:58:16 103061812 951bc0b0 [INFO Client 6120] [STARTUP] Bundle Startup Start
+2022/10/15 23:58:16 103061812 951bc057 [INFO Client 6120] [STARTUP] Bundle Startup in 5.8e-05 seconds
+2022/10/15 23:58:16 103061812 951bc0b0 [INFO Client 6120] [STARTUP] Game Start
+2022/10/15 23:58:16 103062046 ca86fd3f [DEBUG Client 6120] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/15 23:58:16 103062375 951bc057 [INFO Client 6120] [STARTUP] Game in 0.563505 seconds
+2022/10/15 23:58:16 103062375 951bc0b0 [INFO Client 6120] [STARTUP] Window Start
+2022/10/15 23:58:16 103062375 9e6a0b0a [INFO Client 6120] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/15 23:58:16 103062453 9e6a1d2a [INFO Client 6120] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/15 23:58:16 103062453 9e6a1363 [INFO Client 6120] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/15 23:58:16 103062453 9e6a0b0a [INFO Client 6120] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/15 23:58:16 103062453 9e6a1d2a [INFO Client 6120] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/15 23:58:16 103062500 951bc057 [INFO Client 6120] [STARTUP] Window in 0.130503 seconds
+2022/10/15 23:58:16 103062531 413b61ff [DEBUG Client 6120] [GamepadManager] Initialising
+2022/10/15 23:58:16 103062531 951bc0b0 [INFO Client 6120] [STARTUP] Device Start
+2022/10/15 23:58:16 103062531 b51d6589 [INFO Client 6120] [RENDER] StartDevice: DirectX11
+2022/10/15 23:58:17 103062781 71b3b00 [DEBUG Client 6120] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/15 23:58:17 103062781 97ce04a4 [WARN Client 6120] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/15 23:58:17 103062859 fafff8cf [DEBUG Client 6120] CreateSwapChain: SetFullScreenState 0
+2022/10/15 23:58:17 103062859 29d4ce01 [INFO Client 6120] [D3D11] Runtime version = 11.1
+2022/10/15 23:58:17 103062859 29d4ce00 [INFO Client 6120] [D3D11] Feature Level = 11.1
+2022/10/15 23:58:17 103062859 29d4ce03 [INFO Client 6120] [D3D11] Driver Command Lists = NO
+2022/10/15 23:58:17 103062859 29d4ce02 [INFO Client 6120] [D3D11] Driver Concurrent Creates = YES
+2022/10/15 23:58:17 103062859 29d4ce05 [INFO Client 6120] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/15 23:58:17 103062953 9d4eeb40 [DEBUG Client 6120] [WINDOW] TrigggerDeviceCreate
+2022/10/15 23:58:17 103063171 9d4eeba7 [DEBUG Client 6120] [WINDOW] TrigggerDeviceReset
+2022/10/15 23:58:17 103063203 9d4eec8a [DEBUG Client 6120] [WINDOW] TrigggerDeviceLost
+2022/10/15 23:58:17 103063203 9d4eeba7 [DEBUG Client 6120] [WINDOW] TrigggerDeviceReset
+2022/10/15 23:58:17 103063218 951bc057 [INFO Client 6120] [STARTUP] Device in 0.689594 seconds
+2022/10/15 23:58:17 103063218 951bc0b0 [INFO Client 6120] [STARTUP] Tencent Start
+2022/10/15 23:58:17 103063218 951bc057 [INFO Client 6120] [STARTUP] Tencent in 3.6e-05 seconds
+2022/10/15 23:58:17 103063218 951bc0b0 [INFO Client 6120] [STARTUP] Loading Start
+2022/10/15 23:58:17 103063265 951bc057 [INFO Client 6120] [STARTUP] Loading in 0.03136 seconds
+2022/10/15 23:58:17 103063265 951bc0b0 [INFO Client 6120] [STARTUP] DebugGUI Start
+2022/10/15 23:58:17 103063265 951bc057 [INFO Client 6120] [STARTUP] DebugGUI in 3.2e-05 seconds
+2022/10/15 23:58:17 103063265 951bc0b0 [INFO Client 6120] [STARTUP] Bundle Tiny Start
+2022/10/15 23:58:17 103063265 951bc0b0 [INFO Client 6120] [STARTUP] Bundle Login Start
+2022/10/15 23:58:17 103063265 951bc057 [INFO Client 6120] [STARTUP] Bundle Login in 4.8e-05 seconds
+2022/10/15 23:58:17 103063265 951bc0b0 [INFO Client 6120] [STARTUP] Registration Start
+2022/10/15 23:58:17 103063265 951bc057 [INFO Client 6120] [STARTUP] Bundle Tiny in 0.000116 seconds
+2022/10/15 23:58:17 103063281 951bc0b0 [INFO Client 6120] [STARTUP] Audio Start
+2022/10/15 23:58:17 103063281 47bbee18 [INFO Client 6120] [SOUND] Channel count = 128 (asked for 128)
+2022/10/15 23:58:17 103063281 47bbee19 [INFO Client 6120] [SOUND] Source count = 512
+2022/10/15 23:58:17 103063562 47bbea58 [INFO Client 6120] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/15 23:58:17 103063578 951bc057 [INFO Client 6120] [STARTUP] Audio in 0.290985 seconds
+2022/10/15 23:58:19 103065609 951bc057 [INFO Client 6120] [STARTUP] Registration in 2.35409 seconds
+2022/10/15 23:58:24 103070687 890da8d3 [INFO Client 6120] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/15 23:58:25 103070859 890d9d9b [INFO Client 6120] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/15 23:59:00 103106250 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/15 23:59:00 103106281 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/15 23:59:00 103106296 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.138:6112
+2022/10/15 23:59:00 103106343 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 32ms
+2022/10/15 23:59:00 103106406 1186952b [DEBUG Client 6120] Generating level 1 area "1_1_1" with seed 3048218870
+2022/10/15 23:59:02 103108359 f22b69a6 [INFO Client 6120] Tile hash: 4126015464
+2022/10/15 23:59:02 103108359 f22b69a7 [INFO Client 6120] Doodad hash: 2554697834
+2022/10/15 23:59:08 103114390 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/15 23:59:08 103114671 cff943d8 [INFO Client 6120] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Сумрачное взморье.
+2022/10/15 23:59:08 103114671 cff943d8 [INFO Client 6120] #ванюшка__экспедиторр: ребятки
+2022/10/15 23:59:08 103114671 cff943d8 [INFO Client 6120] #Малиновая_Девочка: залупа
+2022/10/15 23:59:10 103116421 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/15 23:59:10 103116468 374e1126 [INFO Client 6120] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/15 23:59:10 103116468 374e1287 [INFO Client 6120] [Item Filter] Hash for online filter 10Mgxs1 is: d82354cf1ea68365252888f16caaf3b3
+2022/10/15 23:59:11 103116828 374e12ea [INFO Client 6120] [Item Filter] Online item filter 10Mgxs1 returned status: 200
+2022/10/15 23:59:11 103116828 374e0d87 [DEBUG Client 6120] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/15 23:59:11 103116828 374e0d8f [DEBUG Client 6120] [Item Filter] X-HW: 1665867732.dop224.pa1.t,1665867733.cds212.pa1.shn,1665867733.dop224.pa1.t,1665867733.cds046.pa1.c
+2022/10/15 23:59:11 103116828 374e0d61 [INFO Client 6120] [Item Filter] Successfully saved online filter 10Mgxs1. Hash is now: 091d3f83834a7f669d3a4020f9623d91
+2022/10/15 23:59:11 103116843 78847107 [INFO Client 6120] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/15 23:59:11 103117312 2a14a9a7 [INFO Client 6120] PrecalcBaseTypeHashMap
+2022/10/15 23:59:11 103117421 2a14a9a1 [INFO Client 6120] PrecalcModNameHashMap
+2022/10/15 23:59:13 103119234 2a14a9a3 [INFO Client 6120] PrecalcItemClassMap
+2022/10/15 23:59:13 103119234 2a14a9ad [INFO Client 6120] PrecalcSoundEffects
+2022/10/15 23:59:13 103119234 2a14a902 [INFO Client 6120] PrecalcDropEffects
+2022/10/15 23:59:13 103119234 2a14a900 [INFO Client 6120] PrecalcNonEnchantModHashes
+2022/10/15 23:59:13 103119234 2a14a906 [INFO Client 6120] PrecalcRuleNameToTypeMap
+2022/10/15 23:59:13 103119234 2a14a904 [INFO Client 6120] PrecalcCJESPNIndexMap
+2022/10/15 23:59:13 103119250 2a14a90a [INFO Client 6120] PrecalcGemAlternateQualityMap
+2022/10/15 23:59:34 103140656 890da8d3 [INFO Client 6120] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/15 23:59:34 103140687 890d9d9b [INFO Client 6120] Connected to mil01.login.pathofexile.com in 15ms.
+2022/10/16 00:00:34 103200234 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:00:34 103200234 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:00:34 103200234 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.171:6112
+2022/10/16 00:00:34 103200281 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 47ms
+2022/10/16 00:00:34 103200359 1186952b [DEBUG Client 6120] Generating level 1 area "1_1_1" with seed 1741297624
+2022/10/16 00:00:34 103200640 f22b69a6 [INFO Client 6120] Tile hash: 3791687572
+2022/10/16 00:00:34 103200640 f22b69a7 [INFO Client 6120] Doodad hash: 1851916053
+2022/10/16 00:00:38 103204593 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:00:39 103204796 cff943d8 [INFO Client 6120] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Сумрачное взморье.
+2022/10/16 00:00:39 103205546 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:00:39 103205578 374e1126 [INFO Client 6120] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/16 00:00:39 103205578 374e1287 [INFO Client 6120] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/16 00:00:40 103205812 374e12ea [INFO Client 6120] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/16 00:00:40 103205812 374e0d87 [DEBUG Client 6120] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/16 00:00:40 103205812 374e0d8f [DEBUG Client 6120] [Item Filter] X-HW: 1665867822.dop042.pa1.t,1665867822.cds038.pa1.shn,1665867822.dop042.pa1.t,1665867822.cds046.pa1.c
+2022/10/16 00:00:40 103205812 78847107 [INFO Client 6120] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/16 00:00:41 103207609 890da8d3 [INFO Client 6120] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/16 00:00:41 103207640 890d9d9b [INFO Client 6120] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/16 00:01:34 103259750 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:01:34 103259750 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:01:34 103259750 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 00:01:34 103259796 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 31ms
+2022/10/16 00:01:34 103259859 1186952b [DEBUG Client 6120] Generating level 1 area "1_1_1" with seed 825609856
+2022/10/16 00:01:34 103260000 f22b69a6 [INFO Client 6120] Tile hash: 4107572114
+2022/10/16 00:01:34 103260000 f22b69a7 [INFO Client 6120] Doodad hash: 816772054
+2022/10/16 00:01:38 103263765 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:01:38 103264125 cff943d8 [INFO Client 6120] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Сумрачное взморье.
+2022/10/16 00:01:38 103264125 cff943d8 [INFO Client 6120] #<++++++> Kalandra_AxillTar_LS: так с него же она не падает
+2022/10/16 00:01:38 103264125 cff943d8 [INFO Client 6120] #Малиновая_Девочка: с двух
+2022/10/16 00:01:38 103264375 cff943d8 [INFO Client 6120] #Малиновая_Девочка: 2 штуки
+2022/10/16 00:01:39 103264812 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:01:39 103264843 374e1126 [INFO Client 6120] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/16 00:01:39 103264843 374e1287 [INFO Client 6120] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/16 00:01:39 103265062 374e12ea [INFO Client 6120] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/16 00:01:39 103265062 374e0d87 [DEBUG Client 6120] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/16 00:01:39 103265062 374e0d8f [DEBUG Client 6120] [Item Filter] X-HW: 1665867881.dop041.pa1.t,1665867881.cds043.pa1.shn,1665867881.dop041.pa1.t,1665867881.cds046.pa1.c
+2022/10/16 00:01:39 103265093 78847107 [INFO Client 6120] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/16 00:06:32 103558078 cff943d8 [INFO Client 6120] : PathfinderLTi (Охотница) достигает 2 уровня
+2022/10/16 00:06:52 103578718 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:06:53 103578750 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:06:53 103578750 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 00:06:53 103578812 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 31ms
+2022/10/16 00:06:53 103578906 1186952b [DEBUG Client 6120] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 00:06:55 103581343 f22b69a6 [INFO Client 6120] Tile hash: 1809335384
+2022/10/16 00:06:55 103581343 f22b69a7 [INFO Client 6120] Doodad hash: 0
+2022/10/16 00:06:55 103581703 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:06:56 103582687 cff943d8 [INFO Client 6120] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 00:06:58 103584296 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:07:16 103601718 cff943d8 [INFO Client 6120] : Сделка совершена.
+2022/10/16 00:07:23 103609171 fb7ae604 [INFO Client 6120] Successfully allocated passive skill id: evasion731, name: Уклонение и здоровье
+2022/10/16 00:08:59 103704890 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:08:59 103704890 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:08:59 103704890 ca3a6737 [INFO Client 6120] Connecting to instance server at 159.122.142.236:6112
+2022/10/16 00:08:59 103704937 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 47ms
+2022/10/16 00:08:59 103704984 1186952b [DEBUG Client 6120] Generating level 2 area "1_1_2" with seed 3203452357
+2022/10/16 00:09:00 103706703 f22b69a6 [INFO Client 6120] Tile hash: 3705806058
+2022/10/16 00:09:00 103706703 f22b69a7 [INFO Client 6120] Doodad hash: 1728950054
+2022/10/16 00:09:02 103707953 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:09:03 103709578 cff943d8 [INFO Client 6120] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Побережье.
+2022/10/16 00:09:05 103710828 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:09:38 103744250 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:09:38 103744250 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:09:38 103744250 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 00:09:38 103744312 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 46ms
+2022/10/16 00:09:38 103744375 1186952b [DEBUG Client 6120] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 00:09:38 103744390 f22b69a6 [INFO Client 6120] Tile hash: 1809335384
+2022/10/16 00:09:38 103744390 f22b69a7 [INFO Client 6120] Doodad hash: 0
+2022/10/16 00:09:39 103744968 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:09:39 103745359 cff943d8 [INFO Client 6120] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 00:09:40 103746390 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:10:31 103797265 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:10:31 103797265 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:10:31 103797265 ca3a6737 [INFO Client 6120] Connecting to instance server at 159.122.142.236:6112
+2022/10/16 00:10:31 103797328 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 31ms
+2022/10/16 00:10:31 103797406 1186952b [DEBUG Client 6120] Generating level 2 area "1_1_2" with seed 3203452357
+2022/10/16 00:10:31 103797500 f22b69a6 [INFO Client 6120] Tile hash: 3705806058
+2022/10/16 00:10:31 103797500 f22b69a7 [INFO Client 6120] Doodad hash: 1728950054
+2022/10/16 00:10:32 103798171 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:10:32 103798546 cff943d8 [INFO Client 6120] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Побережье.
+2022/10/16 00:10:33 103799546 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:12:01 103886859 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:12:01 103886859 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:12:01 103886859 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.151:6112
+2022/10/16 00:12:01 103886921 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 47ms
+2022/10/16 00:12:01 103887000 1186952b [DEBUG Client 6120] Generating level 4 area "1_1_3" with seed 265416646
+2022/10/16 00:12:01 103887609 f22b69a6 [INFO Client 6120] Tile hash: 3626766656
+2022/10/16 00:12:01 103887609 f22b69a7 [INFO Client 6120] Doodad hash: 361525051
+2022/10/16 00:12:02 103888000 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:12:02 103888625 cff943d8 [INFO Client 6120] : <<set:FP>><<set:F>><<set:P>>Вы вошли в область Илистые низины.
+2022/10/16 00:12:03 103889437 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:12:34 103920328 cff943d8 [INFO Client 6120] : PathfinderLTi (Охотница) достигает 3 уровня
+2022/10/16 00:12:54 103939812 fb7ae604 [INFO Client 6120] Successfully allocated passive skill id: dexterity988, name: Ловкость
+2022/10/16 00:15:10 104076390 cff943d8 [INFO Client 6120] : PathfinderLTi (Охотница) достигает 4 уровня
+2022/10/16 00:15:24 104089781 fb7ae604 [INFO Client 6120] Successfully allocated passive skill id: dexterity986, name: Ловкость
+2022/10/16 00:16:15 104140796 cff943d8 [INFO Client 6120] : Не удалось применить предмет: Цель уже опознана.
+2022/10/16 00:16:48 104174687 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:16:48 104174703 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:16:48 104174703 ca3a6737 [INFO Client 6120] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 00:16:49 104174765 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 47ms
+2022/10/16 00:16:49 104174843 1186952b [DEBUG Client 6120] Generating level 5 area "1_1_4_1" with seed 3897704084
+2022/10/16 00:16:49 104175687 f22b69a6 [INFO Client 6120] Tile hash: 8077782
+2022/10/16 00:16:49 104175687 f22b69a7 [INFO Client 6120] Doodad hash: 2004085935
+2022/10/16 00:16:50 104175968 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:16:50 104176359 cff943d8 [INFO Client 6120] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сырой проход.
+2022/10/16 00:16:51 104177156 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:17:04 104189812 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:17:04 104189828 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:17:04 104189828 ca3a6737 [INFO Client 6120] Connecting to instance server at 159.122.142.236:6112
+2022/10/16 00:17:04 104189890 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 31ms
+2022/10/16 00:17:04 104189953 1186952b [DEBUG Client 6120] Generating level 2 area "1_1_2" with seed 3203452357
+2022/10/16 00:17:05 104191062 f22b69a6 [INFO Client 6120] Tile hash: 3705806058
+2022/10/16 00:17:05 104191062 f22b69a7 [INFO Client 6120] Doodad hash: 1728950054
+2022/10/16 00:17:05 104191671 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:17:06 104192046 cff943d8 [INFO Client 6120] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Побережье.
+2022/10/16 00:17:07 104193062 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:17:15 104201187 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:17:15 104201203 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:17:15 104201203 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.140:6112
+2022/10/16 00:17:15 104201265 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 31ms
+2022/10/16 00:17:15 104201328 1186952b [DEBUG Client 6120] Generating level 3 area "1_1_2a" with seed 1709413646
+2022/10/16 00:17:15 104201671 f22b69a6 [INFO Client 6120] Tile hash: 1077130400
+2022/10/16 00:17:15 104201671 f22b69a7 [INFO Client 6120] Doodad hash: 2011794418
+2022/10/16 00:17:16 104202234 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:17:16 104202593 cff943d8 [INFO Client 6120] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Прибрежный остров.
+2022/10/16 00:17:17 104203250 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:19:01 104307078 890da8d3 [INFO Client 6120] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/16 00:19:01 104307109 890d9d9b [INFO Client 6120] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/16 00:27:49 104835375 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:27:49 104835375 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:27:49 104835375 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 00:27:49 104835437 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 46ms
+2022/10/16 00:27:49 104835515 1186952b [DEBUG Client 6120] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 00:27:52 104838515 f22b69a6 [INFO Client 6120] Tile hash: 1809335384
+2022/10/16 00:27:52 104838515 f22b69a7 [INFO Client 6120] Doodad hash: 0
+2022/10/16 00:27:55 104840968 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:27:55 104841546 cff943d8 [INFO Client 6120] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 00:27:56 104842640 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:27:56 104842671 374e1126 [INFO Client 6120] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/16 00:27:56 104842671 374e1287 [INFO Client 6120] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/16 00:27:57 104842890 374e12ea [INFO Client 6120] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/16 00:27:57 104842890 374e0d87 [DEBUG Client 6120] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/16 00:27:57 104842890 374e0d8f [DEBUG Client 6120] [Item Filter] X-HW: 1665869459.dop045.pa1.t,1665869459.cds034.pa1.shn,1665869459.dop045.pa1.t,1665869459.cds046.pa1.c
+2022/10/16 00:27:57 104842921 78847107 [INFO Client 6120] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/16 00:28:09 104854937 cff943d8 [INFO Client 6120] : Не удалось применить предмет: Цель уже опознана.
+2022/10/16 00:29:08 104914359 cff943d8 [INFO Client 6120] : Сделка совершена.
+2022/10/16 00:30:57 105023343 cff943d8 [INFO Client 6120] : Не удалось применить предмет: Предмет уже располагает наибольшим количеством гнезд.
+2022/10/16 00:31:40 105066062 cff943d8 [INFO Client 6120] : Сделка совершена.
+2022/10/16 00:33:05 105151375 cff943d8 [INFO Client 6120] : Указанный предмет уничтожен
+2022/10/16 00:33:25 105171453 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:33:25 105171453 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:33:25 105171453 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 00:33:25 105171515 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 47ms
+2022/10/16 00:33:25 105171593 1186952b [DEBUG Client 6120] Generating level 5 area "1_1_4_1" with seed 1602422898
+2022/10/16 00:33:26 105172187 f22b69a6 [INFO Client 6120] Tile hash: 3515436628
+2022/10/16 00:33:26 105172187 f22b69a7 [INFO Client 6120] Doodad hash: 537088248
+2022/10/16 00:33:26 105172546 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:33:27 105172937 cff943d8 [INFO Client 6120] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сырой проход.
+2022/10/16 00:33:27 105173703 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:34:11 105217187 cff943d8 [INFO Client 6120] : PathfinderLTi (Охотница) достигает 5 уровня
+2022/10/16 00:34:24 105230671 fb7ae604 [INFO Client 6120] Successfully allocated passive skill id: dexterity984, name: Ловкость
+2022/10/16 00:34:25 105231656 cff943d8 [INFO Client 6120] : PathfinderLTi был повержен.
+2022/10/16 00:37:24 105410593 cff943d8 [INFO Client 6120] : PathfinderLTi был повержен.
+2022/10/16 00:38:09 105454843 cff943d8 [INFO Client 6120] : PathfinderLTi был повержен.
+2022/10/16 00:38:16 105462218 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:38:16 105462218 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:38:16 105462218 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 00:38:16 105462296 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 47ms
+2022/10/16 00:38:16 105462359 1186952b [DEBUG Client 6120] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 00:38:16 105462375 f22b69a6 [INFO Client 6120] Tile hash: 1809335384
+2022/10/16 00:38:16 105462375 f22b69a7 [INFO Client 6120] Doodad hash: 0
+2022/10/16 00:38:17 105463125 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:38:17 105463609 cff943d8 [INFO Client 6120] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 00:38:18 105464500 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:39:59 105565015 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:39:59 105565031 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:39:59 105565031 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.151:6112
+2022/10/16 00:39:59 105565078 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 31ms
+2022/10/16 00:39:59 105565140 1186952b [DEBUG Client 6120] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/16 00:40:00 105565734 f22b69a6 [INFO Client 6120] Tile hash: 2509555744
+2022/10/16 00:40:00 105565734 f22b69a7 [INFO Client 6120] Doodad hash: 0
+2022/10/16 00:40:00 105566593 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:40:01 105567625 cff943d8 [INFO Client 6120] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/16 00:40:04 105570203 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:40:48 105613781 cff943d8 [INFO Client 6120] : Сделка совершена.
+2022/10/16 00:41:34 105659953 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:41:34 105659953 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:41:34 105659953 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 00:41:34 105660031 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 47ms
+2022/10/16 00:41:34 105660093 1186952b [DEBUG Client 6120] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 00:41:34 105660109 f22b69a6 [INFO Client 6120] Tile hash: 1809335384
+2022/10/16 00:41:34 105660109 f22b69a7 [INFO Client 6120] Doodad hash: 0
+2022/10/16 00:41:35 105660812 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:41:35 105661343 cff943d8 [INFO Client 6120] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 00:41:36 105662640 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:44:26 105832515 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:44:26 105832515 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:44:26 105832515 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 00:44:26 105832578 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 47ms
+2022/10/16 00:44:26 105832640 1186952b [DEBUG Client 6120] Generating level 5 area "1_1_4_1" with seed 1602422898
+2022/10/16 00:44:27 105833328 f22b69a6 [INFO Client 6120] Tile hash: 3515436628
+2022/10/16 00:44:27 105833328 f22b69a7 [INFO Client 6120] Doodad hash: 537088248
+2022/10/16 00:44:27 105833718 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:44:28 105834109 cff943d8 [INFO Client 6120] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сырой проход.
+2022/10/16 00:44:29 105834843 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:45:30 105895750 cff943d8 [INFO Client 6120] : PathfinderLTi (Охотница) достигает 6 уровня
+2022/10/16 00:45:34 105899921 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:45:34 105899937 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:45:34 105899937 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.171:6112
+2022/10/16 00:45:34 105900000 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 31ms
+2022/10/16 00:45:34 105900062 1186952b [DEBUG Client 6120] Generating level 6 area "1_1_5" with seed 195380761
+2022/10/16 00:45:35 105900906 f22b69a6 [INFO Client 6120] Tile hash: 2451234876
+2022/10/16 00:45:35 105900906 f22b69a7 [INFO Client 6120] Doodad hash: 833336065
+2022/10/16 00:45:35 105901609 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:45:36 105902312 cff943d8 [INFO Client 6120] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Утёс.
+2022/10/16 00:45:37 105903125 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:45:42 105907953 fb7ae604 [INFO Client 6120] Successfully allocated passive skill id: finesse993, name: Изящество
+2022/10/16 00:47:14 106000609 cff943d8 [INFO Client 6120] : PathfinderLTi (Охотница) достигает 7 уровня
+2022/10/16 00:47:20 106006562 fb7ae604 [INFO Client 6120] Successfully allocated passive skill id: stun_recovery543, name: Здоровье и избегание оглушения
+2022/10/16 00:49:40 106146406 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:49:40 106146406 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:49:40 106146406 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 00:49:40 106146468 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 31ms
+2022/10/16 00:49:40 106146546 1186952b [DEBUG Client 6120] Generating level 7 area "1_1_6" with seed 2080534573
+2022/10/16 00:49:41 106147296 f22b69a6 [INFO Client 6120] Tile hash: 2486395512
+2022/10/16 00:49:41 106147296 f22b69a7 [INFO Client 6120] Doodad hash: 795662787
+2022/10/16 00:49:41 106147718 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:49:42 106148125 cff943d8 [INFO Client 6120] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Склон.
+2022/10/16 00:49:43 106148796 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:50:08 106174187 cff943d8 [INFO Client 6120] : PathfinderLTi (Охотница) достигает 8 уровня
+2022/10/16 00:52:30 106316140 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:52:30 106316140 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:52:30 106316140 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 00:52:30 106316203 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 47ms
+2022/10/16 00:52:30 106316281 1186952b [DEBUG Client 6120] Generating level 8 area "1_1_7_1" with seed 822387265
+2022/10/16 00:52:31 106317203 f22b69a6 [INFO Client 6120] Tile hash: 732690112
+2022/10/16 00:52:31 106317203 f22b69a7 [INFO Client 6120] Doodad hash: 883336410
+2022/10/16 00:52:31 106317687 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:52:32 106318125 cff943d8 [INFO Client 6120] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремное подземелье.
+2022/10/16 00:52:33 106318796 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:52:35 106321031 fb7ae604 [INFO Client 6120] Successfully allocated passive skill id: avoid_stun553, name: Сердце дуба
+2022/10/16 00:53:07 106353281 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:53:07 106353281 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:53:07 106353281 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 00:53:07 106353343 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 31ms
+2022/10/16 00:53:07 106353406 1186952b [DEBUG Client 6120] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 00:53:10 106355828 f22b69a6 [INFO Client 6120] Tile hash: 1809335384
+2022/10/16 00:53:10 106355828 f22b69a7 [INFO Client 6120] Doodad hash: 0
+2022/10/16 00:53:10 106356250 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:53:11 106356937 cff943d8 [INFO Client 6120] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 00:53:12 106357843 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:54:11 106416750 cff943d8 [INFO Client 6120] : Сделка совершена.
+2022/10/16 00:56:11 106537718 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 00:56:12 106537734 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 00:56:12 106537734 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 00:56:12 106537781 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 31ms
+2022/10/16 00:56:12 106537859 1186952b [DEBUG Client 6120] Generating level 8 area "1_1_7_1" with seed 822387265
+2022/10/16 00:56:12 106537906 f22b69a6 [INFO Client 6120] Tile hash: 732690112
+2022/10/16 00:56:12 106537906 f22b69a7 [INFO Client 6120] Doodad hash: 883336410
+2022/10/16 00:56:13 106538718 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 00:56:13 106539125 cff943d8 [INFO Client 6120] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремное подземелье.
+2022/10/16 00:56:14 106539781 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 00:58:43 106688750 cff943d8 [INFO Client 6120] : PathfinderLTi (Охотница) достигает 9 уровня
+2022/10/16 00:58:47 106693296 fb7ae604 [INFO Client 6120] Successfully allocated passive skill id: mana551, name: Мана и получение зарядов флакона
+2022/10/16 01:00:48 106813796 88a90480 [DEBUG Client 6120] Got Instance Details from login server
+2022/10/16 01:00:48 106813796 32759a9f [INFO Client 6120] [SHADER] Delay: OFF
+2022/10/16 01:00:48 106813796 ca3a6737 [INFO Client 6120] Connecting to instance server at 169.51.201.167:6112
+2022/10/16 01:00:48 106813859 ca3a4d51 [DEBUG Client 6120] Connect time to instance server was 47ms
+2022/10/16 01:00:48 106813937 1186952b [DEBUG Client 6120] Generating level 9 area "1_1_7_2" with seed 74253338
+2022/10/16 01:00:49 106815171 f22b69a6 [INFO Client 6120] Tile hash: 1139908572
+2022/10/16 01:00:49 106815171 f22b69a7 [INFO Client 6120] Doodad hash: 1449115094
+2022/10/16 01:00:50 106815781 11871c61 [DEBUG Client 6120] Joined guild named Chevaleki with 2 members 
+2022/10/16 01:00:50 106816453 cff943d8 [INFO Client 6120] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремные помещения.
+2022/10/16 01:00:51 106817562 32759a9f [INFO Client 6120] [SHADER] Delay: ON
+2022/10/16 01:33:38 ***** LOG FILE OPENING *****
+2022/10/16 01:33:38 108784312 f954428c [INFO Client 8712] [STARTUP] Job Queues
+2022/10/16 01:33:38 108784375 9e6a0b0a [INFO Client 8712] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/16 01:33:39 108785000 9e6a1d2a [INFO Client 8712] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 01:33:39 108785000 9e6a1363 [INFO Client 8712] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/16 01:33:39 108785015 9e6a0b0a [INFO Client 8712] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/16 01:33:39 108785078 9e6a1d2a [INFO Client 8712] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 01:33:39 108785078 84a7d27d [INFO Client 8712] [ENGINE] Init
+2022/10/16 01:33:39 108785078 55713145 [INFO Client 8712] [JOB] HIGH: 2
+2022/10/16 01:33:39 108785078 55713145 [INFO Client 8712] [JOB] MEDIUM: 2
+2022/10/16 01:33:39 108785078 55713145 [INFO Client 8712] [JOB] LOW: 2
+2022/10/16 01:33:39 108785078 55713145 [INFO Client 8712] [JOB] IDLE: 1
+2022/10/16 01:33:39 108785078 7bb548f [INFO Client 8712] [BUNDLE2] Init
+2022/10/16 01:33:39 108785078 7bb36c4 [INFO Client 8712] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/16 01:33:40 108786000 7bb61e6 [INFO Client 8712] [BUNDLE2] File cache size: 1024
+2022/10/16 01:33:40 108786015 b51d61ab [INFO Client 8712] [RENDER] Async: ON
+2022/10/16 01:33:40 108786015 b51d60c8 [INFO Client 8712] [RENDER] Warmup: ON
+2022/10/16 01:33:40 108786015 b51d60ce [INFO Client 8712] [RENDER] Skip: ON
+2022/10/16 01:33:40 108786015 b51d60eb [INFO Client 8712] [RENDER] Throttling: ON
+2022/10/16 01:33:40 108786015 32759a7a [INFO Client 8712] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/16 01:33:40 108786015 32759a70 [INFO Client 8712] [SHADER] Async: ON
+2022/10/16 01:33:40 108786015 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 01:33:40 108786015 32759aba [INFO Client 8712] [SHADER] Limit: ON
+2022/10/16 01:33:40 108786015 32759abc [INFO Client 8712] [SHADER] Warmup: ON
+2022/10/16 01:33:40 108786015 327599d7 [INFO Client 8712] [SHADER] Parallel: OFF
+2022/10/16 01:33:40 108786015 84a7e376 [INFO Client 8712] [ENGINE] Running Engine version 1.6.0
+2022/10/16 01:33:40 108786046 47bbd159 [INFO Client 8712] [SOUND] Buffer size = 64.0 MB
+2022/10/16 01:33:40 108786359 9b0d205 [INFO Client 8712] [VIDEO] Enable: ON
+2022/10/16 01:33:40 108786453 84a7d2d8 [INFO Client 8712] [ENGINE] Ready
+2022/10/16 01:33:40 108786546 951bc0b0 [INFO Client 8712] [STARTUP] Bundle Startup Start
+2022/10/16 01:33:40 108786546 951bc057 [INFO Client 8712] [STARTUP] Bundle Startup in 0.006845 seconds
+2022/10/16 01:33:40 108786546 951bc0b0 [INFO Client 8712] [STARTUP] Game Start
+2022/10/16 01:33:41 108787343 ca86fd3f [DEBUG Client 8712] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/16 01:33:42 108788421 951bc057 [INFO Client 8712] [STARTUP] Game in 1.87054 seconds
+2022/10/16 01:33:42 108788421 951bc0b0 [INFO Client 8712] [STARTUP] Window Start
+2022/10/16 01:33:42 108788421 9e6a0b0a [INFO Client 8712] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/16 01:33:42 108788578 9e6a1d2a [INFO Client 8712] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 01:33:42 108788578 9e6a1363 [INFO Client 8712] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/16 01:33:42 108788578 9e6a0b0a [INFO Client 8712] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/16 01:33:42 108788593 9e6a1d2a [INFO Client 8712] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 01:33:42 108788640 951bc057 [INFO Client 8712] [STARTUP] Window in 0.224039 seconds
+2022/10/16 01:33:42 108788671 413b61ff [DEBUG Client 8712] [GamepadManager] Initialising
+2022/10/16 01:33:42 108788671 951bc0b0 [INFO Client 8712] [STARTUP] Device Start
+2022/10/16 01:33:42 108788671 b51d6589 [INFO Client 8712] [RENDER] StartDevice: DirectX11
+2022/10/16 01:33:43 108789078 71b3b00 [DEBUG Client 8712] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/16 01:33:43 108789078 97ce04a4 [WARN Client 8712] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/16 01:33:43 108789218 fafff8cf [DEBUG Client 8712] CreateSwapChain: SetFullScreenState 0
+2022/10/16 01:33:43 108789218 29d4ce01 [INFO Client 8712] [D3D11] Runtime version = 11.1
+2022/10/16 01:33:43 108789218 29d4ce00 [INFO Client 8712] [D3D11] Feature Level = 11.1
+2022/10/16 01:33:43 108789218 29d4ce03 [INFO Client 8712] [D3D11] Driver Command Lists = NO
+2022/10/16 01:33:43 108789218 29d4ce02 [INFO Client 8712] [D3D11] Driver Concurrent Creates = YES
+2022/10/16 01:33:43 108789218 29d4ce05 [INFO Client 8712] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/16 01:33:43 108789390 9d4eeb40 [DEBUG Client 8712] [WINDOW] TrigggerDeviceCreate
+2022/10/16 01:33:44 108789765 9d4eeba7 [DEBUG Client 8712] [WINDOW] TrigggerDeviceReset
+2022/10/16 01:33:44 108789796 9d4eec8a [DEBUG Client 8712] [WINDOW] TrigggerDeviceLost
+2022/10/16 01:33:44 108789796 9d4eeba7 [DEBUG Client 8712] [WINDOW] TrigggerDeviceReset
+2022/10/16 01:33:44 108789812 951bc057 [INFO Client 8712] [STARTUP] Device in 1.14376 seconds
+2022/10/16 01:33:44 108789812 951bc0b0 [INFO Client 8712] [STARTUP] Tencent Start
+2022/10/16 01:33:44 108789812 951bc057 [INFO Client 8712] [STARTUP] Tencent in 0.000108 seconds
+2022/10/16 01:33:44 108789812 951bc0b0 [INFO Client 8712] [STARTUP] Loading Start
+2022/10/16 01:33:44 108789843 951bc057 [INFO Client 8712] [STARTUP] Loading in 0.030275 seconds
+2022/10/16 01:33:44 108789843 951bc0b0 [INFO Client 8712] [STARTUP] DebugGUI Start
+2022/10/16 01:33:44 108789843 951bc057 [INFO Client 8712] [STARTUP] DebugGUI in 2.1e-05 seconds
+2022/10/16 01:33:44 108789843 951bc0b0 [INFO Client 8712] [STARTUP] Bundle Tiny Start
+2022/10/16 01:33:44 108789843 951bc0b0 [INFO Client 8712] [STARTUP] Bundle Login Start
+2022/10/16 01:33:44 108789843 951bc057 [INFO Client 8712] [STARTUP] Bundle Login in 4.8e-05 seconds
+2022/10/16 01:33:44 108789843 951bc0b0 [INFO Client 8712] [STARTUP] Registration Start
+2022/10/16 01:33:44 108789843 951bc057 [INFO Client 8712] [STARTUP] Bundle Tiny in 0.000113 seconds
+2022/10/16 01:33:44 108789906 951bc0b0 [INFO Client 8712] [STARTUP] Audio Start
+2022/10/16 01:33:44 108789906 47bbee18 [INFO Client 8712] [SOUND] Channel count = 128 (asked for 128)
+2022/10/16 01:33:44 108789906 47bbee19 [INFO Client 8712] [SOUND] Source count = 512
+2022/10/16 01:33:44 108790125 47bbea58 [INFO Client 8712] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/16 01:33:44 108790140 951bc057 [INFO Client 8712] [STARTUP] Audio in 0.228456 seconds
+2022/10/16 01:33:44 108790546 951bc057 [INFO Client 8712] [STARTUP] Registration in 0.700593 seconds
+2022/10/16 01:33:56 108802531 890da8d3 [INFO Client 8712] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/16 01:33:56 108802609 890d9d9b [INFO Client 8712] Connected to mil01.login.pathofexile.com in 63ms.
+2022/10/16 01:34:04 108810546 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 01:34:04 108810578 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 01:34:04 108810578 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 01:34:04 108810687 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 01:34:05 108810796 1186952b [DEBUG Client 8712] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 01:34:08 108814406 f22b69a6 [INFO Client 8712] Tile hash: 1809335384
+2022/10/16 01:34:08 108814406 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 01:34:16 108821968 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 01:34:17 108822984 cff943d8 [INFO Client 8712] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 01:34:21 108826781 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 01:34:21 108826890 374e1126 [INFO Client 8712] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/16 01:34:21 108826890 374e1287 [INFO Client 8712] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/16 01:34:21 108827218 374e12ea [INFO Client 8712] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/16 01:34:21 108827218 374e0d87 [DEBUG Client 8712] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/16 01:34:21 108827218 374e0d8f [DEBUG Client 8712] [Item Filter] X-HW: 1665873443.dop201.pa1.t,1665873443.cds233.pa1.shn,1665873443.dop201.pa1.t,1665873443.cds046.pa1.c
+2022/10/16 01:34:21 108827250 78847107 [INFO Client 8712] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/16 01:34:21 108827250 2a14a9a7 [INFO Client 8712] PrecalcBaseTypeHashMap
+2022/10/16 01:34:21 108827390 2a14a9a1 [INFO Client 8712] PrecalcModNameHashMap
+2022/10/16 01:34:24 108829828 2a14a9a3 [INFO Client 8712] PrecalcItemClassMap
+2022/10/16 01:34:24 108829828 2a14a9ad [INFO Client 8712] PrecalcSoundEffects
+2022/10/16 01:34:24 108829828 2a14a902 [INFO Client 8712] PrecalcDropEffects
+2022/10/16 01:34:24 108829828 2a14a900 [INFO Client 8712] PrecalcNonEnchantModHashes
+2022/10/16 01:34:24 108829828 2a14a906 [INFO Client 8712] PrecalcRuleNameToTypeMap
+2022/10/16 01:34:24 108829828 2a14a904 [INFO Client 8712] PrecalcCJESPNIndexMap
+2022/10/16 01:34:24 108829843 2a14a90a [INFO Client 8712] PrecalcGemAlternateQualityMap
+2022/10/16 01:35:15 108880890 cff943d8 [INFO Client 8712] : Сделка совершена.
+2022/10/16 01:39:49 109154953 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 01:39:49 109154984 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 01:39:49 109154984 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 01:39:49 109155078 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 01:39:49 109155140 1186952b [DEBUG Client 8712] Generating level 8 area "1_1_7_1" with seed 672672612
+2022/10/16 01:39:50 109156281 f22b69a6 [INFO Client 8712] Tile hash: 2032966622
+2022/10/16 01:39:50 109156281 f22b69a7 [INFO Client 8712] Doodad hash: 2037475139
+2022/10/16 01:39:51 109156890 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 01:39:51 109157406 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремное подземелье.
+2022/10/16 01:39:52 109158281 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 01:40:04 109169984 cff943d8 [INFO Client 8712] : PathfinderLTi (Охотница) достигает 10 уровня
+2022/10/16 01:41:12 109237875 fb7ae604 [INFO Client 8712] Successfully allocated passive skill id: mana_flasks_notable1699, name: Обряд друидов
+2022/10/16 01:42:25 109310781 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 01:42:25 109310781 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 01:42:25 109310781 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 01:42:25 109310843 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 01:42:25 109310906 1186952b [DEBUG Client 8712] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 01:42:25 109310921 f22b69a6 [INFO Client 8712] Tile hash: 1809335384
+2022/10/16 01:42:25 109310921 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 01:42:25 109311437 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 01:42:26 109312046 cff943d8 [INFO Client 8712] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 01:42:27 109313203 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 01:43:08 109354156 cff943d8 [INFO Client 8712] : Указанный предмет уничтожен
+2022/10/16 01:44:52 109458265 cff943d8 [INFO Client 8712] : Указанный предмет уничтожен
+2022/10/16 01:45:05 109470953 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 01:45:05 109470953 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 01:45:05 109470953 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 01:45:05 109471015 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 01:45:05 109471078 1186952b [DEBUG Client 8712] Generating level 8 area "1_1_7_1" with seed 672672612
+2022/10/16 01:45:05 109471140 f22b69a6 [INFO Client 8712] Tile hash: 2032966622
+2022/10/16 01:45:05 109471140 f22b69a7 [INFO Client 8712] Doodad hash: 2037475139
+2022/10/16 01:45:05 109471687 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 01:45:06 109472156 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремное подземелье.
+2022/10/16 01:45:07 109472828 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 01:45:09 109475375 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 01:45:09 109475390 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 01:45:09 109475390 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 01:45:09 109475453 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 01:45:09 109475515 1186952b [DEBUG Client 8712] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 01:45:09 109475515 f22b69a6 [INFO Client 8712] Tile hash: 1809335384
+2022/10/16 01:45:09 109475515 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 01:45:10 109476156 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 01:45:10 109476593 cff943d8 [INFO Client 8712] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 01:45:11 109477515 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 01:45:15 109481234 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 01:45:15 109481250 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 01:45:15 109481250 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 01:45:15 109481312 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 01:45:15 109481375 1186952b [DEBUG Client 8712] Generating level 8 area "1_1_7_1" with seed 672672612
+2022/10/16 01:45:15 109481421 f22b69a6 [INFO Client 8712] Tile hash: 2032966622
+2022/10/16 01:45:15 109481421 f22b69a7 [INFO Client 8712] Doodad hash: 2037475139
+2022/10/16 01:45:16 109481937 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 01:45:16 109482343 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремное подземелье.
+2022/10/16 01:45:17 109483062 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 01:46:35 109560828 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 01:46:35 109560828 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 01:46:35 109560828 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.138:6112
+2022/10/16 01:46:35 109560906 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 01:46:35 109560984 1186952b [DEBUG Client 8712] Generating level 9 area "1_1_7_2" with seed 1220441659
+2022/10/16 01:46:36 109562078 f22b69a6 [INFO Client 8712] Tile hash: 1057858578
+2022/10/16 01:46:36 109562078 f22b69a7 [INFO Client 8712] Doodad hash: 2893626036
+2022/10/16 01:46:37 109562781 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 01:46:37 109563468 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремные помещения.
+2022/10/16 01:46:38 109564312 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 01:48:17 109663609 cff943d8 [INFO Client 8712] : PathfinderLTi (Охотница) достигает 11 уровня
+2022/10/16 01:48:27 109672859 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 01:48:27 109672875 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 01:48:27 109672875 ca3a6737 [INFO Client 8712] Connecting to instance server at 159.122.142.236:6112
+2022/10/16 01:48:27 109672937 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 01:48:27 109673031 1186952b [DEBUG Client 8712] Generating level 9 area "LakePrototype" with seed 1450307042
+2022/10/16 01:48:30 109676000 f22b69a6 [INFO Client 8712] Tile hash: 871488378
+2022/10/16 01:48:30 109676000 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 01:48:30 109676546 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 01:48:31 109677531 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Озеро Каландры.
+2022/10/16 01:48:34 109680093 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 01:48:40 109686234 fb7ae604 [INFO Client 8712] Successfully allocated passive skill id: mana552, name: Мана и получение зарядов флакона
+2022/10/16 01:51:49 109875015 3797020c [WARN Client 8712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2022/10/16 01:51:49 109875015 3796fa48 [WARN Client 8712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32777
+action_id: 36366
+object_id: 2091
+target_id: 2086
+flags: 257
+2022/10/16 01:51:53 109879562 3797020c [WARN Client 8712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2022/10/16 01:51:53 109879562 3796fa48 [WARN Client 8712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32777
+action_id: 36413
+object_id: 2091
+target_id: 2041
+flags: 257
+2022/10/16 01:55:24 110090671 cff943d8 [INFO Client 8712] : PathfinderLTi (Охотница) достигает 12 уровня
+2022/10/16 01:55:42 110108671 fb7ae604 [INFO Client 8712] Successfully allocated passive skill id: reduced_mana1480, name: Мана и эффект флакона
+2022/10/16 01:58:35 110281218 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 01:58:35 110281234 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 01:58:35 110281234 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.138:6112
+2022/10/16 01:58:35 110281281 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 01:58:35 110281359 1186952b [DEBUG Client 8712] Generating level 9 area "1_1_7_2" with seed 1220441659
+2022/10/16 01:58:35 110281453 f22b69a6 [INFO Client 8712] Tile hash: 1057858578
+2022/10/16 01:58:35 110281453 f22b69a7 [INFO Client 8712] Doodad hash: 2893626036
+2022/10/16 01:58:36 110282437 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 01:58:37 110283046 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремные помещения.
+2022/10/16 01:58:38 110284062 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 01:59:48 110354078 3797020c [WARN Client 8712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2022/10/16 01:59:48 110354078 3796fa48 [WARN Client 8712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32777
+action_id: 34545
+object_id: 930
+target_id: 1085
+flags: 257
+2022/10/16 02:00:10 110375718 cff943d8 [INFO Client 8712] : Сундук заперт
+2022/10/16 02:01:51 110476953 cff943d8 [INFO Client 8712] Вера: Ты так в себе уверена, охотница. Спеши, впереди тебя ждёт смотритель. Он любит самоуверенных.
+2022/10/16 02:02:21 110507234 cff943d8 [INFO Client 8712] Изувер, старший смотритель: Вход без спроса — преступление. И наказание за него — смерть!
+2022/10/16 02:03:53 110598875 cff943d8 [INFO Client 8712] : PathfinderLTi (Охотница) достигает 13 уровня
+2022/10/16 02:04:20 110626421 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:04:20 110626421 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:04:20 110626421 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.167:6112
+2022/10/16 02:04:20 110626500 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 02:04:20 110626578 1186952b [DEBUG Client 8712] Generating level 10 area "1_1_8" with seed 1914447830
+2022/10/16 02:04:22 110627859 f22b69a6 [INFO Client 8712] Tile hash: 787269312
+2022/10/16 02:04:22 110627859 f22b69a7 [INFO Client 8712] Doodad hash: 1900858797
+2022/10/16 02:04:22 110628453 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:04:23 110629031 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Врата заключённых.
+2022/10/16 02:04:24 110630281 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:04:27 110632937 fb7ae604 [INFO Client 8712] Successfully allocated passive skill id: mana1478, name: Первобытный дух
+2022/10/16 02:04:34 110640328 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:04:34 110640328 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:04:34 110640328 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 02:04:34 110640406 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 02:04:34 110640500 1186952b [DEBUG Client 8712] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 02:04:37 110643015 f22b69a6 [INFO Client 8712] Tile hash: 1809335384
+2022/10/16 02:04:37 110643015 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 02:04:37 110643453 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:04:38 110644578 cff943d8 [INFO Client 8712] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 02:04:40 110645984 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:05:18 110684265 cff943d8 [INFO Client 8712] : Сделка совершена.
+2022/10/16 02:08:07 110852953 cff943d8 [INFO Client 8712] : Сделка совершена.
+2022/10/16 02:08:28 110874687 cff943d8 [INFO Client 8712] : Указанный предмет уничтожен
+2022/10/16 02:09:43 110949687 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:09:43 110949687 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:09:43 110949687 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.167:6112
+2022/10/16 02:09:44 110949750 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 02:09:44 110949812 1186952b [DEBUG Client 8712] Generating level 10 area "1_1_8" with seed 1914447830
+2022/10/16 02:09:44 110949906 f22b69a6 [INFO Client 8712] Tile hash: 787269312
+2022/10/16 02:09:44 110949906 f22b69a7 [INFO Client 8712] Doodad hash: 1900858797
+2022/10/16 02:09:44 110950437 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:09:45 110950890 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Врата заключённых.
+2022/10/16 02:09:46 110951734 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:11:30 111056265 cff943d8 [INFO Client 8712] Вера: Высокомерная охотница, попробуй отыщи другой путь!
+2022/10/16 02:12:00 111085796 3797020c [WARN Client 8712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2022/10/16 02:12:00 111085796 3796fa48 [WARN Client 8712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32777
+action_id: 34412
+object_id: 445
+target_id: 385
+flags: 257
+2022/10/16 02:15:39 111305015 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:15:39 111305015 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:15:39 111305015 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 02:15:39 111305062 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 02:15:39 111305109 1186952b [DEBUG Client 8712] Generating level 11 area "1_1_9" with seed 385000401
+2022/10/16 02:15:40 111306437 f22b69a6 [INFO Client 8712] Tile hash: 730752902
+2022/10/16 02:15:40 111306437 f22b69a7 [INFO Client 8712] Doodad hash: 114913004
+2022/10/16 02:15:41 111307031 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:15:41 111307515 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кладбище кораблей.
+2022/10/16 02:15:42 111308640 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:15:58 111323890 cff943d8 [INFO Client 8712] : PathfinderLTi (Охотница) достигает 14 уровня
+2022/10/16 02:16:09 111334812 cff943d8 [INFO Client 8712] : Смерть не ждет
+2022/10/16 02:16:24 111350140 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:16:24 111350140 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:16:24 111350140 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.138:6112
+2022/10/16 02:16:24 111350218 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 02:16:24 111350281 1186952b [DEBUG Client 8712] Generating level 12 area "1_1_9a" with seed 3978185903
+2022/10/16 02:16:25 111350796 f22b69a6 [INFO Client 8712] Tile hash: 227339950
+2022/10/16 02:16:25 111350796 f22b69a7 [INFO Client 8712] Doodad hash: 4157418834
+2022/10/16 02:16:25 111351125 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:16:25 111351593 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Грот погибших кораблей.
+2022/10/16 02:16:26 111352609 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:18:33 111479234 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:18:33 111479234 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:18:33 111479234 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 02:18:33 111479296 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 02:18:33 111479375 1186952b [DEBUG Client 8712] Generating level 11 area "1_1_9" with seed 385000401
+2022/10/16 02:18:33 111479468 f22b69a6 [INFO Client 8712] Tile hash: 730752902
+2022/10/16 02:18:33 111479468 f22b69a7 [INFO Client 8712] Doodad hash: 114913004
+2022/10/16 02:18:34 111480328 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:18:35 111480781 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кладбище кораблей.
+2022/10/16 02:18:35 111481640 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:21:55 111680828 fb7ae604 [INFO Client 8712] Successfully allocated passive skill id: dexterity985, name: Ловкость
+2022/10/16 02:23:08 111754421 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:23:08 111754421 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:23:08 111754421 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.167:6112
+2022/10/16 02:23:08 111754484 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 02:23:08 111754531 1186952b [DEBUG Client 8712] Generating level 12 area "1_1_11_1" with seed 1632719109
+2022/10/16 02:23:09 111755656 f22b69a6 [INFO Client 8712] Tile hash: 2322328956
+2022/10/16 02:23:09 111755656 f22b69a7 [INFO Client 8712] Doodad hash: 4079385684
+2022/10/16 02:23:10 111756046 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:23:10 111756437 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пещера гнева.
+2022/10/16 02:23:11 111757234 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:23:19 111764953 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:23:19 111764968 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:23:19 111764968 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 02:23:19 111765031 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 32ms
+2022/10/16 02:23:19 111765125 1186952b [DEBUG Client 8712] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 02:23:21 111766984 f22b69a6 [INFO Client 8712] Tile hash: 1809335384
+2022/10/16 02:23:21 111766984 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 02:23:21 111767250 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:23:22 111768546 cff943d8 [INFO Client 8712] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 02:23:24 111769890 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:24:18 111823890 cff943d8 [INFO Client 8712] : Сделка совершена.
+2022/10/16 02:25:48 111914593 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:25:48 111914593 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:25:48 111914593 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.167:6112
+2022/10/16 02:25:48 111914703 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 02:25:49 111914765 1186952b [DEBUG Client 8712] Generating level 12 area "1_1_11_1" with seed 1632719109
+2022/10/16 02:25:49 111914843 f22b69a6 [INFO Client 8712] Tile hash: 2322328956
+2022/10/16 02:25:49 111914843 f22b69a7 [INFO Client 8712] Doodad hash: 4079385684
+2022/10/16 02:25:49 111915421 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:25:50 111915875 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пещера гнева.
+2022/10/16 02:25:50 111916593 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:25:52 111918640 cff943d8 [INFO Client 8712] Мервейл: Я отдала своё сердце… поверив его лжи… я отдала свою любовь.
+2022/10/16 02:25:57 111923640 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:25:57 111923640 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:25:57 111923640 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 02:25:57 111923703 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 02:25:58 111923765 1186952b [DEBUG Client 8712] Generating level 11 area "1_1_9" with seed 3356302271
+2022/10/16 02:25:59 111925109 f22b69a6 [INFO Client 8712] Tile hash: 1687942716
+2022/10/16 02:25:59 111925109 f22b69a7 [INFO Client 8712] Doodad hash: 2152487263
+2022/10/16 02:26:00 111925796 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:26:00 111926312 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кладбище кораблей.
+2022/10/16 02:26:01 111927171 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:28:06 112052453 cff943d8 [INFO Client 8712] : PathfinderLTi (Охотница) достигает 15 уровня
+2022/10/16 02:28:10 112056390 fb7ae604 [INFO Client 8712] Successfully allocated passive skill id: claw_attack_speed1813, name: Когти: урон от состояний и шанс отравить
+2022/10/16 02:29:31 112136906 cff943d8 [INFO Client 8712] Капитан Фейргрейвс: Прошу тебя, войди в мое положение. Как человеку чести, мне сейчас хуже, чем тебе. Мое сердце обливается кровью. И уверен, что в схожих обстоятельствах ты сделаешь то же самое.
+2022/10/16 02:30:49 112214968 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:30:49 112214968 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:30:49 112214968 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.142:6112
+2022/10/16 02:30:49 112215046 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 32ms
+2022/10/16 02:30:49 112215125 1186952b [DEBUG Client 8712] Generating level 13 area "1_1_town" with seed 1
+2022/10/16 02:30:51 112216843 f22b69a6 [INFO Client 8712] Tile hash: 1809335384
+2022/10/16 02:30:51 112216843 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 02:30:51 112217093 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:30:52 112217781 cff943d8 [INFO Client 8712] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/16 02:30:53 112218718 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:31:11 112237156 cff943d8 [INFO Client 8712] : Сделка совершена.
+2022/10/16 02:32:40 112326703 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:32:41 112326734 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:32:41 112326734 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.138:6112
+2022/10/16 02:32:41 112326781 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 02:32:41 112326859 1186952b [DEBUG Client 8712] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/16 02:32:41 112327390 f22b69a6 [INFO Client 8712] Tile hash: 2509555744
+2022/10/16 02:32:41 112327390 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 02:32:42 112328046 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:32:43 112329000 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/16 02:32:44 112330234 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:34:34 112440031 cff943d8 [INFO Client 8712] : Не удалось применить предмет: В предмете нет гнезд.
+2022/10/16 02:35:37 112503390 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:35:37 112503406 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:35:37 112503406 ca3a6737 [INFO Client 8712] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 02:35:37 112503468 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 02:35:37 112503531 1186952b [DEBUG Client 8712] Generating level 12 area "1_1_11_1" with seed 1997399800
+2022/10/16 02:35:39 112504812 f22b69a6 [INFO Client 8712] Tile hash: 2823178016
+2022/10/16 02:35:39 112504812 f22b69a7 [INFO Client 8712] Doodad hash: 4070357141
+2022/10/16 02:35:39 112505203 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:35:40 112506234 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пещера гнева.
+2022/10/16 02:35:41 112507062 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:35:47 112513375 cff943d8 [INFO Client 8712] Мервейл: Я отдала своё сердце… поверив его лжи… я отдала свою любовь.
+2022/10/16 02:53:29 113575406 cff943d8 [INFO Client 8712] Мервейл: Мне так холодно и одиноко. Обними меня.
+2022/10/16 02:54:20 113626453 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:54:20 113626468 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:54:20 113626468 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.171:6112
+2022/10/16 02:54:20 113626531 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 02:54:20 113626593 1186952b [DEBUG Client 8712] Generating level 13 area "1_1_11_2" with seed 3119175788
+2022/10/16 02:54:21 113627062 f22b69a6 [INFO Client 8712] Tile hash: 4127450938
+2022/10/16 02:54:21 113627062 f22b69a7 [INFO Client 8712] Doodad hash: 1507048686
+2022/10/16 02:54:21 113627500 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:54:22 113627890 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пещера злобы.
+2022/10/16 02:54:22 113628562 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:54:23 113629328 cff943d8 [INFO Client 8712] Мервейл: Я жду его… Дарессо. Я жду, как хорошая жена.
+2022/10/16 02:56:00 113726687 cff943d8 [INFO Client 8712] Мервейл: Наконец-то. Мне столько нужно тебе рассказать.
+2022/10/16 02:56:41 113767406 cff943d8 [INFO Client 8712] Мервейл: Это истинное лицо любви.
+2022/10/16 02:58:14 113860656 bce2d691 [INFO Client 8712] Steam stats stored
+2022/10/16 02:58:27 113873671 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:58:27 113873703 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:58:27 113873703 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.138:6112
+2022/10/16 02:58:28 113873781 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 02:58:28 113873859 1186952b [DEBUG Client 8712] Generating level 13 area "1_2_1" with seed 2081402490
+2022/10/16 02:58:29 113874906 f22b69a6 [INFO Client 8712] Tile hash: 3020238508
+2022/10/16 02:58:29 113874906 f22b69a7 [INFO Client 8712] Doodad hash: 844804476
+2022/10/16 02:58:29 113875468 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:58:30 113875906 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Южный лес.
+2022/10/16 02:58:31 113876812 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 02:59:02 113908406 cff943d8 [INFO Client 8712] : PathfinderLTi (Охотница) достигает 16 уровня
+2022/10/16 02:59:10 113916000 fb7ae604 [INFO Client 8712] Successfully allocated passive skill id: dexterity870, name: Ловкость
+2022/10/16 02:59:45 113951687 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 02:59:45 113951687 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 02:59:45 113951687 ca3a6737 [INFO Client 8712] Connecting to instance server at 159.122.142.253:6112
+2022/10/16 02:59:46 113951750 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 02:59:46 113951843 1186952b [DEBUG Client 8712] Generating level 23 area "1_2_town" with seed 1
+2022/10/16 02:59:48 113954531 f22b69a6 [INFO Client 8712] Tile hash: 3956941390
+2022/10/16 02:59:48 113954531 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 02:59:49 113955281 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 02:59:50 113956046 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лесной лагерь.
+2022/10/16 02:59:51 113956968 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 03:00:41 114007390 cff943d8 [INFO Client 8712] : Сделка совершена.
+2022/10/16 03:01:33 114059343 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 03:01:33 114059343 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 03:01:33 114059343 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.167:6112
+2022/10/16 03:01:33 114059406 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 03:01:33 114059484 1186952b [DEBUG Client 8712] Generating level 14 area "1_2_2" with seed 3685944186
+2022/10/16 03:01:34 114060484 f22b69a6 [INFO Client 8712] Tile hash: 3028406952
+2022/10/16 03:01:34 114060484 f22b69a7 [INFO Client 8712] Doodad hash: 4009118896
+2022/10/16 03:01:35 114060843 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 03:01:35 114061296 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Старые поля.
+2022/10/16 03:01:36 114062265 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 03:03:14 114159843 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 03:03:14 114159843 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 03:03:14 114159843 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 03:03:14 114159906 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 32ms
+2022/10/16 03:03:14 114159984 1186952b [DEBUG Client 8712] Generating level 15 area "1_2_3" with seed 2969918928
+2022/10/16 03:03:15 114161093 f22b69a6 [INFO Client 8712] Tile hash: 1757422750
+2022/10/16 03:03:15 114161093 f22b69a7 [INFO Client 8712] Doodad hash: 3354890307
+2022/10/16 03:03:15 114161718 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 03:03:16 114162218 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Перекрёсток.
+2022/10/16 03:03:17 114163093 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 03:04:39 114244812 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 03:04:39 114244828 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 03:04:39 114244828 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.151:6112
+2022/10/16 03:04:39 114244875 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 03:04:39 114244953 1186952b [DEBUG Client 8712] Generating level 15 area "1_2_6_1" with seed 4083331097
+2022/10/16 03:04:40 114245828 f22b69a6 [INFO Client 8712] Tile hash: 1480870524
+2022/10/16 03:04:40 114245828 f22b69a7 [INFO Client 8712] Doodad hash: 1250945174
+2022/10/16 03:04:40 114246125 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 03:04:40 114246531 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 1.
+2022/10/16 03:04:41 114247203 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 03:05:36 114301796 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 03:05:36 114301796 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 03:05:36 114301796 ca3a6737 [INFO Client 8712] Connecting to instance server at 159.122.142.253:6112
+2022/10/16 03:05:36 114301859 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 03:05:36 114301937 1186952b [DEBUG Client 8712] Generating level 23 area "1_2_town" with seed 1
+2022/10/16 03:05:38 114304156 f22b69a6 [INFO Client 8712] Tile hash: 3956941390
+2022/10/16 03:05:38 114304156 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 03:05:38 114304390 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 03:05:39 114305109 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лесной лагерь.
+2022/10/16 03:05:40 114306406 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 03:06:34 114360328 cff943d8 [INFO Client 8712] : Сделка совершена.
+2022/10/16 03:07:13 114398890 cff943d8 [INFO Client 8712] : Указанный предмет уничтожен
+2022/10/16 03:07:17 114403109 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 03:07:17 114403109 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 03:07:17 114403109 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.151:6112
+2022/10/16 03:07:17 114403171 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 03:07:17 114403250 1186952b [DEBUG Client 8712] Generating level 15 area "1_2_6_1" with seed 4083331097
+2022/10/16 03:07:17 114403296 f22b69a6 [INFO Client 8712] Tile hash: 1480870524
+2022/10/16 03:07:17 114403296 f22b69a7 [INFO Client 8712] Doodad hash: 1250945174
+2022/10/16 03:07:18 114403843 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 03:07:18 114404312 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 1.
+2022/10/16 03:07:19 114405156 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 03:07:21 114407281 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 03:07:21 114407281 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 03:07:21 114407281 ca3a6737 [INFO Client 8712] Connecting to instance server at 159.122.142.253:6112
+2022/10/16 03:07:21 114407343 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 03:07:21 114407437 1186952b [DEBUG Client 8712] Generating level 15 area "LakePrototype" with seed 79013431
+2022/10/16 03:07:23 114409203 f22b69a6 [INFO Client 8712] Tile hash: 3118648162
+2022/10/16 03:07:23 114409203 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 03:07:23 114409593 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 03:07:24 114410312 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Озеро Каландры.
+2022/10/16 03:07:25 114411343 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 03:07:27 114413312 cff943d8 [INFO Client 8712] Каландра: Ещё одна смертная забрела в мою тюрьму...
+2022/10/16 03:07:47 114433390 cff943d8 [INFO Client 8712] : PathfinderLTi (Охотница) достигает 17 уровня
+2022/10/16 03:10:52 114618531 fb7ae604 [INFO Client 8712] Successfully allocated passive skill id: claws_of_the_pride489, name: Интуиция
+2022/10/16 03:13:10 114756718 cff943d8 [INFO Client 8712] Каландра: Я была здесь до богов, до религии. Томилась. Наблюдала. Любопытствовала.
+2022/10/16 03:13:26 114772265 cff943d8 [INFO Client 8712] : PathfinderLTi (Охотница) достигает 18 уровня
+2022/10/16 03:13:58 114803953 cff943d8 [INFO Client 8712] : Пусть сильнее грянет буря
+2022/10/16 03:14:25 114831593 cff943d8 [INFO Client 8712] Каландра: Служители ничего не приносят на алтарь. Они только забирают и уничтожают.
+2022/10/16 03:16:52 114977781 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 03:16:52 114977781 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 03:16:52 114977781 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.151:6112
+2022/10/16 03:16:52 114977843 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 03:16:52 114977906 1186952b [DEBUG Client 8712] Generating level 15 area "1_2_6_1" with seed 4083331097
+2022/10/16 03:16:52 114977953 f22b69a6 [INFO Client 8712] Tile hash: 1480870524
+2022/10/16 03:16:52 114977953 f22b69a7 [INFO Client 8712] Doodad hash: 1250945174
+2022/10/16 03:16:52 114978421 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 03:16:53 114978812 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 1.
+2022/10/16 03:16:53 114979531 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 03:17:03 114988890 fb7ae604 [INFO Client 8712] Successfully allocated passive skill id: claw_damage_poison2521, name: Когти: скорость атаки и шанс отравить
+2022/10/16 03:32:15 115901671 cff943d8 [INFO Client 8712] : PathfinderLTi (Охотница) достигает 19 уровня
+2022/10/16 03:32:20 115906546 fb7ae604 [INFO Client 8712] Successfully allocated passive skill id: sword_damage464, name: Ядовитые клыки
+2022/10/16 03:33:33 115979390 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 03:33:33 115979406 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 03:33:33 115979406 ca3a6737 [INFO Client 8712] Connecting to instance server at 169.51.201.151:6112
+2022/10/16 03:33:33 115979453 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 31ms
+2022/10/16 03:33:33 115979531 1186952b [DEBUG Client 8712] Generating level 16 area "1_2_6_2" with seed 602902437
+2022/10/16 03:33:34 115980593 f22b69a6 [INFO Client 8712] Tile hash: 1014629374
+2022/10/16 03:33:34 115980593 f22b69a7 [INFO Client 8712] Doodad hash: 2660183276
+2022/10/16 03:33:35 115981281 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 03:33:36 115981953 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 2.
+2022/10/16 03:33:36 115982593 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 03:36:01 116127171 cff943d8 [INFO Client 8712] Вера: Снова ты? Такая спокойная и уверенная в себе. Ничего, здешняя тварь сдерёт ухмылку с твоего лица.
+2022/10/16 03:36:02 116128687 cff943d8 [INFO Client 8712] Елена: Эта тварь... Она перебила всех. Помогите!
+2022/10/16 03:37:17 116203015 890da8d3 [INFO Client 8712] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/16 03:37:17 116203046 890d9d9b [INFO Client 8712] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/16 03:37:24 116210703 88a90480 [DEBUG Client 8712] Got Instance Details from login server
+2022/10/16 03:37:24 116210703 32759a9f [INFO Client 8712] [SHADER] Delay: OFF
+2022/10/16 03:37:24 116210703 ca3a6737 [INFO Client 8712] Connecting to instance server at 159.122.142.253:6112
+2022/10/16 03:37:25 116210750 ca3a4d51 [DEBUG Client 8712] Connect time to instance server was 47ms
+2022/10/16 03:37:25 116210828 1186952b [DEBUG Client 8712] Generating level 23 area "1_2_town" with seed 1
+2022/10/16 03:37:29 116215140 f22b69a6 [INFO Client 8712] Tile hash: 3956941390
+2022/10/16 03:37:29 116215140 f22b69a7 [INFO Client 8712] Doodad hash: 0
+2022/10/16 03:37:30 116215953 11871c61 [DEBUG Client 8712] Joined guild named Chevaleki with 2 members 
+2022/10/16 03:37:30 116216609 cff943d8 [INFO Client 8712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лесной лагерь.
+2022/10/16 03:37:32 116218484 32759a9f [INFO Client 8712] [SHADER] Delay: ON
+2022/10/16 03:37:32 116218531 374e1126 [INFO Client 8712] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/16 03:37:32 116218531 374e1287 [INFO Client 8712] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/16 03:37:33 116218750 374e12ea [INFO Client 8712] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/16 03:37:33 116218750 374e0d87 [DEBUG Client 8712] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/16 03:37:33 116218750 374e0d8f [DEBUG Client 8712] [Item Filter] X-HW: 1665880834.dop044.pa1.t,1665880834.cds229.pa1.shn,1665880834.dop044.pa1.t,1665880834.cds046.pa1.c
+2022/10/16 03:37:33 116218781 78847107 [INFO Client 8712] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/16 03:38:10 116256437 cff943d8 [INFO Client 8712] : Сделка совершена.
+2022/10/16 03:40:19 116385250 cff943d8 [INFO Client 8712] : Сделка совершена.
+2022/10/16 03:40:50 116415750 cff943d8 [INFO Client 8712] : Всего очков пассивных умений: 18 (распределено: 18)
+2022/10/16 03:40:50 116415750 cff943d8 [INFO Client 8712] : 18 от уровня героя
+2022/10/16 03:40:50 116415750 cff943d8 [INFO Client 8712] : 0 от заданий:
