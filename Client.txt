@@ -4811,3 +4811,1178 @@ flags: 257
 2022/10/16 03:40:50 116415750 cff943d8 [INFO Client 8712] : Всего очков пассивных умений: 18 (распределено: 18)
 2022/10/16 03:40:50 116415750 cff943d8 [INFO Client 8712] : 18 от уровня героя
 2022/10/16 03:40:50 116415750 cff943d8 [INFO Client 8712] : 0 от заданий:
+2022/10/16 20:17:48 ***** LOG FILE OPENING *****
+2022/10/16 20:17:49 59721828 340884db [DEBUG Client 5496] [RENDER] StopDevice
+2022/10/16 20:17:49 59721843 84a7e6f1 [INFO Client 5496] [ENGINE] Clear
+2022/10/16 20:17:49 59721843 7bb5422 [INFO Client 5496] [BUNDLE2] Deinit
+2022/10/16 20:17:49 59721843 84a7e691 [INFO Client 5496] [JOB] Clear
+2022/10/16 20:17:49 59721843 84a7e7bf [INFO Client 5496] [ANIMATION] Clear
+2022/10/16 20:17:49 59721843 84a7e7be [INFO Client 5496] [PHYSICS] Clear
+2022/10/16 20:17:49 59721843 84a7e7bd [INFO Client 5496] [SHADER] Clear
+2022/10/16 20:17:49 59721843 84a7e7bc [INFO Client 5496] [ENTITY] Clear
+2022/10/16 20:17:49 59721843 84a7e7bb [INFO Client 5496] [SOUND] Clear
+2022/10/16 20:17:49 59721843 84a7e7ba [INFO Client 5496] [VIDEO] Clear
+2022/10/16 20:17:49 59721843 84a7e7b9 [INFO Client 5496] [SCENE] Clear
+2022/10/16 20:17:49 59721843 84a7e7b8 [INFO Client 5496] [GRAPH] Clear
+2022/10/16 20:17:49 59721843 84a7e7b7 [INFO Client 5496] [TELEMETRY] Clear
+2022/10/16 20:17:49 59721843 84a7e7b6 [INFO Client 5496] [RESOURCE] GarbageCollect
+2022/10/16 20:17:49 59721843 84a7e75e [INFO Client 5496] [RESOURCE] Clear
+2022/10/16 20:17:49 59721843 84a7e75b [INFO Client 5496] [RENDER] Clear
+2022/10/16 20:17:49 59721843 84a7e758 [INFO Client 5496] [ENGINE] Done
+2022/10/16 20:17:58 ***** LOG FILE OPENING *****
+2022/10/16 20:17:58 59731531 f954428c [INFO Client 12220] [STARTUP] Job Queues
+2022/10/16 20:17:58 59731546 9e6a0b0a [INFO Client 12220] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/16 20:17:58 59731640 9e6a1d2a [INFO Client 12220] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 20:17:58 59731640 9e6a1363 [INFO Client 12220] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/16 20:17:58 59731640 9e6a0b0a [INFO Client 12220] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/16 20:17:58 59731656 9e6a1d2a [INFO Client 12220] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 20:17:58 59731656 84a7d27d [INFO Client 12220] [ENGINE] Init
+2022/10/16 20:17:58 59731656 55713145 [INFO Client 12220] [JOB] HIGH: 2
+2022/10/16 20:17:58 59731656 55713145 [INFO Client 12220] [JOB] MEDIUM: 2
+2022/10/16 20:17:58 59731656 55713145 [INFO Client 12220] [JOB] LOW: 2
+2022/10/16 20:17:58 59731656 55713145 [INFO Client 12220] [JOB] IDLE: 1
+2022/10/16 20:17:58 59731656 7bb548f [INFO Client 12220] [BUNDLE2] Init
+2022/10/16 20:17:58 59731671 7bb36c4 [INFO Client 12220] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/16 20:17:59 59732000 7bb61e6 [INFO Client 12220] [BUNDLE2] File cache size: 1024
+2022/10/16 20:17:59 59732000 b51d61ab [INFO Client 12220] [RENDER] Async: ON
+2022/10/16 20:17:59 59732000 b51d60c8 [INFO Client 12220] [RENDER] Warmup: ON
+2022/10/16 20:17:59 59732000 b51d60ce [INFO Client 12220] [RENDER] Skip: ON
+2022/10/16 20:17:59 59732000 b51d60eb [INFO Client 12220] [RENDER] Throttling: ON
+2022/10/16 20:17:59 59732000 32759a7a [INFO Client 12220] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/16 20:17:59 59732000 32759a70 [INFO Client 12220] [SHADER] Async: ON
+2022/10/16 20:17:59 59732000 32759a9f [INFO Client 12220] [SHADER] Delay: OFF
+2022/10/16 20:17:59 59732000 32759aba [INFO Client 12220] [SHADER] Limit: ON
+2022/10/16 20:17:59 59732000 32759abc [INFO Client 12220] [SHADER] Warmup: ON
+2022/10/16 20:17:59 59732000 327599d7 [INFO Client 12220] [SHADER] Parallel: OFF
+2022/10/16 20:17:59 59732015 84a7e376 [INFO Client 12220] [ENGINE] Running Engine version 1.6.0
+2022/10/16 20:17:59 59732031 47bbd159 [INFO Client 12220] [SOUND] Buffer size = 64.0 MB
+2022/10/16 20:17:59 59732093 9b0d205 [INFO Client 12220] [VIDEO] Enable: ON
+2022/10/16 20:17:59 59732125 84a7d2d8 [INFO Client 12220] [ENGINE] Ready
+2022/10/16 20:17:59 59732187 951bc0b0 [INFO Client 12220] [STARTUP] Bundle Startup Start
+2022/10/16 20:17:59 59732187 951bc057 [INFO Client 12220] [STARTUP] Bundle Startup in 7.8e-05 seconds
+2022/10/16 20:17:59 59732187 951bc0b0 [INFO Client 12220] [STARTUP] Game Start
+2022/10/16 20:17:59 59732531 ca86fd3f [DEBUG Client 12220] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/16 20:18:00 59732937 951bc057 [INFO Client 12220] [STARTUP] Game in 0.749002 seconds
+2022/10/16 20:18:00 59732937 951bc0b0 [INFO Client 12220] [STARTUP] Window Start
+2022/10/16 20:18:00 59732937 9e6a0b0a [INFO Client 12220] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/16 20:18:00 59733031 9e6a1d2a [INFO Client 12220] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 20:18:00 59733031 9e6a1363 [INFO Client 12220] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/16 20:18:00 59733031 9e6a0b0a [INFO Client 12220] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/16 20:18:00 59733046 9e6a1d2a [INFO Client 12220] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 20:18:00 59733078 951bc057 [INFO Client 12220] [STARTUP] Window in 0.147786 seconds
+2022/10/16 20:18:00 59733093 413b61ff [DEBUG Client 12220] [GamepadManager] Initialising
+2022/10/16 20:18:00 59733093 951bc0b0 [INFO Client 12220] [STARTUP] Device Start
+2022/10/16 20:18:00 59733109 b51d6589 [INFO Client 12220] [RENDER] StartDevice: DirectX11
+2022/10/16 20:18:00 59733406 71b3b00 [DEBUG Client 12220] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/16 20:18:00 59733406 97ce04a4 [WARN Client 12220] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/16 20:18:00 59733484 fafff8cf [DEBUG Client 12220] CreateSwapChain: SetFullScreenState 0
+2022/10/16 20:18:00 59733484 29d4ce01 [INFO Client 12220] [D3D11] Runtime version = 11.1
+2022/10/16 20:18:00 59733484 29d4ce00 [INFO Client 12220] [D3D11] Feature Level = 11.1
+2022/10/16 20:18:00 59733484 29d4ce03 [INFO Client 12220] [D3D11] Driver Command Lists = NO
+2022/10/16 20:18:00 59733484 29d4ce02 [INFO Client 12220] [D3D11] Driver Concurrent Creates = YES
+2022/10/16 20:18:00 59733484 29d4ce05 [INFO Client 12220] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/16 20:18:00 59733578 9d4eeb40 [DEBUG Client 12220] [WINDOW] TrigggerDeviceCreate
+2022/10/16 20:18:01 59733859 9d4eeba7 [DEBUG Client 12220] [WINDOW] TrigggerDeviceReset
+2022/10/16 20:18:01 59733875 9d4eec8a [DEBUG Client 12220] [WINDOW] TrigggerDeviceLost
+2022/10/16 20:18:01 59733875 9d4eeba7 [DEBUG Client 12220] [WINDOW] TrigggerDeviceReset
+2022/10/16 20:18:01 59733906 951bc057 [INFO Client 12220] [STARTUP] Device in 0.802557 seconds
+2022/10/16 20:18:01 59733906 951bc0b0 [INFO Client 12220] [STARTUP] Tencent Start
+2022/10/16 20:18:01 59733906 951bc057 [INFO Client 12220] [STARTUP] Tencent in 0.000245 seconds
+2022/10/16 20:18:01 59733906 951bc0b0 [INFO Client 12220] [STARTUP] Loading Start
+2022/10/16 20:18:01 59733937 951bc057 [INFO Client 12220] [STARTUP] Loading in 0.03875 seconds
+2022/10/16 20:18:01 59733937 951bc0b0 [INFO Client 12220] [STARTUP] DebugGUI Start
+2022/10/16 20:18:01 59733937 951bc057 [INFO Client 12220] [STARTUP] DebugGUI in 2.5e-05 seconds
+2022/10/16 20:18:01 59733937 951bc0b0 [INFO Client 12220] [STARTUP] Bundle Tiny Start
+2022/10/16 20:18:01 59733937 951bc0b0 [INFO Client 12220] [STARTUP] Bundle Login Start
+2022/10/16 20:18:01 59733937 951bc057 [INFO Client 12220] [STARTUP] Bundle Login in 0.000119 seconds
+2022/10/16 20:18:01 59733937 951bc0b0 [INFO Client 12220] [STARTUP] Registration Start
+2022/10/16 20:18:01 59733937 951bc057 [INFO Client 12220] [STARTUP] Bundle Tiny in 0.000179 seconds
+2022/10/16 20:18:01 59733968 951bc0b0 [INFO Client 12220] [STARTUP] Audio Start
+2022/10/16 20:18:01 59733968 47bbee18 [INFO Client 12220] [SOUND] Channel count = 128 (asked for 128)
+2022/10/16 20:18:01 59733968 47bbee19 [INFO Client 12220] [SOUND] Source count = 512
+2022/10/16 20:18:01 59734093 47bbea58 [INFO Client 12220] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/16 20:18:01 59734093 951bc057 [INFO Client 12220] [STARTUP] Audio in 0.130549 seconds
+2022/10/16 20:18:01 59734500 951bc057 [INFO Client 12220] [STARTUP] Registration in 0.564523 seconds
+2022/10/16 20:19:20 59813328 890da8d3 [INFO Client 12220] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/16 20:19:20 59813359 890d9d9b [INFO Client 12220] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/16 20:19:55 ***** LOG FILE OPENING *****
+2022/10/16 20:19:55 59848234 340884db [DEBUG Client 10404] [RENDER] StopDevice
+2022/10/16 20:19:55 59848234 84a7e6f1 [INFO Client 10404] [ENGINE] Clear
+2022/10/16 20:19:55 59848234 7bb5422 [INFO Client 10404] [BUNDLE2] Deinit
+2022/10/16 20:19:55 59848234 84a7e691 [INFO Client 10404] [JOB] Clear
+2022/10/16 20:19:55 59848234 84a7e7bf [INFO Client 10404] [ANIMATION] Clear
+2022/10/16 20:19:55 59848234 84a7e7be [INFO Client 10404] [PHYSICS] Clear
+2022/10/16 20:19:55 59848234 84a7e7bd [INFO Client 10404] [SHADER] Clear
+2022/10/16 20:19:55 59848234 84a7e7bc [INFO Client 10404] [ENTITY] Clear
+2022/10/16 20:19:55 59848234 84a7e7bb [INFO Client 10404] [SOUND] Clear
+2022/10/16 20:19:55 59848234 84a7e7ba [INFO Client 10404] [VIDEO] Clear
+2022/10/16 20:19:55 59848234 84a7e7b9 [INFO Client 10404] [SCENE] Clear
+2022/10/16 20:19:55 59848234 84a7e7b8 [INFO Client 10404] [GRAPH] Clear
+2022/10/16 20:19:55 59848234 84a7e7b7 [INFO Client 10404] [TELEMETRY] Clear
+2022/10/16 20:19:55 59848234 84a7e7b6 [INFO Client 10404] [RESOURCE] GarbageCollect
+2022/10/16 20:19:55 59848234 84a7e75e [INFO Client 10404] [RESOURCE] Clear
+2022/10/16 20:19:55 59848234 84a7e75b [INFO Client 10404] [RENDER] Clear
+2022/10/16 20:19:55 59848234 84a7e758 [INFO Client 10404] [ENGINE] Done
+2022/10/16 20:21:03 ***** LOG FILE OPENING *****
+2022/10/16 20:21:03 59916234 f954428c [INFO Client 8348] [STARTUP] Job Queues
+2022/10/16 20:21:03 59916250 9e6a0b0a [INFO Client 8348] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/16 20:21:04 59916750 9e6a1d2a [INFO Client 8348] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 20:21:04 59916750 9e6a1363 [INFO Client 8348] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/16 20:21:04 59916750 9e6a0b0a [INFO Client 8348] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/16 20:21:04 59916843 9e6a1d2a [INFO Client 8348] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 20:21:04 59916843 84a7d27d [INFO Client 8348] [ENGINE] Init
+2022/10/16 20:21:04 59916843 55713145 [INFO Client 8348] [JOB] HIGH: 2
+2022/10/16 20:21:04 59916843 55713145 [INFO Client 8348] [JOB] MEDIUM: 2
+2022/10/16 20:21:04 59916843 55713145 [INFO Client 8348] [JOB] LOW: 2
+2022/10/16 20:21:04 59916843 55713145 [INFO Client 8348] [JOB] IDLE: 1
+2022/10/16 20:21:04 59916843 7bb548f [INFO Client 8348] [BUNDLE2] Init
+2022/10/16 20:21:04 59916843 7bb36c4 [INFO Client 8348] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/16 20:21:04 59917218 7bb61e6 [INFO Client 8348] [BUNDLE2] File cache size: 1024
+2022/10/16 20:21:04 59917218 b51d61ab [INFO Client 8348] [RENDER] Async: ON
+2022/10/16 20:21:04 59917218 b51d60c8 [INFO Client 8348] [RENDER] Warmup: ON
+2022/10/16 20:21:04 59917218 b51d60ce [INFO Client 8348] [RENDER] Skip: ON
+2022/10/16 20:21:04 59917218 b51d60eb [INFO Client 8348] [RENDER] Throttling: ON
+2022/10/16 20:21:04 59917218 32759a7a [INFO Client 8348] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/16 20:21:04 59917218 32759a70 [INFO Client 8348] [SHADER] Async: ON
+2022/10/16 20:21:04 59917218 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 20:21:04 59917218 32759aba [INFO Client 8348] [SHADER] Limit: ON
+2022/10/16 20:21:04 59917218 32759abc [INFO Client 8348] [SHADER] Warmup: ON
+2022/10/16 20:21:04 59917218 327599d7 [INFO Client 8348] [SHADER] Parallel: OFF
+2022/10/16 20:21:04 59917218 84a7e376 [INFO Client 8348] [ENGINE] Running Engine version 1.6.0
+2022/10/16 20:21:04 59917234 47bbd159 [INFO Client 8348] [SOUND] Buffer size = 64.0 MB
+2022/10/16 20:21:04 59917281 9b0d205 [INFO Client 8348] [VIDEO] Enable: ON
+2022/10/16 20:21:04 59917312 84a7d2d8 [INFO Client 8348] [ENGINE] Ready
+2022/10/16 20:21:04 59917343 951bc0b0 [INFO Client 8348] [STARTUP] Bundle Startup Start
+2022/10/16 20:21:04 59917343 951bc057 [INFO Client 8348] [STARTUP] Bundle Startup in 9.4e-05 seconds
+2022/10/16 20:21:04 59917343 951bc0b0 [INFO Client 8348] [STARTUP] Game Start
+2022/10/16 20:21:05 59917843 ca86fd3f [DEBUG Client 8348] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/16 20:21:05 59918468 951bc057 [INFO Client 8348] [STARTUP] Game in 1.11795 seconds
+2022/10/16 20:21:05 59918468 951bc0b0 [INFO Client 8348] [STARTUP] Window Start
+2022/10/16 20:21:05 59918468 9e6a0b0a [INFO Client 8348] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/16 20:21:05 59918562 9e6a1d2a [INFO Client 8348] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 20:21:05 59918562 9e6a1363 [INFO Client 8348] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/16 20:21:05 59918578 9e6a0b0a [INFO Client 8348] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/16 20:21:05 59918578 9e6a1d2a [INFO Client 8348] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/16 20:21:05 59918609 951bc057 [INFO Client 8348] [STARTUP] Window in 0.145731 seconds
+2022/10/16 20:21:05 59918640 413b61ff [DEBUG Client 8348] [GamepadManager] Initialising
+2022/10/16 20:21:05 59918640 951bc0b0 [INFO Client 8348] [STARTUP] Device Start
+2022/10/16 20:21:05 59918640 b51d6589 [INFO Client 8348] [RENDER] StartDevice: DirectX11
+2022/10/16 20:21:06 59918859 71b3b00 [DEBUG Client 8348] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/16 20:21:06 59918859 97ce04a4 [WARN Client 8348] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/16 20:21:06 59918968 fafff8cf [DEBUG Client 8348] CreateSwapChain: SetFullScreenState 0
+2022/10/16 20:21:06 59918968 29d4ce01 [INFO Client 8348] [D3D11] Runtime version = 11.1
+2022/10/16 20:21:06 59918968 29d4ce00 [INFO Client 8348] [D3D11] Feature Level = 11.1
+2022/10/16 20:21:06 59918968 29d4ce03 [INFO Client 8348] [D3D11] Driver Command Lists = NO
+2022/10/16 20:21:06 59918968 29d4ce02 [INFO Client 8348] [D3D11] Driver Concurrent Creates = YES
+2022/10/16 20:21:06 59918968 29d4ce05 [INFO Client 8348] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/16 20:21:06 59919109 9d4eeb40 [DEBUG Client 8348] [WINDOW] TrigggerDeviceCreate
+2022/10/16 20:21:06 59919484 9d4eeba7 [DEBUG Client 8348] [WINDOW] TrigggerDeviceReset
+2022/10/16 20:21:06 59919515 9d4eec8a [DEBUG Client 8348] [WINDOW] TrigggerDeviceLost
+2022/10/16 20:21:06 59919531 9d4eeba7 [DEBUG Client 8348] [WINDOW] TrigggerDeviceReset
+2022/10/16 20:21:06 59919546 951bc057 [INFO Client 8348] [STARTUP] Device in 0.916391 seconds
+2022/10/16 20:21:06 59919546 951bc0b0 [INFO Client 8348] [STARTUP] Tencent Start
+2022/10/16 20:21:06 59919546 951bc057 [INFO Client 8348] [STARTUP] Tencent in 3.7e-05 seconds
+2022/10/16 20:21:06 59919546 951bc0b0 [INFO Client 8348] [STARTUP] Loading Start
+2022/10/16 20:21:06 59919578 951bc057 [INFO Client 8348] [STARTUP] Loading in 0.029923 seconds
+2022/10/16 20:21:06 59919578 951bc0b0 [INFO Client 8348] [STARTUP] DebugGUI Start
+2022/10/16 20:21:06 59919578 951bc057 [INFO Client 8348] [STARTUP] DebugGUI in 3.5e-05 seconds
+2022/10/16 20:21:06 59919578 951bc0b0 [INFO Client 8348] [STARTUP] Bundle Tiny Start
+2022/10/16 20:21:06 59919578 951bc0b0 [INFO Client 8348] [STARTUP] Bundle Login Start
+2022/10/16 20:21:06 59919578 951bc057 [INFO Client 8348] [STARTUP] Bundle Login in 4.2e-05 seconds
+2022/10/16 20:21:06 59919578 951bc0b0 [INFO Client 8348] [STARTUP] Registration Start
+2022/10/16 20:21:06 59919578 951bc057 [INFO Client 8348] [STARTUP] Bundle Tiny in 0.000117 seconds
+2022/10/16 20:21:06 59919640 951bc0b0 [INFO Client 8348] [STARTUP] Audio Start
+2022/10/16 20:21:06 59919640 47bbee18 [INFO Client 8348] [SOUND] Channel count = 128 (asked for 128)
+2022/10/16 20:21:06 59919640 47bbee19 [INFO Client 8348] [SOUND] Source count = 512
+2022/10/16 20:21:07 59919796 47bbea58 [INFO Client 8348] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/16 20:21:07 59919796 951bc057 [INFO Client 8348] [STARTUP] Audio in 0.159215 seconds
+2022/10/16 20:21:07 59920312 951bc057 [INFO Client 8348] [STARTUP] Registration in 0.734018 seconds
+2022/10/16 20:21:14 59927468 890da8d3 [INFO Client 8348] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/16 20:21:14 59927531 890d9d9b [INFO Client 8348] Connected to mil01.login.pathofexile.com in 15ms.
+2022/10/16 20:21:18 59931546 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 20:21:18 59931593 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 20:21:18 59931609 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 20:21:18 59931687 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 20:21:19 59931765 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/16 20:21:21 59934609 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/16 20:21:21 59934609 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 20:21:26 59939390 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/16 20:21:27 59940265 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 20:21:27 59940359 374e1126 [INFO Client 8348] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/16 20:21:27 59940359 374e1287 [INFO Client 8348] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/16 20:21:27 59940609 374e12ea [INFO Client 8348] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/16 20:21:27 59940625 374e0d87 [DEBUG Client 8348] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/16 20:21:27 59940625 374e0d8f [DEBUG Client 8348] [Item Filter] X-HW: 1665941071.dop023.pa1.t,1665941071.cds246.pa1.shn,1665941071.dop023.pa1.t,1665941071.cds046.pa1.c
+2022/10/16 20:21:27 59940625 78847107 [INFO Client 8348] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/16 20:21:27 59940625 2a14a9a7 [INFO Client 8348] PrecalcBaseTypeHashMap
+2022/10/16 20:21:28 59940734 2a14a9a1 [INFO Client 8348] PrecalcModNameHashMap
+2022/10/16 20:21:29 59942500 2a14a9a3 [INFO Client 8348] PrecalcItemClassMap
+2022/10/16 20:21:29 59942500 2a14a9ad [INFO Client 8348] PrecalcSoundEffects
+2022/10/16 20:21:29 59942515 2a14a902 [INFO Client 8348] PrecalcDropEffects
+2022/10/16 20:21:29 59942515 2a14a900 [INFO Client 8348] PrecalcNonEnchantModHashes
+2022/10/16 20:21:29 59942515 2a14a906 [INFO Client 8348] PrecalcRuleNameToTypeMap
+2022/10/16 20:21:29 59942515 2a14a904 [INFO Client 8348] PrecalcCJESPNIndexMap
+2022/10/16 20:21:29 59942515 2a14a90a [INFO Client 8348] PrecalcGemAlternateQualityMap
+2022/10/16 20:31:16 60529453 cff943d8 [INFO Client 8348] Нико, Мастер глубин: О-о-о! Ты глянь!
+2022/10/16 20:31:19 60532359 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 20:31:19 60532359 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 20:31:19 60532359 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 20:31:19 60532421 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 20:31:19 60532484 1186952b [DEBUG Client 8348] Generating level 34 area "1_4_3_1" with seed 624465855
+2022/10/16 20:31:20 60533359 f22b69a6 [INFO Client 8348] Tile hash: 2823753680
+2022/10/16 20:31:20 60533359 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 20:31:21 60534453 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Шахты — уровень 1.
+2022/10/16 20:31:22 60535171 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 20:34:32 60725468 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 20:34:32 60725468 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 20:34:32 60725468 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.171:6112
+2022/10/16 20:34:32 60725546 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 20:34:32 60725609 1186952b [DEBUG Client 8348] Generating level 35 area "1_4_3_2" with seed 2863811423
+2022/10/16 20:34:33 60725953 f22b69a6 [INFO Client 8348] Tile hash: 3944608534
+2022/10/16 20:34:33 60725953 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 20:34:34 60726734 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Шахты — уровень 2.
+2022/10/16 20:34:34 60727328 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 20:35:59 60811906 cff943d8 [INFO Client 8348] : DeeCovana (Следопыт) достигает 36 уровня
+2022/10/16 20:36:24 60837437 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 20:36:24 60837437 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 20:36:24 60837437 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.253:6112
+2022/10/16 20:36:24 60837500 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 20:36:24 60837578 1186952b [DEBUG Client 8348] Generating level 36 area "1_4_3_3" with seed 1935526144
+2022/10/16 20:36:24 60837609 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutMine
+2022/10/16 20:36:25 60838218 f22b69a6 [INFO Client 8348] Tile hash: 1775182856
+2022/10/16 20:36:25 60838218 f22b69a7 [INFO Client 8348] Doodad hash: 793547032
+2022/10/16 20:36:26 60839015 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кристальная жила.
+2022/10/16 20:36:27 60839906 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 20:37:12 60885046 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: mace_accuracy_speed_notable2484, name: Отвага
+2022/10/16 20:40:09 61062093 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 20:40:09 61062093 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 20:40:09 61062093 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 20:40:09 61062156 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 32ms
+2022/10/16 20:40:09 61062218 1186952b [DEBUG Client 8348] Generating level 37 area "1_4_4_1" with seed 190804722
+2022/10/16 20:40:11 61063734 f22b69a6 [INFO Client 8348] Tile hash: 1976086546
+2022/10/16 20:40:11 61063734 f22b69a7 [INFO Client 8348] Doodad hash: 4091831402
+2022/10/16 20:40:12 61064781 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сон Каома.
+2022/10/16 20:40:13 61065765 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 20:43:57 61290406 cff943d8 [INFO Client 8348] : DeeCovana (Следопыт) достигает 37 уровня
+2022/10/16 20:46:28 61441000 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 20:46:28 61441000 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 20:46:28 61441000 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 20:46:28 61441062 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 46ms
+2022/10/16 20:46:28 61441140 1186952b [DEBUG Client 8348] Generating level 38 area "1_4_4_3" with seed 3433996508
+2022/10/16 20:46:30 61442921 f22b69a6 [INFO Client 8348] Tile hash: 4044060980
+2022/10/16 20:46:30 61442921 f22b69a7 [INFO Client 8348] Doodad hash: 1666590113
+2022/10/16 20:46:31 61444250 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Крепость Каома.
+2022/10/16 20:46:32 61445093 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 20:47:38 61511078 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity870, name: Ловкость
+2022/10/16 20:49:45 61638281 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 20:49:45 61638296 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 20:49:45 61638296 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.236:6112
+2022/10/16 20:49:45 61638359 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 20:49:45 61638421 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/16 20:49:45 61638703 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/16 20:49:45 61638703 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 20:49:47 61640265 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/16 20:49:48 61641015 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 20:49:53 61646218 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:49:53 61646609 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:30 61683593 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:31 61683750 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:31 61683953 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:31 61684156 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:31 61684328 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:31 61684515 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:31 61684656 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:32 61684859 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:32 61685031 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:32 61685218 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:32 61685421 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:32 61685625 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:33 61685828 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:33 61686093 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:33 61686234 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:33 61686421 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:33 61686625 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:34 61686828 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:34 61687031 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:34 61687203 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:34 61687437 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:35 61687765 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:35 61688203 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:35 61688703 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:36 61689031 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:36 61689375 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:36 61689703 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:37 61690031 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 20:50:51 61704015 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: life_leech_notable2056, name: Пустота тела
+2022/10/16 20:50:55 61708000 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: life_leech2055, name: Похищение здоровья
+2022/10/16 20:50:57 61710359 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: mastery_leech159, name: Мастерство похищения
+2022/10/16 20:50:58 61711671 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: mana_leech_notable2048, name: Душевная пустота
+2022/10/16 20:51:01 61714171 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: mana_leech2047, name: Похищение маны
+2022/10/16 20:51:02 61715390 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: mana_leech2046, name: Похищение маны и здоровья
+2022/10/16 20:51:04 61717437 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: vaal_pact1420, name: Соглашение с ваал
+2022/10/16 20:51:05 61718500 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: dexterity875, name: Ловкость
+2022/10/16 20:51:06 61719390 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: mace_accuracy_speed_notable2484, name: Отвага
+2022/10/16 20:51:09 61722000 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: melee_evasion_notable2031, name: Изящное нападение
+2022/10/16 20:51:11 61724031 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: melee_evasion2030, name: Броня, уклонение и эффект Боевого ража
+2022/10/16 20:51:13 61725828 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: melee_evasion2037, name: Броня и уклонение
+2022/10/16 20:51:14 61726921 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: melee_evasion2028, name: Броня и уклонение
+2022/10/16 20:51:15 61728015 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: melee_evasion2029, name: Броня, уклонение и эффект Боевого ража
+2022/10/16 20:51:16 61729156 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: savant937, name: Мудрость лет
+2022/10/16 20:51:17 61729906 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: might772, name: Бык
+2022/10/16 20:51:17 61730671 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: dexterity877, name: Ловкость
+2022/10/16 20:51:18 61731453 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: dexterity839, name: Ловкость
+2022/10/16 20:51:19 61732515 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: poison_notable2185, name: Токсичные атаки
+2022/10/16 20:51:20 61733140 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: poison_chance2184, name: Множитель урона от яда
+2022/10/16 20:51:21 61733937 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: poison_damage2183, name: Множитель урона от яда
+2022/10/16 20:51:22 61735234 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: dexterity874, name: Ловкость
+2022/10/16 20:51:24 61737359 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: mana552, name: Мана и получение зарядов флакона
+2022/10/16 20:51:25 61738671 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: mana_flasks_notable1699, name: Обряд друидов
+2022/10/16 20:51:29 61741984 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: mana551, name: Мана и получение зарядов флакона
+2022/10/16 20:51:31 61744250 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: avoid_stun553, name: Сердце дуба
+2022/10/16 20:51:32 61744781 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: stun_recovery543, name: Здоровье и избегание оглушения
+2022/10/16 20:51:34 61747562 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: attack_move_speed_notable1792, name: Легконогий
+2022/10/16 20:51:35 61748453 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: dual_wield_damage2125, name: Скорость передвижения и подавление чар
+2022/10/16 20:51:44 61757484 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: mana551, name: Мана и получение зарядов флакона
+2022/10/16 20:51:45 61758312 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: mana_flasks_notable1699, name: Обряд друидов
+2022/10/16 20:51:49 61762484 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: sword_damage464, name: Ядовитые клыки
+2022/10/16 20:51:50 61763312 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: claw_damage_poison2521, name: Когти: скорость атаки и шанс отравить
+2022/10/16 20:51:54 61766765 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: claw_attack_speed1813, name: Когти: урон от состояний и шанс отравить
+2022/10/16 20:52:12 61785375 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dual_wield_damage2125, name: Скорость передвижения и подавление чар
+2022/10/16 20:52:13 61786328 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: attack_move_speed_notable1792, name: Легконогий
+2022/10/16 20:52:17 61790593 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dual_wield_damage726, name: Скорость передвижения и подавление чар
+2022/10/16 20:52:39 61812453 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: claws_of_the_pride489, name: Интуиция
+2022/10/16 20:52:44 61817484 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: dual_wield_damage2125, name: Скорость передвижения и подавление чар
+2022/10/16 20:52:45 61818609 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: finesse993, name: Изящество
+2022/10/16 20:52:59 61832281 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity874, name: Ловкость
+2022/10/16 20:53:00 61833578 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity839, name: Ловкость
+2022/10/16 20:53:01 61834656 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: life1120, name: Здоровье и избегание стихийных состояний
+2022/10/16 20:53:02 61835250 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: thick_skin1157, name: Толстая кожа
+2022/10/16 20:53:07 61839937 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: poison_damage2183, name: Множитель урона от яда
+2022/10/16 20:53:08 61840796 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: poison_chance2184, name: Множитель урона от яда
+2022/10/16 20:53:08 61841468 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: poison_notable2185, name: Токсичные атаки
+2022/10/16 20:53:21 61854046 fb7ae269 [INFO Client 8348] Successfully allocated mastery effect id: 34563, mastery: mastery_poison201, name: Мастерство ядов
+2022/10/16 20:53:40 61873218 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: life1412, name: Здоровье
+2022/10/16 20:53:41 61873843 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: alchemist532, name: Травничество
+2022/10/16 20:53:43 61876046 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: life1216, name: Здоровье
+2022/10/16 20:53:45 61877843 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity862, name: Ловкость
+2022/10/16 20:53:58 61891031 fb7ae269 [INFO Client 8348] Successfully allocated mastery effect id: 47642, mastery: mastery_life146, name: Мастерство здоровья
+2022/10/16 20:54:33 61926406 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity864, name: Ловкость
+2022/10/16 20:54:40 61933187 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity866, name: Ловкость
+2022/10/16 20:54:41 61934515 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity865, name: Ловкость
+2022/10/16 20:55:03 61956109 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: evasion1692, name: Уклонение и сопротивление стихиям
+2022/10/16 20:55:06 61958781 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: evasion_resists_notable1691, name: Остаться в живых
+2022/10/16 20:55:20 61972750 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: attack_channel_charge2394, name: Подавление чар
+2022/10/16 20:55:22 61974859 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: attack_channel_charge2393, name: Подавление чар
+2022/10/16 20:55:25 61977828 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: attack_channel_charge2395, name: Подавление чар
+2022/10/16 20:55:26 61978828 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: attack_channel_charge_notable2396, name: Закоренелый
+2022/10/16 20:56:02 62015468 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: damage_ailment_critical_keystone_2182, name: Совершенная агония
+2022/10/16 20:56:04 62016828 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: flask_mana325, name: Получение зарядов флакона
+2022/10/16 20:56:04 62017421 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: flask_mana324, name: Получение зарядов флакона
+2022/10/16 20:56:05 62018015 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: flask_generic_notable2844_, name: Тщательная консервация
+2022/10/16 20:56:29 62042000 fb7ae269 [INFO Client 8348] Successfully allocated mastery effect id: 11869, mastery: mastery_flask124, name: Мастерство флаконов
+2022/10/16 20:56:35 62048656 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: flask_mana325, name: Получение зарядов флакона
+2022/10/16 20:56:36 62049531 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: flask_mana324, name: Получение зарядов флакона
+2022/10/16 20:56:37 62050437 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: flask_generic_notable2844_, name: Тщательная консервация
+2022/10/16 20:56:39 62052468 cff943d8 [INFO Client 8348] @От кого Whathers: Здравствуйте, хочу купить у вас Серебряный флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 5 столбец, 7 ряд)
+2022/10/16 20:56:43 62056359 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: damage_ailment_critical_keystone_2182, name: Совершенная агония
+2022/10/16 20:57:02 62075187 cff943d8 [INFO Client 8348] : Whathers присоединился.
+2022/10/16 20:57:29 62101781 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/16 20:57:33 62106203 cff943d8 [INFO Client 8348] : Whathers покинул область.
+2022/10/16 20:58:11 62144203 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity860, name: Ловкость
+2022/10/16 20:58:12 62145093 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: poison_damage2126, name: Шанс отравить
+2022/10/16 20:58:58 62190765 cff943d8 [INFO Client 8348] @От кого <§420§> Condooit: Здравствуйте, хочу купить у вас Вечный флакон маны за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 8 столбец, 1 ряд)
+2022/10/16 20:59:00 62193015 cff943d8 [INFO Client 8348] @От кого <§420§> Condooit: Здравствуйте, хочу купить у вас Вечный флакон маны за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 8 столбец, 5 ряд)
+2022/10/16 21:00:06 62259468 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 21:00:07 62259828 cff943d8 [INFO Client 8348] : Вы получили очко сброса пассивных умений.
+2022/10/16 21:00:25 62277734 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: poison_damage2126, name: Шанс отравить
+2022/10/16 21:00:28 62281000 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: dexterity860, name: Ловкость
+2022/10/16 21:00:30 62283312 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity877, name: Ловкость
+2022/10/16 21:00:31 62284015 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: might772, name: Бык
+2022/10/16 21:02:35 62408031 cff943d8 [INFO Client 8348] @От кого <§420§> Condooit: Здравствуйте, хочу купить у вас Изобилующий Вечный флакон маны лекарства за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 9 столбец, 1 ряд)
+2022/10/16 21:02:37 62409812 cff943d8 [INFO Client 8348] @От кого <§420§> Condooit: Здравствуйте, хочу купить у вас Вечный флакон маны за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 8 столбец, 5 ряд)
+2022/10/16 21:02:38 62411109 cff943d8 [INFO Client 8348] @От кого <§420§> Condooit: Здравствуйте, хочу купить у вас Вечный флакон маны за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 7 столбец, 5 ряд)
+2022/10/16 21:02:39 62411937 cff943d8 [INFO Client 8348] @От кого <§420§> Condooit: Здравствуйте, хочу купить у вас Вечный флакон маны за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 9 столбец, 5 ряд)
+2022/10/16 21:22:15 63588437 cff943d8 [INFO Client 8348] @Кому stechbiene: Hi, I'd like to buy your 164 Chromatic Orb for my 20 Chaos Orb in Kalandra
+2022/10/16 21:22:45 63617937 cff943d8 [INFO Client 8348] @Кому maxim_orb: 안녕하세요, Kalandra 리그의 1200 색채의 오브(을)를 1 카오스 오브(으)로 구매하고 싶습니다
+2022/10/16 21:23:09 63642703 cff943d8 [INFO Client 8348] @Кому kalandraEAZI: Hi, I'd like to buy your 160 Chromatic Orb for my 20 Chaos Orb in Kalandra
+2022/10/16 21:23:32 63665125 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 21:23:32 63665140 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 21:23:32 63665140 ca3a6737 [INFO Client 8348] Connecting to instance server at 91.206.197.97:6112
+2022/10/16 21:23:32 63665234 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 63ms
+2022/10/16 21:23:32 63665312 1186952b [DEBUG Client 8348] Generating level 60 area "HideoutBattleground" with seed 1
+2022/10/16 21:23:33 63665953 f22b69a6 [INFO Client 8348] Tile hash: 1361634024
+2022/10/16 21:23:33 63665953 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 21:23:35 63668687 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Потрепанное убежище.
+2022/10/16 21:23:38 63670796 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 21:23:51 63683812 cff943d8 [INFO Client 8348] : SinExxx покинул область.
+2022/10/16 21:23:53 63685765 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/16 21:23:59 63692250 cff943d8 [INFO Client 8348] @Кому kalandraEAZI: https://youtu.be/cVGI_XBnTEA?t=11826
+2022/10/16 21:23:59 63692343 cff943d8 [INFO Client 8348] @Кому kalandraEAZI: https://youtu.be/cVGI_XBnTEA?t=11826
+2022/10/16 21:24:02 63695046 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 21:24:02 63695062 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 21:24:02 63695062 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.236:6112
+2022/10/16 21:24:02 63695109 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 21:24:02 63695187 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/16 21:24:02 63695203 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/16 21:24:02 63695203 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 21:24:03 63696406 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/16 21:24:04 63697000 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 21:24:23 63716031 cff943d8 [INFO Client 8348] @Кому kalandraEAZI: ty
+2022/10/16 21:25:21 63774468 cff943d8 [INFO Client 8348] @От кого gameXDDD: Здравствуйте, хочу купить у вас Колючая пелена, Синтезированная Медвежья морда  за 1 chaos в лиге Kalandra (секция "~b/o 1 chaos"; позиция: 1 столбец, 7 ряд)
+2022/10/16 21:25:47 63800093 cff943d8 [INFO Client 8348] : gameXDDD присоединился.
+2022/10/16 21:26:14 63827000 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/16 21:26:16 63829187 cff943d8 [INFO Client 8348] @Кому gameXDDD: Thank you for the trade. Have a nice day and good luck!
+2022/10/16 21:26:24 63836718 cff943d8 [INFO Client 8348] @От кого gameXDDD: ty
+2022/10/16 21:26:32 63844796 cff943d8 [INFO Client 8348] : gameXDDD покинул область.
+2022/10/16 21:26:42 63854890 cff943d8 [INFO Client 8348] @От кого <REAL™> ZeroDropLeague: Здравствуйте, хочу купить у вас Громадные узы, Клёпаный ремень за 1 regret в лиге Kalandra (секция "~price 1 regret"; позиция: 9 столбец, 1 ряд)
+2022/10/16 21:27:07 63880453 cff943d8 [INFO Client 8348] : ZeroDropLeague присоединился.
+2022/10/16 21:27:29 63902609 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/16 21:27:34 63906734 cff943d8 [INFO Client 8348] : ZeroDropLeague покинул область.
+2022/10/16 21:27:35 63908437 cff943d8 [INFO Client 8348] : Действие невозможно выполнить, поскольку вы находитесь в группе.
+2022/10/16 21:27:40 63913046 cff943d8 [INFO Client 8348] @Кому ZeroDropLeague: Thank you for the trade. Have a nice day and good luck!
+2022/10/16 21:35:27 64380328 cff943d8 [INFO Client 8348] @От кого <sExi> Xonger: Здравствуйте, хочу купить у вас Моровый снаряд, Рубчатый наконечник за 1 regret в лиге Kalandra (секция "~price 1 regret"; позиция: 11 столбец, 7 ряд)
+2022/10/16 21:36:14 64427203 cff943d8 [INFO Client 8348] : Xonger присоединился.
+2022/10/16 21:36:24 64437203 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/16 21:36:35 64448328 cff943d8 [INFO Client 8348] : Xonger покинул область.
+2022/10/16 21:37:56 64528812 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/16 21:39:38 64631453 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 21:39:38 64631453 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 21:39:38 64631453 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.236:6112
+2022/10/16 21:39:38 64631515 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 21:39:38 64631593 1186952b [DEBUG Client 8348] Generating level 36 area "1_4_3_3" with seed 3884331979
+2022/10/16 21:39:39 64631796 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutMine
+2022/10/16 21:39:40 64632875 f22b69a6 [INFO Client 8348] Tile hash: 2441302230
+2022/10/16 21:39:40 64632875 f22b69a7 [INFO Client 8348] Doodad hash: 2016768125
+2022/10/16 21:39:41 64634375 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кристальная жила.
+2022/10/16 21:39:42 64635437 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 21:39:51 64644296 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 21:39:51 64644296 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 21:39:51 64644296 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.171:6112
+2022/10/16 21:39:51 64644359 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 21:39:51 64644421 1186952b [DEBUG Client 8348] Generating level 37 area "1_4_4_1" with seed 279325048
+2022/10/16 21:39:53 64646171 f22b69a6 [INFO Client 8348] Tile hash: 59567534
+2022/10/16 21:39:53 64646171 f22b69a7 [INFO Client 8348] Doodad hash: 268734846
+2022/10/16 21:39:54 64647234 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сон Каома.
+2022/10/16 21:39:55 64648156 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 21:41:19 64732703 cff943d8 [INFO Client 8348] @От кого Мой_крашш: Здравствуйте, хочу купить у вас Серебряный флакон за 1 regret в лиге Kalandra (секция "~price 1 regret"; позиция: 3 столбец, 7 ряд)
+2022/10/16 21:41:30 64743500 cff943d8 [INFO Client 8348] @Кому https://youtu.be/cVGI_XBnTEA?t=11826https://youtu.be/cVGI_XBnTEA?t=11826@Мой_крашш: sure. i am on my way to hideout.
+2022/10/16 21:41:31 64743875 cff943d8 [INFO Client 8348] : Не удалось отправить сообщение игроку https://youtu.be/cVGI_XBnTEA?t=11826https://youtu.be/cVGI_XBnTEA?t=11826@Мой_крашш, причина: The specified character does not exist.
+2022/10/16 21:41:43 64756187 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 21:41:43 64756187 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 21:41:43 64756187 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 21:41:43 64756250 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 21:41:43 64756343 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/16 21:41:45 64758578 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/16 21:41:45 64758578 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 21:41:46 64759671 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/16 21:41:47 64760625 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 21:41:52 64765375 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 21:41:52 64765390 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 21:41:52 64765390 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.151:6112
+2022/10/16 21:41:52 64765453 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 21:41:52 64765515 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/16 21:41:53 64765750 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/16 21:41:53 64765750 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 21:41:54 64766953 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/16 21:41:55 64767718 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 21:42:51 64823718 cff943d8 [INFO Client 8348] @Кому Мой_крашш: Sorry, Серебряный флакон already gone. Good luck on your search.
+2022/10/16 21:46:29 65041718 cff943d8 [INFO Client 8348] @От кого <SNkH> Rafiro: Здравствуйте, хочу купить у вас Опытный Серный флакон сома за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 4 столбец, 7 ряд)
+2022/10/16 21:47:55 65128468 cff943d8 [INFO Client 8348] @Кому Rafiro: Sorry, Опытный Серный флакон сома already gone. Good luck on your search.
+2022/10/16 22:00:31 65883937 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 22:00:31 65883953 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 22:00:31 65883953 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.167:6112
+2022/10/16 22:00:31 65884000 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 22:00:31 65884078 1186952b [DEBUG Client 8348] Generating level 36 area "1_4_3_3" with seed 4218847168
+2022/10/16 22:00:31 65884187 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutMine
+2022/10/16 22:00:32 65885015 f22b69a6 [INFO Client 8348] Tile hash: 3160354314
+2022/10/16 22:00:32 65885015 f22b69a7 [INFO Client 8348] Doodad hash: 2506343527
+2022/10/16 22:00:33 65886531 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кристальная жила.
+2022/10/16 22:00:34 65887500 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 22:01:03 65916031 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 22:01:03 65916031 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 22:01:03 65916031 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.236:6112
+2022/10/16 22:01:03 65916093 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 22:01:03 65916156 1186952b [DEBUG Client 8348] Generating level 37 area "1_4_5_1" with seed 2603381801
+2022/10/16 22:01:04 65916968 f22b69a6 [INFO Client 8348] Tile hash: 2560732050
+2022/10/16 22:01:04 65916968 f22b69a7 [INFO Client 8348] Doodad hash: 3056819812
+2022/10/16 22:01:05 65918171 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сон Дарессо.
+2022/10/16 22:01:06 65918890 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 22:01:07 65920531 cff943d8 [INFO Client 8348] Дарессо: Я Дарессо, Венценосец мечей. Я обрёл своё имя здесь, на площадках Теополиса. Я убивал бешеных псов и диких вепрей, чтобы заслужить человеческое обращение. Ты на самой славной из арен. Мне нет дела до твоего прошлого. Что же до будущего… За него тебе придётся сражаться!
+2022/10/16 22:09:19 66411781 cff943d8 [INFO Client 8348] @От кого Pulper: Здравствуйте, хочу купить у вас Алмазный флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 1 столбец, 7 ряд)
+2022/10/16 22:10:34 66487328 cff943d8 [INFO Client 8348] @От кого Pulper: Здравствуйте, хочу купить у вас Неиссякаемый Алмазный флакон осы за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 6 столбец, 3 ряд)
+2022/10/16 22:12:39 66612687 cff943d8 [INFO Client 8348] : DeeCovana (Следопыт) достигает 38 уровня
+2022/10/16 22:13:44 66676953 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity860, name: Ловкость
+2022/10/16 22:14:17 66710046 3796f5cb [WARN Client 8348] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/16 22:14:18 66710843 3796f5cb [WARN Client 8348] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/16 22:14:20 66712765 3796f5cb [WARN Client 8348] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/16 22:14:24 66716890 3796f5cb [WARN Client 8348] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/16 22:15:20 66773375 cff943d8 [INFO Client 8348] Дарессо: Жители трущоб, стисните зубы — скоро начнётся бойня!
+2022/10/16 22:15:59 66812171 cff943d8 [INFO Client 8348] Дарессо: Неплохое выступление, претендент, хоть и лишённое изящества. Но Гавул и его вонючие выродки – всего лишь разминка. Посмотрим, чего ты стоишь на Великой арене Теополиса!
+2022/10/16 22:16:13 66826687 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 22:16:13 66826687 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 22:16:13 66826687 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 22:16:14 66826750 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 22:16:14 66826828 1186952b [DEBUG Client 8348] Generating level 38 area "1_4_5_2" with seed 2703834083
+2022/10/16 22:16:15 66828703 f22b69a6 [INFO Client 8348] Tile hash: 2696686812
+2022/10/16 22:16:15 66828703 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 22:16:17 66830078 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Великая Арена.
+2022/10/16 22:16:18 66831046 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 22:16:19 66832265 cff943d8 [INFO Client 8348] Дарессо: Добро пожаловать на Великую арену Теополиса. Именно здесь я впервые узрел свою истинную цель, мою госпожу Мервейл. Влечение окрасило наши судьбы в яркие цвета. Претендент, а за что дерёшься ты? Сотни воинов хотели отнять мой титул. Все они мертвы. Победа достается не тем, кто умеет, а тем, кто желает.
+2022/10/16 22:16:28 66840843 cff943d8 [INFO Client 8348] @От кого PowerBottomAuras: Здравствуйте, хочу купить у вас Нефритовый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 3 столбец, 7 ряд)
+2022/10/16 22:17:18 66891578 cff943d8 [INFO Client 8348] @От кого SELFCOCK: Здравствуйте, хочу купить у вас Объёмный Аметистовый флакон спокойствия за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 1 столбец, 9 ряд)
+2022/10/16 22:17:25 66898437 cff943d8 [INFO Client 8348] @От кого SELFCOCK: Здравствуйте, хочу купить у вас Аметистовый флакон бекаса за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 1 столбец, 11 ряд)
+2022/10/16 22:18:24 66956828 cff943d8 [INFO Client 8348] @От кого Pulper: Здравствуйте, хочу купить у вас Серный флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 1 столбец, 5 ряд)
+2022/10/16 22:19:32 67025406 cff943d8 [INFO Client 8348] @От кого Cwdtwardloopscionkynna: Здравствуйте, хочу купить у вас Топазовый флакон высокого качества за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 7 ряд)
+2022/10/16 22:19:42 67034781 cff943d8 [INFO Client 8348] Дарессо: Претендент, умри красиво! Пусть толпа рукоплещет!
+2022/10/16 22:19:51 67044109 cff943d8 [INFO Client 8348] @От кого Cwdtwardloopscionkynna: Здравствуйте, хочу купить у вас Топазовый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 4 столбец, 11 ряд)
+2022/10/16 22:21:26 67139546 cff943d8 [INFO Client 8348] @От кого Cwdtwardloopscionkynna: Здравствуйте, хочу купить у вас Сапфировый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 4 столбец, 3 ряд)
+2022/10/16 22:21:37 67150250 cff943d8 [INFO Client 8348] @От кого Cwdtwardloopscionkynna: Здравствуйте, хочу купить у вас Сапфировый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 9 ряд)
+2022/10/16 22:21:40 67153328 cff943d8 [INFO Client 8348] : Режим "недоступен" включён. Авто-ответ "Игрок находится в режиме афк.".
+2022/10/16 22:22:41 67214578 cff943d8 [INFO Client 8348] : DeeCovana (Следопыт) достигает 39 уровня
+2022/10/16 22:24:05 67297875 cff943d8 [INFO Client 8348] : DeeCovana был повержен.
+2022/10/16 22:24:29 67321875 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: poison_damage2126, name: Шанс отравить
+2022/10/16 22:25:14 67367531 cff943d8 [INFO Client 8348] Дарессо: Эта схватка достойна песни! Твоя манера боя напомнила мне о том, каково это: быть одержимым победой. Но хватит ли твоей страсти, чтобы забрать венец? Скоро увидим.
+2022/10/16 22:25:59 67412562 cff943d8 [INFO Client 8348] Дарессо: Венценосец мечей должен уметь отстоять свой титул.
+2022/10/16 22:27:47 67520046 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 22:27:47 67520046 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 22:27:47 67520046 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 22:27:47 67520125 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 22:27:47 67520203 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/16 22:27:49 67522328 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/16 22:27:49 67522328 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 22:27:50 67523375 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/16 22:27:50 67523625 cff943d8 [INFO Client 8348] : Режим "недоступен" включён. Авто-ответ "Игрок находится в режиме афк.".
+2022/10/16 22:27:51 67524171 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 22:31:57 67770359 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/16 22:32:27 67800609 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 22:32:27 67800609 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 22:32:27 67800609 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.167:6112
+2022/10/16 22:32:27 67800671 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 22:32:28 67800734 1186952b [DEBUG Client 8348] Generating level 36 area "1_4_3_3" with seed 241996711
+2022/10/16 22:32:28 67800828 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutMine
+2022/10/16 22:32:28 67801625 f22b69a6 [INFO Client 8348] Tile hash: 922780402
+2022/10/16 22:32:28 67801625 f22b69a7 [INFO Client 8348] Doodad hash: 3337060218
+2022/10/16 22:32:29 67802421 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кристальная жила.
+2022/10/16 22:32:30 67802765 cff943d8 [INFO Client 8348] : Режим "недоступен" включён. Авто-ответ "Игрок находится в режиме афк.".
+2022/10/16 22:32:30 67803437 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 22:44:29 68522171 cff943d8 [INFO Client 8348] : Вы не можете попасть в убежище отсюда.
+2022/10/16 22:44:35 68527906 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 22:44:35 68527906 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 22:44:35 68527906 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 22:44:35 68527968 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 22:44:35 68528031 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/16 22:44:35 68528265 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/16 22:44:35 68528265 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 22:44:36 68529328 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/16 22:44:36 68529578 cff943d8 [INFO Client 8348] : Режим "недоступен" включён. Авто-ответ "Игрок находится в режиме афк.".
+2022/10/16 22:44:37 68530015 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 22:46:40 68653656 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 22:46:40 68653671 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 22:46:40 68653671 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 22:46:41 68653734 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 32ms
+2022/10/16 22:46:41 68653796 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/16 22:46:42 68655656 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/16 22:46:42 68655656 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 22:46:43 68656562 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/16 22:46:44 68656812 cff943d8 [INFO Client 8348] : Режим "недоступен" включён. Авто-ответ "Игрок находится в режиме афк.".
+2022/10/16 22:46:44 68657328 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 22:47:13 68686281 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 22:47:13 68686281 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 22:47:13 68686281 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 22:47:13 68686343 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 22:47:13 68686406 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/16 22:47:13 68686421 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/16 22:47:13 68686421 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 22:47:14 68687406 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/16 22:47:14 68687625 cff943d8 [INFO Client 8348] : Режим "недоступен" включён. Авто-ответ "Игрок находится в режиме афк.".
+2022/10/16 22:47:15 68688078 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 22:48:29 68762453 cff943d8 [INFO Client 8348] : Не удалось применить предмет: Неправильный базовый тип предмета.
+2022/10/16 22:55:25 69177921 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:55:27 69180031 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:55:31 69184125 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:55:35 69187953 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:55:38 69191437 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:55:49 69202281 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:55:52 69205031 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:55:54 69207296 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:55:56 69209609 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:55:59 69211796 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:56:30 69243406 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:56:32 69245656 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:56:34 69247531 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:56:37 69250406 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:56:40 69253296 cff943d8 [INFO Client 8348] : Вы не можете общаться в чате, пока включен режим "Не беспокоить"
+2022/10/16 22:57:21 69294421 cff943d8 [INFO Client 8348] : Режим "недоступен" выключен.
+2022/10/16 22:57:37 69310078 cff943d8 [INFO Client 8348] @Кому Azagramsobie: Hi, I would like to buy your Forbidden Taste Quartz Flask listed for 1 chaos in Kalandra (stash tab "Selling"; position: left 24, top 1)
+2022/10/16 22:57:39 69311875 cff943d8 [INFO Client 8348] @Кому eXodiaaaa: Hi, I would like to buy your Forbidden Taste Quartz Flask listed for 1 chaos in Kalandra (stash tab "trade itemy"; position: left 3, top 6)
+2022/10/16 22:57:41 69313765 cff943d8 [INFO Client 8348] @Кому Kolberg: Hi, I would like to buy your Forbidden Taste Quartz Flask listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 5)
+2022/10/16 22:57:41 69314625 cff943d8 [INFO Client 8348] @От кого Kolberg: This player is AFK.
+2022/10/16 22:57:43 69316203 cff943d8 [INFO Client 8348] @Кому Dura_king: Hi, I would like to buy your Forbidden Taste Quartz Flask listed for 2 chaos in Kalandra (stash tab "~price 2 chaos"; position: left 12, top 11)
+2022/10/16 22:57:56 69329562 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 22:57:56 69329578 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 22:57:56 69329578 ca3a6737 [INFO Client 8348] Connecting to instance server at 85.195.123.193:6112
+2022/10/16 22:57:56 69329625 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 22:57:56 69329703 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/16 22:57:57 69329718 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/16 22:57:57 69329718 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 22:57:59 69331890 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/16 22:58:01 69333859 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 22:58:11 69343906 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/16 22:58:16 69348937 cff943d8 [INFO Client 8348] @Кому Azagramsobie: Thank you for the trade. Have a nice day and good luck!
+2022/10/16 22:58:16 69349078 cff943d8 [INFO Client 8348] : Цель данной операции не была членом группы
+2022/10/16 22:58:42 69375593 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 22:58:42 69375609 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 22:58:42 69375609 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.171:6112
+2022/10/16 22:58:42 69375671 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 22:58:43 69375734 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/16 22:58:43 69375750 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/16 22:58:43 69375750 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 22:58:44 69376843 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/16 22:58:44 69377453 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:00:54 69507046 cff943d8 [INFO Client 8348] @Кому alendula: Здравствуйте, хочу купить у вас Запретный вкус Кварцевый флакон за 4 fusing в лиге Kalandra (секция "5"; позиция: 6 столбец, 6 ряд)
+2022/10/16 23:01:23 69536281 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:01:23 69536296 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:01:23 69536296 ca3a6737 [INFO Client 8348] Connecting to instance server at 134.119.214.183:6112
+2022/10/16 23:01:23 69536359 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 32ms
+2022/10/16 23:01:23 69536390 1186952b [DEBUG Client 8348] Generating level 60 area "HideoutRuinedTemple" with seed 1
+2022/10/16 23:01:24 69536718 f22b69a6 [INFO Client 8348] Tile hash: 1540141148
+2022/10/16 23:01:24 69536718 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 23:01:25 69537890 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Мрачное убежище.
+2022/10/16 23:01:26 69539156 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:01:33 69545984 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/16 23:01:36 69549250 cff943d8 [INFO Client 8348] @Кому alendula: Thank you for the trade. Have a nice day and good luck!
+2022/10/16 23:01:38 69550765 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:01:38 69550765 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:01:38 69550765 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.171:6112
+2022/10/16 23:01:38 69550828 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 23:01:38 69550906 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/16 23:01:38 69550906 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/16 23:01:38 69550906 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 23:01:39 69552359 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/16 23:01:40 69552953 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:08:32 69965500 cff943d8 [INFO Client 8348] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2022/10/16 23:11:22 70135218 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:11:22 70135234 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:11:22 70135234 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 23:11:22 70135296 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 23:11:22 70135359 1186952b [DEBUG Client 8348] Generating level 36 area "1_4_3_3" with seed 3667094964
+2022/10/16 23:11:22 70135468 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutMine
+2022/10/16 23:11:23 70136500 f22b69a6 [INFO Client 8348] Tile hash: 2050163984
+2022/10/16 23:11:23 70136500 f22b69a7 [INFO Client 8348] Doodad hash: 2969389219
+2022/10/16 23:11:24 70137625 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кристальная жила.
+2022/10/16 23:11:25 70138687 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:11:31 70143906 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:11:31 70143906 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:11:31 70143906 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.151:6112
+2022/10/16 23:11:31 70143968 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 23:11:31 70144031 1186952b [DEBUG Client 8348] Generating level 37 area "1_4_4_1" with seed 971686696
+2022/10/16 23:11:32 70145453 f22b69a6 [INFO Client 8348] Tile hash: 3542830512
+2022/10/16 23:11:32 70145453 f22b69a7 [INFO Client 8348] Doodad hash: 1188356066
+2022/10/16 23:11:33 70146546 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сон Каома.
+2022/10/16 23:11:34 70147421 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:12:33 70206250 cff943d8 [INFO Client 8348] @От кого <{1337}> JUIF: Здравствуйте, хочу купить у вас Кварцевый флакон черепахи за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 3 столбец, 1 ряд)
+2022/10/16 23:12:37 70210312 cff943d8 [INFO Client 8348] @Кому JUIF: Currently in Сон Каома. Do you want to wait until finished?
+2022/10/16 23:13:30 70262765 cff943d8 [INFO Client 8348] : DeeCovana покончил с собой
+2022/10/16 23:14:23 70316046 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:14:23 70316046 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:14:23 70316046 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 23:14:23 70316109 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 32ms
+2022/10/16 23:14:23 70316171 1186952b [DEBUG Client 8348] Generating level 36 area "1_4_3_3" with seed 3667094964
+2022/10/16 23:14:23 70316171 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutMine
+2022/10/16 23:14:23 70316234 f22b69a6 [INFO Client 8348] Tile hash: 2050163984
+2022/10/16 23:14:23 70316234 f22b69a7 [INFO Client 8348] Doodad hash: 2969389219
+2022/10/16 23:14:24 70317281 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кристальная жила.
+2022/10/16 23:14:25 70318015 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:14:34 70327171 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:14:34 70327171 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:14:34 70327171 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.253:6112
+2022/10/16 23:14:34 70327234 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 23:14:34 70327312 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/16 23:14:34 70327562 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/16 23:14:34 70327562 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 23:14:35 70328515 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/16 23:14:36 70329187 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:19:14 70606796 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:19:14 70606812 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:19:14 70606812 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.169:6112
+2022/10/16 23:19:14 70606875 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 23:19:14 70606937 1186952b [DEBUG Client 8348] Generating level 36 area "1_4_3_3" with seed 3667094964
+2022/10/16 23:19:14 70606937 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutMine
+2022/10/16 23:19:14 70606984 f22b69a6 [INFO Client 8348] Tile hash: 2050163984
+2022/10/16 23:19:14 70606984 f22b69a7 [INFO Client 8348] Doodad hash: 2969389219
+2022/10/16 23:19:15 70607968 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кристальная жила.
+2022/10/16 23:19:16 70608953 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:19:51 70644578 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:19:51 70644578 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:19:51 70644578 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 23:19:51 70644640 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 23:19:52 70644718 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/16 23:19:54 70647296 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/16 23:19:54 70647296 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 23:19:55 70648406 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/16 23:19:56 70649156 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:23:03 70835906 cff943d8 [INFO Client 8348] @От кого <RoArmy> Crashy_McBurny: Здравствуйте, хочу купить у вас Рубиновый флакон бекаса за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 11 ряд)
+2022/10/16 23:23:04 70836750 cff943d8 [INFO Client 8348] @От кого <RoArmy> Crashy_McBurny: Здравствуйте, хочу купить у вас Рубиновый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 5 ряд)
+2022/10/16 23:23:11 70843828 cff943d8 [INFO Client 8348] @От кого <{1337}> JUIF: done?
+2022/10/16 23:28:42 71175359 cff943d8 [INFO Client 8348] @От кого Kalandra_Zolobok: Здравствуйте, хочу купить у вас Ртутный флакон карпа за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 1 столбец, 3 ряд)
+2022/10/16 23:28:43 71176015 cff943d8 [INFO Client 8348] @От кого Kalandra_Zolobok: Здравствуйте, хочу купить у вас Ртутный флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 7 столбец, 7 ряд)
+2022/10/16 23:29:00 71192859 cff943d8 [INFO Client 8348] : Вы получили очко пассивных умений.
+2022/10/16 23:29:00 71192859 cff943d8 [INFO Client 8348] : Вы получили очков сброса пассивных умений: 2.
+2022/10/16 23:29:28 71221640 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/16 23:29:44 71237265 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: degen_damage2129, name: Шанс отравить и длительность яда
+2022/10/16 23:30:55 71308593 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:30:55 71308609 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:30:55 71308609 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/16 23:30:55 71308671 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 23:30:56 71308734 1186952b [DEBUG Client 8348] Generating level 36 area "1_4_3_3" with seed 3553708463
+2022/10/16 23:30:56 71308734 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutMine
+2022/10/16 23:30:56 71308843 f22b69a6 [INFO Client 8348] Tile hash: 3885636010
+2022/10/16 23:30:56 71308843 f22b69a7 [INFO Client 8348] Doodad hash: 2083567500
+2022/10/16 23:30:56 71309625 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кристальная жила.
+2022/10/16 23:30:57 71310593 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:31:11 71324250 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:31:11 71324250 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:31:11 71324250 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/16 23:31:11 71324312 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 46ms
+2022/10/16 23:31:11 71324390 1186952b [DEBUG Client 8348] Generating level 37 area "1_4_4_1" with seed 2446721240
+2022/10/16 23:31:13 71326031 f22b69a6 [INFO Client 8348] Tile hash: 3065074128
+2022/10/16 23:31:13 71326031 f22b69a7 [INFO Client 8348] Doodad hash: 115778449
+2022/10/16 23:31:14 71327046 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сон Каома.
+2022/10/16 23:31:15 71327843 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:31:26 71339218 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:31:26 71339218 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:31:26 71339218 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/16 23:31:26 71339281 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 23:31:26 71339359 1186952b [DEBUG Client 8348] Generating level 36 area "1_4_3_3" with seed 3553708463
+2022/10/16 23:31:26 71339359 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutMine
+2022/10/16 23:31:26 71339406 f22b69a6 [INFO Client 8348] Tile hash: 3885636010
+2022/10/16 23:31:26 71339406 f22b69a7 [INFO Client 8348] Doodad hash: 2083567500
+2022/10/16 23:31:27 71340500 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кристальная жила.
+2022/10/16 23:31:28 71341156 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:31:34 71346937 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:31:34 71346953 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:31:34 71346953 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.171:6112
+2022/10/16 23:31:34 71347015 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/16 23:31:34 71347078 1186952b [DEBUG Client 8348] Generating level 38 area "1_4_4_3" with seed 1321500348
+2022/10/16 23:31:35 71348453 f22b69a6 [INFO Client 8348] Tile hash: 34742034
+2022/10/16 23:31:35 71348453 f22b69a7 [INFO Client 8348] Doodad hash: 1727664551
+2022/10/16 23:31:37 71349750 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Крепость Каома.
+2022/10/16 23:31:37 71350609 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:32:33 71406578 cff943d8 [INFO Client 8348] @От кого CelestialSpear: Здравствуйте, хочу купить у вас Кварцевый флакон черепахи за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 3 столбец, 1 ряд)
+2022/10/16 23:33:55 71488093 cff943d8 [INFO Client 8348] @От кого FunCharge: Здравствуйте, хочу купить у вас Сапфировый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 9 ряд)
+2022/10/16 23:35:33 71586234 cff943d8 [INFO Client 8348] : DeeCovana (Следопыт) достигает 40 уровня
+2022/10/16 23:36:20 71633625 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: poison_notable2128, name: Смертельные токсины
+2022/10/16 23:36:41 71654593 cff943d8 [INFO Client 8348] Вождь Каом: Отправляйся к предкам!
+2022/10/16 23:36:52 71664968 cff943d8 [INFO Client 8348] @От кого plutrazriv: Здравствуйте, хочу купить у вас Топазовый флакон высокого качества за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 7 ряд)
+2022/10/16 23:36:53 71665921 cff943d8 [INFO Client 8348] @От кого plutrazriv: Здравствуйте, хочу купить у вас Топазовый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 4 столбец, 11 ряд)
+2022/10/16 23:36:54 71667031 cff943d8 [INFO Client 8348] @От кого plutrazriv: Здравствуйте, хочу купить у вас Топазовый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 3 столбец, 11 ряд)
+2022/10/16 23:37:41 71713906 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:37:41 71713906 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:37:41 71713906 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 23:37:41 71713968 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 23:37:41 71714046 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/16 23:37:44 71716796 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/16 23:37:44 71716796 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 23:37:45 71718187 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/16 23:37:46 71718937 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:38:01 71734031 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:38:01 71734031 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:38:01 71734031 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/16 23:38:01 71734109 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 23:38:01 71734171 1186952b [DEBUG Client 8348] Generating level 36 area "1_4_3_3" with seed 3553708463
+2022/10/16 23:38:01 71734265 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutMine
+2022/10/16 23:38:02 71735312 f22b69a6 [INFO Client 8348] Tile hash: 3885636010
+2022/10/16 23:38:02 71735312 f22b69a7 [INFO Client 8348] Doodad hash: 2083567500
+2022/10/16 23:38:03 71736171 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кристальная жила.
+2022/10/16 23:38:04 71736875 cff943d8 [INFO Client 8348] @От кого Mouloud_à_dubaï: Здравствуйте, хочу купить у вас Вечный флакон маны за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 7 столбец, 1 ряд)
+2022/10/16 23:38:04 71737140 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:38:17 71750656 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:38:17 71750656 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:38:17 71750656 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/16 23:38:18 71750718 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/16 23:38:18 71750796 1186952b [DEBUG Client 8348] Generating level 38 area "1_4_6_1" with seed 2899507326
+2022/10/16 23:38:18 71751593 f22b69a6 [INFO Client 8348] Tile hash: 1739347020
+2022/10/16 23:38:18 71751593 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 23:38:19 71752640 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Брюхо Зверя — уровень 1.
+2022/10/16 23:38:20 71753421 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:38:32 71764750 cff943d8 [INFO Client 8348] @От кого plutrazriv: Здравствуйте, хочу купить у вас Сапфировый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 4 столбец, 3 ряд)
+2022/10/16 23:38:32 71765234 cff943d8 [INFO Client 8348] @От кого plutrazriv: Здравствуйте, хочу купить у вас Сапфировый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 9 ряд)
+2022/10/16 23:38:33 71766218 cff943d8 [INFO Client 8348] @От кого plutrazriv: Здравствуйте, хочу купить у вас Сапфировый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 5 столбец, 9 ряд)
+2022/10/16 23:39:06 71799265 cff943d8 [INFO Client 8348] @От кого plutrazriv: Здравствуйте, хочу купить у вас Сапфировый флакон высокого качества за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 5 столбец, 7 ряд)
+2022/10/16 23:40:16 71868796 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/16 23:40:16 71868796 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/16 23:40:16 71868796 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.138:6112
+2022/10/16 23:40:16 71868859 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 32ms
+2022/10/16 23:40:16 71868937 1186952b [DEBUG Client 8348] Generating level 39 area "1_4_6_2" with seed 2692379953
+2022/10/16 23:40:16 71869687 f22b69a6 [INFO Client 8348] Tile hash: 274463368
+2022/10/16 23:40:16 71869687 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/16 23:40:17 71870671 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Брюхо Зверя — уровень 2.
+2022/10/16 23:40:18 71871578 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/16 23:41:12 71925593 cff943d8 [INFO Client 8348] : Пусть сильнее грянет буря
+2022/10/16 23:43:14 72046734 cff943d8 [INFO Client 8348] Вера: Видишь, насколько бесполезно убивать идею?
+2022/10/16 23:43:46 72079609 cff943d8 [INFO Client 8348] @От кого azov_Eisenhorn: Здравствуйте, хочу купить у вас Алмазный флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 1 столбец, 7 ряд)
+2022/10/16 23:43:56 72089437 cff943d8 [INFO Client 8348] : DeeCovana был повержен.
+2022/10/16 23:44:30 72123328 cff943d8 [INFO Client 8348] Вера: Охотница, ты загнала крупного зверя.
+2022/10/16 23:53:11 72644562 cff943d8 [INFO Client 8348] @От кого TheGodSlayer_RF: Здравствуйте, хочу купить у вас Рубиновый флакон бекаса за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 11 ряд)
+2022/10/17 00:00:15 73068609 cff943d8 [INFO Client 8348] : Режим "отошёл" включён. Авто-ответ "Игрок отошёл.".
+2022/10/17 00:00:33 73085765 cff943d8 [INFO Client 8348] @От кого AskTrueHuntress: Здравствуйте, хочу купить у вас Гадкая хитрость, Самоцвет пытливого глаза за 1 regret в лиге Kalandra (секция "~price 1 regret"; позиция: 3 столбец, 9 ряд)
+2022/10/17 00:00:33 73085765 cff943d8 [INFO Client 8348] @Кому AskTrueHuntress: Игрок отошёл.
+2022/10/17 00:00:50 73103578 cff943d8 [INFO Client 8348] : Режим "отошёл" выключен.
+2022/10/17 00:01:02 73114984 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:01:02 73114984 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:01:02 73114984 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.236:6112
+2022/10/17 00:01:02 73115046 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:01:02 73115140 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_6_3" with seed 2163153597
+2022/10/17 00:01:06 73119437 f22b69a6 [INFO Client 8348] Tile hash: 3997223204
+2022/10/17 00:01:06 73119437 f22b69a7 [INFO Client 8348] Doodad hash: 1202803091
+2022/10/17 00:01:08 73121156 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Жатва.
+2022/10/17 00:01:09 73122312 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:01:29 73142500 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:01:29 73142515 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:01:29 73142515 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 00:01:29 73142578 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:01:29 73142640 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 00:01:30 73142984 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/17 00:01:30 73142984 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:01:31 73144531 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 00:01:32 73145437 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:01:38 73151656 cff943d8 [INFO Client 8348] : Действие невозможно выполнить, поскольку вы находитесь в группе.
+2022/10/17 00:01:57 73170312 cff943d8 [INFO Client 8348] @Кому AskTrueHuntress: Are you still interested in Гадкая хитрость, Самоцвет пытливого глаза for 1 regret?
+2022/10/17 00:02:04 73177203 cff943d8 [INFO Client 8348] @От кого AskTrueHuntress: +++
+2022/10/17 00:02:22 73195468 cff943d8 [INFO Client 8348] : AskTrueHuntress присоединился.
+2022/10/17 00:02:33 73206656 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/17 00:02:37 73210109 cff943d8 [INFO Client 8348] : AskTrueHuntress покинул область.
+2022/10/17 00:02:37 73210250 cff943d8 [INFO Client 8348] @Кому AskTrueHuntress: https://www.pathofexile.com/account/view-profile/SteamCovan/characters
+2022/10/17 00:02:37 73210343 cff943d8 [INFO Client 8348] @Кому AskTrueHuntress: https://www.pathofexile.com/account/view-profile/SteamCovan/characters
+2022/10/17 00:03:05 73238234 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:03:05 73238234 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:03:05 73238250 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 00:03:05 73238312 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:03:05 73238375 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/17 00:03:08 73240796 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/17 00:03:08 73240796 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:03:09 73242203 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/17 00:03:10 73243468 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:03:24 73257046 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/17 00:03:34 73267531 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:03:34 73267546 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:03:34 73267546 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.236:6112
+2022/10/17 00:03:34 73267609 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 32ms
+2022/10/17 00:03:34 73267671 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_6_3" with seed 2163153597
+2022/10/17 00:03:37 73269921 f22b69a6 [INFO Client 8348] Tile hash: 3997223204
+2022/10/17 00:03:37 73269921 f22b69a7 [INFO Client 8348] Doodad hash: 1202803091
+2022/10/17 00:03:39 73271812 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Жатва.
+2022/10/17 00:03:40 73272812 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:03:49 73282000 cff943d8 [INFO Client 8348] : Чтобы войти в Средоточие тьмы - убейте трёх стражей Малахая и отнесите Вере органы Малахая.
+2022/10/17 00:05:17 73370296 cff943d8 [INFO Client 8348] : DeeCovana (Следопыт) достигает 41 уровня
+2022/10/17 00:05:37 73390609 fb7ae269 [INFO Client 8348] Successfully allocated mastery effect id: 16264, mastery: mastery_poison199, name: Мастерство ядов
+2022/10/17 00:06:12 73424953 cff943d8 [INFO Client 8348] Шавронн: Какой прекрасный образчик!
+2022/10/17 00:06:50 73463171 cff943d8 [INFO Client 8348] @От кого gameXDDD: wtf
+2022/10/17 00:06:56 73469359 cff943d8 [INFO Client 8348] @От кого gameXDDD: i cant
+2022/10/17 00:07:13 73485906 cff943d8 [INFO Client 8348] @От кого gameXDDD: wait
+2022/10/17 00:07:16 73489640 cff943d8 [INFO Client 8348] @От кого gameXDDD: i
+2022/10/17 00:07:17 73490234 cff943d8 [INFO Client 8348] @Кому gameXDDD: 7
+2022/10/17 00:07:30 73503125 cff943d8 [INFO Client 8348] @Кому gameXDDD: ?
+2022/10/17 00:07:50 73523000 cff943d8 [INFO Client 8348] @От кого gameXDDD: i cant accept
+2022/10/17 00:08:46 73579062 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:08:46 73579062 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:08:46 73579062 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 00:08:46 73579125 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:08:46 73579187 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/17 00:08:46 73579218 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/17 00:08:46 73579218 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:08:47 73580687 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/17 00:08:49 73582031 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:08:51 73583812 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:08:51 73583812 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:08:51 73583812 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/17 00:08:51 73583875 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:08:51 73583937 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 00:08:51 73584125 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/17 00:08:51 73584125 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:08:52 73585578 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 00:08:53 73586281 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:09:55 73648265 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/17 00:10:02 73655312 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:10:02 73655328 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:10:02 73655328 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 00:10:02 73655359 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:10:02 73655421 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/17 00:10:02 73655453 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/17 00:10:02 73655453 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:10:04 73656750 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/17 00:10:05 73658062 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:10:07 73659781 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:10:07 73659781 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:10:07 73659781 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.236:6112
+2022/10/17 00:10:07 73659859 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:10:07 73659937 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_6_3" with seed 2163153597
+2022/10/17 00:10:09 73662296 f22b69a6 [INFO Client 8348] Tile hash: 3997223204
+2022/10/17 00:10:09 73662296 f22b69a7 [INFO Client 8348] Doodad hash: 1202803091
+2022/10/17 00:10:11 73663781 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Жатва.
+2022/10/17 00:10:12 73664812 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:10:40 73693312 cff943d8 [INFO Client 8348] @От кого ПостепенныйБум: Здравствуйте, хочу купить у вас Благодатный флакон жизни термодинамики за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 10 столбец, 3 ряд)
+2022/10/17 00:10:41 73694453 cff943d8 [INFO Client 8348] @От кого ПостепенныйБум: Здравствуйте, хочу купить у вас Питательный Благодатный флакон жизни хода за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 11 столбец, 3 ряд)
+2022/10/17 00:10:44 73697078 cff943d8 [INFO Client 8348] @От кого ПостепенныйБум: Здравствуйте, хочу купить у вас Бурлящий Благодатный флакон жизни увлажнения за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 12 столбец, 3 ряд)
+2022/10/17 00:10:55 73708703 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:10:56 73708703 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:10:56 73708703 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 00:10:56 73708765 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:10:56 73708843 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/17 00:10:56 73708875 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/17 00:10:56 73708875 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:10:57 73710000 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/17 00:10:58 73710890 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:10:58 73711593 cff943d8 [INFO Client 8348] @Кому ПостепенныйБум: sure. i am on my way to hideout.
+2022/10/17 00:11:04 73716828 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:11:04 73716828 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:11:04 73716828 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 00:11:04 73716906 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 32ms
+2022/10/17 00:11:04 73716968 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 00:11:04 73717187 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/17 00:11:04 73717187 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:11:05 73718421 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 00:11:06 73719250 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:11:07 73720000 cff943d8 [INFO Client 8348] : Ошибка: Не удалось войти в область.
+2022/10/17 00:11:37 73750062 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:11:37 73750062 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:11:37 73750062 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 00:11:37 73750125 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:11:37 73750187 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/17 00:11:37 73750218 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/17 00:11:37 73750218 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:11:38 73751296 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/17 00:11:39 73752515 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:11:42 73754718 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:11:42 73754718 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:11:42 73754718 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.236:6112
+2022/10/17 00:11:42 73754781 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:11:42 73754859 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_6_3" with seed 2163153597
+2022/10/17 00:11:44 73757093 f22b69a6 [INFO Client 8348] Tile hash: 3997223204
+2022/10/17 00:11:44 73757093 f22b69a7 [INFO Client 8348] Doodad hash: 1202803091
+2022/10/17 00:11:45 73758453 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Жатва.
+2022/10/17 00:11:46 73759343 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:11:52 73764828 cff943d8 [INFO Client 8348] Дознаватель Малигаро: Прелестно!
+2022/10/17 00:12:40 73813500 cff943d8 [INFO Client 8348] : DeeCovana был повержен.
+2022/10/17 00:12:52 73824812 cff943d8 [INFO Client 8348] Дознаватель Малигаро: Во мне умирает... творец...
+2022/10/17 00:13:21 73853718 cff943d8 [INFO Client 8348] Малахай: По правде говоря, я восхищаюсь тобой. 
+Мы с тобой можем создать самые удивительные из кошмаров. Творение… Говорят, это удел природы. Ты с этим согласна? Я — нет.
+2022/10/17 00:13:36 73868859 cff943d8 [INFO Client 8348] Вера: Изгнанница, вперёд!
+2022/10/17 00:13:50 73883000 cff943d8 [INFO Client 8348] Вера: Убей меня!
+2022/10/17 00:14:09 73901796 cff943d8 [INFO Client 8348] Малахай: Что?!
+2022/10/17 00:14:10 73902812 cff943d8 [INFO Client 8348] Вера: Изгнанница, вперёд!
+2022/10/17 00:14:21 73914046 cff943d8 [INFO Client 8348] Вера: Убей меня!
+2022/10/17 00:14:48 73941406 cff943d8 [INFO Client 8348] Вера: Вот что я получаю за попытку быть героем. Ты… Как легко тебе это далось. Словно ты была рождена, чтобы убить меня. Какая ирония. Я всю жизнь билась, чтобы сделать лучше себя, других, целый мир. А ты просто жила и достигла большего. Охотница, нанеси последний удар. Для тебя это так естественно.
+2022/10/17 00:14:52 73945468 cff943d8 [INFO Client 8348] Малахай: Наконец-то один... Посмотрим, действительно ли ты понимаешь суть Кошмара.
+2022/10/17 00:15:08 73961218 cff943d8 [INFO Client 8348] Малахай: Только Кошмар поистине вечен!
+2022/10/17 00:16:11 74024359 cff943d8 [INFO Client 8348] : DeeCovana был повержен.
+2022/10/17 00:16:50 74063484 cff943d8 [INFO Client 8348] Малахай: Прими дар бессмертия!
+2022/10/17 00:17:39 74111859 cff943d8 [INFO Client 8348] Малахай: Только Кошмар поистине вечен!
+2022/10/17 00:17:44 74116812 cff943d8 [INFO Client 8348] Малахай: Почему ты так цепляешься за смерть?
+2022/10/17 00:18:04 74137234 bce2d691 [INFO Client 8348] Steam stats stored
+2022/10/17 00:18:50 74183687 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:18:50 74183703 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:18:50 74183703 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 00:18:51 74183765 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:18:51 74183828 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/17 00:18:51 74183859 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/17 00:18:51 74183859 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:18:52 74184875 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/17 00:18:53 74186046 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:19:03 74195781 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/17 00:22:36 74409640 cff943d8 [INFO Client 8348] @От кого Тан_Сан: Здравствуйте, хочу купить у вас Питательный Благодатный флакон жизни хода за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 11 столбец, 3 ряд)
+2022/10/17 00:22:45 74418015 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:22:45 74418015 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:22:45 74418015 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.236:6112
+2022/10/17 00:22:45 74418078 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:22:45 74418140 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 00:22:45 74418406 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/17 00:22:45 74418406 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:22:47 74419796 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 00:22:48 74420828 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:22:54 74426921 cff943d8 [INFO Client 8348] : Тан_Сан присоединился.
+2022/10/17 00:23:11 74444546 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/17 00:23:13 74446203 cff943d8 [INFO Client 8348] @Кому Тан_Сан: Thank you for the trade. Have a nice day and good luck!
+2022/10/17 00:23:19 74452375 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:23:19 74452375 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:23:19 74452375 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 00:23:19 74452437 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 46ms
+2022/10/17 00:23:19 74452515 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_town" with seed 1
+2022/10/17 00:23:19 74452531 f22b69a6 [INFO Client 8348] Tile hash: 2842060040
+2022/10/17 00:23:19 74452531 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:23:20 74453343 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Македы.
+2022/10/17 00:23:21 74454671 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:23:33 74466312 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:23:33 74466312 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:23:33 74466312 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.138:6112
+2022/10/17 00:23:33 74466375 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:23:33 74466453 1186952b [DEBUG Client 8348] Generating level 40 area "1_4_7" with seed 506944266
+2022/10/17 00:23:35 74468140 f22b69a6 [INFO Client 8348] Tile hash: 739238478
+2022/10/17 00:23:35 74468140 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:23:37 74470031 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Подъём.
+2022/10/17 00:23:38 74471156 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:27:13 74685796 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:27:13 74685828 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:27:13 74685828 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.236:6112
+2022/10/17 00:27:13 74685890 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:27:13 74685968 1186952b [DEBUG Client 8348] Generating level 41 area "1_5_1" with seed 663577974
+2022/10/17 00:27:14 74687453 f22b69a6 [INFO Client 8348] Tile hash: 2803397972
+2022/10/17 00:27:14 74687453 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:27:16 74689031 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Узилище.
+2022/10/17 00:27:17 74689890 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:28:56 74788859 cff943d8 [INFO Client 8348] : DeeCovana (Следопыт) достигает 42 уровня
+2022/10/17 00:32:20 74992921 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:32:20 74992921 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:32:20 74992921 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/17 00:32:20 74992984 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 32ms
+2022/10/17 00:32:20 74993062 1186952b [DEBUG Client 8348] Generating level 45 area "1_5_town" with seed 1
+2022/10/17 00:32:22 74995000 f22b69a6 [INFO Client 8348] Tile hash: 2180360276
+2022/10/17 00:32:22 74995000 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:32:23 74996328 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня надзирателя.
+2022/10/17 00:32:25 74998218 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:33:24 75057109 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: projectile_damage2015, name: Урон снарядами
+2022/10/17 00:33:40 75073421 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/17 00:41:36 75548984 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:41:36 75549000 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:41:36 75549000 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.167:6112
+2022/10/17 00:41:36 75549062 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 46ms
+2022/10/17 00:41:36 75549125 1186952b [DEBUG Client 8348] Generating level 41 area "1_5_2" with seed 2098137670
+2022/10/17 00:41:37 75550437 f22b69a6 [INFO Client 8348] Tile hash: 3321345510
+2022/10/17 00:41:37 75550437 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:41:39 75551750 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Изолятор.
+2022/10/17 00:41:39 75552687 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:41:58 75571093 cff943d8 [INFO Client 8348] @От кого <POOUR> Nate_HHLow_FiveWay: Здравствуйте, хочу купить у вас Преступный Корундовый флакон скорпиона за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 3 ряд)
+2022/10/17 00:42:06 75579250 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:42:06 75579250 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:42:06 75579250 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/17 00:42:06 75579312 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:42:06 75579375 1186952b [DEBUG Client 8348] Generating level 45 area "1_5_town" with seed 1
+2022/10/17 00:42:06 75579406 f22b69a6 [INFO Client 8348] Tile hash: 2180360276
+2022/10/17 00:42:06 75579406 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:42:07 75580218 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня надзирателя.
+2022/10/17 00:42:08 75580937 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:42:18 75591171 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:42:18 75591171 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:42:18 75591187 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 00:42:18 75591234 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:42:18 75591312 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 00:42:18 75591593 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/17 00:42:18 75591593 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:42:19 75592687 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 00:42:20 75593500 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:42:27 75600640 cff943d8 [INFO Client 8348] @Кому Nate_HHLow_FiveWay: Are you still interested in Преступный Корундовый флакон скорпиона for 1 alch?
+2022/10/17 00:42:42 75615171 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:42:42 75615171 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:42:42 75615171 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/17 00:42:42 75615234 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:42:42 75615312 1186952b [DEBUG Client 8348] Generating level 45 area "1_5_town" with seed 1
+2022/10/17 00:42:42 75615328 f22b69a6 [INFO Client 8348] Tile hash: 2180360276
+2022/10/17 00:42:42 75615328 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:42:43 75616406 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня надзирателя.
+2022/10/17 00:42:44 75617140 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:42:47 75620484 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:42:47 75620484 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:42:47 75620484 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.167:6112
+2022/10/17 00:42:47 75620546 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:42:47 75620625 1186952b [DEBUG Client 8348] Generating level 41 area "1_5_2" with seed 2098137670
+2022/10/17 00:42:49 75622093 f22b69a6 [INFO Client 8348] Tile hash: 3321345510
+2022/10/17 00:42:49 75622093 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:42:50 75623390 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Изолятор.
+2022/10/17 00:42:51 75624140 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:44:08 75701578 cff943d8 [INFO Client 8348] @От кого Purplburglar: Здравствуйте, хочу купить у вас Запретный вкус, Кварцевый флакон за 5 chaos в лиге Kalandra (секция "~b/o 5 chaos"; позиция: 5 столбец, 10 ряд)
+2022/10/17 00:44:14 75706859 cff943d8 [INFO Client 8348] @Кому Nate_HHLow_FiveWay: https://www.pathofexile.com/account/view-profile/SteamCovan/characters
+2022/10/17 00:44:18 75711703 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:44:18 75711703 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:44:18 75711703 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/17 00:44:19 75711765 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:44:19 75711828 1186952b [DEBUG Client 8348] Generating level 45 area "1_5_town" with seed 1
+2022/10/17 00:44:19 75711859 f22b69a6 [INFO Client 8348] Tile hash: 2180360276
+2022/10/17 00:44:19 75711859 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:44:20 75712781 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня надзирателя.
+2022/10/17 00:44:20 75713437 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:44:23 75715890 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:44:23 75715890 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:44:23 75715890 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 00:44:23 75715953 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:44:23 75716031 1186952b [DEBUG Client 8348] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 00:44:23 75716250 f22b69a6 [INFO Client 8348] Tile hash: 1532260820
+2022/10/17 00:44:23 75716250 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:44:24 75717281 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 00:44:25 75718031 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:44:26 75719296 cff943d8 [INFO Client 8348] @От кого <POOUR> Nate_HHLow_FiveWay: X
+2022/10/17 00:45:05 75758468 cff943d8 [INFO Client 8348] : Purplburglar присоединился.
+2022/10/17 00:45:23 75776625 cff943d8 [INFO Client 8348] : Сделка совершена.
+2022/10/17 00:45:27 75779828 cff943d8 [INFO Client 8348] @Кому Purplburglar: Thank you for the trade. Have a nice day and good luck!
+2022/10/17 00:45:27 75780515 cff943d8 [INFO Client 8348] @От кого Purplburglar: ty
+2022/10/17 00:45:37 75789734 cff943d8 [INFO Client 8348] : Purplburglar покинул область.
+2022/10/17 00:45:41 75794109 cff943d8 [INFO Client 8348] @Кому Nate_HHLow_FiveWay: ?
+2022/10/17 00:47:17 75890312 cff943d8 [INFO Client 8348] @Кому Nate_HHLow_FiveWay: soRDy i missclicked
+2022/10/17 00:47:25 75898125 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:47:25 75898140 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:47:25 75898140 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/17 00:47:25 75898203 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:47:25 75898265 1186952b [DEBUG Client 8348] Generating level 45 area "1_5_town" with seed 1
+2022/10/17 00:47:25 75898281 f22b69a6 [INFO Client 8348] Tile hash: 2180360276
+2022/10/17 00:47:25 75898281 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:47:26 75899187 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня надзирателя.
+2022/10/17 00:47:27 75899875 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:47:31 75903968 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:47:31 75903968 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:47:31 75903968 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.167:6112
+2022/10/17 00:47:31 75904031 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:47:31 75904109 1186952b [DEBUG Client 8348] Generating level 41 area "1_5_2" with seed 2098137670
+2022/10/17 00:47:32 75905406 f22b69a6 [INFO Client 8348] Tile hash: 3321345510
+2022/10/17 00:47:32 75905406 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:47:33 75906578 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Изолятор.
+2022/10/17 00:47:34 75907343 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:51:17 76130656 cff943d8 [INFO Client 8348] : DeeCovana (Следопыт) достигает 43 уровня
+2022/10/17 00:51:27 76140218 cff943d8 [INFO Client 8348] @От кого <†+CS+†> ColdHeartedThriller: Здравствуйте, хочу купить у вас Кварцевый флакон черепахи за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 3 столбец, 1 ряд)
+2022/10/17 00:52:00 76173437 cff943d8 [INFO Client 8348] @От кого <†+CS+†> ColdHeartedThriller: Здравствуйте, хочу купить у вас Кварцевый флакон высокого качества за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 5 столбец, 3 ряд)
+2022/10/17 00:52:19 76191937 fb7ae662 [INFO Client 8348] Successfully unallocated passive skill id: projectile_damage2015, name: Урон снарядами
+2022/10/17 00:52:22 76195375 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: dexterity968, name: Ловкость
+2022/10/17 00:52:24 76196765 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: evasion2017, name: Уклонение
+2022/10/17 00:53:17 76250578 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:53:17 76250578 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:53:17 76250578 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.140:6112
+2022/10/17 00:53:17 76250640 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:53:17 76250703 1186952b [DEBUG Client 8348] Generating level 45 area "1_5_town" with seed 1
+2022/10/17 00:53:18 76250734 f22b69a6 [INFO Client 8348] Tile hash: 2180360276
+2022/10/17 00:53:18 76250734 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:53:18 76251546 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня надзирателя.
+2022/10/17 00:53:19 76252234 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:53:25 76257843 cff943d8 [INFO Client 8348] : Вы получили очко пассивных умений.
+2022/10/17 00:53:29 76262234 fb7ae604 [INFO Client 8348] Successfully allocated passive skill id: evasion2016, name: Уклонение
+2022/10/17 00:53:35 76268109 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:53:35 76268109 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:53:35 76268109 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.167:6112
+2022/10/17 00:53:35 76268171 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 47ms
+2022/10/17 00:53:35 76268250 1186952b [DEBUG Client 8348] Generating level 41 area "1_5_2" with seed 2098137670
+2022/10/17 00:53:35 76268609 f22b69a6 [INFO Client 8348] Tile hash: 3321345510
+2022/10/17 00:53:35 76268609 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:53:36 76269406 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Изолятор.
+2022/10/17 00:53:37 76270109 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 00:55:04 76357000 cff943d8 [INFO Client 8348] @От кого llast_chance: Здравствуйте, хочу купить у вас Сапфировый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 4 столбец, 3 ряд)
+2022/10/17 00:55:15 76368421 cff943d8 [INFO Client 8348] @От кого llast_chance: Здравствуйте, хочу купить у вас Сапфировый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 9 ряд)
+2022/10/17 00:56:00 76413359 cff943d8 [INFO Client 8348] : Не удалось применить предмет: В предмете нет гнезд.
+2022/10/17 00:56:38 76451046 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 00:56:38 76451046 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 00:56:38 76451046 ca3a6737 [INFO Client 8348] Connecting to instance server at 169.51.201.151:6112
+2022/10/17 00:56:38 76451125 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 00:56:38 76451187 1186952b [DEBUG Client 8348] Generating level 42 area "1_5_3" with seed 1746405402
+2022/10/17 00:56:38 76451359 b5a5818d [INFO Client 8348] Spawning discoverable Hideout HideoutCourts
+2022/10/17 00:56:41 76454031 f22b69a6 [INFO Client 8348] Tile hash: 3423243378
+2022/10/17 00:56:41 76454031 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 00:56:43 76456031 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Площадь Ориата.
+2022/10/17 00:56:44 76457218 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 01:00:18 76671296 cff943d8 [INFO Client 8348] Нико, Мастер глубин: Ух. Ну и запашок.
+2022/10/17 01:00:49 76702281 cff943d8 [INFO Client 8348] @От кого AndreSAAS_Kieling: Здравствуйте, хочу купить у вас Неиссякаемый Алмазный флакон осы за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 6 столбец, 3 ряд)
+2022/10/17 01:01:06 76719000 cff943d8 [INFO Client 8348] Нико, Мастер глубин: Тоже хорошая находка.
+2022/10/17 01:01:37 76749734 88a90480 [DEBUG Client 8348] Got Instance Details from login server
+2022/10/17 01:01:37 76749734 32759a9f [INFO Client 8348] [SHADER] Delay: OFF
+2022/10/17 01:01:37 76749734 ca3a6737 [INFO Client 8348] Connecting to instance server at 159.122.142.253:6112
+2022/10/17 01:01:37 76749796 ca3a4d51 [DEBUG Client 8348] Connect time to instance server was 31ms
+2022/10/17 01:01:37 76749859 1186952b [DEBUG Client 8348] Generating level 42 area "1_5_4" with seed 4073065225
+2022/10/17 01:01:37 76750578 f22b69a6 [INFO Client 8348] Tile hash: 335639610
+2022/10/17 01:01:37 76750578 f22b69a7 [INFO Client 8348] Doodad hash: 0
+2022/10/17 01:01:38 76751500 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Суды жрецов.
+2022/10/17 01:01:39 76752281 32759a9f [INFO Client 8348] [SHADER] Delay: ON
