@@ -5986,3 +5986,1451 @@ flags: 257
 2022/10/17 01:01:37 76750578 f22b69a7 [INFO Client 8348] Doodad hash: 0
 2022/10/17 01:01:38 76751500 cff943d8 [INFO Client 8348] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Суды жрецов.
 2022/10/17 01:01:39 76752281 32759a9f [INFO Client 8348] [SHADER] Delay: ON
+2022/10/17 10:05:16 ***** LOG FILE OPENING *****
+2022/10/17 10:05:16 32528968 340884db [DEBUG Client 11204] [RENDER] StopDevice
+2022/10/17 10:05:16 32528968 84a7e6f1 [INFO Client 11204] [ENGINE] Clear
+2022/10/17 10:05:16 32528968 7bb5422 [INFO Client 11204] [BUNDLE2] Deinit
+2022/10/17 10:05:16 32528968 84a7e691 [INFO Client 11204] [JOB] Clear
+2022/10/17 10:05:16 32528968 84a7e7bf [INFO Client 11204] [ANIMATION] Clear
+2022/10/17 10:05:16 32528968 84a7e7be [INFO Client 11204] [PHYSICS] Clear
+2022/10/17 10:05:16 32528968 84a7e7bd [INFO Client 11204] [SHADER] Clear
+2022/10/17 10:05:16 32528968 84a7e7bc [INFO Client 11204] [ENTITY] Clear
+2022/10/17 10:05:16 32528968 84a7e7bb [INFO Client 11204] [SOUND] Clear
+2022/10/17 10:05:16 32528968 84a7e7ba [INFO Client 11204] [VIDEO] Clear
+2022/10/17 10:05:16 32528984 84a7e7b9 [INFO Client 11204] [SCENE] Clear
+2022/10/17 10:05:16 32528984 84a7e7b8 [INFO Client 11204] [GRAPH] Clear
+2022/10/17 10:05:16 32528984 84a7e7b7 [INFO Client 11204] [TELEMETRY] Clear
+2022/10/17 10:05:16 32528984 84a7e7b6 [INFO Client 11204] [RESOURCE] GarbageCollect
+2022/10/17 10:05:16 32528984 84a7e75e [INFO Client 11204] [RESOURCE] Clear
+2022/10/17 10:05:16 32528984 84a7e75b [INFO Client 11204] [RENDER] Clear
+2022/10/17 10:05:16 32528984 84a7e758 [INFO Client 11204] [ENGINE] Done
+2022/10/17 10:05:25 ***** LOG FILE OPENING *****
+2022/10/17 10:05:26 32538765 f954428c [INFO Client 13080] [STARTUP] Job Queues
+2022/10/17 10:05:26 32538781 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 10:05:26 32539000 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 10:05:26 32539000 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 10:05:26 32539000 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 10:05:26 32539015 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 10:05:26 32539015 84a7d27d [INFO Client 13080] [ENGINE] Init
+2022/10/17 10:05:26 32539015 55713145 [INFO Client 13080] [JOB] HIGH: 2
+2022/10/17 10:05:26 32539015 55713145 [INFO Client 13080] [JOB] MEDIUM: 2
+2022/10/17 10:05:26 32539015 55713145 [INFO Client 13080] [JOB] LOW: 2
+2022/10/17 10:05:26 32539015 55713145 [INFO Client 13080] [JOB] IDLE: 1
+2022/10/17 10:05:26 32539015 7bb548f [INFO Client 13080] [BUNDLE2] Init
+2022/10/17 10:05:26 32539015 7bb36c4 [INFO Client 13080] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/17 10:05:26 32539390 7bb61e6 [INFO Client 13080] [BUNDLE2] File cache size: 1024
+2022/10/17 10:05:26 32539390 b51d61ab [INFO Client 13080] [RENDER] Async: ON
+2022/10/17 10:05:26 32539390 b51d60c8 [INFO Client 13080] [RENDER] Warmup: ON
+2022/10/17 10:05:26 32539390 b51d60ce [INFO Client 13080] [RENDER] Skip: ON
+2022/10/17 10:05:26 32539390 b51d60eb [INFO Client 13080] [RENDER] Throttling: ON
+2022/10/17 10:05:26 32539390 32759a7a [INFO Client 13080] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/17 10:05:26 32539390 32759a70 [INFO Client 13080] [SHADER] Async: ON
+2022/10/17 10:05:26 32539390 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 10:05:26 32539390 32759aba [INFO Client 13080] [SHADER] Limit: ON
+2022/10/17 10:05:26 32539390 32759abc [INFO Client 13080] [SHADER] Warmup: ON
+2022/10/17 10:05:26 32539390 327599d7 [INFO Client 13080] [SHADER] Parallel: OFF
+2022/10/17 10:05:26 32539406 84a7e376 [INFO Client 13080] [ENGINE] Running Engine version 1.6.0
+2022/10/17 10:05:26 32539437 47bbd159 [INFO Client 13080] [SOUND] Buffer size = 64.0 MB
+2022/10/17 10:05:26 32539546 9b0d205 [INFO Client 13080] [VIDEO] Enable: ON
+2022/10/17 10:05:26 32539578 84a7d2d8 [INFO Client 13080] [ENGINE] Ready
+2022/10/17 10:05:26 32539640 951bc0b0 [INFO Client 13080] [STARTUP] Bundle Startup Start
+2022/10/17 10:05:26 32539640 951bc057 [INFO Client 13080] [STARTUP] Bundle Startup in 8.8e-05 seconds
+2022/10/17 10:05:26 32539640 951bc0b0 [INFO Client 13080] [STARTUP] Game Start
+2022/10/17 10:05:27 32540125 ca86fd3f [DEBUG Client 13080] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/17 10:05:27 32540515 951bc057 [INFO Client 13080] [STARTUP] Game in 0.862016 seconds
+2022/10/17 10:05:27 32540515 951bc0b0 [INFO Client 13080] [STARTUP] Window Start
+2022/10/17 10:05:27 32540515 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 10:05:27 32540640 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 10:05:27 32540640 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 10:05:27 32540640 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 10:05:27 32540656 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 10:05:27 32540687 951bc057 [INFO Client 13080] [STARTUP] Window in 0.172605 seconds
+2022/10/17 10:05:27 32540703 413b61ff [DEBUG Client 13080] [GamepadManager] Initialising
+2022/10/17 10:05:27 32540703 951bc0b0 [INFO Client 13080] [STARTUP] Device Start
+2022/10/17 10:05:27 32540703 b51d6589 [INFO Client 13080] [RENDER] StartDevice: DirectX11
+2022/10/17 10:05:28 32540859 71b3b00 [DEBUG Client 13080] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/17 10:05:28 32540859 97ce04a4 [WARN Client 13080] [SHADER] Failed to load cache. File not found: File not found: ShaderCacheD3D11.packed/index.dat
+2022/10/17 10:05:28 32540921 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 10:05:28 32540921 29d4ce01 [INFO Client 13080] [D3D11] Runtime version = 11.1
+2022/10/17 10:05:28 32540921 29d4ce00 [INFO Client 13080] [D3D11] Feature Level = 11.1
+2022/10/17 10:05:28 32540921 29d4ce03 [INFO Client 13080] [D3D11] Driver Command Lists = NO
+2022/10/17 10:05:28 32540921 29d4ce02 [INFO Client 13080] [D3D11] Driver Concurrent Creates = YES
+2022/10/17 10:05:28 32540921 29d4ce05 [INFO Client 13080] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/17 10:05:28 32541031 9d4eeb40 [DEBUG Client 13080] [WINDOW] TrigggerDeviceCreate
+2022/10/17 10:05:28 32541296 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 10:05:28 32541328 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 10:05:28 32541328 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 10:05:28 32541343 951bc057 [INFO Client 13080] [STARTUP] Device in 0.639713 seconds
+2022/10/17 10:05:28 32541343 951bc0b0 [INFO Client 13080] [STARTUP] Tencent Start
+2022/10/17 10:05:28 32541343 951bc057 [INFO Client 13080] [STARTUP] Tencent in 0.000107 seconds
+2022/10/17 10:05:28 32541343 951bc0b0 [INFO Client 13080] [STARTUP] Loading Start
+2022/10/17 10:05:28 32541390 951bc057 [INFO Client 13080] [STARTUP] Loading in 0.04479 seconds
+2022/10/17 10:05:28 32541390 951bc0b0 [INFO Client 13080] [STARTUP] DebugGUI Start
+2022/10/17 10:05:28 32541390 951bc057 [INFO Client 13080] [STARTUP] DebugGUI in 4.2e-05 seconds
+2022/10/17 10:05:28 32541390 951bc0b0 [INFO Client 13080] [STARTUP] Bundle Tiny Start
+2022/10/17 10:05:28 32541390 951bc0b0 [INFO Client 13080] [STARTUP] Bundle Login Start
+2022/10/17 10:05:28 32541390 951bc057 [INFO Client 13080] [STARTUP] Bundle Login in 4.2e-05 seconds
+2022/10/17 10:05:28 32541390 951bc0b0 [INFO Client 13080] [STARTUP] Registration Start
+2022/10/17 10:05:28 32541390 951bc057 [INFO Client 13080] [STARTUP] Bundle Tiny in 0.000282 seconds
+2022/10/17 10:05:28 32541406 951bc0b0 [INFO Client 13080] [STARTUP] Audio Start
+2022/10/17 10:05:28 32541406 47bbee18 [INFO Client 13080] [SOUND] Channel count = 128 (asked for 128)
+2022/10/17 10:05:28 32541406 47bbee19 [INFO Client 13080] [SOUND] Source count = 512
+2022/10/17 10:05:29 32541734 47bbea58 [INFO Client 13080] Changing to device "Ухи (High Definition Audio Device)"
+2022/10/17 10:05:29 32541734 951bc057 [INFO Client 13080] [STARTUP] Audio in 0.331411 seconds
+2022/10/17 10:05:29 32542046 951bc057 [INFO Client 13080] [STARTUP] Registration in 0.663369 seconds
+2022/10/17 10:06:18 32590828 890da8d3 [INFO Client 13080] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/17 10:06:18 32590859 890d9d9b [INFO Client 13080] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/17 10:07:28 32661515 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 10:07:28 32661562 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 10:07:28 32661562 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 10:07:28 32661625 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 10:07:28 32661687 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_town" with seed 1
+2022/10/17 10:07:31 32664125 f22b69a6 [INFO Client 13080] Tile hash: 926573208
+2022/10/17 10:07:31 32664125 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 10:07:34 32667281 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 10:07:35 32667968 cff943d8 [INFO Client 13080] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2022/10/17 10:07:35 32668343 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/17 10:07:35 32668390 cff943d8 [INFO Client 13080] #Zigdai: Разрушительная неволя, Амулет с янтарём оцените плиз
+2022/10/17 10:07:36 32669593 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 10:07:36 32669671 374e1126 [INFO Client 13080] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/17 10:07:36 32669671 374e1287 [INFO Client 13080] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/17 10:07:37 32669906 374e12ea [INFO Client 13080] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/17 10:07:37 32669906 374e0d87 [DEBUG Client 13080] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/17 10:07:37 32669906 374e0d8f [DEBUG Client 13080] [Item Filter] X-HW: 1665990642.dop033.pa1.t,1665990643.cds044.pa1.shn,1665990643.dop033.pa1.t,1665990643.cds046.pa1.c
+2022/10/17 10:07:37 32669937 78847107 [INFO Client 13080] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/17 10:07:37 32669937 2a14a9a7 [INFO Client 13080] PrecalcBaseTypeHashMap
+2022/10/17 10:07:37 32670062 2a14a9a1 [INFO Client 13080] PrecalcModNameHashMap
+2022/10/17 10:07:39 32672046 2a14a9a3 [INFO Client 13080] PrecalcItemClassMap
+2022/10/17 10:07:39 32672046 2a14a9ad [INFO Client 13080] PrecalcSoundEffects
+2022/10/17 10:07:39 32672046 2a14a902 [INFO Client 13080] PrecalcDropEffects
+2022/10/17 10:07:39 32672046 2a14a900 [INFO Client 13080] PrecalcNonEnchantModHashes
+2022/10/17 10:07:39 32672046 2a14a906 [INFO Client 13080] PrecalcRuleNameToTypeMap
+2022/10/17 10:07:39 32672046 2a14a904 [INFO Client 13080] PrecalcCJESPNIndexMap
+2022/10/17 10:07:39 32672046 2a14a90a [INFO Client 13080] PrecalcGemAlternateQualityMap
+2022/10/17 10:09:42 32795609 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 10:10:06 32819421 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 10:10:06 32819421 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 10:10:06 32819421 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.236:6112
+2022/10/17 10:10:06 32819500 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 10:10:06 32819562 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_15" with seed 2238959218
+2022/10/17 10:10:08 32821140 f22b69a6 [INFO Client 13080] Tile hash: 425927154
+2022/10/17 10:10:08 32821140 f22b69a7 [INFO Client 13080] Doodad hash: 1004777765
+2022/10/17 10:10:09 32822687 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 10:10:10 32823312 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Риф Морского царя.
+2022/10/17 10:10:11 32824250 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 10:15:10 33123375 cff943d8 [INFO Client 13080] : DeeCovana (Следопыт) достигает 54 уровня
+2022/10/17 10:16:01 33173937 cff943d8 [INFO Client 13080] : DeeCovana был повержен.
+2022/10/17 10:16:10 33183671 fb7ae604 [INFO Client 13080] Successfully allocated passive skill id: reduced_mana_reservation1199, name: Эффективность удержания
+2022/10/17 10:16:43 33216562 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 10:16:43 33216578 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 10:16:43 33216578 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 10:16:43 33216640 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 10:16:43 33216703 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_town" with seed 1
+2022/10/17 10:16:44 33216718 f22b69a6 [INFO Client 13080] Tile hash: 926573208
+2022/10/17 10:16:44 33216718 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 10:16:44 33217359 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 10:16:45 33217859 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/17 10:16:45 33218640 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 10:16:51 33223921 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 10:16:51 33223937 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 10:16:51 33223937 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.169:6112
+2022/10/17 10:16:51 33224015 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 10:16:51 33224093 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 10:16:51 33224328 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 10:16:51 33224328 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 10:16:52 33224906 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 10:16:53 33225937 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 10:16:54 33227062 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 10:26:18 33791390 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 10:27:17 33849921 cff943d8 [INFO Client 13080] @От кого Banibouya: Здравствуйте, хочу купить у вас Ртутный флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 7 столбец, 7 ряд)
+2022/10/17 10:27:35 33867765 cff943d8 [INFO Client 13080] : Banibouya присоединился.
+2022/10/17 10:27:50 33883453 cff943d8 [INFO Client 13080] : Сделка отклонена.
+2022/10/17 10:28:22 33915406 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 10:28:24 33917140 cff943d8 [INFO Client 13080] @Кому Banibouya: Thank you for the trade. Have a nice day and good luck!
+2022/10/17 10:28:28 33921031 cff943d8 [INFO Client 13080] Banibouya: ty
+2022/10/17 10:28:53 33946281 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 10:28:53 33946281 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 10:28:53 33946281 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.140:6112
+2022/10/17 10:28:53 33946343 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 10:28:53 33946406 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_15" with seed 3696799061
+2022/10/17 10:28:54 33947468 f22b69a6 [INFO Client 13080] Tile hash: 1366613566
+2022/10/17 10:28:54 33947468 f22b69a7 [INFO Client 13080] Doodad hash: 245525675
+2022/10/17 10:28:56 33948828 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 10:28:57 33950062 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Риф Морского царя.
+2022/10/17 10:28:58 33951093 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 10:32:27 34160359 cff943d8 [INFO Client 13080] : DeeCovana был повержен.
+2022/10/17 10:32:31 34163859 cff943d8 [INFO Client 13080] @От кого <EZ:win> Чтотодаполучется: Здравствуйте, хочу купить у вас Висмутовый флакон за 1 regret в лиге Kalandra (секция "~price 1 regret"; позиция: 4 столбец, 3 ряд)
+2022/10/17 10:32:32 34165078 cff943d8 [INFO Client 13080] @От кого <EZ:win> Чтотодаполучется: Здравствуйте, хочу купить у вас Медицинский Висмутовый флакон навязывания за 1 regret в лиге Kalandra (секция "~price 1 regret"; позиция: 8 столбец, 7 ряд)
+2022/10/17 10:32:36 34169406 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 10:32:36 34169406 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 10:32:36 34169406 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.236:6112
+2022/10/17 10:32:36 34169468 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 10:32:36 34169546 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 10:32:36 34169546 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 10:32:36 34169546 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 10:32:37 34170390 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 10:32:38 34170937 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 10:32:38 34171546 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 10:32:49 34182515 cff943d8 [INFO Client 13080] : Чтотодаполучется присоединился.
+2022/10/17 10:33:02 34194984 cff943d8 [INFO Client 13080] : Чтотодаполучется покинул область.
+2022/10/17 10:35:20 34333687 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 10:56:47 35619734 cff943d8 [INFO Client 13080] @От кого <Entity> ReqzShocks: Здравствуйте, хочу купить у вас Серебряный флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 3 столбец, 5 ряд)
+2022/10/17 10:57:08 35641593 cff943d8 [INFO Client 13080] @От кого <Entity> ReqzShocks: Здравствуйте, хочу купить у вас Серебряный флакон за 1 regret в лиге Kalandra (секция "~price 1 regret"; позиция: 9 столбец, 7 ряд)
+2022/10/17 10:57:21 35653828 cff943d8 [INFO Client 13080] @Кому ReqzShocks: Currently in Убежище картографа. Do you want to wait until finished?
+2022/10/17 10:57:42 35674968 cff943d8 [INFO Client 13080] : ReqzShocks присоединился.
+2022/10/17 10:58:04 35697203 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 10:58:07 35700500 cff943d8 [INFO Client 13080] @Кому ReqzShocks: Thank you for the trade. Have a nice day and good luck!
+2022/10/17 10:58:07 35700640 cff943d8 [INFO Client 13080] : Цель данной операции не была членом группы
+2022/10/17 10:58:10 35702718 cff943d8 [INFO Client 13080] : ReqzShocks покинул область.
+2022/10/17 11:07:34 36266734 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:07:34 36266750 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:07:34 36266750 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 11:07:34 36266812 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 46ms
+2022/10/17 11:07:34 36266875 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_15" with seed 3154828693
+2022/10/17 11:07:34 36267265 f22b69a6 [INFO Client 13080] Tile hash: 2726013806
+2022/10/17 11:07:34 36267265 f22b69a7 [INFO Client 13080] Doodad hash: 547943662
+2022/10/17 11:07:35 36268187 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:07:36 36268796 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Риф Морского царя.
+2022/10/17 11:07:37 36269718 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:17:27 36860640 890da8d3 [INFO Client 13080] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/17 11:17:27 36860671 890d9d9b [INFO Client 13080] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/17 11:17:32 36865500 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:17:32 36865500 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:17:32 36865500 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 11:17:32 36865562 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 46ms
+2022/10/17 11:17:32 36865640 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_town" with seed 1
+2022/10/17 11:17:35 36868281 f22b69a6 [INFO Client 13080] Tile hash: 926573208
+2022/10/17 11:17:35 36868281 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 11:17:37 36870062 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:17:37 36870640 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/17 11:17:37 36870640 cff943d8 [INFO Client 13080] #смерть_аура_: кто играет на дес ауру, напишите в ЛС плиз, есть вопрос
+2022/10/17 11:17:38 36870953 cff943d8 [INFO Client 13080] #СЫНБАЛГАРСКОГОПЕРЦА: Решительность Олрота, Железный флакон лол второй босс подряд дропает
+2022/10/17 11:17:38 36871437 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:17:38 36871468 374e1126 [INFO Client 13080] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/17 11:17:38 36871468 374e1287 [INFO Client 13080] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/17 11:17:39 36871828 374e12ea [INFO Client 13080] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/17 11:17:39 36871828 374e0d87 [DEBUG Client 13080] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/17 11:17:39 36871828 374e0d8f [DEBUG Client 13080] [Item Filter] X-HW: 1665994844.dop039.pa1.t,1665994844.cds025.pa1.shn,1665994844.dop039.pa1.t,1665994844.cds046.pa1.c
+2022/10/17 11:17:39 36871828 78847107 [INFO Client 13080] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/17 11:17:43 36876578 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:17:43 36876578 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:17:43 36876578 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.171:6112
+2022/10/17 11:17:43 36876640 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 11:17:44 36876718 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 11:17:44 36876890 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 11:17:44 36876890 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 11:17:45 36877843 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:17:45 36878562 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 11:17:46 36879250 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:18:27 36920296 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 11:19:16 36969187 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:19:16 36969187 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:19:16 36969187 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 11:19:16 36969250 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 11:19:16 36969328 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_15" with seed 3154828693
+2022/10/17 11:19:17 36970578 f22b69a6 [INFO Client 13080] Tile hash: 2726013806
+2022/10/17 11:19:17 36970578 f22b69a7 [INFO Client 13080] Doodad hash: 547943662
+2022/10/17 11:19:19 36971937 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:19:19 36972546 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Риф Морского царя.
+2022/10/17 11:19:20 36973328 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:22:22 37154781 cff943d8 [INFO Client 13080] Несса: Какая смелость, какой чудесный пример женской природы. Я знала, что ты меня не разочаруешь. Или моего мужа. Видишь ли, в день свадьбы мой августейший супруг не удовлетворится одной лишь невестой. Спасибо, моя новая сестра. Я всегда буду ценить твоё общество.
+2022/10/17 11:23:45 37237875 cff943d8 [INFO Client 13080] : DeeCovana был повержен.
+2022/10/17 11:24:03 37256468 bce2d691 [INFO Client 13080] Steam stats stored
+2022/10/17 11:24:06 37259218 cff943d8 [INFO Client 13080] Грех: Тсоагот!
+2022/10/17 11:24:13 37266218 cff943d8 [INFO Client 13080] Грех: Ты был рождён в глубинах океана, но лишь со смертью был отмыт от страсти окаянной.
+2022/10/17 11:24:48 37300843 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:24:48 37300859 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:24:48 37300859 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.151:6112
+2022/10/17 11:24:48 37300906 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 11:24:48 37301000 1186952b [DEBUG Client 13080] Generating level 7 area "LakePrototype" with seed 828180290
+2022/10/17 11:24:50 37302921 f22b69a6 [INFO Client 13080] Tile hash: 776522858
+2022/10/17 11:24:50 37302921 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 11:24:50 37303437 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:24:51 37304656 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Озеро Каландры.
+2022/10/17 11:24:52 37305562 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:25:35 37348234 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:25:35 37348234 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:25:35 37348234 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 11:25:35 37348296 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 11:25:35 37348359 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_15" with seed 3154828693
+2022/10/17 11:25:35 37348468 f22b69a6 [INFO Client 13080] Tile hash: 2726013806
+2022/10/17 11:25:35 37348468 f22b69a7 [INFO Client 13080] Doodad hash: 547943662
+2022/10/17 11:25:37 37349718 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:25:37 37350406 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Риф Морского царя.
+2022/10/17 11:25:38 37351187 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:27:07 37440359 890da8d3 [INFO Client 13080] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/17 11:27:07 37440406 890d9d9b [INFO Client 13080] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/17 11:27:11 37444406 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:27:11 37444406 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:27:11 37444406 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 11:27:11 37444453 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 11:27:11 37444515 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_town" with seed 1
+2022/10/17 11:27:13 37446671 f22b69a6 [INFO Client 13080] Tile hash: 926573208
+2022/10/17 11:27:13 37446671 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 11:27:15 37448703 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:27:16 37449218 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/17 11:27:17 37449968 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:27:17 37450000 374e1126 [INFO Client 13080] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/17 11:27:17 37450000 374e1287 [INFO Client 13080] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/17 11:27:17 37450218 374e12ea [INFO Client 13080] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/17 11:27:17 37450218 374e0d87 [DEBUG Client 13080] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/17 11:27:17 37450218 374e0d8f [DEBUG Client 13080] [Item Filter] X-HW: 1665995423.dop216.pa1.t,1665995423.cds207.pa1.shn,1665995423.dop216.pa1.t,1665995423.cds046.pa1.c
+2022/10/17 11:27:17 37450234 78847107 [INFO Client 13080] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/17 11:28:27 37520250 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 11:28:45 37538343 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:28:45 37538359 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:28:45 37538359 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.171:6112
+2022/10/17 11:28:45 37538437 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 11:28:45 37538515 1186952b [DEBUG Client 13080] Generating level 48 area "2_6_10" with seed 2711392470
+2022/10/17 11:28:48 37541046 f22b69a6 [INFO Client 13080] Tile hash: 3461334880
+2022/10/17 11:28:48 37541046 f22b69a7 [INFO Client 13080] Doodad hash: 21445372
+2022/10/17 11:28:49 37541984 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:28:50 37542765 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пойма реки.
+2022/10/17 11:28:51 37544031 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:30:48 37661109 cff943d8 [INFO Client 13080] Эйнар, Мастер зверей: Готова, изгнанница? Настала пора охоты!
+2022/10/17 11:30:51 37664562 cff943d8 [INFO Client 13080] Эйнар, Мастер зверей: Топай, животинка! Уходи!
+2022/10/17 11:32:37 37770203 cff943d8 [INFO Client 13080] Эйнар, Мастер зверей: Животное, тебя схватили. Ты или выживешь или станешь едой.
+2022/10/17 11:33:10 37803000 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:33:10 37803000 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:33:10 37803000 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 11:33:10 37803062 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 11:33:10 37803140 1186952b [DEBUG Client 13080] Generating level 48 area "2_6_11" with seed 3857517669
+2022/10/17 11:33:12 37805015 f22b69a6 [INFO Client 13080] Tile hash: 2370608978
+2022/10/17 11:33:12 37805015 f22b69a7 [INFO Client 13080] Doodad hash: 3115776591
+2022/10/17 11:33:13 37805750 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:33:13 37806484 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Топь.
+2022/10/17 11:33:15 37807750 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:33:21 37814343 cff943d8 [INFO Client 13080] : DeeCovana (Следопыт) достигает 55 уровня
+2022/10/17 11:34:08 37861546 cff943d8 [INFO Client 13080] Гвеннен, спекулянтка: И снова привет, местная!
+2022/10/17 11:37:15 38047890 fb7ae604 [INFO Client 13080] Successfully allocated passive skill id: aura_effect_reservation_cost_notable1558, name: Харизма
+2022/10/17 11:38:45 38137796 cff943d8 [INFO Client 13080] Грех: Рюслата!
+2022/10/17 11:38:52 38144828 cff943d8 [INFO Client 13080] Грех: Оставь эту землю её истинным детям.
+2022/10/17 11:41:45 38317843 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:41:45 38317843 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:41:45 38317843 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.138:6112
+2022/10/17 11:41:45 38317906 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 11:41:45 38317968 1186952b [DEBUG Client 13080] Generating level 48 area "2_6_10" with seed 3008342862
+2022/10/17 11:41:45 38318312 f22b69a6 [INFO Client 13080] Tile hash: 3503917078
+2022/10/17 11:41:45 38318312 f22b69a7 [INFO Client 13080] Doodad hash: 2373989561
+2022/10/17 11:41:46 38319140 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:41:47 38319734 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пойма реки.
+2022/10/17 11:41:47 38320531 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:44:59 38512328 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:44:59 38512343 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:44:59 38512343 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.140:6112
+2022/10/17 11:44:59 38512406 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 32ms
+2022/10/17 11:44:59 38512484 1186952b [DEBUG Client 13080] Generating level 49 area "2_6_12" with seed 95114481
+2022/10/17 11:45:00 38513468 f22b69a6 [INFO Client 13080] Tile hash: 4085013516
+2022/10/17 11:45:00 38513468 f22b69a7 [INFO Client 13080] Doodad hash: 2405928476
+2022/10/17 11:45:01 38514390 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:45:02 38515062 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Южный лес.
+2022/10/17 11:45:03 38515953 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:45:24 38537312 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:45:24 38537312 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:45:24 38537312 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 11:45:24 38537375 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 11:45:24 38537453 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_town" with seed 1
+2022/10/17 11:45:27 38539796 f22b69a6 [INFO Client 13080] Tile hash: 926573208
+2022/10/17 11:45:27 38539796 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 11:45:27 38540203 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:45:28 38541000 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/17 11:45:30 38543000 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:45:55 38568125 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 11:46:01 38574421 cff943d8 [INFO Client 13080] : Вы получили очко пассивных умений.
+2022/10/17 11:47:03 38635859 fb7ae604 [INFO Client 13080] Successfully allocated passive skill id: strength815, name: Сила
+2022/10/17 11:51:16 38888953 cff943d8 [INFO Client 13080] @Кому Ukyo: Hi, I would like to buy your Faminebind Rustic Sash listed for 1 regret in Kalandra (stash tab "7"; position: left 23, top 14)
+2022/10/17 11:52:13 38946078 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:52:13 38946093 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:52:13 38946093 ca3a6737 [INFO Client 13080] Connecting to instance server at 85.195.83.53:6112
+2022/10/17 11:52:13 38946156 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 32ms
+2022/10/17 11:52:13 38946218 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/17 11:52:14 38946796 f22b69a6 [INFO Client 13080] Tile hash: 2509555744
+2022/10/17 11:52:14 38946796 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 11:52:15 38947859 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:52:17 38950125 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/17 11:52:19 38952656 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:52:27 38960265 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 11:52:34 38966890 cff943d8 [INFO Client 13080] @Кому Ukyo: Thank you for the trade. Have a nice day and good luck!
+2022/10/17 11:52:44 38977468 cff943d8 [INFO Client 13080] @От кого Ukyo: tyvm
+2022/10/17 11:53:06 38998765 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:53:06 38998765 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:53:06 38998765 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.253:6112
+2022/10/17 11:53:06 38998828 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 11:53:06 38998906 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 11:53:06 38999140 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 11:53:06 38999140 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 11:53:07 38999875 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:53:08 39000765 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 11:53:08 39001562 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:56:33 39206515 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:56:33 39206515 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:56:33 39206515 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.171:6112
+2022/10/17 11:56:33 39206578 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 11:56:33 39206656 1186952b [DEBUG Client 13080] Generating level 47 area "2_6_8" with seed 2593861142
+2022/10/17 11:56:36 39208734 f22b69a6 [INFO Client 13080] Tile hash: 244633136
+2022/10/17 11:56:36 39208734 f22b69a7 [INFO Client 13080] Doodad hash: 1627718545
+2022/10/17 11:56:36 39209421 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:56:37 39210484 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Врата заключённых.
+2022/10/17 11:56:38 39211515 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:58:06 39298765 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:58:06 39298765 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:58:06 39298765 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 11:58:06 39298828 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 11:58:06 39298890 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_town" with seed 1
+2022/10/17 11:58:08 39301406 f22b69a6 [INFO Client 13080] Tile hash: 926573208
+2022/10/17 11:58:08 39301406 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 11:58:09 39301812 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:58:09 39302640 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/17 11:58:10 39303562 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 11:58:59 39352109 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 11:58:59 39352109 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 11:58:59 39352109 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.171:6112
+2022/10/17 11:58:59 39352171 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 11:58:59 39352234 1186952b [DEBUG Client 13080] Generating level 47 area "2_6_8" with seed 2593861142
+2022/10/17 11:58:59 39352328 f22b69a6 [INFO Client 13080] Tile hash: 244633136
+2022/10/17 11:58:59 39352328 f22b69a7 [INFO Client 13080] Doodad hash: 1627718545
+2022/10/17 11:59:00 39352937 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 11:59:00 39353625 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Врата заключённых.
+2022/10/17 11:59:01 39354390 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 12:00:56 39469125 cff943d8 [INFO Client 13080] Грех: Абберат!
+2022/10/17 12:01:03 39476125 cff943d8 [INFO Client 13080] Грех: Теперь твоя жажда утолена.
+2022/10/17 12:02:31 39564218 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 12:02:31 39564218 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 12:02:31 39564218 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 12:02:31 39564296 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 12:02:31 39564359 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_town" with seed 1
+2022/10/17 12:02:31 39564375 f22b69a6 [INFO Client 13080] Tile hash: 926573208
+2022/10/17 12:02:31 39564375 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 12:02:32 39565046 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 12:02:32 39565593 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/17 12:02:33 39566421 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 12:03:09 39602625 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 12:03:14 39606765 cff943d8 [INFO Client 13080] @От кого Slothdogg: Здравствуйте, хочу купить у вас Ненасытность, Ремень за 1 chaos в лиге Kalandra (секция "~price 1 chaos"; позиция: 11 столбец, 1 ряд)
+2022/10/17 12:03:28 39621375 cff943d8 [INFO Client 13080] : Вы получили очко пассивных умений.
+2022/10/17 12:03:37 39630093 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 12:03:37 39630109 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 12:03:37 39630109 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 12:03:37 39630171 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 12:03:37 39630234 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 12:03:37 39630437 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 12:03:37 39630437 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 12:03:38 39631093 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 12:03:39 39631843 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 12:03:39 39632625 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 12:04:44 39696859 fb7ae604 [INFO Client 13080] Successfully allocated passive skill id: chaos_damage1578, name: Урон хаосом и множитель постепенного урона хаосом
+2022/10/17 12:07:34 39867703 cff943d8 [INFO Client 13080] @От кого ThisMakesMyPCCry: Здравствуйте, хочу купить у вас Опытный Ртутный флакон моллюска за 1 regret в лиге Kalandra (секция "~b/o 1 regret"; позиция: 7 столбец, 1 ряд)
+2022/10/17 12:15:56 40369281 cff943d8 [INFO Client 13080] @Кому Clif_KalandraChill: Hi, I would like to buy your Whispering Sphere Searching Eye Jewel listed for 20 chaos in Kalandra (stash tab "~b/o 20 chaos"; position: left 9, top 2)
+2022/10/17 12:15:57 40370156 cff943d8 [INFO Client 13080] @От кого Clif_KalandraChill: This player is AFK.
+2022/10/17 12:16:00 40373375 cff943d8 [INFO Client 13080] @Кому Strikere: Hi, I would like to buy your Ancient Hunger Murderous Eye Jewel listed for 5 chaos in Kalandra (stash tab "€"; position: left 9, top 5)
+2022/10/17 12:16:16 40388718 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 12:16:16 40388734 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 12:16:16 40388734 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.169:6112
+2022/10/17 12:16:16 40388796 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 12:16:16 40388859 1186952b [DEBUG Client 13080] Generating level 60 area "HideoutFellshrine" with seed 1
+2022/10/17 12:16:16 40389234 f22b69a6 [INFO Client 13080] Tile hash: 3441592582
+2022/10/17 12:16:16 40389234 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 12:16:16 40389671 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 12:16:18 40391484 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кладбищенское убежище.
+2022/10/17 12:16:20 40393687 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 12:16:31 40404625 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 12:16:35 40407812 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 12:16:35 40407812 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 12:16:35 40407812 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 12:16:35 40407875 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 12:16:35 40407953 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 12:16:35 40407968 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 12:16:35 40407968 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 12:16:36 40408765 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 12:16:36 40409343 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 12:16:37 40410031 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 12:16:38 40411187 cff943d8 [INFO Client 13080] @Кому Strikere: Thank you for the trade. Have a nice day and good luck!
+2022/10/17 12:16:42 40414765 cff943d8 [INFO Client 13080] @От кого Strikere: ty
+2022/10/17 12:17:14 40447234 cff943d8 [INFO Client 13080] : Для данной операции необходимо авторизоваться.
+2022/10/17 12:30:55 41268109 cff943d8 [INFO Client 13080] @От кого TanGen: Здравствуйте, хочу купить у вас Скорбящая хватка, Крепкие перчатки за 1 chaos в лиге Kalandra (секция "~b/o 1 chaos"; позиция: 9 столбец, 7 ряд)
+2022/10/17 12:32:26 41358734 cff943d8 [INFO Client 13080] : Режим "отошёл" включён. Авто-ответ "Игрок отошёл.".
+2022/10/17 12:44:19 42072078 cff943d8 [INFO Client 13080] @От кого <GPNO.1> 西達不溜地梯: Здравствуйте, хочу купить у вас Аметистовый флакон бекаса за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 1 столбец, 11 ряд)
+2022/10/17 12:44:19 42072078 cff943d8 [INFO Client 13080] @Кому 西達不溜地梯: Игрок отошёл.
+2022/10/17 12:50:40 42453328 cff943d8 [INFO Client 13080] : Режим "отошёл" выключен.
+2022/10/17 12:50:50 42463031 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 12:50:50 42463031 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 12:50:50 42463031 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:50:50 42463093 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:50:51 42463828 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 12:50:51 42463828 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 12:50:51 42463890 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 12:50:51 42463890 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 12:50:51 42463890 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 12:50:51 42463906 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 12:50:51 42463906 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 12:50:51 42464234 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:50:51 42464265 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:50:51 42464578 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 12:50:51 42464578 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 12:51:56 42528718 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 12:51:56 42528718 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 12:51:56 42528750 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:51:56 42528781 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:51:56 42529453 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 12:51:56 42529468 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 12:51:56 42529515 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 12:51:56 42529515 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 12:51:56 42529531 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 12:51:56 42529531 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 12:51:56 42529578 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:51:56 42529593 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:51:57 42530078 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 12:51:57 42530078 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:51:57 42530093 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:51:57 42530500 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 12:51:57 42530500 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 12:51:57 42530500 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:51:57 42530515 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:51:58 42530984 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 12:51:58 42530984 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 12:51:58 42530984 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:51:58 42531015 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:51:58 42531484 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 12:51:58 42531500 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 12:51:58 42531546 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 12:51:58 42531562 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 12:51:58 42531562 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 12:51:58 42531562 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 12:51:58 42531578 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 12:51:59 42531843 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:51:59 42531875 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:51:59 42532250 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 12:51:59 42532250 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 12:52:06 42538843 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 12:52:06 42538843 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 12:52:06 42538859 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:52:06 42538890 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:52:06 42539406 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 12:52:06 42539406 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 12:52:06 42539453 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 12:52:06 42539453 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 12:52:06 42539453 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 12:52:06 42539453 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 12:52:06 42539531 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:52:06 42539546 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:52:07 42539937 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 12:52:07 42539937 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:52:07 42539953 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:52:07 42540343 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 12:52:07 42540343 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 12:52:07 42540359 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:52:07 42540359 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:52:10 42543375 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 12:52:10 42543375 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 12:52:10 42543375 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:52:10 42543390 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:52:11 42543781 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 12:52:11 42543781 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 12:52:11 42543828 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 12:52:11 42543828 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 12:52:11 42543828 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 12:52:11 42543843 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 12:52:11 42543843 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 12:52:11 42544015 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 12:52:11 42544046 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 12:52:11 42544359 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 12:52:11 42544359 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 12:55:32 42745593 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 12:55:32 42745609 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 12:55:32 42745609 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 12:55:32 42745671 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 12:55:33 42745765 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_town" with seed 1
+2022/10/17 12:55:35 42748453 f22b69a6 [INFO Client 13080] Tile hash: 926573208
+2022/10/17 12:55:35 42748453 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 12:55:36 42748875 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 12:55:36 42749515 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/17 12:55:37 42750625 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 12:58:08 42901375 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 13:00:23 43035859 cff943d8 [INFO Client 13080] @От кого Lockdeadeye: Здравствуйте, хочу купить у вас Чудовищный выступ, Маска ваал за 1 chaos в лиге Kalandra (секция "~b/o 1 chaos"; позиция: 5 столбец, 10 ряд)
+2022/10/17 13:00:37 43050312 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 13:00:37 43050328 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 13:00:37 43050328 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.171:6112
+2022/10/17 13:00:37 43050390 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 13:00:37 43050453 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 13:00:37 43050468 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 13:00:37 43050468 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 13:00:38 43051343 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 13:00:39 43051937 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 13:00:39 43052671 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 13:01:02 43075421 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 13:03:12 43205312 cff943d8 [INFO Client 13080] @От кого Lockdeadeye: Здравствуйте, хочу купить у вас Чудовищный выступ Маска ваал за 1 chaos в лиге Kalandra (секция "~b/o 1 chaos"; позиция: 5 столбец, 10 ряд)
+2022/10/17 13:03:40 43233203 cff943d8 [INFO Client 13080] : Lockdeadeye присоединился.
+2022/10/17 13:04:13 43266296 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 13:04:19 43272078 cff943d8 [INFO Client 13080] @Кому Lockdeadeye: Thank you for the trade. Have a nice day and good luck!
+2022/10/17 13:04:23 43276125 cff943d8 [INFO Client 13080] : Lockdeadeye покинул область.
+2022/10/17 13:11:01 43674140 cff943d8 [INFO Client 13080] @Кому HTQW_KAL: Hi, I'd like to buy your 208 Chromatic Orb for my 26 Chaos Orb in Kalandra
+2022/10/17 13:11:56 43728906 cff943d8 [INFO Client 13080] : Вы не можете попасть в убежище этого игрока.
+2022/10/17 13:12:13 43746640 cff943d8 [INFO Client 13080] @Кому HTQW_KAL: 17 only
+2022/10/17 13:12:54 43786765 cff943d8 [INFO Client 13080] @Кому HTQW_KAL: Hi, I'd like to buy your 120 Chromatic Orb for my 15 Chaos Orb in Kalandra
+2022/10/17 13:12:57 43789953 cff943d8 [INFO Client 13080] @Кому ListerStorm: Hi, I'd like to buy your 108 Chromatic Orb for my 15 Chaos Orb in Kalandra
+2022/10/17 13:21:42 44314765 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:21:45 44318531 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:21:48 44320718 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:22:55 44388062 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:23:16 44409250 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 13:23:16 44409250 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 13:23:16 44409265 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:16 44409328 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:17 44410171 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 13:23:17 44410171 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 13:23:17 44410250 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:17 44410250 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 13:23:17 44410250 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 13:23:17 44410265 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:17 44410375 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:17 44410390 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:18 44410968 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 13:23:18 44410968 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:18 44411000 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:19 44411843 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 13:23:19 44411843 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 13:23:19 44411890 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:19 44411968 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:20 44413421 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 13:23:20 44413421 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 13:23:20 44413421 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:20 44413453 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:21 44414296 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 13:23:21 44414296 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 13:23:21 44414359 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:21 44414359 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 13:23:21 44414359 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 13:23:21 44414375 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:21 44414421 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 13:23:21 44414687 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:21 44414703 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:22 44415343 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 13:23:22 44415343 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 13:23:27 44419968 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 13:23:27 44419968 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 13:23:27 44419968 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:27 44419984 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:27 44420671 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 13:23:27 44420671 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 13:23:28 44420718 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:28 44420718 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 13:23:28 44420718 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 13:23:28 44420718 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:28 44420718 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 13:23:28 44420718 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:28 44420750 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:28 44421250 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 13:23:28 44421250 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 13:23:41 44434531 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 13:23:41 44434531 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 13:23:41 44434531 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:41 44434531 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:42 44435000 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 13:23:42 44435000 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 13:23:42 44435046 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:42 44435046 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 13:23:42 44435046 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 13:23:42 44435046 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:42 44435062 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 13:23:42 44435250 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:42 44435265 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:42 44435593 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 13:23:42 44435593 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 13:23:43 44436578 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 13:23:43 44436578 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 13:23:43 44436593 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:43 44436593 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:44 44437062 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 13:23:44 44437062 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 13:23:44 44437109 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:44 44437109 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 13:23:44 44437109 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 13:23:44 44437109 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:44 44437109 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 13:23:44 44437109 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:44 44437125 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:44 44437468 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 13:23:44 44437468 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 13:23:44 44437640 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 13:23:44 44437640 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 13:23:44 44437640 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:44 44437656 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:45 44438078 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 13:23:45 44438078 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 13:23:45 44438125 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:45 44438125 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 13:23:45 44438125 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 13:23:45 44438140 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:23:45 44438140 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 13:23:45 44438296 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:23:45 44438328 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:23:45 44438671 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 13:23:45 44438671 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 13:25:07 44520062 cff943d8 [INFO Client 13080] @Кому Leoryzenn: Hi, I'd like to buy your 100 Chromatic Orb for my 190 Orb of Alteration in Kalandra
+2022/10/17 13:25:07 44520531 cff943d8 [INFO Client 13080] : Leoryzenn не в сети.
+2022/10/17 13:25:22 44535281 cff943d8 [INFO Client 13080] @Кому 천둥번개: 안녕하세요, Kalandra 리그의 20 색채의 오브(을)를 40 변화의 오브(으)로 구매하고 싶습니다
+2022/10/17 13:25:31 44544015 cff943d8 [INFO Client 13080] @Кому sunyneung: 안녕하세요, Kalandra 리그의 20 색채의 오브(을)를 40 변화의 오브(으)로 구매하고 싶습니다
+2022/10/17 13:25:31 44544484 cff943d8 [INFO Client 13080] : sunyneung не в сети.
+2022/10/17 13:26:04 44577625 cff943d8 [INFO Client 13080] @Кому HTQW_KAL: Hi, I'd like to buy your 136 Chromatic Orb for my 17 Chaos Orb in Kalandra
+2022/10/17 13:26:25 44598203 cff943d8 [INFO Client 13080] @Кому ListerStorm: Hi, I'd like to buy your 108 Chromatic Orb for my 15 Chaos Orb in Kalandra
+2022/10/17 13:27:26 44658734 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 13:27:26 44658734 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 13:27:26 44658734 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.56.173.140:6112
+2022/10/17 13:27:26 44659015 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 266ms
+2022/10/17 13:27:26 44659281 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutBaths" with seed 1
+2022/10/17 13:27:26 44659578 f22b69a6 [INFO Client 13080] Tile hash: 1923378674
+2022/10/17 13:27:26 44659578 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 13:27:27 44660531 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 13:27:29 44661859 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Роскошное убежище.
+2022/10/17 13:27:29 44662656 cff943d8 [INFO Client 13080] : iLame присоединился.
+2022/10/17 13:27:31 44664390 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 13:27:41 44674078 cff943d8 [INFO Client 13080] : iLame покинул область.
+2022/10/17 13:27:54 44687500 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 13:28:32 44725593 cff943d8 [INFO Client 13080] : 천둥번개 покинул область.
+2022/10/17 13:28:39 44731828 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 13:28:39 44731828 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 13:28:39 44731828 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.167:6112
+2022/10/17 13:28:39 44731890 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 13:28:39 44731953 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 13:28:39 44731968 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 13:28:39 44731968 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 13:28:40 44733187 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 13:28:41 44733781 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 13:28:41 44734531 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 13:29:45 44798531 cff943d8 [INFO Client 13080] @Кому xLightWitchx: Hi, I'd like to buy your 148 Chromatic Orb for my 20 Chaos Orb in Kalandra
+2022/10/17 13:30:37 44850296 cff943d8 [INFO Client 13080] @Кому ExplosiveJessica: Hi, I'd like to buy your 50 Chaos Orb for my 260 Orb of Alteration in Kalandra
+2022/10/17 13:30:38 44850765 cff943d8 [INFO Client 13080] @От кого ExplosiveJessica: This player is AFK.
+2022/10/17 13:30:42 44854984 cff943d8 [INFO Client 13080] @Кому Kalandra_Codfish: Hi, I'd like to buy your 50 Chaos Orb for my 260 Orb of Alteration in Kalandra
+2022/10/17 13:30:45 44857859 cff943d8 [INFO Client 13080] @Кому MarkLader: Hi, I'd like to buy your 50 Chaos Orb for my 260 Orb of Alteration in Kalandra
+2022/10/17 13:30:56 44869562 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 13:30:56 44869562 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 13:30:56 44869562 ca3a6737 [INFO Client 13080] Connecting to instance server at 161.202.8.165:6112
+2022/10/17 13:30:57 44869765 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 188ms
+2022/10/17 13:30:57 44869968 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutBaths" with seed 1
+2022/10/17 13:30:57 44870078 f22b69a6 [INFO Client 13080] Tile hash: 1923378674
+2022/10/17 13:30:57 44870078 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 13:30:58 44871531 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 13:30:59 44872187 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Роскошное убежище.
+2022/10/17 13:31:00 44872921 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 13:31:24 44896921 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 13:31:25 44898671 cff943d8 [INFO Client 13080] @От кого Kalandra_Codfish: ty
+2022/10/17 13:31:35 44908093 cff943d8 [INFO Client 13080] : Цель данной операции не была членом группы
+2022/10/17 13:31:38 44911390 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 13:31:38 44911390 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 13:31:38 44911390 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.169:6112
+2022/10/17 13:31:38 44911453 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 13:31:38 44911515 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 13:31:38 44911531 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 13:31:38 44911531 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 13:31:39 44912625 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 13:31:40 44913140 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 13:31:41 44913734 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 13:34:52 45105406 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 13:34:52 45105406 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 13:34:52 45105421 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:34:52 45105453 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:34:53 45106015 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 13:34:53 45106015 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 13:34:53 45106062 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:34:53 45106062 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 13:34:53 45106062 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 13:34:53 45106062 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:34:53 45106156 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:34:53 45106171 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:34:53 45106531 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 13:34:53 45106531 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:34:53 45106531 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:34:54 45106859 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 13:34:54 45106859 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 13:34:54 45106875 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:34:54 45106906 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:34:54 45107406 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 13:34:54 45107406 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 13:34:54 45107406 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:34:54 45107437 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:34:55 45107953 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 13:34:55 45107953 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 13:34:55 45108000 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:34:55 45108000 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 13:34:55 45108000 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 13:34:55 45108015 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:34:55 45108031 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 13:34:55 45108187 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:34:55 45108203 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:34:55 45108531 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 13:34:55 45108531 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 13:36:56 45229265 cff943d8 [INFO Client 13080] @Кому CarrySlakr: Hi, I'd like to buy your 300 Chromatic Orb for my 39 Chaos Orb in Kalandra
+2022/10/17 13:37:01 45234125 cff943d8 [INFO Client 13080] @От кого Slowpacer_: Здравствуйте, хочу купить у вас Золотой флакон за 1 regret в лиге Kalandra (секция "~b/o 1 regret"; позиция: 4 столбец, 9 ряд)
+2022/10/17 13:37:34 45266984 cff943d8 [INFO Client 13080] @От кого Tra_MeJI: Здравствуйте, хочу купить у вас Рубиновый флакон бекаса за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 11 ряд)
+2022/10/17 13:37:57 45290375 cff943d8 [INFO Client 13080] : Tra_MeJI присоединился.
+2022/10/17 13:38:05 45298000 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 13:38:06 45298734 cff943d8 [INFO Client 13080] @От кого Tra_MeJI: ty
+2022/10/17 13:38:07 45300328 cff943d8 [INFO Client 13080] @Кому Tra_MeJI: Thank you for the trade. Have a nice day and good luck!
+2022/10/17 13:38:07 45300437 cff943d8 [INFO Client 13080] : Цель данной операции не была членом группы
+2022/10/17 13:38:09 45301781 cff943d8 [INFO Client 13080] : Tra_MeJI покинул область.
+2022/10/17 13:40:09 45422187 cff943d8 [INFO Client 13080] @Кому CarrySlakr: Hi, I'd like to buy your 300 Chromatic Orb for my 39 Chaos Orb in Kalandra
+2022/10/17 13:40:26 45439640 cff943d8 [INFO Client 13080] @Кому ListerStorm: Hi, I'd like to buy your 288 Chromatic Orb for my 40 Chaos Orb in Kalandra
+2022/10/17 13:40:38 45451593 cff943d8 [INFO Client 13080] @Кому NobitaGoUnderground: Hi, I'd like to buy your 280 Chromatic Orb for my 40 Chaos Orb in Kalandra
+2022/10/17 13:40:50 45462828 cff943d8 [INFO Client 13080] @Кому First_K: Здравствуйте, хочу купить у вас 340 Цветная сфера за 50 Сфера хаоса в лиге Kalandra
+2022/10/17 13:40:50 45463359 cff943d8 [INFO Client 13080] @От кого First_K: Игрок отошёл.
+2022/10/17 13:41:05 45477906 cff943d8 [INFO Client 13080] @Кому 배째라마이싱: 안녕하세요, Kalandra 리그의 320 색채의 오브(을)를 50 카오스 오브(으)로 구매하고 싶습니다
+2022/10/17 13:43:18 45610906 fb7ae662 [INFO Client 13080] Successfully unallocated passive skill id: chaos_damage1578, name: Урон хаосом и множитель постепенного урона хаосом
+2022/10/17 13:43:21 45613828 fb7ae662 [INFO Client 13080] Successfully unallocated passive skill id: strength815, name: Сила
+2022/10/17 13:43:22 45615312 fb7ae604 [INFO Client 13080] Successfully allocated passive skill id: dexterity851, name: Ловкость
+2022/10/17 13:43:23 45615906 fb7ae604 [INFO Client 13080] Successfully allocated passive skill id: jewel_slot1958, name: Обычное гнездо для самоцвета
+2022/10/17 13:45:23 45736609 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:45:27 45740359 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:45:29 45742203 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:45:31 45744156 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:45:52 45764781 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:45:57 45770203 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:45:59 45772562 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 13:46:13 45786562 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 13:46:23 45796296 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 13:46:38 45810984 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 13:51:37 46110312 cff943d8 [INFO Client 13080] @Кому stechbiene: Hi, I'd like to buy your 216 Chromatic Orb for my 27 Chaos Orb in Kalandra
+2022/10/17 13:52:19 46151906 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 13:52:19 46151906 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 13:52:19 46151953 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:52:19 46151968 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:52:19 46152687 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 13:52:19 46152687 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 13:52:20 46152750 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:52:20 46152750 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 13:52:20 46152750 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 13:52:20 46152765 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 13:52:20 46152765 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 13:52:20 46152765 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 13:52:20 46152781 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 13:52:20 46153359 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 13:52:20 46153359 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 14:01:25 46698062 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 14:01:25 46698062 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 14:01:25 46698062 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:01:25 46698078 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:01:25 46698468 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 14:01:25 46698468 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 14:01:25 46698546 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:01:25 46698546 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 14:01:25 46698546 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 14:01:25 46698546 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:01:25 46698562 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 14:01:26 46698750 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:01:26 46698781 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:01:26 46699468 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 14:01:26 46699468 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 14:01:37 46710265 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 14:01:37 46710265 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 14:01:37 46710296 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:01:37 46710328 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:01:38 46710796 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 14:01:38 46710796 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 14:01:38 46710843 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:01:38 46710843 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 14:01:38 46710843 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 14:01:38 46710859 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:01:38 46710968 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:01:38 46710984 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:01:38 46711406 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 14:01:38 46711406 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:01:38 46711421 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:01:39 46711750 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 14:01:39 46711750 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 14:01:39 46711750 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:01:39 46711765 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:01:41 46714109 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 14:01:41 46714109 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 14:01:41 46714109 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:01:41 46714125 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:01:41 46714703 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 14:01:41 46714703 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 14:01:42 46714750 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:01:42 46714750 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 14:01:42 46714750 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 14:01:42 46714765 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:01:42 46714781 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 14:01:42 46714953 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:01:42 46714984 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:01:42 46715328 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 14:01:42 46715328 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 14:03:04 46797578 cff943d8 [INFO Client 13080] @Кому goodleguekekw: Hi, I'd like to buy your 490 Цветная сфера for my 63 Chaos Orb in Kalandra
+2022/10/17 14:03:05 46798015 cff943d8 [INFO Client 13080] @От кого goodleguekekw: This player is AFK.
+2022/10/17 14:03:13 46805906 cff943d8 [INFO Client 13080] @Кому CarrySlakr: Hi, I'd like to buy your 500 Цветная сфера for my 65 Chaos Orb in Kalandra
+2022/10/17 14:03:24 46817125 cff943d8 [INFO Client 13080] @Кому xNoNamee: Hi, I'd like to buy your 400 Цветная сфера for my 54 Chaos Orb in Kalandra
+2022/10/17 14:03:34 46827609 cff943d8 [INFO Client 13080] @Кому ListerStorm: Hi, I'd like to buy your 288 Цветная сфера for my 40 Chaos Orb in Kalandra
+2022/10/17 14:03:40 46833078 cff943d8 [INFO Client 13080] @Кому Density_SPK: Hi, I'd like to buy your 280 Цветная сфера for my 40 Chaos Orb in Kalandra
+2022/10/17 14:03:40 46833406 cff943d8 [INFO Client 13080] @От кого Density_SPK: This player is AFK.
+2022/10/17 14:04:10 46862718 cff943d8 [INFO Client 13080] : Действие невозможно выполнить, поскольку вы находитесь в группе.
+2022/10/17 14:04:13 46866593 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:04:13 46866609 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:04:13 46866609 ca3a6737 [INFO Client 13080] Connecting to instance server at 161.202.8.161:6112
+2022/10/17 14:04:14 46866796 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 187ms
+2022/10/17 14:04:14 46867000 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/17 14:04:15 46868015 f22b69a6 [INFO Client 13080] Tile hash: 2509555744
+2022/10/17 14:04:15 46868015 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 14:04:16 46869093 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:04:17 46870390 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/17 14:04:18 46871625 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:04:29 46881750 cff943d8 [INFO Client 13080] : EcuaGod присоединился.
+2022/10/17 14:04:30 46883593 cff943d8 [INFO Client 13080] : Area_Mana присоединился.
+2022/10/17 14:04:31 46884125 3796f5cb [WARN Client 13080] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/17 14:04:56 46908937 cff943d8 [INFO Client 13080] : ___WoOPiNG___ присоединился.
+2022/10/17 14:04:59 46912062 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 14:05:05 46917765 cff943d8 [INFO Client 13080] @Кому xNoNamee: Thank you for the trade. Have a nice day and good luck!
+2022/10/17 14:05:06 46919687 cff943d8 [INFO Client 13080] : EcuaGod покинул область.
+2022/10/17 14:05:07 46920671 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:05:07 46920671 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:05:07 46920671 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.138:6112
+2022/10/17 14:05:08 46920734 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 32ms
+2022/10/17 14:05:08 46920796 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 14:05:08 46920812 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 14:05:08 46920812 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 14:05:08 46921656 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:05:09 46922421 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 14:05:10 46923156 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:06:49 47022671 fb7ae662 [INFO Client 13080] Successfully unallocated passive skill id: mastery_life146, name: Мастерство здоровья
+2022/10/17 14:06:53 47026421 fb7ae604 [INFO Client 13080] Successfully allocated passive skill id: might770, name: Доблесть
+2022/10/17 14:10:43 47255765 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:10:43 47255781 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:10:43 47255781 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.167:6112
+2022/10/17 14:10:43 47255843 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 14:10:43 47255906 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_15" with seed 1080920562
+2022/10/17 14:10:45 47257718 f22b69a6 [INFO Client 13080] Tile hash: 3827770668
+2022/10/17 14:10:45 47257718 f22b69a7 [INFO Client 13080] Doodad hash: 3500836214
+2022/10/17 14:10:46 47259671 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:10:47 47260593 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Риф Морского царя.
+2022/10/17 14:10:49 47262031 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:11:29 47301875 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 14:11:29 47301875 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 14:11:29 47301906 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:29 47302125 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:30 47303156 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:30 47303250 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:32 47305171 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 14:11:32 47305171 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 14:11:32 47305218 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:11:32 47305218 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 14:11:32 47305218 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 14:11:32 47305218 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:11:32 47305218 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 14:11:32 47305218 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:32 47305296 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:34 47306843 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 14:11:34 47306843 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 14:11:34 47306859 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:34 47306953 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:36 47309343 aecea352 [INFO Client 13080] Abnormal disconnect: Произошло неожиданное отключение от сервера.
+2022/10/17 14:11:38 47311703 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 14:11:38 47311703 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 14:11:38 47311703 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:39 47311718 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:39 47311781 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 14:11:39 47311781 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 14:11:39 47311843 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:11:39 47311843 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 14:11:39 47311843 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 14:11:39 47311859 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:11:39 47311875 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 14:11:39 47312062 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:39 47312078 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:39 47312187 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 14:11:39 47312187 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 14:11:39 47312218 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 14:11:39 47312218 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 14:11:39 47312234 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:39 47312281 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:39 47312343 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 14:11:39 47312343 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 14:11:39 47312390 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:11:39 47312390 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 14:11:39 47312390 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 14:11:39 47312390 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:11:39 47312484 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:39 47312500 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:39 47312562 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 14:11:39 47312562 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:39 47312578 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:39 47312609 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 14:11:39 47312609 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 14:11:39 47312625 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:39 47312625 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:40 47312859 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 14:11:40 47312859 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 14:11:40 47312859 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:40 47312859 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:40 47312890 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 14:11:40 47312890 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 14:11:40 47312937 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:11:40 47312937 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 14:11:40 47312937 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 14:11:40 47312937 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:11:40 47312953 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 14:11:40 47313109 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:11:40 47313140 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:11:40 47313203 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 14:11:40 47313203 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 14:11:41 47314593 890da8d3 [INFO Client 13080] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/17 14:11:41 47314625 890d9d9b [INFO Client 13080] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/17 14:11:55 47328046 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:11:55 47328046 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:11:55 47328046 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 14:11:55 47328125 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 14:11:55 47328203 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_town" with seed 1
+2022/10/17 14:11:58 47331484 f22b69a6 [INFO Client 13080] Tile hash: 926573208
+2022/10/17 14:11:58 47331484 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 14:12:00 47332765 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:12:00 47333453 cff943d8 [INFO Client 13080] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2022/10/17 14:12:01 47333750 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2022/10/17 14:12:01 47333765 cff943d8 [INFO Client 13080] #КАПС: Глаза Великого волка, Талисман Великого волка C МОБА НА КАРТИ!"
+2022/10/17 14:12:02 47335421 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:12:02 47335468 374e1126 [INFO Client 13080] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/17 14:12:02 47335468 374e1287 [INFO Client 13080] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/17 14:12:03 47335718 374e12ea [INFO Client 13080] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/17 14:12:03 47335718 374e0d87 [DEBUG Client 13080] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/17 14:12:03 47335718 374e0d8f [DEBUG Client 13080] [Item Filter] X-HW: 1666005308.dop220.pa1.t,1666005308.cds028.pa1.shn,1666005308.dop220.pa1.t,1666005308.cds046.pa1.c
+2022/10/17 14:12:03 47335734 78847107 [INFO Client 13080] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/17 14:12:15 47347953 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:12:15 47347953 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:12:15 47347968 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.167:6112
+2022/10/17 14:12:15 47348015 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 32ms
+2022/10/17 14:12:15 47348093 1186952b [DEBUG Client 13080] Generating level 50 area "2_6_15" with seed 1080920562
+2022/10/17 14:12:15 47348187 f22b69a6 [INFO Client 13080] Tile hash: 3827770668
+2022/10/17 14:12:15 47348187 f22b69a7 [INFO Client 13080] Doodad hash: 3500836214
+2022/10/17 14:12:17 47350062 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:12:18 47350937 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Риф Морского царя.
+2022/10/17 14:12:19 47351875 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:13:36 47428781 cff943d8 [INFO Client 13080] : DeeCovana (Следопыт) достигает 56 уровня
+2022/10/17 14:16:06 47579453 fb7ae604 [INFO Client 13080] Successfully allocated passive skill id: elemental_damage_es1615, name: Получение зарядов флакона
+2022/10/17 14:17:08 47641375 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:17:08 47641375 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:17:08 47641375 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 14:17:08 47641437 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 14:17:08 47641515 1186952b [DEBUG Client 13080] Generating level 55 area "2_7_town" with seed 1
+2022/10/17 14:17:10 47643343 f22b69a6 [INFO Client 13080] Tile hash: 2045851426
+2022/10/17 14:17:10 47643343 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 14:17:11 47643828 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:17:12 47645046 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лагерь на мосту.
+2022/10/17 14:17:13 47646593 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:31:40 48513296 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 14:31:56 48528859 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 14:31:56 48528859 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 14:31:56 48528906 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:31:56 48528937 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:31:56 48529640 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 14:31:56 48529656 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 14:31:57 48529703 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:31:57 48529703 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 14:31:57 48529718 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 14:31:57 48529718 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:31:57 48529718 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 14:31:57 48529718 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:31:57 48529750 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:31:57 48530265 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 14:31:57 48530265 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 14:31:57 48530328 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:31:57 48530359 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:31:57 48530359 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.253:6112
+2022/10/17 14:31:57 48530593 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 46ms
+2022/10/17 14:31:57 48530656 1186952b [DEBUG Client 13080] Generating level 50 area "2_7_1" with seed 234515163
+2022/10/17 14:32:00 48532828 f22b69a6 [INFO Client 13080] Tile hash: 2068689282
+2022/10/17 14:32:00 48532828 f22b69a7 [INFO Client 13080] Doodad hash: 3474779933
+2022/10/17 14:32:01 48533859 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:32:02 48535000 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разрушенный мост.
+2022/10/17 14:32:02 48535296 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 14:32:02 48535296 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 14:32:02 48535296 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:32:02 48535328 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:32:03 48536703 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 14:32:03 48536703 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 14:32:04 48536812 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:32:04 48536812 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 14:32:04 48536812 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 14:32:04 48536812 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 14:32:04 48536828 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 14:32:04 48537109 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 14:32:04 48537171 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 14:32:06 48538718 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 14:32:06 48538718 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 14:32:07 48540156 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:34:42 48695500 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:34:42 48695500 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:34:42 48695500 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.151:6112
+2022/10/17 14:34:42 48695562 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 46ms
+2022/10/17 14:34:42 48695640 1186952b [DEBUG Client 13080] Generating level 51 area "2_7_2" with seed 2531477392
+2022/10/17 14:34:46 48699281 f22b69a6 [INFO Client 13080] Tile hash: 1629108564
+2022/10/17 14:34:46 48699281 f22b69a7 [INFO Client 13080] Doodad hash: 3913739011
+2022/10/17 14:34:47 48700265 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:34:48 48701031 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Перекрёсток.
+2022/10/17 14:34:49 48702265 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:35:28 48740765 cff943d8 [INFO Client 13080] Альва, Мастер исследований: Как раз вовремя.
+2022/10/17 14:35:47 48760515 cff943d8 [INFO Client 13080] Альва, Мастер исследований: Пора!
+2022/10/17 14:36:33 48806656 cff943d8 [INFO Client 13080] Альва, Мастер исследований: Молодец.
+2022/10/17 14:38:40 48933656 cff943d8 [INFO Client 13080] Альва, Мастер исследований: Как раз вовремя.
+2022/10/17 14:39:21 48974218 cff943d8 [INFO Client 13080] Альва, Мастер исследований: Пора!
+2022/10/17 14:40:15 49028234 cff943d8 [INFO Client 13080] Альва, Мастер исследований: Ты молодец.
+2022/10/17 14:40:28 49040875 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:40:28 49040890 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:40:28 49040890 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 14:40:28 49040953 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 14:40:28 49041015 1186952b [DEBUG Client 13080] Generating level 52 area "2_7_5_1" with seed 70806800
+2022/10/17 14:40:29 49042296 f22b69a6 [INFO Client 13080] Tile hash: 2325515852
+2022/10/17 14:40:29 49042296 f22b69a7 [INFO Client 13080] Doodad hash: 1981618599
+2022/10/17 14:40:30 49042843 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:40:30 49043468 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 1.
+2022/10/17 14:40:31 49044296 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:42:43 49176156 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:42:43 49176156 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:42:43 49176156 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.151:6112
+2022/10/17 14:42:43 49176218 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 14:42:43 49176296 1186952b [DEBUG Client 13080] Generating level 51 area "2_7_2" with seed 2531477392
+2022/10/17 14:42:43 49176500 f22b69a6 [INFO Client 13080] Tile hash: 1629108564
+2022/10/17 14:42:43 49176500 f22b69a7 [INFO Client 13080] Doodad hash: 3913739011
+2022/10/17 14:42:44 49177359 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:42:45 49178078 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Перекрёсток.
+2022/10/17 14:42:46 49179484 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:43:32 49224890 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:43:32 49224890 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:43:32 49224890 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.171:6112
+2022/10/17 14:43:32 49224953 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 14:43:32 49225031 1186952b [DEBUG Client 13080] Generating level 51 area "2_7_3" with seed 3165141418
+2022/10/17 14:43:34 49227015 f22b69a6 [INFO Client 13080] Tile hash: 1274266832
+2022/10/17 14:43:34 49227015 f22b69a7 [INFO Client 13080] Doodad hash: 3020553167
+2022/10/17 14:43:35 49227843 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:43:35 49228609 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Руины осквернённой святыни.
+2022/10/17 14:43:37 49229859 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:44:41 49294078 cff943d8 [INFO Client 13080] : DeeCovana (Следопыт) достигает 57 уровня
+2022/10/17 14:45:16 49328890 cff943d8 [INFO Client 13080] Гвеннен, спекулянтка: Наконец-то! Подходи!
+2022/10/17 14:45:48 49360921 cff943d8 [INFO Client 13080] Гвеннен: Ставишь на наши жизни? Хахаха!
+2022/10/17 14:46:18 49391296 cff943d8 [INFO Client 13080] Гвеннен: Даже не надейся!
+2022/10/17 14:47:11 49443812 fb7ae604 [INFO Client 13080] Successfully allocated passive skill id: elemental_reflect_2794, name: Получение зарядов флакона жизни
+2022/10/17 14:49:46 49598921 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:49:46 49598921 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:49:46 49598921 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.231:6112
+2022/10/17 14:49:46 49598984 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 32ms
+2022/10/17 14:49:46 49599046 1186952b [DEBUG Client 13080] Generating level 51 area "2_7_4" with seed 1541576461
+2022/10/17 14:49:48 49600828 f22b69a6 [INFO Client 13080] Tile hash: 551729088
+2022/10/17 14:49:48 49600828 f22b69a7 [INFO Client 13080] Doodad hash: 664101046
+2022/10/17 14:49:48 49601484 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:49:49 49602234 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Склеп.
+2022/10/17 14:49:50 49603046 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:53:29 49822203 890da8d3 [INFO Client 13080] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/17 14:53:29 49822234 890d9d9b [INFO Client 13080] Connected to mil01.login.pathofexile.com in 15ms.
+2022/10/17 14:53:34 49826843 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:53:34 49826843 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:53:34 49826843 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 14:53:34 49826921 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 14:53:34 49827015 1186952b [DEBUG Client 13080] Generating level 55 area "2_7_town" with seed 1
+2022/10/17 14:53:37 49829843 f22b69a6 [INFO Client 13080] Tile hash: 2045851426
+2022/10/17 14:53:37 49829843 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 14:53:39 49832000 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:53:40 49832890 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лагерь на мосту.
+2022/10/17 14:53:40 49832968 cff943d8 [INFO Client 13080] #RowBowros: Сизые Сапоги беглеца бури с этим стойт работять?
+2022/10/17 14:53:42 49834843 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:53:42 49834875 374e1126 [INFO Client 13080] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/17 14:53:42 49834875 374e1287 [INFO Client 13080] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/17 14:53:42 49835093 374e12ea [INFO Client 13080] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/17 14:53:42 49835093 374e0d87 [DEBUG Client 13080] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/17 14:53:42 49835093 374e0d8f [DEBUG Client 13080] [Item Filter] X-HW: 1666007807.dop029.pa1.t,1666007808.cds211.pa1.shn,1666007808.dop029.pa1.t,1666007808.cds046.pa1.c
+2022/10/17 14:53:42 49835109 78847107 [INFO Client 13080] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/17 14:55:01 49913703 cff943d8 [INFO Client 13080] @От кого Opuusb: Здравствуйте, хочу купить у вас Алмазный флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 1 столбец, 7 ряд)
+2022/10/17 14:55:21 49934609 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 14:55:21 49934609 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 14:55:21 49934609 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 14:55:21 49934671 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 14:55:22 49934734 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 14:55:22 49935093 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 14:55:22 49935093 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 14:55:22 49935515 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 14:55:24 49936718 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 14:55:25 49938015 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 14:55:38 49951218 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 14:55:43 49956218 cff943d8 [INFO Client 13080] : Opuusb покинул область.
+2022/10/17 14:56:36 50009234 cff943d8 [INFO Client 13080] @От кого angkol_gaman: Здравствуйте, хочу купить у вас Неиссякаемый Алмазный флакон осы за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 5 столбец, 3 ряд)
+2022/10/17 14:56:53 50026609 cff943d8 [INFO Client 13080] : Opuusb присоединился.
+2022/10/17 14:57:08 50040828 cff943d8 [INFO Client 13080] : angkol_gaman присоединился.
+2022/10/17 14:57:18 50051171 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 14:57:21 50054156 cff943d8 [INFO Client 13080] : Opuusb покинул область.
+2022/10/17 14:58:00 50093296 cff943d8 [INFO Client 13080] : Сделка отклонена.
+2022/10/17 14:58:32 50125296 cff943d8 [INFO Client 13080] @Кому angkol_gaman: sold ((
+2022/10/17 14:58:38 50131515 cff943d8 [INFO Client 13080] angkol_gaman: damn
+2022/10/17 14:58:48 50141000 cff943d8 [INFO Client 13080] @От кого angkol_gaman: Здравствуйте, хочу купить у вас Алмазный флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 11 ряд)
+2022/10/17 14:58:48 50141234 cff943d8 [INFO Client 13080] : angkol_gaman покинул область.
+2022/10/17 14:59:13 50166234 cff943d8 [INFO Client 13080] @От кого angkol_gaman: how aobut this one
+2022/10/17 14:59:13 50166703 cff943d8 [INFO Client 13080] @От кого angkol_gaman: Здравствуйте, хочу купить у вас Алмазный флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 2 столбец, 11 ряд)
+2022/10/17 15:00:00 50213546 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:00:00 50213562 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:00:00 50213562 ca3a6737 [INFO Client 13080] Connecting to instance server at 119.81.100.196:6112
+2022/10/17 15:00:01 50213781 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 188ms
+2022/10/17 15:00:01 50213984 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutBaths" with seed 1
+2022/10/17 15:00:01 50214343 f22b69a6 [INFO Client 13080] Tile hash: 1923378674
+2022/10/17 15:00:01 50214343 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 15:00:02 50215453 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:00:03 50216171 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Роскошное убежище.
+2022/10/17 15:00:04 50217296 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:00:18 50231312 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 15:00:22 50235625 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:00:22 50235625 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:00:22 50235625 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 15:00:22 50235687 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 15:00:23 50235750 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 15:00:23 50235765 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 15:00:23 50235765 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 15:00:24 50237093 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:00:24 50237640 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 15:00:25 50238421 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:00:28 50241656 cff943d8 [INFO Client 13080] @Кому angkol_gaman: Thank you for the trade. Have a nice day and good luck!
+2022/10/17 15:00:29 50241968 cff943d8 [INFO Client 13080] @От кого angkol_gaman: tq
+2022/10/17 15:01:13 50285968 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 15:03:50 50443156 cff943d8 [INFO Client 13080] : Указанный предмет уничтожен
+2022/10/17 15:04:37 50490437 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 15:07:23 50655718 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 15:07:57 50690562 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 15:08:51 50744031 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 15:09:16 50768984 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:09:16 50768984 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:09:16 50768984 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.253:6112
+2022/10/17 15:09:16 50769046 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 15:09:16 50769125 1186952b [DEBUG Client 13080] Generating level 52 area "2_7_5_1" with seed 1354521561
+2022/10/17 15:09:17 50770312 f22b69a6 [INFO Client 13080] Tile hash: 2711468866
+2022/10/17 15:09:17 50770312 f22b69a7 [INFO Client 13080] Doodad hash: 3687701971
+2022/10/17 15:09:18 50771000 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:09:19 50772328 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 1.
+2022/10/17 15:09:20 50773156 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:09:25 50778281 cff943d8 [INFO Client 13080] Шёлк: Привет тебе, Великая Сновидица!
+2022/10/17 15:09:38 50791171 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:09:38 50791171 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:09:38 50791171 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.236:6112
+2022/10/17 15:09:38 50791234 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 15:09:38 50791312 1186952b [DEBUG Client 13080] Generating level 52 area "2_7_5_map" with seed 1828702901
+2022/10/17 15:09:40 50792765 f22b69a6 [INFO Client 13080] Tile hash: 3076942398
+2022/10/17 15:09:40 50792765 f22b69a7 [INFO Client 13080] Doodad hash: 3558695272
+2022/10/17 15:09:41 50794000 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:09:42 50795171 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Святилище Малигаро.
+2022/10/17 15:09:43 50796453 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:09:45 50798156 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:09:45 50798156 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:09:45 50798156 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.253:6112
+2022/10/17 15:09:45 50798218 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 15:09:45 50798281 1186952b [DEBUG Client 13080] Generating level 52 area "2_7_5_1" with seed 1354521561
+2022/10/17 15:09:45 50798359 f22b69a6 [INFO Client 13080] Tile hash: 2711468866
+2022/10/17 15:09:45 50798359 f22b69a7 [INFO Client 13080] Doodad hash: 3687701971
+2022/10/17 15:09:46 50798984 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:09:46 50799593 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 1.
+2022/10/17 15:09:47 50800500 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:09:49 50802343 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:09:49 50802343 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:09:49 50802343 ca3a6737 [INFO Client 13080] Connecting to instance server at 159.122.142.236:6112
+2022/10/17 15:09:49 50802406 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 32ms
+2022/10/17 15:09:49 50802468 1186952b [DEBUG Client 13080] Generating level 52 area "2_7_5_map" with seed 1828702901
+2022/10/17 15:09:50 50802718 f22b69a6 [INFO Client 13080] Tile hash: 3076942398
+2022/10/17 15:09:50 50802718 f22b69a7 [INFO Client 13080] Doodad hash: 3558695272
+2022/10/17 15:09:50 50803421 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:09:51 50804218 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Святилище Малигаро.
+2022/10/17 15:09:52 50805156 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:11:30 50903453 cff943d8 [INFO Client 13080] @От кого คนไทยครับ: Здравствуйте, хочу купить у вас Кварцевый флакон черепахи за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 3 столбец, 1 ряд)
+2022/10/17 15:14:32 51085203 890da8d3 [INFO Client 13080] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/17 15:14:32 51085234 890d9d9b [INFO Client 13080] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/17 15:19:01 51354328 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:19:01 51354328 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:19:01 51354328 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 15:19:01 51354390 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 32ms
+2022/10/17 15:19:01 51354468 1186952b [DEBUG Client 13080] Generating level 55 area "2_7_town" with seed 1
+2022/10/17 15:19:04 51356890 f22b69a6 [INFO Client 13080] Tile hash: 2045851426
+2022/10/17 15:19:04 51356890 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 15:19:06 51359093 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:19:07 51359750 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лагерь на мосту.
+2022/10/17 15:19:08 51361031 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:19:08 51361062 374e1126 [INFO Client 13080] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/17 15:19:08 51361062 374e1287 [INFO Client 13080] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/17 15:19:08 51361281 374e12ea [INFO Client 13080] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/17 15:19:08 51361281 374e0d87 [DEBUG Client 13080] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/17 15:19:08 51361281 374e0d8f [DEBUG Client 13080] [Item Filter] X-HW: 1666009334.dop207.pa1.t,1666009334.cds030.pa1.shn,1666009334.dop207.pa1.t,1666009334.cds046.pa1.c
+2022/10/17 15:19:08 51361312 78847107 [INFO Client 13080] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/17 15:19:30 51383625 cff943d8 [INFO Client 13080] : Сделка совершена.
+2022/10/17 15:21:47 51519890 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:21:47 51519890 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:21:47 51519890 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.138:6112
+2022/10/17 15:21:47 51519968 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 15:21:47 51520031 1186952b [DEBUG Client 13080] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/17 15:21:47 51520296 f22b69a6 [INFO Client 13080] Tile hash: 1532260820
+2022/10/17 15:21:47 51520296 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 15:21:48 51520906 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:21:49 51521718 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/17 15:21:49 51522515 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:23:47 51640031 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:23:47 51640046 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:23:47 51640046 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.167:6112
+2022/10/17 15:23:47 51640109 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 32ms
+2022/10/17 15:23:47 51640171 1186952b [DEBUG Client 13080] Generating level 52 area "2_7_5_1" with seed 113205040
+2022/10/17 15:23:48 51641062 f22b69a6 [INFO Client 13080] Tile hash: 547688228
+2022/10/17 15:23:48 51641062 f22b69a7 [INFO Client 13080] Doodad hash: 3239549646
+2022/10/17 15:23:48 51641515 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:23:49 51642562 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 1.
+2022/10/17 15:23:50 51643390 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:23:54 51647046 cff943d8 [INFO Client 13080] Шёлк: Привет тебе, Великая Сновидица!
+2022/10/17 15:24:38 51691375 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:24:38 51691375 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:24:38 51691375 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.171:6112
+2022/10/17 15:24:38 51691437 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 15:24:38 51691515 1186952b [DEBUG Client 13080] Generating level 52 area "2_7_5_2" with seed 3854606056
+2022/10/17 15:24:38 51691609 b5a5818d [INFO Client 13080] Spawning discoverable Hideout HideoutRuinedTemple
+2022/10/17 15:24:39 51692421 f22b69a6 [INFO Client 13080] Tile hash: 2556469112
+2022/10/17 15:24:39 51692421 f22b69a7 [INFO Client 13080] Doodad hash: 1026885488
+2022/10/17 15:24:40 51693078 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:24:40 51693671 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 2.
+2022/10/17 15:24:41 51694421 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:25:49 51761812 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 15:25:49 51761812 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 15:25:49 51761843 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 15:25:49 51761906 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 15:25:50 51762812 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 15:25:50 51762875 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 15:25:52 51765359 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 15:25:52 51765359 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 15:25:52 51765437 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 15:25:52 51765437 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 15:25:52 51765437 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 15:25:52 51765453 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 15:25:52 51765453 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 15:25:52 51765453 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 15:25:52 51765515 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 15:25:54 51766906 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 15:25:54 51766906 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 15:25:54 51766921 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 15:25:54 51767046 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 15:25:56 51769328 aecea352 [INFO Client 13080] Abnormal disconnect: Произошло неожиданное отключение от сервера.
+2022/10/17 15:26:33 51806625 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 15:26:33 51806625 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 15:26:33 51806625 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 15:26:33 51806640 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 15:26:33 51806687 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 15:26:33 51806687 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 15:26:34 51806734 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 15:26:34 51806734 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 15:26:34 51806734 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 15:26:34 51806734 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 15:26:34 51806765 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 1
+2022/10/17 15:26:34 51807046 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 15:26:34 51807093 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 15:26:34 51807171 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 15:26:34 51807171 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 15:26:36 51808734 890da8d3 [INFO Client 13080] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/17 15:26:36 51808765 890d9d9b [INFO Client 13080] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/17 15:26:44 51816734 b51d4f61 [DEBUG Client 13080] [RENDER] SetRendererSettings
+2022/10/17 15:26:44 51816734 b51d6447 [DEBUG Client 13080] [RENDER] ResizeWindow
+2022/10/17 15:26:44 51816734 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 15:26:44 51816750 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 15:26:44 51816796 b51d614c [DEBUG Client 13080] [RENDER] RestartSwapChain
+2022/10/17 15:26:44 51816796 9e6a0b0a [INFO Client 13080] Enumerated adapter: AMD Radeon R7 200 Series
+2022/10/17 15:26:44 51816843 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 15:26:44 51816843 9e6a1363 [INFO Client 13080] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2022/10/17 15:26:44 51816843 9e6a0b0a [INFO Client 13080] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/17 15:26:44 51816843 9e6a1d2a [INFO Client 13080] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/17 15:26:44 51816937 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 15:26:44 51816937 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 15:26:44 51817031 fafff8cf [DEBUG Client 13080] CreateSwapChain: SetFullScreenState 0
+2022/10/17 15:26:44 51817031 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 15:26:44 51817046 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 15:26:44 51817093 3275a75e [INFO Client 13080] [SHADER] Disable Async: 1 frames
+2022/10/17 15:26:44 51817093 b51d610e [INFO Client 13080] [RENDER] Disable Async: 1 frames
+2022/10/17 15:26:44 51817093 9d4eec8a [DEBUG Client 13080] [WINDOW] TrigggerDeviceLost
+2022/10/17 15:26:44 51817109 9d4eeba7 [DEBUG Client 13080] [WINDOW] TrigggerDeviceReset
+2022/10/17 15:26:49 51822125 890da8d3 [INFO Client 13080] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/17 15:26:49 51822156 890d9d9b [INFO Client 13080] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/17 15:26:55 51828343 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:26:55 51828359 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:26:55 51828359 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 15:26:55 51828406 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 15:26:55 51828468 1186952b [DEBUG Client 13080] Generating level 55 area "2_7_town" with seed 1
+2022/10/17 15:26:58 51831062 f22b69a6 [INFO Client 13080] Tile hash: 2045851426
+2022/10/17 15:26:58 51831062 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 15:27:00 51833187 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:27:00 51833453 cff943d8 [INFO Client 13080] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2022/10/17 15:27:01 51833718 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лагерь на мосту.
+2022/10/17 15:27:01 51834500 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:27:01 51834531 374e1126 [INFO Client 13080] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/17 15:27:01 51834531 374e1287 [INFO Client 13080] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/17 15:27:02 51834750 374e12ea [INFO Client 13080] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/17 15:27:02 51834750 374e0d87 [DEBUG Client 13080] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/17 15:27:02 51834750 374e0d8f [DEBUG Client 13080] [Item Filter] X-HW: 1666009807.dop224.pa1.t,1666009807.cds218.pa1.shn,1666009807.dop224.pa1.t,1666009807.cds046.pa1.c
+2022/10/17 15:27:02 51834765 78847107 [INFO Client 13080] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/17 15:27:18 51850984 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:27:18 51850984 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:27:18 51850984 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.169:6112
+2022/10/17 15:27:18 51851046 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 15:27:18 51851109 1186952b [DEBUG Client 13080] Generating level 50 area "2_7_1" with seed 3398549667
+2022/10/17 15:27:19 51852406 f22b69a6 [INFO Client 13080] Tile hash: 2432981224
+2022/10/17 15:27:19 51852406 f22b69a7 [INFO Client 13080] Doodad hash: 2034394245
+2022/10/17 15:27:20 51852984 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:27:20 51853625 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разрушенный мост.
+2022/10/17 15:27:21 51854593 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:29:18 51971531 cff943d8 [INFO Client 13080] : DeeCovana (Следопыт) достигает 58 уровня
+2022/10/17 15:29:25 51978343 fb7ae604 [INFO Client 13080] Successfully allocated passive skill id: elemental_reflect_notable_2796, name: Восстанавливающие средства
+2022/10/17 15:31:12 52085500 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:31:12 52085515 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:31:12 52085515 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 15:31:12 52085578 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 31ms
+2022/10/17 15:31:12 52085640 1186952b [DEBUG Client 13080] Generating level 55 area "2_7_town" with seed 1
+2022/10/17 15:31:12 52085671 f22b69a6 [INFO Client 13080] Tile hash: 2045851426
+2022/10/17 15:31:12 52085671 f22b69a7 [INFO Client 13080] Doodad hash: 0
+2022/10/17 15:31:13 52086312 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:31:14 52087015 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лагерь на мосту.
+2022/10/17 15:31:15 52088265 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:32:18 52151453 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:32:18 52151453 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:32:18 52151453 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.167:6112
+2022/10/17 15:32:18 52151515 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 15:32:18 52151593 1186952b [DEBUG Client 13080] Generating level 52 area "2_7_5_1" with seed 113205040
+2022/10/17 15:32:19 52152375 f22b69a6 [INFO Client 13080] Tile hash: 547688228
+2022/10/17 15:32:19 52152375 f22b69a7 [INFO Client 13080] Doodad hash: 3239549646
+2022/10/17 15:32:20 52152812 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:32:20 52153453 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 1.
+2022/10/17 15:32:21 52154187 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:32:31 52164375 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:32:31 52164375 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:32:31 52164375 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.171:6112
+2022/10/17 15:32:31 52164453 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 46ms
+2022/10/17 15:32:31 52164515 1186952b [DEBUG Client 13080] Generating level 52 area "2_7_5_2" with seed 3854606056
+2022/10/17 15:32:31 52164593 b5a5818d [INFO Client 13080] Spawning discoverable Hideout HideoutRuinedTemple
+2022/10/17 15:32:32 52165359 f22b69a6 [INFO Client 13080] Tile hash: 2556469112
+2022/10/17 15:32:32 52165359 f22b69a7 [INFO Client 13080] Doodad hash: 1026885488
+2022/10/17 15:32:33 52166062 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:32:33 52166703 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Обитель грехов — уровень 2.
+2022/10/17 15:32:34 52167375 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:33:51 52244390 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:33:51 52244390 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:33:51 52244390 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.171:6112
+2022/10/17 15:33:51 52244453 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 15:33:51 52244531 1186952b [DEBUG Client 13080] Generating level 53 area "2_7_6" with seed 2747916993
+2022/10/17 15:33:52 52245359 f22b69a6 [INFO Client 13080] Tile hash: 43742626
+2022/10/17 15:33:52 52245359 f22b69a7 [INFO Client 13080] Doodad hash: 801351205
+2022/10/17 15:33:53 52245750 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:33:53 52246437 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берлога.
+2022/10/17 15:33:54 52247156 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:35:55 52367953 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:35:55 52367953 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:35:55 52367953 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.142:6112
+2022/10/17 15:35:55 52368015 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 15:35:55 52368171 1186952b [DEBUG Client 13080] Generating level 53 area "2_7_7" with seed 3864752260
+2022/10/17 15:35:58 52371156 f22b69a6 [INFO Client 13080] Tile hash: 1632128942
+2022/10/17 15:35:58 52371156 f22b69a7 [INFO Client 13080] Doodad hash: 500540015
+2022/10/17 15:35:59 52371781 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:35:59 52372609 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пепельные поля.
+2022/10/17 15:36:01 52373953 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:36:03 52375781 cff943d8 [INFO Client 13080] Рог: Ты жива!
+2022/10/17 15:37:11 52444375 cff943d8 [INFO Client 13080] Грех: Ралакеш!
+2022/10/17 15:37:18 52451343 cff943d8 [INFO Client 13080] Грех: Отринь лицо тирана навсегда. Пусть его царство сгинет без следа.
+2022/10/17 15:37:34 52466937 88a90480 [DEBUG Client 13080] Got Instance Details from login server
+2022/10/17 15:37:34 52466937 32759a9f [INFO Client 13080] [SHADER] Delay: OFF
+2022/10/17 15:37:34 52466937 ca3a6737 [INFO Client 13080] Connecting to instance server at 169.51.201.167:6112
+2022/10/17 15:37:34 52467000 ca3a4d51 [DEBUG Client 13080] Connect time to instance server was 47ms
+2022/10/17 15:37:34 52467078 1186952b [DEBUG Client 13080] Generating level 53 area "2_7_8" with seed 2517954697
+2022/10/17 15:37:36 52468937 f22b69a6 [INFO Client 13080] Tile hash: 2522675554
+2022/10/17 15:37:36 52468937 f22b69a7 [INFO Client 13080] Doodad hash: 782389626
+2022/10/17 15:37:36 52469687 11871c61 [DEBUG Client 13080] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 144 members 
+2022/10/17 15:37:37 52470343 cff943d8 [INFO Client 13080] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Северный лес.
+2022/10/17 15:37:38 52471265 32759a9f [INFO Client 13080] [SHADER] Delay: ON
+2022/10/17 15:37:56 52489156 cff943d8 [INFO Client 13080] Эйнар, Мастер зверей: Готова, изгнанница? Настала пора охоты!
+2022/10/17 15:37:59 52492625 cff943d8 [INFO Client 13080] Эйнар, Мастер зверей: Топай, животинка! Уходи!
+2022/10/17 15:38:27 52520203 cff943d8 [INFO Client 13080] Туджин, торгаш: Местная! Нужна твоя помощь!
+2022/10/17 15:39:01 52554296 cff943d8 [INFO Client 13080] Эйнар, Мастер зверей: Этот схвачен. Эйнар его забирает.
+2022/10/17 15:39:40 52592828 cff943d8 [INFO Client 13080] Эйнар, Мастер зверей: Первые с гордостью смотрят на эту добычу. Из тебя вышел хороший охотник.
