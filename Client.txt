@@ -18908,3 +18908,515 @@ flags: 129
 2022/10/19 15:46:28 8982109 cff943d8 [INFO Client 8336] @От кого Sciongator: tnx
 2022/10/19 15:46:30 8984640 cff943d8 [INFO Client 8336] @Кому Sciongator: Thank you for the trade. Have a nice day and good luck!
 2022/10/19 15:46:31 8985250 cff943d8 [INFO Client 8336] : Sciongator покинул область.
+2022/10/20 05:03:27 ***** LOG FILE OPENING *****
+2022/10/20 05:03:27 5764546 f9544ec0 [WARN Client 9872] Unable to init Steam API
+2022/10/20 05:03:27 5764546 340884db [DEBUG Client 9872] [RENDER] StopDevice
+2022/10/20 05:03:27 5764562 84a7e6f1 [INFO Client 9872] [ENGINE] Clear
+2022/10/20 05:03:27 5764562 7bb5422 [INFO Client 9872] [BUNDLE2] Deinit
+2022/10/20 05:03:27 5764562 84a7e691 [INFO Client 9872] [JOB] Clear
+2022/10/20 05:03:27 5764562 84a7e7bf [INFO Client 9872] [ANIMATION] Clear
+2022/10/20 05:03:27 5764562 84a7e7be [INFO Client 9872] [PHYSICS] Clear
+2022/10/20 05:03:27 5764562 84a7e7bd [INFO Client 9872] [SHADER] Clear
+2022/10/20 05:03:27 5764562 84a7e7bc [INFO Client 9872] [ENTITY] Clear
+2022/10/20 05:03:27 5764562 84a7e7bb [INFO Client 9872] [SOUND] Clear
+2022/10/20 05:03:27 5764562 84a7e7ba [INFO Client 9872] [VIDEO] Clear
+2022/10/20 05:03:27 5764578 84a7e7b9 [INFO Client 9872] [SCENE] Clear
+2022/10/20 05:03:27 5764578 84a7e7b8 [INFO Client 9872] [GRAPH] Clear
+2022/10/20 05:03:27 5764578 84a7e7b7 [INFO Client 9872] [TELEMETRY] Clear
+2022/10/20 05:03:27 5764578 84a7e7b6 [INFO Client 9872] [RESOURCE] GarbageCollect
+2022/10/20 05:03:27 5764578 84a7e75e [INFO Client 9872] [RESOURCE] Clear
+2022/10/20 05:03:27 5764578 84a7e75b [INFO Client 9872] [RENDER] Clear
+2022/10/20 05:03:27 5764578 84a7e758 [INFO Client 9872] [ENGINE] Done
+2022/10/20 05:03:49 ***** LOG FILE OPENING *****
+2022/10/20 05:03:49 5786250 f9544ec0 [WARN Client 8184] Unable to init Steam API
+2022/10/20 05:03:49 5786250 340884db [DEBUG Client 8184] [RENDER] StopDevice
+2022/10/20 05:03:49 5786250 84a7e6f1 [INFO Client 8184] [ENGINE] Clear
+2022/10/20 05:03:49 5786250 7bb5422 [INFO Client 8184] [BUNDLE2] Deinit
+2022/10/20 05:03:49 5786250 84a7e691 [INFO Client 8184] [JOB] Clear
+2022/10/20 05:03:49 5786250 84a7e7bf [INFO Client 8184] [ANIMATION] Clear
+2022/10/20 05:03:49 5786250 84a7e7be [INFO Client 8184] [PHYSICS] Clear
+2022/10/20 05:03:49 5786250 84a7e7bd [INFO Client 8184] [SHADER] Clear
+2022/10/20 05:03:49 5786250 84a7e7bc [INFO Client 8184] [ENTITY] Clear
+2022/10/20 05:03:49 5786250 84a7e7bb [INFO Client 8184] [SOUND] Clear
+2022/10/20 05:03:49 5786250 84a7e7ba [INFO Client 8184] [VIDEO] Clear
+2022/10/20 05:03:49 5786250 84a7e7b9 [INFO Client 8184] [SCENE] Clear
+2022/10/20 05:03:49 5786250 84a7e7b8 [INFO Client 8184] [GRAPH] Clear
+2022/10/20 05:03:49 5786250 84a7e7b7 [INFO Client 8184] [TELEMETRY] Clear
+2022/10/20 05:03:49 5786250 84a7e7b6 [INFO Client 8184] [RESOURCE] GarbageCollect
+2022/10/20 05:03:49 5786250 84a7e75e [INFO Client 8184] [RESOURCE] Clear
+2022/10/20 05:03:49 5786250 84a7e75b [INFO Client 8184] [RENDER] Clear
+2022/10/20 05:03:49 5786250 84a7e758 [INFO Client 8184] [ENGINE] Done
+2022/10/20 05:34:37 ***** LOG FILE OPENING *****
+2022/10/20 05:34:37 7634203 f954428c [INFO Client 716] [STARTUP] Job Queues
+2022/10/20 05:34:37 7634218 9e6a0b0a [INFO Client 716] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:34:37 7634343 9e6a1d2a [INFO Client 716] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:34:37 7634343 9e6a1363 [INFO Client 716] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:34:37 7634343 9e6a0b0a [INFO Client 716] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:34:37 7634343 9e6a1d2a [INFO Client 716] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:34:37 7634343 84a7d27d [INFO Client 716] [ENGINE] Init
+2022/10/20 05:34:37 7634343 55713145 [INFO Client 716] [JOB] HIGH: 3
+2022/10/20 05:34:37 7634343 55713145 [INFO Client 716] [JOB] MEDIUM: 3
+2022/10/20 05:34:37 7634343 55713145 [INFO Client 716] [JOB] LOW: 3
+2022/10/20 05:34:37 7634343 55713145 [INFO Client 716] [JOB] IDLE: 1
+2022/10/20 05:34:37 7634343 7bb548f [INFO Client 716] [BUNDLE2] Init
+2022/10/20 05:34:37 7634359 7bb36c4 [INFO Client 716] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/20 05:34:37 7634578 7bb61e6 [INFO Client 716] [BUNDLE2] File cache size: 1024
+2022/10/20 05:34:37 7634578 b51d61ab [INFO Client 716] [RENDER] Async: ON
+2022/10/20 05:34:37 7634578 b51d60c8 [INFO Client 716] [RENDER] Warmup: ON
+2022/10/20 05:34:37 7634578 b51d60ce [INFO Client 716] [RENDER] Skip: ON
+2022/10/20 05:34:37 7634578 b51d60eb [INFO Client 716] [RENDER] Throttling: ON
+2022/10/20 05:34:37 7634578 32759a7a [INFO Client 716] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/20 05:34:37 7634578 32759a70 [INFO Client 716] [SHADER] Async: ON
+2022/10/20 05:34:37 7634578 32759a9f [INFO Client 716] [SHADER] Delay: OFF
+2022/10/20 05:34:37 7634578 32759aba [INFO Client 716] [SHADER] Limit: ON
+2022/10/20 05:34:37 7634578 32759abc [INFO Client 716] [SHADER] Warmup: ON
+2022/10/20 05:34:37 7634578 327599d7 [INFO Client 716] [SHADER] Parallel: OFF
+2022/10/20 05:34:37 7634578 84a7e376 [INFO Client 716] [ENGINE] Running Engine version 1.6.0
+2022/10/20 05:34:37 7634578 84a7e35a [INFO Client 716] [ENGINE] Old file Engine version detected 0.0.0
+2022/10/20 05:34:37 7634609 47bbd159 [INFO Client 716] [SOUND] Buffer size = 64.0 MB
+2022/10/20 05:34:37 7634687 9b0d205 [INFO Client 716] [VIDEO] Enable: ON
+2022/10/20 05:34:37 7634703 84a7d2d8 [INFO Client 716] [ENGINE] Ready
+2022/10/20 05:34:38 7635000 951bc0b0 [INFO Client 716] [STARTUP] Bundle Startup Start
+2022/10/20 05:34:38 7635000 951bc057 [INFO Client 716] [STARTUP] Bundle Startup in 4.4e-05 seconds
+2022/10/20 05:34:38 7635000 951bc0b0 [INFO Client 716] [STARTUP] Game Start
+2022/10/20 05:34:38 7635281 ca86fd3f [DEBUG Client 716] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/20 05:34:38 7635703 951bc057 [INFO Client 716] [STARTUP] Game in 0.705218 seconds
+2022/10/20 05:34:38 7635703 951bc0b0 [INFO Client 716] [STARTUP] Window Start
+2022/10/20 05:34:38 7635703 9e6a0b0a [INFO Client 716] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:34:39 7635796 9e6a1d2a [INFO Client 716] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:34:39 7635796 9e6a1363 [INFO Client 716] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:34:39 7635796 9e6a0b0a [INFO Client 716] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:34:39 7635796 9e6a1d2a [INFO Client 716] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:34:39 7635812 951bc057 [INFO Client 716] [STARTUP] Window in 0.11068 seconds
+2022/10/20 05:34:39 7635843 413b61ff [DEBUG Client 716] [GamepadManager] Initialising
+2022/10/20 05:34:39 7635843 951bc0b0 [INFO Client 716] [STARTUP] Device Start
+2022/10/20 05:34:39 7635843 b51d6589 [INFO Client 716] [RENDER] StartDevice: DirectX11
+2022/10/20 05:34:39 7635968 71b3b00 [DEBUG Client 716] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/20 05:34:39 7635984 97ce0484 [WARN Client 716] [SHADER] Failed to load cache. Header version mismatch (found 0, expected 10) 
+2022/10/20 05:34:39 7636046 fafff8cf [DEBUG Client 716] CreateSwapChain: SetFullScreenState 0
+2022/10/20 05:34:39 7636046 29d4ce01 [INFO Client 716] [D3D11] Runtime version = 11.1
+2022/10/20 05:34:39 7636046 29d4ce00 [INFO Client 716] [D3D11] Feature Level = 11.1
+2022/10/20 05:34:39 7636046 29d4ce03 [INFO Client 716] [D3D11] Driver Command Lists = YES
+2022/10/20 05:34:39 7636046 29d4ce02 [INFO Client 716] [D3D11] Driver Concurrent Creates = YES
+2022/10/20 05:34:39 7636046 29d4ce05 [INFO Client 716] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/20 05:34:39 7636187 9d4eeb40 [DEBUG Client 716] [WINDOW] TrigggerDeviceCreate
+2022/10/20 05:34:39 7636250 9d4eeba7 [DEBUG Client 716] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:34:39 7636265 9d4eec8a [DEBUG Client 716] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:34:39 7636265 9d4eeba7 [DEBUG Client 716] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:34:39 7636265 951bc057 [INFO Client 716] [STARTUP] Device in 0.416948 seconds
+2022/10/20 05:34:39 7636265 951bc0b0 [INFO Client 716] [STARTUP] Tencent Start
+2022/10/20 05:34:39 7636265 951bc057 [INFO Client 716] [STARTUP] Tencent in 1.7e-05 seconds
+2022/10/20 05:34:39 7636265 951bc0b0 [INFO Client 716] [STARTUP] Loading Start
+2022/10/20 05:34:39 7636281 951bc057 [INFO Client 716] [STARTUP] Loading in 0.016932 seconds
+2022/10/20 05:34:39 7636281 951bc0b0 [INFO Client 716] [STARTUP] DebugGUI Start
+2022/10/20 05:34:39 7636281 951bc057 [INFO Client 716] [STARTUP] DebugGUI in 1.3e-05 seconds
+2022/10/20 05:34:39 7636281 951bc0b0 [INFO Client 716] [STARTUP] Bundle Tiny Start
+2022/10/20 05:34:39 7636281 951bc0b0 [INFO Client 716] [STARTUP] Bundle Login Start
+2022/10/20 05:34:39 7636281 951bc057 [INFO Client 716] [STARTUP] Bundle Login in 2.2e-05 seconds
+2022/10/20 05:34:39 7636281 951bc0b0 [INFO Client 716] [STARTUP] Registration Start
+2022/10/20 05:34:39 7636281 951bc0b0 [INFO Client 716] [STARTUP] Audio Start
+2022/10/20 05:34:39 7636281 951bc057 [INFO Client 716] [STARTUP] Bundle Tiny in 5e-05 seconds
+2022/10/20 05:34:39 7636281 47bbee18 [INFO Client 716] [SOUND] Channel count = 128 (asked for 128)
+2022/10/20 05:34:39 7636281 47bbee19 [INFO Client 716] [SOUND] Source count = 512
+2022/10/20 05:34:39 7636421 47bbea58 [INFO Client 716] Changing to device "Headphones (High Definition Audio Device)"
+2022/10/20 05:34:39 7636421 951bc057 [INFO Client 716] [STARTUP] Audio in 0.145971 seconds
+2022/10/20 05:34:39 7636718 951bc057 [INFO Client 716] [STARTUP] Registration in 0.438185 seconds
+2022/10/20 05:34:40 7637062 b51d4f61 [DEBUG Client 716] [RENDER] SetRendererSettings
+2022/10/20 05:34:40 7637062 b51d6447 [DEBUG Client 716] [RENDER] ResizeWindow
+2022/10/20 05:34:40 7637062 9d4eec8a [DEBUG Client 716] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:34:40 7637062 9d4eeba7 [DEBUG Client 716] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:34:40 7637062 b51d614c [DEBUG Client 716] [RENDER] RestartSwapChain
+2022/10/20 05:34:40 7637062 9e6a0b0a [INFO Client 716] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:34:40 7637109 9e6a1d2a [INFO Client 716] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:34:40 7637109 9e6a1363 [INFO Client 716] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:34:40 7637109 9e6a0b0a [INFO Client 716] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:34:40 7637109 9e6a1d2a [INFO Client 716] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:34:40 7637109 fafff8cf [DEBUG Client 716] CreateSwapChain: SetFullScreenState 0
+2022/10/20 05:34:40 7637109 9d4eec8a [DEBUG Client 716] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:34:40 7637109 9d4eeba7 [DEBUG Client 716] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:34:40 7637109 3275a75e [INFO Client 716] [SHADER] Disable Async: 1 frames
+2022/10/20 05:34:40 7637109 b51d610e [INFO Client 716] [RENDER] Disable Async: 1 frames
+2022/10/20 05:39:58 ***** LOG FILE OPENING *****
+2022/10/20 05:39:58 7955109 f954428c [INFO Client 5552] [STARTUP] Job Queues
+2022/10/20 05:39:58 7955109 9e6a0b0a [INFO Client 5552] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:39:58 7955218 9e6a1d2a [INFO Client 5552] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:39:58 7955218 9e6a1363 [INFO Client 5552] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:39:58 7955218 9e6a0b0a [INFO Client 5552] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:39:58 7955218 9e6a1d2a [INFO Client 5552] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:39:58 7955234 84a7d27d [INFO Client 5552] [ENGINE] Init
+2022/10/20 05:39:58 7955234 55713145 [INFO Client 5552] [JOB] HIGH: 3
+2022/10/20 05:39:58 7955234 55713145 [INFO Client 5552] [JOB] MEDIUM: 3
+2022/10/20 05:39:58 7955234 55713145 [INFO Client 5552] [JOB] LOW: 3
+2022/10/20 05:39:58 7955234 55713145 [INFO Client 5552] [JOB] IDLE: 1
+2022/10/20 05:39:58 7955234 7bb548f [INFO Client 5552] [BUNDLE2] Init
+2022/10/20 05:39:58 7955234 7bb36c4 [INFO Client 5552] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/20 05:39:58 7955390 7bb61e6 [INFO Client 5552] [BUNDLE2] File cache size: 1024
+2022/10/20 05:39:58 7955390 b51d61ab [INFO Client 5552] [RENDER] Async: ON
+2022/10/20 05:39:58 7955390 b51d60c8 [INFO Client 5552] [RENDER] Warmup: ON
+2022/10/20 05:39:58 7955390 b51d60ce [INFO Client 5552] [RENDER] Skip: ON
+2022/10/20 05:39:58 7955390 b51d60eb [INFO Client 5552] [RENDER] Throttling: ON
+2022/10/20 05:39:58 7955390 32759a7a [INFO Client 5552] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/20 05:39:58 7955390 32759a70 [INFO Client 5552] [SHADER] Async: ON
+2022/10/20 05:39:58 7955390 32759a9f [INFO Client 5552] [SHADER] Delay: OFF
+2022/10/20 05:39:58 7955390 32759aba [INFO Client 5552] [SHADER] Limit: ON
+2022/10/20 05:39:58 7955390 32759abc [INFO Client 5552] [SHADER] Warmup: ON
+2022/10/20 05:39:58 7955390 327599d7 [INFO Client 5552] [SHADER] Parallel: OFF
+2022/10/20 05:39:58 7955390 84a7e376 [INFO Client 5552] [ENGINE] Running Engine version 1.6.0
+2022/10/20 05:39:58 7955406 47bbd159 [INFO Client 5552] [SOUND] Buffer size = 64.0 MB
+2022/10/20 05:39:58 7955421 9b0d205 [INFO Client 5552] [VIDEO] Enable: ON
+2022/10/20 05:39:58 7955453 84a7d2d8 [INFO Client 5552] [ENGINE] Ready
+2022/10/20 05:39:58 7955703 951bc0b0 [INFO Client 5552] [STARTUP] Bundle Startup Start
+2022/10/20 05:39:58 7955703 951bc057 [INFO Client 5552] [STARTUP] Bundle Startup in 4.4e-05 seconds
+2022/10/20 05:39:58 7955703 951bc0b0 [INFO Client 5552] [STARTUP] Game Start
+2022/10/20 05:39:59 7955906 ca86fd3f [DEBUG Client 5552] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/20 05:39:59 7956109 951bc057 [INFO Client 5552] [STARTUP] Game in 0.396511 seconds
+2022/10/20 05:39:59 7956109 951bc0b0 [INFO Client 5552] [STARTUP] Window Start
+2022/10/20 05:39:59 7956109 9e6a0b0a [INFO Client 5552] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:39:59 7956187 9e6a1d2a [INFO Client 5552] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:39:59 7956187 9e6a1363 [INFO Client 5552] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:39:59 7956187 9e6a0b0a [INFO Client 5552] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:39:59 7956187 9e6a1d2a [INFO Client 5552] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:39:59 7956203 951bc057 [INFO Client 5552] [STARTUP] Window in 0.10861 seconds
+2022/10/20 05:39:59 7956218 413b61ff [DEBUG Client 5552] [GamepadManager] Initialising
+2022/10/20 05:39:59 7956218 951bc0b0 [INFO Client 5552] [STARTUP] Device Start
+2022/10/20 05:39:59 7956218 b51d6589 [INFO Client 5552] [RENDER] StartDevice: DirectX11
+2022/10/20 05:39:59 7956328 71b3b00 [DEBUG Client 5552] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/20 05:39:59 7956343 97ce0484 [WARN Client 5552] [SHADER] Failed to load cache. Header version mismatch (found 0, expected 10) 
+2022/10/20 05:40:00 7956796 fafff8cf [DEBUG Client 5552] CreateSwapChain: SetFullScreenState 0
+2022/10/20 05:40:00 7956796 29d4ce01 [INFO Client 5552] [D3D11] Runtime version = 11.1
+2022/10/20 05:40:00 7956796 29d4ce00 [INFO Client 5552] [D3D11] Feature Level = 11.1
+2022/10/20 05:40:00 7956796 29d4ce03 [INFO Client 5552] [D3D11] Driver Command Lists = YES
+2022/10/20 05:40:00 7956796 29d4ce02 [INFO Client 5552] [D3D11] Driver Concurrent Creates = YES
+2022/10/20 05:40:00 7956796 29d4ce05 [INFO Client 5552] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/20 05:40:00 7956890 9d4eeb40 [DEBUG Client 5552] [WINDOW] TrigggerDeviceCreate
+2022/10/20 05:40:00 7956937 9d4eeba7 [DEBUG Client 5552] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:40:00 7956953 9d4eec8a [DEBUG Client 5552] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:40:00 7956953 9d4eeba7 [DEBUG Client 5552] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:40:00 7956968 951bc057 [INFO Client 5552] [STARTUP] Device in 0.745295 seconds
+2022/10/20 05:40:00 7956968 951bc0b0 [INFO Client 5552] [STARTUP] Tencent Start
+2022/10/20 05:40:00 7956968 951bc057 [INFO Client 5552] [STARTUP] Tencent in 1.4e-05 seconds
+2022/10/20 05:40:00 7956968 951bc0b0 [INFO Client 5552] [STARTUP] Loading Start
+2022/10/20 05:40:00 7956984 951bc057 [INFO Client 5552] [STARTUP] Loading in 0.0148 seconds
+2022/10/20 05:40:00 7956984 951bc0b0 [INFO Client 5552] [STARTUP] DebugGUI Start
+2022/10/20 05:40:00 7956984 951bc057 [INFO Client 5552] [STARTUP] DebugGUI in 1.3e-05 seconds
+2022/10/20 05:40:00 7956984 951bc0b0 [INFO Client 5552] [STARTUP] Bundle Tiny Start
+2022/10/20 05:40:00 7956984 951bc0b0 [INFO Client 5552] [STARTUP] Bundle Login Start
+2022/10/20 05:40:00 7956984 951bc057 [INFO Client 5552] [STARTUP] Bundle Login in 2e-05 seconds
+2022/10/20 05:40:00 7956984 951bc057 [INFO Client 5552] [STARTUP] Bundle Tiny in 4.6e-05 seconds
+2022/10/20 05:40:00 7956984 951bc0b0 [INFO Client 5552] [STARTUP] Registration Start
+2022/10/20 05:40:00 7956984 951bc0b0 [INFO Client 5552] [STARTUP] Audio Start
+2022/10/20 05:40:00 7956984 47bbee18 [INFO Client 5552] [SOUND] Channel count = 128 (asked for 128)
+2022/10/20 05:40:00 7956984 47bbee19 [INFO Client 5552] [SOUND] Source count = 512
+2022/10/20 05:40:00 7957125 47bbea58 [INFO Client 5552] Changing to device "Headphones (High Definition Audio Device)"
+2022/10/20 05:40:00 7957125 951bc057 [INFO Client 5552] [STARTUP] Audio in 0.151802 seconds
+2022/10/20 05:40:00 7957296 951bc057 [INFO Client 5552] [STARTUP] Registration in 0.314727 seconds
+2022/10/20 05:40:00 7957546 b51d4f61 [DEBUG Client 5552] [RENDER] SetRendererSettings
+2022/10/20 05:40:00 7957546 b51d6447 [DEBUG Client 5552] [RENDER] ResizeWindow
+2022/10/20 05:40:00 7957546 9d4eec8a [DEBUG Client 5552] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:40:00 7957640 9d4eeba7 [DEBUG Client 5552] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:40:00 7957656 b51d614c [DEBUG Client 5552] [RENDER] RestartSwapChain
+2022/10/20 05:40:00 7957656 9e6a0b0a [INFO Client 5552] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:40:00 7957703 9e6a1d2a [INFO Client 5552] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:40:00 7957703 9e6a1363 [INFO Client 5552] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:40:00 7957703 9e6a0b0a [INFO Client 5552] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:40:00 7957703 9e6a1d2a [INFO Client 5552] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:40:01 7957875 fafff8cf [DEBUG Client 5552] CreateSwapChain: SetFullScreenState 0
+2022/10/20 05:40:01 7957875 9d4eec8a [DEBUG Client 5552] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:40:01 7957890 9d4eeba7 [DEBUG Client 5552] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:40:01 7957890 3275a75e [INFO Client 5552] [SHADER] Disable Async: 1 frames
+2022/10/20 05:40:01 7957890 b51d610e [INFO Client 5552] [RENDER] Disable Async: 1 frames
+2022/10/20 05:40:22 ***** LOG FILE OPENING *****
+2022/10/20 05:40:23 7979796 f954428c [INFO Client 7592] [STARTUP] Job Queues
+2022/10/20 05:40:23 7979812 9e6a0b0a [INFO Client 7592] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:40:23 7979921 9e6a1d2a [INFO Client 7592] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:40:23 7979921 9e6a1363 [INFO Client 7592] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:40:23 7979921 9e6a0b0a [INFO Client 7592] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:40:23 7979921 9e6a1d2a [INFO Client 7592] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:40:23 7979937 84a7d27d [INFO Client 7592] [ENGINE] Init
+2022/10/20 05:40:23 7979937 55713145 [INFO Client 7592] [JOB] HIGH: 3
+2022/10/20 05:40:23 7979937 55713145 [INFO Client 7592] [JOB] MEDIUM: 3
+2022/10/20 05:40:23 7979937 55713145 [INFO Client 7592] [JOB] LOW: 3
+2022/10/20 05:40:23 7979937 55713145 [INFO Client 7592] [JOB] IDLE: 1
+2022/10/20 05:40:23 7979937 7bb548f [INFO Client 7592] [BUNDLE2] Init
+2022/10/20 05:40:23 7979937 7bb36c4 [INFO Client 7592] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/20 05:40:23 7980093 7bb61e6 [INFO Client 7592] [BUNDLE2] File cache size: 1024
+2022/10/20 05:40:23 7980093 b51d61ab [INFO Client 7592] [RENDER] Async: ON
+2022/10/20 05:40:23 7980093 b51d60c8 [INFO Client 7592] [RENDER] Warmup: ON
+2022/10/20 05:40:23 7980093 b51d60ce [INFO Client 7592] [RENDER] Skip: ON
+2022/10/20 05:40:23 7980093 b51d60eb [INFO Client 7592] [RENDER] Throttling: ON
+2022/10/20 05:40:23 7980093 32759a7a [INFO Client 7592] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/20 05:40:23 7980093 32759a70 [INFO Client 7592] [SHADER] Async: ON
+2022/10/20 05:40:23 7980093 32759a9f [INFO Client 7592] [SHADER] Delay: OFF
+2022/10/20 05:40:23 7980093 32759aba [INFO Client 7592] [SHADER] Limit: ON
+2022/10/20 05:40:23 7980093 32759abc [INFO Client 7592] [SHADER] Warmup: ON
+2022/10/20 05:40:23 7980093 327599d7 [INFO Client 7592] [SHADER] Parallel: OFF
+2022/10/20 05:40:23 7980093 84a7e376 [INFO Client 7592] [ENGINE] Running Engine version 1.6.0
+2022/10/20 05:40:23 7980109 47bbd159 [INFO Client 7592] [SOUND] Buffer size = 64.0 MB
+2022/10/20 05:40:23 7980125 9b0d205 [INFO Client 7592] [VIDEO] Enable: ON
+2022/10/20 05:40:23 7980140 84a7d2d8 [INFO Client 7592] [ENGINE] Ready
+2022/10/20 05:40:23 7980375 951bc0b0 [INFO Client 7592] [STARTUP] Bundle Startup Start
+2022/10/20 05:40:23 7980375 951bc057 [INFO Client 7592] [STARTUP] Bundle Startup in 5.7e-05 seconds
+2022/10/20 05:40:23 7980375 951bc0b0 [INFO Client 7592] [STARTUP] Game Start
+2022/10/20 05:40:23 7980578 ca86fd3f [DEBUG Client 7592] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/20 05:40:23 7980765 951bc057 [INFO Client 7592] [STARTUP] Game in 0.386718 seconds
+2022/10/20 05:40:23 7980765 951bc0b0 [INFO Client 7592] [STARTUP] Window Start
+2022/10/20 05:40:23 7980765 9e6a0b0a [INFO Client 7592] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:40:24 7980859 9e6a1d2a [INFO Client 7592] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:40:24 7980859 9e6a1363 [INFO Client 7592] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:40:24 7980859 9e6a0b0a [INFO Client 7592] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:40:24 7980859 9e6a1d2a [INFO Client 7592] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:40:24 7980875 951bc057 [INFO Client 7592] [STARTUP] Window in 0.109232 seconds
+2022/10/20 05:40:24 7980875 413b61ff [DEBUG Client 7592] [GamepadManager] Initialising
+2022/10/20 05:40:24 7980875 951bc0b0 [INFO Client 7592] [STARTUP] Device Start
+2022/10/20 05:40:24 7980875 b51d6589 [INFO Client 7592] [RENDER] StartDevice: DirectX11
+2022/10/20 05:40:24 7981000 71b3b00 [DEBUG Client 7592] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/20 05:40:24 7981000 97ce0484 [WARN Client 7592] [SHADER] Failed to load cache. Header version mismatch (found 0, expected 10) 
+2022/10/20 05:40:24 7981328 fafff8cf [DEBUG Client 7592] CreateSwapChain: SetFullScreenState 0
+2022/10/20 05:40:24 7981343 29d4ce01 [INFO Client 7592] [D3D11] Runtime version = 11.1
+2022/10/20 05:40:24 7981343 29d4ce00 [INFO Client 7592] [D3D11] Feature Level = 11.1
+2022/10/20 05:40:24 7981343 29d4ce03 [INFO Client 7592] [D3D11] Driver Command Lists = YES
+2022/10/20 05:40:24 7981343 29d4ce02 [INFO Client 7592] [D3D11] Driver Concurrent Creates = YES
+2022/10/20 05:40:24 7981343 29d4ce05 [INFO Client 7592] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/20 05:40:24 7981421 9d4eeb40 [DEBUG Client 7592] [WINDOW] TrigggerDeviceCreate
+2022/10/20 05:40:24 7981484 9d4eeba7 [DEBUG Client 7592] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:40:24 7981484 9d4eec8a [DEBUG Client 7592] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:40:24 7981484 9d4eeba7 [DEBUG Client 7592] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:40:24 7981500 951bc057 [INFO Client 7592] [STARTUP] Device in 0.61568 seconds
+2022/10/20 05:40:24 7981500 951bc0b0 [INFO Client 7592] [STARTUP] Tencent Start
+2022/10/20 05:40:24 7981500 951bc057 [INFO Client 7592] [STARTUP] Tencent in 1.3e-05 seconds
+2022/10/20 05:40:24 7981500 951bc0b0 [INFO Client 7592] [STARTUP] Loading Start
+2022/10/20 05:40:24 7981515 951bc057 [INFO Client 7592] [STARTUP] Loading in 0.014186 seconds
+2022/10/20 05:40:24 7981515 951bc0b0 [INFO Client 7592] [STARTUP] DebugGUI Start
+2022/10/20 05:40:24 7981515 951bc057 [INFO Client 7592] [STARTUP] DebugGUI in 1.9e-05 seconds
+2022/10/20 05:40:24 7981515 951bc0b0 [INFO Client 7592] [STARTUP] Bundle Tiny Start
+2022/10/20 05:40:24 7981515 951bc0b0 [INFO Client 7592] [STARTUP] Bundle Login Start
+2022/10/20 05:40:24 7981515 951bc057 [INFO Client 7592] [STARTUP] Bundle Login in 3e-05 seconds
+2022/10/20 05:40:24 7981515 951bc0b0 [INFO Client 7592] [STARTUP] Registration Start
+2022/10/20 05:40:24 7981515 951bc057 [INFO Client 7592] [STARTUP] Bundle Tiny in 6.6e-05 seconds
+2022/10/20 05:40:24 7981515 951bc0b0 [INFO Client 7592] [STARTUP] Audio Start
+2022/10/20 05:40:24 7981515 47bbee18 [INFO Client 7592] [SOUND] Channel count = 128 (asked for 128)
+2022/10/20 05:40:24 7981515 47bbee19 [INFO Client 7592] [SOUND] Source count = 512
+2022/10/20 05:40:24 7981609 47bbea58 [INFO Client 7592] Changing to device "Headphones (High Definition Audio Device)"
+2022/10/20 05:40:24 7981609 951bc057 [INFO Client 7592] [STARTUP] Audio in 0.102655 seconds
+2022/10/20 05:40:25 7981828 951bc057 [INFO Client 7592] [STARTUP] Registration in 0.318003 seconds
+2022/10/20 05:40:25 7982078 b51d4f61 [DEBUG Client 7592] [RENDER] SetRendererSettings
+2022/10/20 05:40:25 7982078 b51d6447 [DEBUG Client 7592] [RENDER] ResizeWindow
+2022/10/20 05:40:25 7982078 9d4eec8a [DEBUG Client 7592] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:40:25 7982093 9d4eeba7 [DEBUG Client 7592] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:40:25 7982093 b51d614c [DEBUG Client 7592] [RENDER] RestartSwapChain
+2022/10/20 05:40:25 7982093 9e6a0b0a [INFO Client 7592] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:40:25 7982140 9e6a1d2a [INFO Client 7592] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:40:25 7982140 9e6a1363 [INFO Client 7592] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:40:25 7982140 9e6a0b0a [INFO Client 7592] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:40:25 7982140 9e6a1d2a [INFO Client 7592] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:40:25 7982343 fafff8cf [DEBUG Client 7592] CreateSwapChain: SetFullScreenState 0
+2022/10/20 05:40:25 7982343 9d4eec8a [DEBUG Client 7592] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:40:25 7982343 9d4eeba7 [DEBUG Client 7592] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:40:25 7982343 3275a75e [INFO Client 7592] [SHADER] Disable Async: 1 frames
+2022/10/20 05:40:25 7982343 b51d610e [INFO Client 7592] [RENDER] Disable Async: 1 frames
+2022/10/20 05:41:48 ***** LOG FILE OPENING *****
+2022/10/20 05:41:49 8066125 f954428c [INFO Client 2556] [STARTUP] Job Queues
+2022/10/20 05:41:49 8066140 9e6a0b0a [INFO Client 2556] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:41:50 8066859 9e6a1d2a [INFO Client 2556] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:41:50 8066859 9e6a1363 [INFO Client 2556] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:41:50 8066859 9e6a0b0a [INFO Client 2556] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:41:50 8066859 9e6a1d2a [INFO Client 2556] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:41:50 8066875 84a7d27d [INFO Client 2556] [ENGINE] Init
+2022/10/20 05:41:50 8066875 55713145 [INFO Client 2556] [JOB] HIGH: 3
+2022/10/20 05:41:50 8066875 55713145 [INFO Client 2556] [JOB] MEDIUM: 3
+2022/10/20 05:41:50 8066875 55713145 [INFO Client 2556] [JOB] LOW: 3
+2022/10/20 05:41:50 8066875 55713145 [INFO Client 2556] [JOB] IDLE: 1
+2022/10/20 05:41:50 8066875 7bb548f [INFO Client 2556] [BUNDLE2] Init
+2022/10/20 05:41:50 8066875 7bb36c4 [INFO Client 2556] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/20 05:41:50 8067046 7bb61e6 [INFO Client 2556] [BUNDLE2] File cache size: 1024
+2022/10/20 05:41:50 8067046 b51d61ab [INFO Client 2556] [RENDER] Async: ON
+2022/10/20 05:41:50 8067046 b51d60c8 [INFO Client 2556] [RENDER] Warmup: ON
+2022/10/20 05:41:50 8067046 b51d60ce [INFO Client 2556] [RENDER] Skip: ON
+2022/10/20 05:41:50 8067046 b51d60eb [INFO Client 2556] [RENDER] Throttling: ON
+2022/10/20 05:41:50 8067046 32759a7a [INFO Client 2556] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/20 05:41:50 8067046 32759a70 [INFO Client 2556] [SHADER] Async: ON
+2022/10/20 05:41:50 8067046 32759a9f [INFO Client 2556] [SHADER] Delay: OFF
+2022/10/20 05:41:50 8067046 32759aba [INFO Client 2556] [SHADER] Limit: ON
+2022/10/20 05:41:50 8067046 32759abc [INFO Client 2556] [SHADER] Warmup: ON
+2022/10/20 05:41:50 8067046 327599d7 [INFO Client 2556] [SHADER] Parallel: OFF
+2022/10/20 05:41:50 8067046 84a7e376 [INFO Client 2556] [ENGINE] Running Engine version 1.6.0
+2022/10/20 05:41:50 8067093 47bbd159 [INFO Client 2556] [SOUND] Buffer size = 64.0 MB
+2022/10/20 05:41:50 8067140 9b0d205 [INFO Client 2556] [VIDEO] Enable: ON
+2022/10/20 05:41:50 8067187 84a7d2d8 [INFO Client 2556] [ENGINE] Ready
+2022/10/20 05:41:50 8067453 951bc0b0 [INFO Client 2556] [STARTUP] Bundle Startup Start
+2022/10/20 05:41:50 8067453 951bc057 [INFO Client 2556] [STARTUP] Bundle Startup in 3.5e-05 seconds
+2022/10/20 05:41:50 8067453 951bc0b0 [INFO Client 2556] [STARTUP] Game Start
+2022/10/20 05:41:50 8067656 ca86fd3f [DEBUG Client 2556] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/20 05:41:51 8067875 951bc057 [INFO Client 2556] [STARTUP] Game in 0.423118 seconds
+2022/10/20 05:41:51 8067875 951bc0b0 [INFO Client 2556] [STARTUP] Window Start
+2022/10/20 05:41:51 8067875 9e6a0b0a [INFO Client 2556] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:41:51 8067968 9e6a1d2a [INFO Client 2556] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:41:51 8067968 9e6a1363 [INFO Client 2556] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:41:51 8067968 9e6a0b0a [INFO Client 2556] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:41:51 8067968 9e6a1d2a [INFO Client 2556] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:41:51 8067984 951bc057 [INFO Client 2556] [STARTUP] Window in 0.112399 seconds
+2022/10/20 05:41:51 8068000 413b61ff [DEBUG Client 2556] [GamepadManager] Initialising
+2022/10/20 05:41:51 8068000 951bc0b0 [INFO Client 2556] [STARTUP] Device Start
+2022/10/20 05:41:51 8068000 b51d6589 [INFO Client 2556] [RENDER] StartDevice: DirectX11
+2022/10/20 05:41:51 8068109 71b3b00 [DEBUG Client 2556] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/20 05:41:51 8068109 97ce0484 [WARN Client 2556] [SHADER] Failed to load cache. Header version mismatch (found 0, expected 10) 
+2022/10/20 05:41:51 8068453 fafff8cf [DEBUG Client 2556] CreateSwapChain: SetFullScreenState 0
+2022/10/20 05:41:51 8068453 29d4ce01 [INFO Client 2556] [D3D11] Runtime version = 11.1
+2022/10/20 05:41:51 8068453 29d4ce00 [INFO Client 2556] [D3D11] Feature Level = 11.1
+2022/10/20 05:41:51 8068453 29d4ce03 [INFO Client 2556] [D3D11] Driver Command Lists = YES
+2022/10/20 05:41:51 8068453 29d4ce02 [INFO Client 2556] [D3D11] Driver Concurrent Creates = YES
+2022/10/20 05:41:51 8068453 29d4ce05 [INFO Client 2556] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/20 05:41:51 8068546 9d4eeb40 [DEBUG Client 2556] [WINDOW] TrigggerDeviceCreate
+2022/10/20 05:41:51 8068593 9d4eeba7 [DEBUG Client 2556] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:41:51 8068609 9d4eec8a [DEBUG Client 2556] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:41:51 8068609 9d4eeba7 [DEBUG Client 2556] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:41:51 8068625 951bc057 [INFO Client 2556] [STARTUP] Device in 0.627743 seconds
+2022/10/20 05:41:51 8068625 951bc0b0 [INFO Client 2556] [STARTUP] Tencent Start
+2022/10/20 05:41:51 8068625 951bc057 [INFO Client 2556] [STARTUP] Tencent in 1.3e-05 seconds
+2022/10/20 05:41:51 8068625 951bc0b0 [INFO Client 2556] [STARTUP] Loading Start
+2022/10/20 05:41:51 8068640 951bc057 [INFO Client 2556] [STARTUP] Loading in 0.014507 seconds
+2022/10/20 05:41:51 8068640 951bc0b0 [INFO Client 2556] [STARTUP] DebugGUI Start
+2022/10/20 05:41:51 8068640 951bc057 [INFO Client 2556] [STARTUP] DebugGUI in 1.2e-05 seconds
+2022/10/20 05:41:51 8068640 951bc0b0 [INFO Client 2556] [STARTUP] Bundle Tiny Start
+2022/10/20 05:41:51 8068640 951bc0b0 [INFO Client 2556] [STARTUP] Bundle Login Start
+2022/10/20 05:41:51 8068640 951bc057 [INFO Client 2556] [STARTUP] Bundle Login in 1.9e-05 seconds
+2022/10/20 05:41:51 8068640 951bc057 [INFO Client 2556] [STARTUP] Bundle Tiny in 4.6e-05 seconds
+2022/10/20 05:41:51 8068640 951bc0b0 [INFO Client 2556] [STARTUP] Registration Start
+2022/10/20 05:41:51 8068640 951bc0b0 [INFO Client 2556] [STARTUP] Audio Start
+2022/10/20 05:41:51 8068640 47bbee18 [INFO Client 2556] [SOUND] Channel count = 128 (asked for 128)
+2022/10/20 05:41:51 8068640 47bbee19 [INFO Client 2556] [SOUND] Source count = 512
+2022/10/20 05:41:51 8068750 47bbea58 [INFO Client 2556] Changing to device "Headphones (High Definition Audio Device)"
+2022/10/20 05:41:51 8068750 951bc057 [INFO Client 2556] [STARTUP] Audio in 0.117071 seconds
+2022/10/20 05:41:52 8068953 951bc057 [INFO Client 2556] [STARTUP] Registration in 0.322753 seconds
+2022/10/20 05:41:52 8069234 b51d4f61 [DEBUG Client 2556] [RENDER] SetRendererSettings
+2022/10/20 05:41:52 8069234 b51d6447 [DEBUG Client 2556] [RENDER] ResizeWindow
+2022/10/20 05:41:52 8069234 9d4eec8a [DEBUG Client 2556] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:41:52 8069250 9d4eeba7 [DEBUG Client 2556] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:41:52 8069265 b51d614c [DEBUG Client 2556] [RENDER] RestartSwapChain
+2022/10/20 05:41:52 8069265 9e6a0b0a [INFO Client 2556] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:41:52 8069296 9e6a1d2a [INFO Client 2556] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:41:52 8069296 9e6a1363 [INFO Client 2556] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:41:52 8069296 9e6a0b0a [INFO Client 2556] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:41:52 8069296 9e6a1d2a [INFO Client 2556] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:41:52 8069484 fafff8cf [DEBUG Client 2556] CreateSwapChain: SetFullScreenState 0
+2022/10/20 05:41:52 8069484 9d4eec8a [DEBUG Client 2556] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:41:52 8069484 9d4eeba7 [DEBUG Client 2556] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:41:52 8069484 3275a75e [INFO Client 2556] [SHADER] Disable Async: 1 frames
+2022/10/20 05:41:52 8069484 b51d610e [INFO Client 2556] [RENDER] Disable Async: 1 frames
+2022/10/20 05:43:55 ***** LOG FILE OPENING *****
+2022/10/20 05:43:55 8192125 f954428c [INFO Client 7000] [STARTUP] Job Queues
+2022/10/20 05:43:55 8192125 9e6a0b0a [INFO Client 7000] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:43:55 8192250 9e6a1d2a [INFO Client 7000] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:43:55 8192250 9e6a1363 [INFO Client 7000] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:43:55 8192250 9e6a0b0a [INFO Client 7000] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:43:55 8192250 9e6a1d2a [INFO Client 7000] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:43:55 8192265 84a7d27d [INFO Client 7000] [ENGINE] Init
+2022/10/20 05:43:55 8192265 55713145 [INFO Client 7000] [JOB] HIGH: 3
+2022/10/20 05:43:55 8192265 55713145 [INFO Client 7000] [JOB] MEDIUM: 3
+2022/10/20 05:43:55 8192265 55713145 [INFO Client 7000] [JOB] LOW: 3
+2022/10/20 05:43:55 8192265 55713145 [INFO Client 7000] [JOB] IDLE: 1
+2022/10/20 05:43:55 8192265 7bb548f [INFO Client 7000] [BUNDLE2] Init
+2022/10/20 05:43:55 8192265 7bb36c4 [INFO Client 7000] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/20 05:43:55 8192468 7bb61e6 [INFO Client 7000] [BUNDLE2] File cache size: 1024
+2022/10/20 05:43:55 8192468 b51d61ab [INFO Client 7000] [RENDER] Async: ON
+2022/10/20 05:43:55 8192468 b51d60c8 [INFO Client 7000] [RENDER] Warmup: ON
+2022/10/20 05:43:55 8192468 b51d60ce [INFO Client 7000] [RENDER] Skip: ON
+2022/10/20 05:43:55 8192468 b51d60eb [INFO Client 7000] [RENDER] Throttling: ON
+2022/10/20 05:43:55 8192468 32759a7a [INFO Client 7000] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/20 05:43:55 8192468 32759a70 [INFO Client 7000] [SHADER] Async: ON
+2022/10/20 05:43:55 8192468 32759a9f [INFO Client 7000] [SHADER] Delay: OFF
+2022/10/20 05:43:55 8192468 32759aba [INFO Client 7000] [SHADER] Limit: ON
+2022/10/20 05:43:55 8192468 32759abc [INFO Client 7000] [SHADER] Warmup: ON
+2022/10/20 05:43:55 8192468 327599d7 [INFO Client 7000] [SHADER] Parallel: OFF
+2022/10/20 05:43:55 8192468 84a7e376 [INFO Client 7000] [ENGINE] Running Engine version 1.6.0
+2022/10/20 05:43:55 8192515 47bbd159 [INFO Client 7000] [SOUND] Buffer size = 64.0 MB
+2022/10/20 05:43:55 8192562 9b0d205 [INFO Client 7000] [VIDEO] Enable: ON
+2022/10/20 05:43:55 8192609 84a7d2d8 [INFO Client 7000] [ENGINE] Ready
+2022/10/20 05:43:56 8192890 951bc0b0 [INFO Client 7000] [STARTUP] Bundle Startup Start
+2022/10/20 05:43:56 8192890 951bc057 [INFO Client 7000] [STARTUP] Bundle Startup in 5.1e-05 seconds
+2022/10/20 05:43:56 8192890 951bc0b0 [INFO Client 7000] [STARTUP] Game Start
+2022/10/20 05:43:56 8193109 ca86fd3f [DEBUG Client 7000] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/20 05:43:56 8193375 951bc057 [INFO Client 7000] [STARTUP] Game in 0.47134 seconds
+2022/10/20 05:43:56 8193375 951bc0b0 [INFO Client 7000] [STARTUP] Window Start
+2022/10/20 05:43:56 8193375 9e6a0b0a [INFO Client 7000] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:43:56 8193484 9e6a1d2a [INFO Client 7000] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:43:56 8193484 9e6a1363 [INFO Client 7000] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:43:56 8193484 9e6a0b0a [INFO Client 7000] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:43:56 8193484 9e6a1d2a [INFO Client 7000] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:43:56 8193500 951bc057 [INFO Client 7000] [STARTUP] Window in 0.129951 seconds
+2022/10/20 05:43:56 8193515 413b61ff [DEBUG Client 7000] [GamepadManager] Initialising
+2022/10/20 05:43:56 8193515 951bc0b0 [INFO Client 7000] [STARTUP] Device Start
+2022/10/20 05:43:56 8193515 b51d6589 [INFO Client 7000] [RENDER] StartDevice: DirectX11
+2022/10/20 05:43:56 8193640 71b3b00 [DEBUG Client 7000] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/20 05:43:56 8193656 97ce0484 [WARN Client 7000] [SHADER] Failed to load cache. Header version mismatch (found 0, expected 10) 
+2022/10/20 05:43:57 8194015 fafff8cf [DEBUG Client 7000] CreateSwapChain: SetFullScreenState 0
+2022/10/20 05:43:57 8194015 29d4ce01 [INFO Client 7000] [D3D11] Runtime version = 11.1
+2022/10/20 05:43:57 8194015 29d4ce00 [INFO Client 7000] [D3D11] Feature Level = 11.1
+2022/10/20 05:43:57 8194015 29d4ce03 [INFO Client 7000] [D3D11] Driver Command Lists = YES
+2022/10/20 05:43:57 8194015 29d4ce02 [INFO Client 7000] [D3D11] Driver Concurrent Creates = YES
+2022/10/20 05:43:57 8194015 29d4ce05 [INFO Client 7000] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/20 05:43:57 8194109 9d4eeb40 [DEBUG Client 7000] [WINDOW] TrigggerDeviceCreate
+2022/10/20 05:43:57 8194171 9d4eeba7 [DEBUG Client 7000] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:43:57 8194171 9d4eec8a [DEBUG Client 7000] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:43:57 8194187 9d4eeba7 [DEBUG Client 7000] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:43:57 8194187 951bc057 [INFO Client 7000] [STARTUP] Device in 0.678583 seconds
+2022/10/20 05:43:57 8194187 951bc0b0 [INFO Client 7000] [STARTUP] Tencent Start
+2022/10/20 05:43:57 8194187 951bc057 [INFO Client 7000] [STARTUP] Tencent in 1.3e-05 seconds
+2022/10/20 05:43:57 8194187 951bc0b0 [INFO Client 7000] [STARTUP] Loading Start
+2022/10/20 05:43:57 8194203 951bc057 [INFO Client 7000] [STARTUP] Loading in 0.016874 seconds
+2022/10/20 05:43:57 8194203 951bc0b0 [INFO Client 7000] [STARTUP] DebugGUI Start
+2022/10/20 05:43:57 8194203 951bc057 [INFO Client 7000] [STARTUP] DebugGUI in 1.3e-05 seconds
+2022/10/20 05:43:57 8194203 951bc0b0 [INFO Client 7000] [STARTUP] Bundle Tiny Start
+2022/10/20 05:43:57 8194203 951bc0b0 [INFO Client 7000] [STARTUP] Bundle Login Start
+2022/10/20 05:43:57 8194203 951bc057 [INFO Client 7000] [STARTUP] Bundle Login in 1.9e-05 seconds
+2022/10/20 05:43:57 8194203 951bc057 [INFO Client 7000] [STARTUP] Bundle Tiny in 4.9e-05 seconds
+2022/10/20 05:43:57 8194203 951bc0b0 [INFO Client 7000] [STARTUP] Registration Start
+2022/10/20 05:43:57 8194203 951bc0b0 [INFO Client 7000] [STARTUP] Audio Start
+2022/10/20 05:43:57 8194203 47bbee18 [INFO Client 7000] [SOUND] Channel count = 128 (asked for 128)
+2022/10/20 05:43:57 8194203 47bbee19 [INFO Client 7000] [SOUND] Source count = 512
+2022/10/20 05:43:57 8194328 47bbea58 [INFO Client 7000] Changing to device "Headphones (High Definition Audio Device)"
+2022/10/20 05:43:57 8194328 951bc057 [INFO Client 7000] [STARTUP] Audio in 0.123857 seconds
+2022/10/20 05:43:57 8194531 951bc057 [INFO Client 7000] [STARTUP] Registration in 0.319101 seconds
+2022/10/20 05:43:58 8194812 b51d4f61 [DEBUG Client 7000] [RENDER] SetRendererSettings
+2022/10/20 05:43:58 8194812 b51d6447 [DEBUG Client 7000] [RENDER] ResizeWindow
+2022/10/20 05:43:58 8194812 9d4eec8a [DEBUG Client 7000] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:43:58 8194828 9d4eeba7 [DEBUG Client 7000] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:43:58 8194828 b51d614c [DEBUG Client 7000] [RENDER] RestartSwapChain
+2022/10/20 05:43:58 8194828 9e6a0b0a [INFO Client 7000] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/20 05:43:58 8194875 9e6a1d2a [INFO Client 7000] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:43:58 8194875 9e6a1363 [INFO Client 7000] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY6
+2022/10/20 05:43:58 8194875 9e6a0b0a [INFO Client 7000] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/20 05:43:58 8194875 9e6a1d2a [INFO Client 7000] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/20 05:43:58 8195078 fafff8cf [DEBUG Client 7000] CreateSwapChain: SetFullScreenState 0
+2022/10/20 05:43:58 8195078 9d4eec8a [DEBUG Client 7000] [WINDOW] TrigggerDeviceLost
+2022/10/20 05:43:58 8195078 9d4eeba7 [DEBUG Client 7000] [WINDOW] TrigggerDeviceReset
+2022/10/20 05:43:58 8195078 3275a75e [INFO Client 7000] [SHADER] Disable Async: 1 frames
+2022/10/20 05:43:58 8195078 b51d610e [INFO Client 7000] [RENDER] Disable Async: 1 frames
+2022/10/20 05:44:09 8206671 890da8d3 [INFO Client 7000] Async connecting to mil01.login.pathofexile.com:20481
+2022/10/20 05:44:09 8206687 890d9d9b [INFO Client 7000] Connected to mil01.login.pathofexile.com in 0ms.
+2022/10/20 05:44:13 8210250 88a90480 [DEBUG Client 7000] Got Instance Details from login server
+2022/10/20 05:44:13 8210281 32759a9f [INFO Client 7000] [SHADER] Delay: OFF
+2022/10/20 05:44:13 8210281 ca3a6737 [INFO Client 7000] Connecting to instance server at 169.51.201.138:6112
+2022/10/20 05:44:13 8210390 ca3a4d51 [DEBUG Client 7000] Connect time to instance server was 47ms
+2022/10/20 05:44:13 8210437 1186952b [DEBUG Client 7000] Generating level 69 area "2_10_town" with seed 1
+2022/10/20 05:44:14 8210906 f22b69a6 [INFO Client 7000] Tile hash: 2664969670
+2022/10/20 05:44:14 8210906 f22b69a7 [INFO Client 7000] Doodad hash: 0
+2022/10/20 05:44:16 8213671 11871c61 [DEBUG Client 7000] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 145 members 
+2022/10/20 05:44:17 8214000 cff943d8 [INFO Client 7000] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2022/10/20 05:44:17 8214234 cff943d8 [INFO Client 7000] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2022/10/20 05:44:18 8214781 32759a9f [INFO Client 7000] [SHADER] Delay: ON
+2022/10/20 05:44:18 8214843 374e1126 [INFO Client 7000] [Item Filter] Preparing to download online filter 10Mgxs1
+2022/10/20 05:44:18 8214843 374e1287 [INFO Client 7000] [Item Filter] Hash for online filter 10Mgxs1 is: 091d3f83834a7f669d3a4020f9623d91
+2022/10/20 05:44:18 8215062 374e12ea [INFO Client 7000] [Item Filter] Online item filter 10Mgxs1 returned status: 304
+2022/10/20 05:44:18 8215062 374e0d87 [DEBUG Client 7000] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/20 05:44:18 8215062 374e0d8f [DEBUG Client 7000] [Item Filter] X-HW: 1666233855.dop215.pa1.t,1666233855.cds242.pa1.shn,1666233855.dop215.pa1.t,1666233855.cds046.pa1.c
+2022/10/20 05:44:18 8215062 78847107 [INFO Client 7000] [Item Filter] Finished reloading online filter 10Mgxs1. Result: true. Hash: 091d3f83834a7f669d3a4020f9623d91. Message: 
+2022/10/20 05:44:18 8215406 2a14a9a7 [INFO Client 7000] PrecalcBaseTypeHashMap
+2022/10/20 05:44:18 8215468 2a14a9a1 [INFO Client 7000] PrecalcModNameHashMap
+2022/10/20 05:44:19 8216375 2a14a9a3 [INFO Client 7000] PrecalcItemClassMap
+2022/10/20 05:44:19 8216375 2a14a9ad [INFO Client 7000] PrecalcSoundEffects
+2022/10/20 05:44:19 8216375 2a14a902 [INFO Client 7000] PrecalcDropEffects
+2022/10/20 05:44:19 8216375 2a14a900 [INFO Client 7000] PrecalcNonEnchantModHashes
+2022/10/20 05:44:19 8216375 2a14a906 [INFO Client 7000] PrecalcRuleNameToTypeMap
+2022/10/20 05:44:19 8216375 2a14a904 [INFO Client 7000] PrecalcCJESPNIndexMap
+2022/10/20 05:44:19 8216375 2a14a90a [INFO Client 7000] PrecalcGemAlternateQualityMap
