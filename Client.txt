@@ -26063,3 +26063,1320 @@ flags: 257
 2022/10/23 23:57:18 111421125 cff943d8 [INFO Client 7580] @От кого ViejoVerdeViolador: Здравствуйте, хочу купить у вас Опытный Благодатный флакон жизни за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 10 столбец, 11 ряд)
 2022/10/23 23:57:52 111455140 cff943d8 [INFO Client 7580] : Сделка совершена.
 2022/10/23 23:57:57 111459890 cff943d8 [INFO Client 7580] @От кого sicK_aurA: Здравствуйте, хочу купить у вас Неиссякаемый Рубиновый флакон ящерицы за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 5 столбец, 1 ряд)
+2022/10/24 06:13:32 ***** LOG FILE OPENING *****
+2022/10/24 06:13:32 133997671 f954428c [INFO Client 13176] [STARTUP] Job Queues
+2022/10/24 06:13:32 133997671 9e6a0b0a [INFO Client 13176] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/24 06:13:32 133997796 9e6a1d2a [INFO Client 13176] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 06:13:32 133997796 9e6a1363 [INFO Client 13176] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2022/10/24 06:13:32 133997796 9e6a0b0a [INFO Client 13176] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/24 06:13:32 133997796 9e6a1d2a [INFO Client 13176] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 06:13:32 133997812 84a7d27d [INFO Client 13176] [ENGINE] Init
+2022/10/24 06:13:32 133997812 55713145 [INFO Client 13176] [JOB] HIGH: 3
+2022/10/24 06:13:32 133997812 55713145 [INFO Client 13176] [JOB] MEDIUM: 3
+2022/10/24 06:13:32 133997812 55713145 [INFO Client 13176] [JOB] LOW: 3
+2022/10/24 06:13:32 133997812 55713145 [INFO Client 13176] [JOB] IDLE: 1
+2022/10/24 06:13:32 133997812 7bb548f [INFO Client 13176] [BUNDLE2] Init
+2022/10/24 06:13:32 133997812 7bb36c4 [INFO Client 13176] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/24 06:13:32 133997968 7bb61e6 [INFO Client 13176] [BUNDLE2] File cache size: 1024
+2022/10/24 06:13:32 133997968 b51d61ab [INFO Client 13176] [RENDER] Async: ON
+2022/10/24 06:13:32 133997968 b51d60c8 [INFO Client 13176] [RENDER] Warmup: ON
+2022/10/24 06:13:32 133997968 b51d60ce [INFO Client 13176] [RENDER] Skip: ON
+2022/10/24 06:13:32 133997968 b51d60eb [INFO Client 13176] [RENDER] Throttling: ON
+2022/10/24 06:13:32 133997968 32759a7a [INFO Client 13176] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/24 06:13:32 133997968 32759a70 [INFO Client 13176] [SHADER] Async: ON
+2022/10/24 06:13:32 133997968 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:13:32 133997968 32759aba [INFO Client 13176] [SHADER] Limit: ON
+2022/10/24 06:13:32 133997968 32759abc [INFO Client 13176] [SHADER] Warmup: ON
+2022/10/24 06:13:32 133997968 327599d7 [INFO Client 13176] [SHADER] Parallel: OFF
+2022/10/24 06:13:32 133997968 84a7e376 [INFO Client 13176] [ENGINE] Running Engine version 1.6.0
+2022/10/24 06:13:32 133998015 47bbd159 [INFO Client 13176] [SOUND] Buffer size = 64.0 MB
+2022/10/24 06:13:32 133998062 9b0d205 [INFO Client 13176] [VIDEO] Enable: ON
+2022/10/24 06:13:32 133998093 84a7d2d8 [INFO Client 13176] [ENGINE] Ready
+2022/10/24 06:13:32 133998359 951bc0b0 [INFO Client 13176] [STARTUP] Bundle Startup Start
+2022/10/24 06:13:32 133998359 951bc057 [INFO Client 13176] [STARTUP] Bundle Startup in 4e-05 seconds
+2022/10/24 06:13:32 133998359 951bc0b0 [INFO Client 13176] [STARTUP] Game Start
+2022/10/24 06:13:33 133998578 ca86fd3f [DEBUG Client 13176] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/24 06:13:33 133998781 951bc057 [INFO Client 13176] [STARTUP] Game in 0.424966 seconds
+2022/10/24 06:13:33 133998781 951bc0b0 [INFO Client 13176] [STARTUP] Window Start
+2022/10/24 06:13:33 133998796 9e6a0b0a [INFO Client 13176] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/24 06:13:33 133998875 9e6a1d2a [INFO Client 13176] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 06:13:33 133998875 9e6a1363 [INFO Client 13176] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2022/10/24 06:13:33 133998875 9e6a0b0a [INFO Client 13176] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/24 06:13:33 133998875 9e6a1d2a [INFO Client 13176] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 06:13:33 133998890 951bc057 [INFO Client 13176] [STARTUP] Window in 0.10617 seconds
+2022/10/24 06:13:33 133998906 413b61ff [DEBUG Client 13176] [GamepadManager] Initialising
+2022/10/24 06:13:33 133998906 951bc0b0 [INFO Client 13176] [STARTUP] Device Start
+2022/10/24 06:13:33 133998906 b51d6589 [INFO Client 13176] [RENDER] StartDevice: DirectX11
+2022/10/24 06:13:33 133999031 71b3b00 [DEBUG Client 13176] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/24 06:13:33 133999031 97ce0484 [WARN Client 13176] [SHADER] Failed to load cache. Header version mismatch (found 0, expected 10) 
+2022/10/24 06:13:33 133999343 fafff8cf [DEBUG Client 13176] CreateSwapChain: SetFullScreenState 0
+2022/10/24 06:13:33 133999343 29d4ce01 [INFO Client 13176] [D3D11] Runtime version = 11.1
+2022/10/24 06:13:33 133999343 29d4ce00 [INFO Client 13176] [D3D11] Feature Level = 11.1
+2022/10/24 06:13:33 133999343 29d4ce03 [INFO Client 13176] [D3D11] Driver Command Lists = YES
+2022/10/24 06:13:33 133999343 29d4ce02 [INFO Client 13176] [D3D11] Driver Concurrent Creates = YES
+2022/10/24 06:13:33 133999343 29d4ce05 [INFO Client 13176] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/24 06:13:34 133999468 9d4eeb40 [DEBUG Client 13176] [WINDOW] TrigggerDeviceCreate
+2022/10/24 06:13:34 133999531 9d4eeba7 [DEBUG Client 13176] [WINDOW] TrigggerDeviceReset
+2022/10/24 06:13:34 133999546 9d4eec8a [DEBUG Client 13176] [WINDOW] TrigggerDeviceLost
+2022/10/24 06:13:34 133999546 9d4eeba7 [DEBUG Client 13176] [WINDOW] TrigggerDeviceReset
+2022/10/24 06:13:34 133999546 951bc057 [INFO Client 13176] [STARTUP] Device in 0.646429 seconds
+2022/10/24 06:13:34 133999546 951bc0b0 [INFO Client 13176] [STARTUP] Tencent Start
+2022/10/24 06:13:34 133999546 951bc057 [INFO Client 13176] [STARTUP] Tencent in 1.7e-05 seconds
+2022/10/24 06:13:34 133999546 951bc0b0 [INFO Client 13176] [STARTUP] Loading Start
+2022/10/24 06:13:34 133999562 951bc057 [INFO Client 13176] [STARTUP] Loading in 0.014611 seconds
+2022/10/24 06:13:34 133999562 951bc0b0 [INFO Client 13176] [STARTUP] DebugGUI Start
+2022/10/24 06:13:34 133999562 951bc057 [INFO Client 13176] [STARTUP] DebugGUI in 1.3e-05 seconds
+2022/10/24 06:13:34 133999562 951bc0b0 [INFO Client 13176] [STARTUP] Bundle Tiny Start
+2022/10/24 06:13:34 133999562 951bc0b0 [INFO Client 13176] [STARTUP] Bundle Login Start
+2022/10/24 06:13:34 133999562 951bc057 [INFO Client 13176] [STARTUP] Bundle Login in 1.8e-05 seconds
+2022/10/24 06:13:34 133999562 951bc057 [INFO Client 13176] [STARTUP] Bundle Tiny in 4.5e-05 seconds
+2022/10/24 06:13:34 133999562 951bc0b0 [INFO Client 13176] [STARTUP] Registration Start
+2022/10/24 06:13:34 133999562 951bc0b0 [INFO Client 13176] [STARTUP] Audio Start
+2022/10/24 06:13:34 133999562 47bbee18 [INFO Client 13176] [SOUND] Channel count = 128 (asked for 128)
+2022/10/24 06:13:34 133999562 47bbee19 [INFO Client 13176] [SOUND] Source count = 512
+2022/10/24 06:13:34 133999687 47bbea58 [INFO Client 13176] Changing to device "Line 1 (Virtual Audio Cable)"
+2022/10/24 06:13:34 133999703 951bc057 [INFO Client 13176] [STARTUP] Audio in 0.13786 seconds
+2022/10/24 06:13:34 133999921 951bc057 [INFO Client 13176] [STARTUP] Registration in 0.354143 seconds
+2022/10/24 06:13:34 134000296 b51d4f61 [DEBUG Client 13176] [RENDER] SetRendererSettings
+2022/10/24 06:13:34 134000296 b51d6447 [DEBUG Client 13176] [RENDER] ResizeWindow
+2022/10/24 06:13:34 134000296 9d4eec8a [DEBUG Client 13176] [WINDOW] TrigggerDeviceLost
+2022/10/24 06:13:34 134000359 9d4eeba7 [DEBUG Client 13176] [WINDOW] TrigggerDeviceReset
+2022/10/24 06:13:34 134000359 b51d614c [DEBUG Client 13176] [RENDER] RestartSwapChain
+2022/10/24 06:13:34 134000359 9e6a0b0a [INFO Client 13176] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/24 06:13:35 134000406 9e6a1d2a [INFO Client 13176] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 06:13:35 134000406 9e6a1363 [INFO Client 13176] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2022/10/24 06:13:35 134000406 9e6a0b0a [INFO Client 13176] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/24 06:13:35 134000406 9e6a1d2a [INFO Client 13176] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 06:13:35 134000593 fafff8cf [DEBUG Client 13176] CreateSwapChain: SetFullScreenState 0
+2022/10/24 06:13:35 134000593 9d4eec8a [DEBUG Client 13176] [WINDOW] TrigggerDeviceLost
+2022/10/24 06:13:35 134000593 9d4eeba7 [DEBUG Client 13176] [WINDOW] TrigggerDeviceReset
+2022/10/24 06:13:35 134000609 3275a75e [INFO Client 13176] [SHADER] Disable Async: 1 frames
+2022/10/24 06:13:35 134000609 b51d610e [INFO Client 13176] [RENDER] Disable Async: 1 frames
+2022/10/24 06:14:52 134077796 890da8d3 [INFO Client 13176] Async connecting to fra01.login.pathofexile.com:20481
+2022/10/24 06:14:52 134077812 890d9d9b [INFO Client 13176] Connected to fra01.login.pathofexile.com in 0ms.
+2022/10/24 06:14:57 134083125 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:14:57 134083156 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:14:57 134083156 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.114.179:6112
+2022/10/24 06:14:57 134083203 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 47ms
+2022/10/24 06:14:57 134083312 1186952b [DEBUG Client 13176] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/24 06:15:01 134087250 f22b69a6 [INFO Client 13176] Tile hash: 3842481850
+2022/10/24 06:15:01 134087250 f22b69a7 [INFO Client 13176] Doodad hash: 3697406269
+2022/10/24 06:15:03 134088500 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:15:03 134089250 cff943d8 [INFO Client 13176] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2022/10/24 06:15:04 134089593 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/24 06:15:06 134091562 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:15:06 134091843 374e1126 [INFO Client 13176] [Item Filter] Preparing to download online filter Ezq3xsj
+2022/10/24 06:15:06 134091843 374e1287 [INFO Client 13176] [Item Filter] Hash for online filter Ezq3xsj is: a3d97ca823e2cb1f11c9f84b6326751d
+2022/10/24 06:15:06 134092062 374e12ea [INFO Client 13176] [Item Filter] Online item filter Ezq3xsj returned status: 304
+2022/10/24 06:15:06 134092062 374e0d87 [DEBUG Client 13176] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/24 06:15:06 134092062 374e0d8f [DEBUG Client 13176] [Item Filter] X-HW: 1666581306.dop036.pa1.t,1666581306.cds025.pa1.shn,1666581306.dop036.pa1.t,1666581306.cds217.pa1.c
+2022/10/24 06:15:06 134092078 78847107 [INFO Client 13176] [Item Filter] Finished reloading online filter Ezq3xsj. Result: true. Hash: a3d97ca823e2cb1f11c9f84b6326751d. Message: 
+2022/10/24 06:15:06 134092078 2a14a9a7 [INFO Client 13176] PrecalcBaseTypeHashMap
+2022/10/24 06:15:06 134092140 2a14a9a1 [INFO Client 13176] PrecalcModNameHashMap
+2022/10/24 06:15:07 134093109 2a14a9a3 [INFO Client 13176] PrecalcItemClassMap
+2022/10/24 06:15:07 134093109 2a14a9ad [INFO Client 13176] PrecalcSoundEffects
+2022/10/24 06:15:07 134093125 2a14a902 [INFO Client 13176] PrecalcDropEffects
+2022/10/24 06:15:07 134093125 2a14a900 [INFO Client 13176] PrecalcNonEnchantModHashes
+2022/10/24 06:15:07 134093125 2a14a906 [INFO Client 13176] PrecalcRuleNameToTypeMap
+2022/10/24 06:15:07 134093125 2a14a904 [INFO Client 13176] PrecalcCJESPNIndexMap
+2022/10/24 06:15:07 134093125 2a14a90a [INFO Client 13176] PrecalcGemAlternateQualityMap
+2022/10/24 06:23:06 134571781 cff943d8 [INFO Client 13176] @От кого <>){> LOKGojoa: Здравствуйте, хочу купить у вас Благодатный флакон жизни за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 12 столбец, 9 ряд)
+2022/10/24 06:23:32 134597484 cff943d8 [INFO Client 13176] @Кому LOKGojoa: Sorry, Благодатный флакон жизни already gone. Good luck on your search.
+2022/10/24 06:24:34 134660203 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 06:24:38 134664296 cff943d8 [INFO Client 13176] @От кого <>){> LOKGojoa: ty
+2022/10/24 06:24:45 134670890 cff943d8 [INFO Client 13176] @Кому LOKGojoa: ty
+2022/10/24 06:27:09 134815328 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:27:09 134815343 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:27:09 134815343 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.107.169:6112
+2022/10/24 06:27:10 134815406 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 47ms
+2022/10/24 06:27:10 134815453 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsAcidLakes" with seed 1382019314
+2022/10/24 06:27:10 134815953 f22b69a6 [INFO Client 13176] Tile hash: 207614710
+2022/10/24 06:27:10 134815968 f22b69a7 [INFO Client 13176] Doodad hash: 3235346096
+2022/10/24 06:27:11 134816437 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:27:11 134816968 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Едкие пещеры.
+2022/10/24 06:27:12 134817640 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:28:19 134884671 1187254d [DEBUG Client 13176] Resyncing 2680
+2022/10/24 06:29:19 134945234 1187254d [DEBUG Client 13176] Resyncing 2699
+2022/10/24 06:30:24 135009859 cff943d8 [INFO Client 13176] : DeeLectric был повержен.
+2022/10/24 06:30:26 135011531 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:30:26 135011531 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:30:26 135011531 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.127:6112
+2022/10/24 06:30:26 135011609 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 62ms
+2022/10/24 06:30:26 135011703 1186952b [DEBUG Client 13176] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/24 06:30:26 135012062 f22b69a6 [INFO Client 13176] Tile hash: 3842481850
+2022/10/24 06:30:26 135012062 f22b69a7 [INFO Client 13176] Doodad hash: 3697406269
+2022/10/24 06:30:27 135012453 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:30:27 135013000 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/24 06:30:28 135013734 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:30:34 135019828 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:30:34 135019828 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:30:34 135019828 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.107.169:6112
+2022/10/24 06:30:34 135019875 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 06:30:34 135019937 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsAcidLakes" with seed 1382019314
+2022/10/24 06:30:34 135020031 f22b69a6 [INFO Client 13176] Tile hash: 207614710
+2022/10/24 06:30:34 135020031 f22b69a7 [INFO Client 13176] Doodad hash: 3235346096
+2022/10/24 06:30:35 135020765 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:30:35 135021171 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Едкие пещеры.
+2022/10/24 06:30:36 135021593 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:31:01 135046484 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 06:31:01 135046515 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 06:31:01 135046734 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 06:31:01 135047062 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 06:33:14 135180281 cff943d8 [INFO Client 13176] : DeeLectric был повержен.
+2022/10/24 06:33:16 135181796 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:33:16 135181796 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:33:16 135181796 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.127:6112
+2022/10/24 06:33:16 135181843 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 06:33:16 135181937 1186952b [DEBUG Client 13176] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/24 06:33:16 135182046 f22b69a6 [INFO Client 13176] Tile hash: 3842481850
+2022/10/24 06:33:16 135182046 f22b69a7 [INFO Client 13176] Doodad hash: 3697406269
+2022/10/24 06:33:17 135182578 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:33:17 135183109 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/24 06:33:18 135183968 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:33:25 135191375 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:33:26 135191375 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:33:26 135191375 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.107.169:6112
+2022/10/24 06:33:26 135191421 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 06:33:26 135191468 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsAcidLakes" with seed 1382019314
+2022/10/24 06:33:26 135191562 f22b69a6 [INFO Client 13176] Tile hash: 207614710
+2022/10/24 06:33:26 135191562 f22b69a7 [INFO Client 13176] Doodad hash: 3235346096
+2022/10/24 06:33:26 135192093 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:33:27 135192500 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Едкие пещеры.
+2022/10/24 06:33:27 135192921 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:34:07 135233093 1187254d [DEBUG Client 13176] Resyncing 2119
+2022/10/24 06:34:07 135233093 1187254d [DEBUG Client 13176] Resyncing 4442
+2022/10/24 06:34:07 135233093 1187254d [DEBUG Client 13176] Resyncing 4448
+2022/10/24 06:34:07 135233093 1187254d [DEBUG Client 13176] Resyncing 4454
+2022/10/24 06:34:07 135233093 1187254d [DEBUG Client 13176] Resyncing 4446
+2022/10/24 06:34:07 135233093 1187254d [DEBUG Client 13176] Resyncing 4456
+2022/10/24 06:34:07 135233093 1187254d [DEBUG Client 13176] Resyncing 4444
+2022/10/24 06:34:07 135233093 1187254d [DEBUG Client 13176] Resyncing 4348
+2022/10/24 06:34:15 135241015 cff943d8 [INFO Client 13176] : Вы получили очко пассивных умений Атласа.
+2022/10/24 06:34:54 135279546 8da7eb3b [INFO Client 13176] Successfully allocated passive skill id: atlas_boss_1_1, name: Редкость предметов боссов карт
+2022/10/24 06:35:19 135304531 890da8d3 [INFO Client 13176] Async connecting to fra01.login.pathofexile.com:20481
+2022/10/24 06:35:19 135304546 890d9d9b [INFO Client 13176] Connected to fra01.login.pathofexile.com in 0ms.
+2022/10/24 06:35:22 135307421 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:35:22 135307421 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:35:22 135307421 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.127:6112
+2022/10/24 06:35:22 135307484 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 47ms
+2022/10/24 06:35:22 135307546 1186952b [DEBUG Client 13176] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/24 06:35:22 135307671 f22b69a6 [INFO Client 13176] Tile hash: 3842481850
+2022/10/24 06:35:22 135307671 f22b69a7 [INFO Client 13176] Doodad hash: 3697406269
+2022/10/24 06:35:24 135309890 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:35:24 135310265 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/24 06:35:25 135310953 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:35:25 135310968 374e1126 [INFO Client 13176] [Item Filter] Preparing to download online filter Ezq3xsj
+2022/10/24 06:35:25 135310968 374e1287 [INFO Client 13176] [Item Filter] Hash for online filter Ezq3xsj is: a3d97ca823e2cb1f11c9f84b6326751d
+2022/10/24 06:35:25 135311171 374e12ea [INFO Client 13176] [Item Filter] Online item filter Ezq3xsj returned status: 304
+2022/10/24 06:35:25 135311171 374e0d87 [DEBUG Client 13176] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/24 06:35:25 135311171 374e0d8f [DEBUG Client 13176] [Item Filter] X-HW: 1666582525.dop035.pa1.t,1666582525.cds247.pa1.shn,1666582525.dop035.pa1.t,1666582525.cds217.pa1.c
+2022/10/24 06:35:25 135311171 78847107 [INFO Client 13176] [Item Filter] Finished reloading online filter Ezq3xsj. Result: true. Hash: a3d97ca823e2cb1f11c9f84b6326751d. Message: 
+2022/10/24 06:36:37 135383250 cff943d8 [INFO Client 13176] : Ошибка: Не удалось войти в область: Для доступа в Разбойничью гавань вы должны использовать Разбойничий жетон.
+2022/10/24 06:36:37 135383250 cff943d8 [INFO Client 13176] : Ошибка: Не удалось войти в область.
+2022/10/24 06:36:46 135392203 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:36:46 135392218 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:36:46 135392218 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.124.131:6112
+2022/10/24 06:36:46 135392281 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 47ms
+2022/10/24 06:36:46 135392343 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 06:36:47 135392453 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 06:36:47 135392453 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 06:36:47 135393125 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:36:48 135393765 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 06:36:48 135394359 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:36:53 135398656 cff943d8 [INFO Client 13176] : 오컬바 присоединился.
+2022/10/24 06:37:07 135412843 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 06:37:15 135420609 cff943d8 [INFO Client 13176] : 오컬바 покинул область.
+2022/10/24 06:37:33 135439187 cff943d8 [INFO Client 13176] @Кому 오컬바: ty
+2022/10/24 06:37:40 135445546 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 06:38:02 135467718 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 06:38:57 135522765 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:38:57 135522781 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:38:57 135522781 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.123:6112
+2022/10/24 06:38:57 135522828 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 06:38:57 135522875 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsShrine" with seed 2615590808
+2022/10/24 06:38:58 135523578 f22b69a6 [INFO Client 13176] Tile hash: 2967792662
+2022/10/24 06:38:58 135523578 f22b69a7 [INFO Client 13176] Doodad hash: 2986346861
+2022/10/24 06:38:58 135524218 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:38:59 135524718 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Святыня.
+2022/10/24 06:38:59 135525187 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:39:28 135553546 cff943d8 [INFO Client 13176] @От кого xXxArcoxXx: Здравствуйте, хочу купить у вас Скорбящая хватка, Крепкие перчатки за 1 chaos в лиге Kalandra (секция "~b/o 1 chaos"; позиция: 9 столбец, 7 ряд)
+2022/10/24 06:39:38 135563843 cff943d8 [INFO Client 13176] @Кому xXxArcoxXx: Currently in Святыня. Do you want to wait until finished?
+2022/10/24 06:40:19 135604781 cff943d8 [INFO Client 13176] @От кого xXxArcoxXx: no te entendi nada
+2022/10/24 06:40:51 135636468 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:40:51 135636468 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:40:51 135636468 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.107.111:6112
+2022/10/24 06:40:51 135636531 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 06:40:51 135636578 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 06:40:51 135636796 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 06:40:51 135636796 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 06:40:51 135637265 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:40:52 135637750 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 06:40:52 135638250 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:41:12 135657687 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 06:41:14 135660156 cff943d8 [INFO Client 13176] @Кому xXxArcoxXx: Thank you for the trade. Have a nice day and good luck!
+2022/10/24 06:41:16 135661609 cff943d8 [INFO Client 13176] @От кого xXxArcoxXx: thx
+2022/10/24 06:41:24 135669796 cff943d8 [INFO Client 13176] : xXxArcoxXx покинул область.
+2022/10/24 06:41:25 135671015 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:41:25 135671015 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:41:25 135671015 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.123:6112
+2022/10/24 06:41:25 135671062 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 06:41:25 135671109 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsShrine" with seed 2615590808
+2022/10/24 06:41:25 135671234 f22b69a6 [INFO Client 13176] Tile hash: 2967792662
+2022/10/24 06:41:25 135671234 f22b69a7 [INFO Client 13176] Doodad hash: 2986346861
+2022/10/24 06:41:26 135671781 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:41:26 135672156 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Святыня.
+2022/10/24 06:41:27 135672640 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:43:08 135774125 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 06:43:09 135774718 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 06:45:18 135903953 1187254d [DEBUG Client 13176] Resyncing 1034
+2022/10/24 06:45:18 135903953 1187254d [DEBUG Client 13176] Resyncing 1038
+2022/10/24 06:45:47 135933031 1187254d [DEBUG Client 13176] Resyncing 1216
+2022/10/24 06:47:21 136026734 cff943d8 [INFO Client 13176] @От кого MmeConasse: Здравствуйте, хочу купить у вас Пайковый Алмазный флакон соболя за 1 regret в лиге Kalandra (секция "~b/o 1 regret"; позиция: 3 столбец, 7 ряд)
+2022/10/24 06:47:30 136036062 cff943d8 [INFO Client 13176] @Кому MmeConasse: Currently in Святыня. Do you want to wait until finished?
+2022/10/24 06:48:12 136077812 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:48:12 136077812 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:48:12 136077812 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.123.199:6112
+2022/10/24 06:48:12 136077859 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 06:48:12 136077890 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 06:48:12 136077906 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 06:48:12 136077906 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 06:48:13 136078609 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:48:13 136079078 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 06:48:14 136079531 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:48:50 136115562 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 06:48:51 136116640 cff943d8 [INFO Client 13176] @От кого MmeConasse: Здравствуйте, хочу купить у вас Серный флакон опорожнения за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 5 столбец, 5 ряд)
+2022/10/24 06:49:00 136125515 cff943d8 [INFO Client 13176] @От кого MmeConasse: Здравствуйте, хочу купить у вас Серный флакон опорожнения за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 5 столбец, 5 ряд)
+2022/10/24 06:50:14 136199968 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 06:50:39 136224937 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 06:50:43 136229296 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:50:43 136229296 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:50:43 136229296 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.123:6112
+2022/10/24 06:50:43 136229343 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 06:50:44 136229390 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsShrine" with seed 2615590808
+2022/10/24 06:50:44 136229515 f22b69a6 [INFO Client 13176] Tile hash: 2967792662
+2022/10/24 06:50:44 136229515 f22b69a7 [INFO Client 13176] Doodad hash: 2986346861
+2022/10/24 06:50:44 136230062 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:50:45 136230500 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Святыня.
+2022/10/24 06:50:45 136231000 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:51:22 136267734 cff943d8 [INFO Client 13176] : DeeLectric был повержен.
+2022/10/24 06:51:24 136269906 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:51:24 136269906 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:51:24 136269906 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.123.199:6112
+2022/10/24 06:51:24 136269953 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 06:51:24 136270015 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 06:51:24 136270015 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 06:51:24 136270015 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 06:51:25 136270671 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:51:25 136271109 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 06:51:26 136271828 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:51:31 136276484 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:51:31 136276484 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:51:31 136276484 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.123:6112
+2022/10/24 06:51:31 136276546 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 47ms
+2022/10/24 06:51:31 136276578 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsShrine" with seed 2615590808
+2022/10/24 06:51:31 136276703 f22b69a6 [INFO Client 13176] Tile hash: 2967792662
+2022/10/24 06:51:31 136276703 f22b69a7 [INFO Client 13176] Doodad hash: 2986346861
+2022/10/24 06:51:31 136277250 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:51:32 136277671 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Святыня.
+2022/10/24 06:51:32 136278171 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:52:10 136315421 890da8d3 [INFO Client 13176] Async connecting to fra01.login.pathofexile.com:20481
+2022/10/24 06:52:10 136315437 890d9d9b [INFO Client 13176] Connected to fra01.login.pathofexile.com in 0ms.
+2022/10/24 06:52:12 136318234 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:52:12 136318234 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:52:12 136318234 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.114.179:6112
+2022/10/24 06:52:12 136318281 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 06:52:12 136318359 1186952b [DEBUG Client 13176] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/24 06:52:15 136321109 f22b69a6 [INFO Client 13176] Tile hash: 3842481850
+2022/10/24 06:52:15 136321109 f22b69a7 [INFO Client 13176] Doodad hash: 3697406269
+2022/10/24 06:52:16 136321593 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:52:16 136322000 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/24 06:52:17 136322687 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:52:17 136322703 374e1126 [INFO Client 13176] [Item Filter] Preparing to download online filter Ezq3xsj
+2022/10/24 06:52:17 136322703 374e1287 [INFO Client 13176] [Item Filter] Hash for online filter Ezq3xsj is: a3d97ca823e2cb1f11c9f84b6326751d
+2022/10/24 06:52:17 136322921 374e12ea [INFO Client 13176] [Item Filter] Online item filter Ezq3xsj returned status: 304
+2022/10/24 06:52:17 136322921 374e0d87 [DEBUG Client 13176] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/24 06:52:17 136322921 374e0d8f [DEBUG Client 13176] [Item Filter] X-HW: 1666583537.dop047.pa1.t,1666583537.cds247.pa1.shn,1666583537.dop047.pa1.t,1666583537.cds217.pa1.c
+2022/10/24 06:52:17 136322921 78847107 [INFO Client 13176] [Item Filter] Finished reloading online filter Ezq3xsj. Result: true. Hash: a3d97ca823e2cb1f11c9f84b6326751d. Message: 
+2022/10/24 06:52:41 136346765 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Цель уже опознана.
+2022/10/24 06:52:56 136362343 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 06:54:06 136432031 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:54:06 136432031 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:54:06 136432031 ca3a6737 [INFO Client 13176] Connecting to instance server at 185.19.219.29:6112
+2022/10/24 06:54:06 136432078 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 47ms
+2022/10/24 06:54:06 136432125 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 06:54:06 136432203 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 06:54:06 136432203 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 06:54:07 136432750 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:54:07 136433312 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 06:54:08 136433906 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:55:04 136489375 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 06:55:04 136489390 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 06:55:04 136489390 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.123.195:6112
+2022/10/24 06:55:04 136489437 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 06:55:04 136489484 1186952b [DEBUG Client 13176] Generating level 71 area "MapWorldsDungeon" with seed 1027289405
+2022/10/24 06:55:04 136490109 f22b69a6 [INFO Client 13176] Tile hash: 705780986
+2022/10/24 06:55:04 136490109 f22b69a7 [INFO Client 13176] Doodad hash: 1593619401
+2022/10/24 06:55:05 136490500 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 06:55:05 136491000 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Подземелье.
+2022/10/24 06:55:06 136491500 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 06:57:27 136633093 1187254d [DEBUG Client 13176] Resyncing 685
+2022/10/24 06:58:47 136712859 1187254d [DEBUG Client 13176] Resyncing 737
+2022/10/24 06:58:47 136712859 1187254d [DEBUG Client 13176] Resyncing 736
+2022/10/24 07:01:26 136871953 1187254d [DEBUG Client 13176] Resyncing 1043
+2022/10/24 07:01:26 136871953 1187254d [DEBUG Client 13176] Resyncing 1075
+2022/10/24 07:01:26 136871953 1187254d [DEBUG Client 13176] Resyncing 1062
+2022/10/24 07:02:25 136931125 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:02:25 136931125 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:02:25 136931125 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.114.183:6112
+2022/10/24 07:02:25 136931187 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 07:02:25 136931234 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 07:02:25 136931234 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 07:02:25 136931234 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:02:26 136932046 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:02:27 136932484 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 07:02:27 136933062 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:03:12 136977984 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 07:03:24 136990328 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:03:24 136990328 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:03:24 136990328 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.123.195:6112
+2022/10/24 07:03:25 136990375 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 07:03:25 136990437 1186952b [DEBUG Client 13176] Generating level 71 area "MapWorldsDungeon" with seed 1027289405
+2022/10/24 07:03:25 136990484 f22b69a6 [INFO Client 13176] Tile hash: 705780986
+2022/10/24 07:03:25 136990484 f22b69a7 [INFO Client 13176] Doodad hash: 1593619401
+2022/10/24 07:03:25 136991140 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:03:26 136991546 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Подземелье.
+2022/10/24 07:03:26 136991953 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:03:49 137015328 cff943d8 [INFO Client 13176] : Вы получили очко пассивных умений Атласа.
+2022/10/24 07:04:04 137029437 8da7eb3b [INFO Client 13176] Successfully allocated passive skill id: atlas_boss_1_4, name: Редкость предметов боссов карт
+2022/10/24 07:04:17 137042484 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:04:17 137042484 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:04:17 137042484 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.107.169:6112
+2022/10/24 07:04:17 137042531 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 07:04:17 137042562 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 07:04:17 137042578 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 07:04:17 137042578 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:04:17 137043281 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:04:18 137043703 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 07:04:18 137044296 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:09:19 137345296 cff943d8 [INFO Client 13176] @От кого MmeConasse: Здравствуйте, хочу купить у вас Карта храма Луны (T2) за 1 regret в лиге Kalandra (секция "~b/o 1 regret"; позиция: 9 столбец, 8 ряд)
+2022/10/24 07:17:10 137815625 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 07:21:54 138099875 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2022/10/24 07:24:22 138247859 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:24:22 138247859 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:24:22 138247859 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.121:6112
+2022/10/24 07:24:22 138247921 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 47ms
+2022/10/24 07:24:22 138247968 1186952b [DEBUG Client 13176] Generating level 71 area "MapWorldsPhantasmagoria" with seed 2037172900
+2022/10/24 07:24:23 138248515 f22b69a6 [INFO Client 13176] Tile hash: 2955758108
+2022/10/24 07:24:23 138248515 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:24:23 138248968 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:24:24 138249421 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Фантасмагория.
+2022/10/24 07:24:24 138249921 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:26:36 138382203 cff943d8 [INFO Client 13176] : DeeLectric был повержен.
+2022/10/24 07:26:39 138384781 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:26:39 138384781 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:26:39 138384781 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.100.201:6112
+2022/10/24 07:26:39 138384828 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 07:26:39 138384875 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 07:26:39 138384890 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 07:26:39 138384890 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:26:40 138385546 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:26:40 138386015 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 07:26:41 138386812 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:27:30 138435843 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:27:30 138435859 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:27:30 138435859 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.121:6112
+2022/10/24 07:27:30 138435906 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 07:27:30 138435953 1186952b [DEBUG Client 13176] Generating level 71 area "MapWorldsPhantasmagoria" with seed 2037172900
+2022/10/24 07:27:30 138436093 f22b69a6 [INFO Client 13176] Tile hash: 2955758108
+2022/10/24 07:27:30 138436093 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:27:31 138436609 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:27:31 138437031 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Фантасмагория.
+2022/10/24 07:27:32 138437546 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:30:06 138591406 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 07:30:06 138591453 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 07:32:48 138753687 1187254d [DEBUG Client 13176] Resyncing 385
+2022/10/24 07:33:15 138780765 cff943d8 [INFO Client 13176] : DeeLectric (Плут) достигает 76 уровня
+2022/10/24 07:35:22 138908062 fb7ae604 [INFO Client 13176] Successfully allocated passive skill id: dexterity856, name: Ловкость
+2022/10/24 07:38:22 139087437 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:38:22 139087437 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:38:22 139087437 ca3a6737 [INFO Client 13176] Connecting to instance server at 149.81.86.239:6112
+2022/10/24 07:38:22 139087484 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 07:38:22 139087515 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 07:38:22 139087515 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 07:38:22 139087515 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:38:22 139088203 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:38:23 139088687 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 07:38:23 139089281 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:40:07 139193156 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 07:40:16 139202046 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:40:16 139202046 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:40:16 139202046 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.121:6112
+2022/10/24 07:40:16 139202093 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 07:40:16 139202125 1186952b [DEBUG Client 13176] Generating level 71 area "MapWorldsPhantasmagoria" with seed 2037172900
+2022/10/24 07:40:16 139202281 f22b69a6 [INFO Client 13176] Tile hash: 2955758108
+2022/10/24 07:40:16 139202281 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:40:17 139202781 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:40:17 139203218 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Фантасмагория.
+2022/10/24 07:40:18 139203718 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:40:27 139212906 cff943d8 [INFO Client 13176] : DeeLectric был повержен.
+2022/10/24 07:40:29 139214546 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:40:29 139214546 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:40:29 139214546 ca3a6737 [INFO Client 13176] Connecting to instance server at 149.81.86.239:6112
+2022/10/24 07:40:29 139214593 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 07:40:29 139214625 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 07:40:29 139214640 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 07:40:29 139214640 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:40:29 139215234 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:40:30 139215703 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 07:40:30 139216187 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:40:34 139220296 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:40:34 139220296 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:40:34 139220296 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.121:6112
+2022/10/24 07:40:34 139220343 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 07:40:35 139220390 1186952b [DEBUG Client 13176] Generating level 71 area "MapWorldsPhantasmagoria" with seed 2037172900
+2022/10/24 07:40:35 139220531 f22b69a6 [INFO Client 13176] Tile hash: 2955758108
+2022/10/24 07:40:35 139220531 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:40:35 139221203 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:40:36 139221625 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Фантасмагория.
+2022/10/24 07:40:36 139222078 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:41:06 139252343 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:41:06 139252343 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:41:06 139252343 ca3a6737 [INFO Client 13176] Connecting to instance server at 149.81.86.239:6112
+2022/10/24 07:41:07 139252390 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 07:41:07 139252421 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 07:41:07 139252437 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 07:41:07 139252437 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:41:07 139253078 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:41:08 139253531 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 07:41:08 139254125 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:41:25 139270421 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 07:42:01 139306640 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:42:01 139306640 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:42:01 139306640 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.127:6112
+2022/10/24 07:42:01 139306687 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 07:42:01 139306734 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsWharf" with seed 48801295
+2022/10/24 07:42:01 139307156 f22b69a6 [INFO Client 13176] Tile hash: 2579225398
+2022/10/24 07:42:01 139307156 f22b69a7 [INFO Client 13176] Doodad hash: 1738029727
+2022/10/24 07:42:02 139307812 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:42:02 139308234 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пристань.
+2022/10/24 07:42:03 139308843 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:49:33 139758390 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 07:49:33 139758890 1187254d [DEBUG Client 13176] Resyncing 1262
+2022/10/24 07:49:33 139758890 1187254d [DEBUG Client 13176] Resyncing 790
+2022/10/24 07:49:33 139758890 1187254d [DEBUG Client 13176] Resyncing 1202
+2022/10/24 07:49:33 139758890 1187254d [DEBUG Client 13176] Resyncing 1261
+2022/10/24 07:49:33 139758890 1187254d [DEBUG Client 13176] Resyncing 1252
+2022/10/24 07:49:33 139759062 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 07:49:33 139759281 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 07:49:34 139759625 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 07:49:36 139761437 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 07:49:40 139765453 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 07:49:45 139771234 cff943d8 [INFO Client 13176] : Вы получили очко пассивных умений Атласа.
+2022/10/24 07:49:52 139777875 8da7eb3b [INFO Client 13176] Successfully allocated passive skill id: atlas_boss_1_3, name: Обогащённые сущности
+2022/10/24 07:50:27 139813343 890da8d3 [INFO Client 13176] Async connecting to fra01.login.pathofexile.com:20481
+2022/10/24 07:50:27 139813359 890d9d9b [INFO Client 13176] Connected to fra01.login.pathofexile.com in 0ms.
+2022/10/24 07:50:30 139816203 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:50:30 139816203 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:50:30 139816203 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.127:6112
+2022/10/24 07:50:30 139816250 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 07:50:30 139816328 1186952b [DEBUG Client 13176] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/24 07:50:34 139819703 f22b69a6 [INFO Client 13176] Tile hash: 3842481850
+2022/10/24 07:50:34 139819703 f22b69a7 [INFO Client 13176] Doodad hash: 3697406269
+2022/10/24 07:50:34 139820187 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:50:34 139820359 d946cb1d [CRIT Client 13176] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [152572]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2022/10/24 07:50:35 139820765 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/24 07:50:37 139822375 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:50:37 139822390 374e1126 [INFO Client 13176] [Item Filter] Preparing to download online filter Ezq3xsj
+2022/10/24 07:50:37 139822390 374e1287 [INFO Client 13176] [Item Filter] Hash for online filter Ezq3xsj is: a3d97ca823e2cb1f11c9f84b6326751d
+2022/10/24 07:50:37 139822734 374e12ea [INFO Client 13176] [Item Filter] Online item filter Ezq3xsj returned status: 304
+2022/10/24 07:50:37 139822734 374e0d87 [DEBUG Client 13176] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/24 07:50:37 139822734 374e0d8f [DEBUG Client 13176] [Item Filter] X-HW: 1666587036.dop204.pa1.t,1666587036.cds022.pa1.shn,1666587036.dop204.pa1.t,1666587036.cds217.pa1.c
+2022/10/24 07:50:37 139822750 78847107 [INFO Client 13176] [Item Filter] Finished reloading online filter Ezq3xsj. Result: true. Hash: a3d97ca823e2cb1f11c9f84b6326751d. Message: 
+2022/10/24 07:52:51 139956421 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Цель уже опознана.
+2022/10/24 07:53:15 139981156 cff943d8 [INFO Client 13176] : Сделка отклонена.
+2022/10/24 07:53:22 139987859 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 07:55:02 140088343 cff943d8 [INFO Client 13176] @От кого MirrorChaos: Здравствуйте, хочу купить у вас Душевный блеск, Бирюзовый самоцвет за 1 chaos в лиге Kalandra (секция "~b/o 1 chaos"; позиция: 3 столбец, 11 ряд)
+2022/10/24 07:55:35 140120468 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 07:55:35 140120484 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 07:55:35 140120484 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.153:6112
+2022/10/24 07:55:35 140120531 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 07:55:35 140120562 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 07:55:35 140120656 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 07:55:35 140120656 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 07:55:36 140121593 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 07:55:36 140122171 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 07:55:37 140122765 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 07:55:42 140127796 cff943d8 [INFO Client 13176] : MirrorChaos присоединился.
+2022/10/24 07:56:07 140152468 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 07:56:08 140153906 cff943d8 [INFO Client 13176] @Кому MirrorChaos: Thank you for the trade. Have a nice day and good luck!
+2022/10/24 07:56:12 140158328 cff943d8 [INFO Client 13176] : MirrorChaos покинул область.
+2022/10/24 08:00:12 140398000 cff943d8 [INFO Client 13176] @Кому Fraaagless: Hi, I would like to buy your Печаль божества, Серный флакон listed for 1 chaos in Kalandra (stash tab "5"; position: left 12, top 7)
+2022/10/24 08:00:21 140406671 cff943d8 [INFO Client 13176] @Кому Fraaagless: Hi, I would like to buy your Печаль божества, Серный флакон listed for 1 chaos in Kalandra (stash tab "6"; position: left 12, top 2)
+2022/10/24 08:00:34 140419671 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:00:34 140419671 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:00:34 140419671 ca3a6737 [INFO Client 13176] Connecting to instance server at 92.204.193.21:6112
+2022/10/24 08:00:34 140419734 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 08:00:34 140419781 1186952b [DEBUG Client 13176] Generating level 60 area "HideoutBattleground" with seed 1
+2022/10/24 08:00:34 140419937 f22b69a6 [INFO Client 13176] Tile hash: 1361634024
+2022/10/24 08:00:34 140419937 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 08:00:35 140420546 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:00:35 140421203 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Потрепанное убежище.
+2022/10/24 08:00:36 140421796 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:00:45 140431125 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 08:00:48 140433625 cff943d8 [INFO Client 13176] @От кого <®FZTH®> Fraaagless: ty
+2022/10/24 08:00:50 140436171 cff943d8 [INFO Client 13176] @Кому Fraaagless: Thank you for the trade. Have a nice day and good luck!
+2022/10/24 08:00:51 140436406 cff943d8 [INFO Client 13176] : Группа не существует.
+2022/10/24 08:00:53 140438843 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:00:53 140438843 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:00:53 140438843 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.153:6112
+2022/10/24 08:00:53 140438890 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 08:00:53 140438921 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 08:00:53 140438953 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 08:00:53 140438953 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 08:00:54 140439515 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:00:54 140439953 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 08:00:54 140440359 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:02:22 140527375 cff943d8 [INFO Client 13176] @От кого Громоподобная: Здравствуйте, хочу купить у вас Нефритовый флакон за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 3 столбец, 7 ряд)
+2022/10/24 08:06:59 140804640 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2022/10/24 08:09:04 140929421 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Неправильный базовый тип предмета.
+2022/10/24 08:09:39 140964578 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Неправильный базовый тип предмета.
+2022/10/24 08:09:40 140966156 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Неправильный базовый тип предмета.
+2022/10/24 08:10:05 140990781 11870f85 [DEBUG Client 13176] Guild member updated JaiV
+2022/10/24 08:11:11 141056718 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2022/10/24 08:14:59 141284718 cff943d8 [INFO Client 13176] @Кому firechickenhead: Hi, I would like to buy your Кровь каруи, Святой флакон жизни listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 5)
+2022/10/24 08:17:57 141463125 cff943d8 [INFO Client 13176] @Кому firechickenhead: Hi, I would like to buy your Кровь каруи, Святой флакон жизни listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 5)
+2022/10/24 08:25:43 141928546 cff943d8 [INFO Client 13176] @От кого ZaddylikesDaddy: Здравствуйте, хочу купить у вас Гранитный флакон моллюска за 1 alch в лиге Kalandra (секция "~b/o 1 alch"; позиция: 6 столбец, 1 ряд)
+2022/10/24 08:26:08 141954250 cff943d8 [INFO Client 13176] @От кого ZaddylikesDaddy: Здравствуйте, хочу купить у вас Гранитный флакон буревестника за 1 regret в лиге Kalandra (секция "~b/o 1 regret"; позиция: 10 столбец, 9 ряд)
+2022/10/24 08:26:27 141973359 cff943d8 [INFO Client 13176] : ZaddylikesDaddy присоединился.
+2022/10/24 08:26:36 141981828 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 08:26:37 141983125 cff943d8 [INFO Client 13176] @Кому ZaddylikesDaddy: Thank you for the trade. Have a nice day and good luck!
+2022/10/24 08:26:39 141984656 cff943d8 [INFO Client 13176] : ZaddylikesDaddy покинул область.
+2022/10/24 08:27:03 142009265 cff943d8 [INFO Client 13176] @Кому Kalandra_PHOTO: 안녕하세요, 1 chaos(으)로 올려놓은 Kalandra 리그의 Кровь каруи, Святой флакон жизни(을)를 구매하고 싶습니다 (보관함 탭 "~price 1 chaos", 위치: 왼쪽 1, 상단 8)
+2022/10/24 08:27:13 142018718 cff943d8 [INFO Client 13176] @Кому kasao: Hi, I would like to buy your Кровь каруи, Святой флакон жизни listed for 1 chaos in Kalandra (stash tab "~b/o 1 chaos"; position: left 7, top 9)
+2022/10/24 08:27:27 142032406 cff943d8 [INFO Client 13176] @Кому Ka_tototem: 안녕하세요, 1 chaos(으)로 올려놓은 Kalandra 리그의 Кровь каруи, Святой флакон жизни(을)를 구매하고 싶습니다 (보관함 탭 "~b/o 1 chaos", 위치: 왼쪽 2, 상단 9)
+2022/10/24 08:27:49 142054687 cff943d8 [INFO Client 13176] : Вы не можете попасть в убежище этого игрока.
+2022/10/24 08:27:56 142062343 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:27:56 142062343 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:27:56 142062343 ca3a6737 [INFO Client 13176] Connecting to instance server at 169.56.178.164:6112
+2022/10/24 08:27:57 142062609 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 250ms
+2022/10/24 08:27:57 142062875 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutBaths" with seed 1
+2022/10/24 08:27:57 142063000 f22b69a6 [INFO Client 13176] Tile hash: 1923378674
+2022/10/24 08:27:57 142063000 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 08:27:58 142064109 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:27:59 142064671 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Роскошное убежище.
+2022/10/24 08:27:59 142065343 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:28:09 142074437 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 08:28:10 142076140 cff943d8 [INFO Client 13176] @Кому kasao: Thank you for the trade. Have a nice day and good luck!
+2022/10/24 08:28:12 142077953 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:28:12 142077968 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:28:12 142077968 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.155:6112
+2022/10/24 08:28:12 142078015 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 08:28:12 142078062 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 08:28:12 142078062 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 08:28:12 142078062 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 08:28:13 142078921 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:28:13 142079359 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 08:28:14 142079765 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:28:57 142122937 cff943d8 [INFO Client 13176] @От кого ZaddylikesDaddy: Здравствуйте, хочу купить у вас Серебряный флакон за 1 regret в лиге Kalandra (секция "~b/o 1 regret"; позиция: 7 столбец, 7 ряд)
+2022/10/24 08:29:09 142135265 cff943d8 [INFO Client 13176] : ZaddylikesDaddy присоединился.
+2022/10/24 08:29:20 142146109 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 08:29:23 142148953 cff943d8 [INFO Client 13176] : ZaddylikesDaddy покинул область.
+2022/10/24 08:29:25 142151203 cff943d8 [INFO Client 13176] @Кому ZaddylikesDaddy: Thank you for the trade. Have a nice day and good luck!
+2022/10/24 08:29:27 142152687 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Неправильный базовый тип предмета.
+2022/10/24 08:29:30 142156187 11872148 [DEBUG Client 13176] Queueing for PVP match "ZaddylikesDaddy" with 0 other players
+2022/10/24 08:29:31 142156578 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:29:31 142156578 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:29:31 142156578 ca3a6737 [INFO Client 13176] Connecting to instance server at 173.233.139.172:6112
+2022/10/24 08:29:31 142156703 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 125ms
+2022/10/24 08:29:31 142156843 1186952b [DEBUG Client 13176] Generating level 60 area "pvp1Open" with seed 1419325665
+2022/10/24 08:29:31 142157296 f22b69a6 [INFO Client 13176] Tile hash: 1651936198
+2022/10/24 08:29:31 142157296 f22b69a7 [INFO Client 13176] Doodad hash: 4009850927
+2022/10/24 08:29:32 142157859 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:29:32 142157859 1186c248 [INFO Client 13176] Freeze actions: 1
+2022/10/24 08:29:32 142158312 cff943d8 [INFO Client 13176] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область PvP 1-на-1 — Арена.
+2022/10/24 08:29:33 142158859 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:29:36 142161562 cff943d8 [INFO Client 13176] : Вы не можете попасть в убежище отсюда.
+2022/10/24 08:29:42 142167781 1186c248 [INFO Client 13176] Freeze actions: 0
+2022/10/24 08:29:53 142178875 cff943d8 [INFO Client 13176] : DeeLectric был убит ZaddylikesDaddy.
+2022/10/24 08:29:56 142181890 1186c248 [INFO Client 13176] Freeze actions: 1
+2022/10/24 08:29:58 142183890 1186c248 [INFO Client 13176] Freeze actions: 0
+2022/10/24 08:30:03 142189296 cff943d8 [INFO Client 13176] : DeeLectric был убит ZaddylikesDaddy.
+2022/10/24 08:30:06 142192312 1186c248 [INFO Client 13176] Freeze actions: 1
+2022/10/24 08:30:08 142194312 1186c248 [INFO Client 13176] Freeze actions: 0
+2022/10/24 08:30:13 142198734 3796f5cb [WARN Client 13176] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 08:30:14 142200203 cff943d8 [INFO Client 13176] : DeeLectric был убит ZaddylikesDaddy.
+2022/10/24 08:30:20 142206203 1186c248 [INFO Client 13176] Freeze actions: 1
+2022/10/24 08:30:23 142208437 890da8d3 [INFO Client 13176] Async connecting to fra01.login.pathofexile.com:20481
+2022/10/24 08:30:23 142208468 890d9d9b [INFO Client 13176] Connected to fra01.login.pathofexile.com in 0ms.
+2022/10/24 08:30:25 142211328 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:30:25 142211328 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:30:25 142211328 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.127:6112
+2022/10/24 08:30:25 142211375 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 08:30:26 142211437 1186952b [DEBUG Client 13176] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/24 08:30:29 142215328 f22b69a6 [INFO Client 13176] Tile hash: 3842481850
+2022/10/24 08:30:29 142215328 f22b69a7 [INFO Client 13176] Doodad hash: 3697406269
+2022/10/24 08:30:30 142215843 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:30:31 142216390 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/24 08:30:31 142217125 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:30:31 142217140 374e1126 [INFO Client 13176] [Item Filter] Preparing to download online filter Ezq3xsj
+2022/10/24 08:30:31 142217140 374e1287 [INFO Client 13176] [Item Filter] Hash for online filter Ezq3xsj is: a3d97ca823e2cb1f11c9f84b6326751d
+2022/10/24 08:30:31 142217359 374e12ea [INFO Client 13176] [Item Filter] Online item filter Ezq3xsj returned status: 304
+2022/10/24 08:30:31 142217359 374e0d87 [DEBUG Client 13176] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/24 08:30:31 142217359 374e0d8f [DEBUG Client 13176] [Item Filter] X-HW: 1666589431.dop204.pa1.t,1666589431.cds031.pa1.shn,1666589431.dop204.pa1.t,1666589431.cds217.pa1.c
+2022/10/24 08:30:31 142217359 78847107 [INFO Client 13176] [Item Filter] Finished reloading online filter Ezq3xsj. Result: true. Hash: a3d97ca823e2cb1f11c9f84b6326751d. Message: 
+2022/10/24 08:30:40 142226015 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Неправильный базовый тип предмета.
+2022/10/24 08:30:49 142234593 cff943d8 [INFO Client 13176] : Не удалось применить предмет: Неправильный базовый тип предмета.
+2022/10/24 08:35:12 142497796 cff943d8 [INFO Client 13176] @Кому PepeShooting: Hi, I would like to buy your Карта пристани (T5) listed for 2 chisel in Kalandra (stash tab "5"; position: left 7, top 5)
+2022/10/24 08:35:13 142499046 cff943d8 [INFO Client 13176] @Кому BlastCaps: Hi, I would like to buy your Карта террасы (T4) listed for 1 blessed in Kalandra (stash tab "MAPS"; position: left 1, top 2)
+2022/10/24 08:35:13 142499281 cff943d8 [INFO Client 13176] : BlastCaps не в сети.
+2022/10/24 08:35:14 142499640 cff943d8 [INFO Client 13176] @Кому BlastCaps: Hi, I would like to buy your Terrace Map (T4) listed for 1 blessed in Kalandra (stash tab "MAPS"; position: left 1, top 2)
+2022/10/24 08:35:14 142500046 cff943d8 [INFO Client 13176] : BlastCaps не в сети.
+2022/10/24 08:35:14 142500125 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Карта раскопок (T5) listed for 4 alt in Kalandra (stash tab "~price 4 alt"; position: left 3, top 2)
+2022/10/24 08:35:14 142500359 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:35:15 142500640 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Excavation Map (T5) listed for 4 alt in Kalandra (stash tab "~price 4 alt"; position: left 3, top 2)
+2022/10/24 08:35:15 142501062 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:35:15 142501203 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Карта взморья (T4) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 6, top 4)
+2022/10/24 08:35:15 142501312 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:35:16 142501562 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Strand Map (T4) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 6, top 4)
+2022/10/24 08:35:16 142501875 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:35:17 142503078 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Карта замёрзших хижин (T4) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 4, top 11)
+2022/10/24 08:35:17 142503343 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:35:18 142503562 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Frozen Cabins Map (T4) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 4, top 11)
+2022/10/24 08:35:18 142504046 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:35:52 142537406 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:35:52 142537406 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:35:52 142537406 ca3a6737 [INFO Client 13176] Connecting to instance server at 161.202.8.150:6112
+2022/10/24 08:35:52 142537609 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 187ms
+2022/10/24 08:35:52 142537796 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutBaths" with seed 1
+2022/10/24 08:35:52 142537906 f22b69a6 [INFO Client 13176] Tile hash: 1923378674
+2022/10/24 08:35:52 142537906 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 08:35:54 142539484 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:35:54 142540109 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Роскошное убежище.
+2022/10/24 08:35:55 142540718 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:36:04 142549578 cff943d8 [INFO Client 13176] : Сделка совершена.
+2022/10/24 08:36:16 142562187 cff943d8 [INFO Client 13176] @Кому PepeShooting: ty
+2022/10/24 08:36:19 142564921 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:36:19 142564937 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:36:19 142564937 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.82.23:6112
+2022/10/24 08:36:19 142564984 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 08:36:19 142565031 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 08:36:19 142565109 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 08:36:19 142565109 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 08:36:20 142566015 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:36:21 142566625 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 08:36:21 142567031 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:36:31 142576828 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Карта террасы (T4) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 5, top 9)
+2022/10/24 08:36:31 142577171 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:36:32 142577421 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Terrace Map (T4) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 5, top 9)
+2022/10/24 08:36:32 142577843 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:36:32 142578109 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Карта раскопок (T5) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 1, top 7)
+2022/10/24 08:36:33 142578375 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:36:33 142578671 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Excavation Map (T5) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 1, top 7)
+2022/10/24 08:36:33 142579000 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:36:34 142579625 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Карта раскопок (T5) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 6, top 8)
+2022/10/24 08:36:34 142579796 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:36:34 142580015 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Excavation Map (T5) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 6, top 8)
+2022/10/24 08:36:34 142580328 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Карта заросших руин (T4) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 6, top 9)
+2022/10/24 08:36:35 142580484 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:36:35 142580578 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:36:35 142580890 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Overgrown Ruin Map (T4) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 6, top 9)
+2022/10/24 08:36:35 142581218 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:36:35 142581296 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Карта заросших руин (T4) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 6, top 6)
+2022/10/24 08:36:36 142581437 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:36:36 142581671 cff943d8 [INFO Client 13176] @Кому One_to_rule_them_all: Hi, I would like to buy your Overgrown Ruin Map (T4) listed for 2 scour in Kalandra (stash tab "~price 2 scour"; position: left 6, top 6)
+2022/10/24 08:36:36 142582109 cff943d8 [INFO Client 13176] : One_to_rule_them_all не в сети.
+2022/10/24 08:37:08 142613875 cff943d8 [INFO Client 13176] @Кому Electrocutionist: Hi, I would like to buy your Карта усадьбы (T4) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 2)
+2022/10/24 08:37:09 142614875 cff943d8 [INFO Client 13176] @Кому Electrocutionist: Hi, I would like to buy your Карта усадьбы высокого качества (T4) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 3)
+2022/10/24 08:37:10 142615468 cff943d8 [INFO Client 13176] @Кому Electrocutionist: Hi, I would like to buy your Карта усадьбы (T4) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 1)
+2022/10/24 08:37:12 142617406 cff943d8 [INFO Client 13176] @Кому Electrocutionist: Hi, I would like to buy your Карта лаборатории (T4) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 2)
+2022/10/24 08:37:13 142618578 cff943d8 [INFO Client 13176] @Кому Electrocutionist: Hi, I would like to buy your Карта атолла (T4) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 2)
+2022/10/24 08:37:18 142624312 cff943d8 [INFO Client 13176] @Кому Electrocutionist: Hi, I would like to buy your Карта кровавой общины (T5) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 1)
+2022/10/24 08:37:20 142625437 cff943d8 [INFO Client 13176] @Кому Electrocutionist: Hi, I would like to buy your Карта пристани (T5) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 1)
+2022/10/24 08:37:21 142626656 cff943d8 [INFO Client 13176] @Кому Electrocutionist: Hi, I would like to buy your Карта святыни (T5) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 2)
+2022/10/24 08:37:22 142627656 cff943d8 [INFO Client 13176] @Кому Electrocutionist: Hi, I would like to buy your Карта грязевого гейзера (T5) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 1)
+2022/10/24 08:37:23 142629187 cff943d8 [INFO Client 13176] @Кому Electrocutionist: Hi, I would like to buy your Vaal Pyramid Map (T4) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 2)
+2022/10/24 08:39:13 142738593 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:39:13 142738593 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:39:13 142738593 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.123:6112
+2022/10/24 08:39:13 142738640 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 08:39:13 142738703 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsWharf" with seed 3783386850
+2022/10/24 08:39:14 142739437 f22b69a6 [INFO Client 13176] Tile hash: 1724788272
+2022/10/24 08:39:14 142739437 f22b69a7 [INFO Client 13176] Doodad hash: 266162820
+2022/10/24 08:39:15 142740546 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:39:15 142741015 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пристань.
+2022/10/24 08:39:16 142741750 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:39:40 142765531 cff943d8 [INFO Client 13176] @Кому Scumsoft: Hi, I would like to buy your Карта берега (T4) in Kalandra (stash tab "Maps"; position: left 1, top 6)
+2022/10/24 08:39:40 142766218 cff943d8 [INFO Client 13176] @Кому Scumsoft: Hi, I would like to buy your Карта святыни (T5) in Kalandra (stash tab "Maps"; position: left 2, top 2)
+2022/10/24 08:40:02 142787406 cff943d8 [INFO Client 13176] Странный голос: Гордишься собой? Чувствуешь себя величественным и могучий, о, непревзойденный Убийца богов?
+2022/10/24 08:40:27 142812390 cff943d8 [INFO Client 13176] @От кого Scumsoft: how many?
+2022/10/24 08:40:43 142828921 cff943d8 [INFO Client 13176] @Кому Scumsoft: 5
+2022/10/24 08:40:59 142844609 cff943d8 [INFO Client 13176] : DeeLectric был повержен.
+2022/10/24 08:41:01 142846984 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:41:01 142846984 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:41:01 142846984 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.159:6112
+2022/10/24 08:41:01 142847031 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 08:41:01 142847078 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 08:41:01 142847109 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 08:41:01 142847109 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 08:41:02 142847875 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:41:02 142848343 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 08:41:03 142849046 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:41:09 142854828 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:41:09 142854828 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:41:09 142854828 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.123:6112
+2022/10/24 08:41:09 142854875 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 08:41:09 142854906 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsWharf" with seed 3783386850
+2022/10/24 08:41:09 142854984 f22b69a6 [INFO Client 13176] Tile hash: 1724788272
+2022/10/24 08:41:09 142854984 f22b69a7 [INFO Client 13176] Doodad hash: 266162820
+2022/10/24 08:41:10 142855609 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:41:10 142856015 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пристань.
+2022/10/24 08:41:11 142856515 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:42:23 142928687 cff943d8 [INFO Client 13176] : DeeLectric был повержен.
+2022/10/24 08:42:25 142931343 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:42:25 142931343 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:42:25 142931343 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.109.75:6112
+2022/10/24 08:42:26 142931390 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 32ms
+2022/10/24 08:42:26 142931437 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 08:42:26 142931453 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 08:42:26 142931453 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 08:42:26 142932062 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:42:27 142932484 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 08:42:27 142933265 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:42:32 142938015 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:42:32 142938031 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:42:32 142938031 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.123:6112
+2022/10/24 08:42:32 142938078 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 08:42:32 142938125 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsWharf" with seed 3783386850
+2022/10/24 08:42:32 142938203 f22b69a6 [INFO Client 13176] Tile hash: 1724788272
+2022/10/24 08:42:32 142938203 f22b69a7 [INFO Client 13176] Doodad hash: 266162820
+2022/10/24 08:42:33 142938968 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:42:33 142939359 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пристань.
+2022/10/24 08:42:34 142939859 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:43:01 142966578 cff943d8 [INFO Client 13176] : DeeLectric был повержен.
+2022/10/24 08:43:03 142968562 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:43:03 142968578 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:43:03 142968578 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.109.77:6112
+2022/10/24 08:43:03 142968625 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 08:43:03 142968656 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 08:43:03 142968671 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 08:43:03 142968671 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 08:43:04 142969375 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:43:04 142969812 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 08:43:05 142970546 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:43:09 142975031 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:43:09 142975031 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:43:09 142975031 ca3a6737 [INFO Client 13176] Connecting to instance server at 85.195.120.123:6112
+2022/10/24 08:43:09 142975078 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 47ms
+2022/10/24 08:43:09 142975140 1186952b [DEBUG Client 13176] Generating level 72 area "MapWorldsWharf" with seed 3783386850
+2022/10/24 08:43:09 142975203 f22b69a6 [INFO Client 13176] Tile hash: 1724788272
+2022/10/24 08:43:09 142975203 f22b69a7 [INFO Client 13176] Doodad hash: 266162820
+2022/10/24 08:43:10 142976140 11871c61 [DEBUG Client 13176] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:43:11 142976531 cff943d8 [INFO Client 13176] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пристань.
+2022/10/24 08:43:11 142977031 32759a9f [INFO Client 13176] [SHADER] Delay: ON
+2022/10/24 08:43:54 143019578 cff943d8 [INFO Client 13176] : DeeLectric был повержен.
+2022/10/24 08:44:02 143027906 88a90480 [DEBUG Client 13176] Got Instance Details from login server
+2022/10/24 08:44:02 143027906 32759a9f [INFO Client 13176] [SHADER] Delay: OFF
+2022/10/24 08:44:02 143027906 ca3a6737 [INFO Client 13176] Connecting to instance server at 185.19.217.133:6112
+2022/10/24 08:44:02 143027953 ca3a4d51 [DEBUG Client 13176] Connect time to instance server was 31ms
+2022/10/24 08:44:02 143027984 1186952b [DEBUG Client 13176] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 08:44:02 143028000 f22b69a6 [INFO Client 13176] Tile hash: 1532260820
+2022/10/24 08:44:02 143028000 f22b69a7 [INFO Client 13176] Doodad hash: 0
+2022/10/24 08:46:54 ***** LOG FILE OPENING *****
+2022/10/24 08:46:54 143200187 f954428c [INFO Client 10300] [STARTUP] Job Queues
+2022/10/24 08:46:54 143200203 9e6a0b0a [INFO Client 10300] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/24 08:46:54 143200296 9e6a1d2a [INFO Client 10300] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 08:46:54 143200296 9e6a1363 [INFO Client 10300] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2022/10/24 08:46:54 143200296 9e6a0b0a [INFO Client 10300] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/24 08:46:54 143200296 9e6a1d2a [INFO Client 10300] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 08:46:54 143200312 84a7d27d [INFO Client 10300] [ENGINE] Init
+2022/10/24 08:46:54 143200312 55713145 [INFO Client 10300] [JOB] HIGH: 3
+2022/10/24 08:46:54 143200312 55713145 [INFO Client 10300] [JOB] MEDIUM: 3
+2022/10/24 08:46:54 143200312 55713145 [INFO Client 10300] [JOB] LOW: 3
+2022/10/24 08:46:54 143200312 55713145 [INFO Client 10300] [JOB] IDLE: 1
+2022/10/24 08:46:54 143200312 7bb548f [INFO Client 10300] [BUNDLE2] Init
+2022/10/24 08:46:54 143200312 7bb36c4 [INFO Client 10300] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/24 08:46:55 143200484 7bb61e6 [INFO Client 10300] [BUNDLE2] File cache size: 1024
+2022/10/24 08:46:55 143200484 b51d61ab [INFO Client 10300] [RENDER] Async: ON
+2022/10/24 08:46:55 143200484 b51d60c8 [INFO Client 10300] [RENDER] Warmup: ON
+2022/10/24 08:46:55 143200484 b51d60ce [INFO Client 10300] [RENDER] Skip: ON
+2022/10/24 08:46:55 143200484 b51d60eb [INFO Client 10300] [RENDER] Throttling: ON
+2022/10/24 08:46:55 143200484 32759a7a [INFO Client 10300] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/24 08:46:55 143200484 32759a70 [INFO Client 10300] [SHADER] Async: ON
+2022/10/24 08:46:55 143200484 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 08:46:55 143200484 32759aba [INFO Client 10300] [SHADER] Limit: ON
+2022/10/24 08:46:55 143200484 32759abc [INFO Client 10300] [SHADER] Warmup: ON
+2022/10/24 08:46:55 143200484 327599d7 [INFO Client 10300] [SHADER] Parallel: OFF
+2022/10/24 08:46:55 143200484 84a7e376 [INFO Client 10300] [ENGINE] Running Engine version 1.6.0
+2022/10/24 08:46:55 143200500 47bbd159 [INFO Client 10300] [SOUND] Buffer size = 64.0 MB
+2022/10/24 08:46:55 143200515 9b0d205 [INFO Client 10300] [VIDEO] Enable: ON
+2022/10/24 08:46:55 143200531 84a7d2d8 [INFO Client 10300] [ENGINE] Ready
+2022/10/24 08:46:55 143200781 951bc0b0 [INFO Client 10300] [STARTUP] Bundle Startup Start
+2022/10/24 08:46:55 143200781 951bc057 [INFO Client 10300] [STARTUP] Bundle Startup in 4.3e-05 seconds
+2022/10/24 08:46:55 143200781 951bc0b0 [INFO Client 10300] [STARTUP] Game Start
+2022/10/24 08:46:55 143200984 ca86fd3f [DEBUG Client 10300] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/24 08:46:55 143201187 951bc057 [INFO Client 10300] [STARTUP] Game in 0.410324 seconds
+2022/10/24 08:46:55 143201187 951bc0b0 [INFO Client 10300] [STARTUP] Window Start
+2022/10/24 08:46:55 143201187 9e6a0b0a [INFO Client 10300] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/24 08:46:55 143201281 9e6a1d2a [INFO Client 10300] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 08:46:55 143201281 9e6a1363 [INFO Client 10300] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2022/10/24 08:46:55 143201281 9e6a0b0a [INFO Client 10300] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/24 08:46:55 143201281 9e6a1d2a [INFO Client 10300] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 08:46:55 143201296 951bc057 [INFO Client 10300] [STARTUP] Window in 0.109001 seconds
+2022/10/24 08:46:55 143201312 413b61ff [DEBUG Client 10300] [GamepadManager] Initialising
+2022/10/24 08:46:55 143201312 951bc0b0 [INFO Client 10300] [STARTUP] Device Start
+2022/10/24 08:46:55 143201312 b51d6589 [INFO Client 10300] [RENDER] StartDevice: DirectX11
+2022/10/24 08:46:56 143201437 71b3b00 [DEBUG Client 10300] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/24 08:46:56 143201437 97ce0484 [WARN Client 10300] [SHADER] Failed to load cache. Header version mismatch (found 0, expected 10) 
+2022/10/24 08:46:56 143201750 fafff8cf [DEBUG Client 10300] CreateSwapChain: SetFullScreenState 0
+2022/10/24 08:46:56 143201750 29d4ce01 [INFO Client 10300] [D3D11] Runtime version = 11.1
+2022/10/24 08:46:56 143201750 29d4ce00 [INFO Client 10300] [D3D11] Feature Level = 11.1
+2022/10/24 08:46:56 143201750 29d4ce03 [INFO Client 10300] [D3D11] Driver Command Lists = YES
+2022/10/24 08:46:56 143201750 29d4ce02 [INFO Client 10300] [D3D11] Driver Concurrent Creates = YES
+2022/10/24 08:46:56 143201750 29d4ce05 [INFO Client 10300] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/24 08:46:56 143201875 9d4eeb40 [DEBUG Client 10300] [WINDOW] TrigggerDeviceCreate
+2022/10/24 08:46:56 143201921 9d4eeba7 [DEBUG Client 10300] [WINDOW] TrigggerDeviceReset
+2022/10/24 08:46:56 143201937 9d4eec8a [DEBUG Client 10300] [WINDOW] TrigggerDeviceLost
+2022/10/24 08:46:56 143201937 9d4eeba7 [DEBUG Client 10300] [WINDOW] TrigggerDeviceReset
+2022/10/24 08:46:56 143201953 951bc057 [INFO Client 10300] [STARTUP] Device in 0.643061 seconds
+2022/10/24 08:46:56 143201953 951bc0b0 [INFO Client 10300] [STARTUP] Tencent Start
+2022/10/24 08:46:56 143201953 951bc057 [INFO Client 10300] [STARTUP] Tencent in 1.6e-05 seconds
+2022/10/24 08:46:56 143201953 951bc0b0 [INFO Client 10300] [STARTUP] Loading Start
+2022/10/24 08:46:56 143201953 951bc057 [INFO Client 10300] [STARTUP] Loading in 0.012924 seconds
+2022/10/24 08:46:56 143201953 951bc0b0 [INFO Client 10300] [STARTUP] DebugGUI Start
+2022/10/24 08:46:56 143201953 951bc057 [INFO Client 10300] [STARTUP] DebugGUI in 1.3e-05 seconds
+2022/10/24 08:46:56 143201953 951bc0b0 [INFO Client 10300] [STARTUP] Bundle Tiny Start
+2022/10/24 08:46:56 143201953 951bc0b0 [INFO Client 10300] [STARTUP] Bundle Login Start
+2022/10/24 08:46:56 143201953 951bc057 [INFO Client 10300] [STARTUP] Bundle Login in 1.9e-05 seconds
+2022/10/24 08:46:56 143201953 951bc057 [INFO Client 10300] [STARTUP] Bundle Tiny in 4.5e-05 seconds
+2022/10/24 08:46:56 143201953 951bc0b0 [INFO Client 10300] [STARTUP] Registration Start
+2022/10/24 08:46:56 143201953 951bc0b0 [INFO Client 10300] [STARTUP] Audio Start
+2022/10/24 08:46:56 143201953 47bbee18 [INFO Client 10300] [SOUND] Channel count = 128 (asked for 128)
+2022/10/24 08:46:56 143201953 47bbee19 [INFO Client 10300] [SOUND] Source count = 512
+2022/10/24 08:46:56 143202062 47bbea58 [INFO Client 10300] Changing to device "Line 1 (Virtual Audio Cable)"
+2022/10/24 08:46:56 143202062 951bc057 [INFO Client 10300] [STARTUP] Audio in 0.096028 seconds
+2022/10/24 08:46:56 143202281 951bc057 [INFO Client 10300] [STARTUP] Registration in 0.318056 seconds
+2022/10/24 08:46:57 143202625 b51d4f61 [DEBUG Client 10300] [RENDER] SetRendererSettings
+2022/10/24 08:46:57 143202625 b51d6447 [DEBUG Client 10300] [RENDER] ResizeWindow
+2022/10/24 08:46:57 143202625 9d4eec8a [DEBUG Client 10300] [WINDOW] TrigggerDeviceLost
+2022/10/24 08:46:57 143202640 9d4eeba7 [DEBUG Client 10300] [WINDOW] TrigggerDeviceReset
+2022/10/24 08:46:57 143202656 b51d614c [DEBUG Client 10300] [RENDER] RestartSwapChain
+2022/10/24 08:46:57 143202656 9e6a0b0a [INFO Client 10300] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/24 08:46:57 143202687 9e6a1d2a [INFO Client 10300] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 08:46:57 143202687 9e6a1363 [INFO Client 10300] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2022/10/24 08:46:57 143202687 9e6a0b0a [INFO Client 10300] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/24 08:46:57 143202703 9e6a1d2a [INFO Client 10300] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/24 08:46:57 143202890 fafff8cf [DEBUG Client 10300] CreateSwapChain: SetFullScreenState 0
+2022/10/24 08:46:57 143202890 9d4eec8a [DEBUG Client 10300] [WINDOW] TrigggerDeviceLost
+2022/10/24 08:46:57 143202906 9d4eeba7 [DEBUG Client 10300] [WINDOW] TrigggerDeviceReset
+2022/10/24 08:46:57 143202906 3275a75e [INFO Client 10300] [SHADER] Disable Async: 1 frames
+2022/10/24 08:46:57 143202906 b51d610e [INFO Client 10300] [RENDER] Disable Async: 1 frames
+2022/10/24 08:47:14 143219390 890da8d3 [INFO Client 10300] Async connecting to fra01.login.pathofexile.com:20481
+2022/10/24 08:47:14 143219406 890d9d9b [INFO Client 10300] Connected to fra01.login.pathofexile.com in 0ms.
+2022/10/24 08:47:17 143222718 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 08:47:17 143222734 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 08:47:17 143222750 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.120.127:6112
+2022/10/24 08:47:17 143222781 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 08:47:17 143222906 1186952b [DEBUG Client 10300] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/24 08:47:21 143226406 f22b69a6 [INFO Client 10300] Tile hash: 3842481850
+2022/10/24 08:47:21 143226406 f22b69a7 [INFO Client 10300] Doodad hash: 3697406269
+2022/10/24 08:47:22 143227593 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:47:23 143228562 cff943d8 [INFO Client 10300] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2022/10/24 08:47:23 143228875 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/24 08:47:25 143230656 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 08:47:25 143230968 374e1126 [INFO Client 10300] [Item Filter] Preparing to download online filter Ezq3xsj
+2022/10/24 08:47:25 143230968 374e1287 [INFO Client 10300] [Item Filter] Hash for online filter Ezq3xsj is: a3d97ca823e2cb1f11c9f84b6326751d
+2022/10/24 08:47:25 143231265 374e12ea [INFO Client 10300] [Item Filter] Online item filter Ezq3xsj returned status: 304
+2022/10/24 08:47:25 143231265 374e0d87 [DEBUG Client 10300] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/24 08:47:25 143231265 374e0d8f [DEBUG Client 10300] [Item Filter] X-HW: 1666590444.dop203.pa1.t,1666590445.cds242.pa1.shn,1666590445.dop203.pa1.t,1666590445.cds217.pa1.c
+2022/10/24 08:47:25 143231312 78847107 [INFO Client 10300] [Item Filter] Finished reloading online filter Ezq3xsj. Result: true. Hash: a3d97ca823e2cb1f11c9f84b6326751d. Message: 
+2022/10/24 08:47:26 143231578 2a14a9a7 [INFO Client 10300] PrecalcBaseTypeHashMap
+2022/10/24 08:47:26 143231640 2a14a9a1 [INFO Client 10300] PrecalcModNameHashMap
+2022/10/24 08:47:27 143232656 2a14a9a3 [INFO Client 10300] PrecalcItemClassMap
+2022/10/24 08:47:27 143232656 2a14a9ad [INFO Client 10300] PrecalcSoundEffects
+2022/10/24 08:47:27 143232656 2a14a902 [INFO Client 10300] PrecalcDropEffects
+2022/10/24 08:47:27 143232656 2a14a900 [INFO Client 10300] PrecalcNonEnchantModHashes
+2022/10/24 08:47:27 143232656 2a14a906 [INFO Client 10300] PrecalcRuleNameToTypeMap
+2022/10/24 08:47:27 143232656 2a14a904 [INFO Client 10300] PrecalcCJESPNIndexMap
+2022/10/24 08:47:27 143232656 2a14a90a [INFO Client 10300] PrecalcGemAlternateQualityMap
+2022/10/24 08:47:49 143254671 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 08:47:49 143254687 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 08:47:49 143254687 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.120.123:6112
+2022/10/24 08:47:49 143254734 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 08:47:49 143254812 1186952b [DEBUG Client 10300] Generating level 34 area "Delve_Main" with seed 2517912432
+2022/10/24 08:47:50 143255906 f22b69a6 [INFO Client 10300] Tile hash: 1811594254
+2022/10/24 08:47:50 143255906 f22b69a7 [INFO Client 10300] Doodad hash: 0
+2022/10/24 08:47:51 143257187 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:47:52 143257640 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Азуритовая шахта.
+2022/10/24 08:47:53 143258531 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 08:48:37 143302546 cff943d8 [INFO Client 10300] @От кого KaiserXYZ: Здравствуйте, хочу купить у вас Ослабляющий Вечный флакон жизни облегчения за 1 regret в лиге Kalandra (секция "~b/o 1 regret"; позиция: 12 столбец, 11 ряд)
+2022/10/24 08:48:45 143311031 cff943d8 [INFO Client 10300] : Вы не можете попасть в убежище отсюда.
+2022/10/24 08:48:59 143324921 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 08:48:59 143324937 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 08:48:59 143324937 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.124.131:6112
+2022/10/24 08:48:59 143324984 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 08:48:59 143325031 1186952b [DEBUG Client 10300] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 08:48:59 143325109 f22b69a6 [INFO Client 10300] Tile hash: 1532260820
+2022/10/24 08:48:59 143325109 f22b69a7 [INFO Client 10300] Doodad hash: 0
+2022/10/24 08:49:00 143325828 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:49:01 143326500 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 08:49:01 143327203 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 08:49:04 143329625 cff943d8 [INFO Client 10300] : KaiserXYZ присоединился.
+2022/10/24 08:49:20 143346203 cff943d8 [INFO Client 10300] : Сделка совершена.
+2022/10/24 08:49:22 143347843 cff943d8 [INFO Client 10300] @Кому KaiserXYZ: Thank you for the trade. Have a nice day and good luck!
+2022/10/24 08:49:26 143351375 cff943d8 [INFO Client 10300] : KaiserXYZ покинул область.
+2022/10/24 08:49:29 143354921 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 08:49:29 143354921 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 08:49:29 143354921 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.82.17:6112
+2022/10/24 08:49:29 143354968 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 32ms
+2022/10/24 08:49:29 143355031 1186952b [DEBUG Client 10300] Generating level 34 area "Delve_Main" with seed 616521376
+2022/10/24 08:49:29 143355312 f22b69a6 [INFO Client 10300] Tile hash: 1158465512
+2022/10/24 08:49:29 143355312 f22b69a7 [INFO Client 10300] Doodad hash: 0
+2022/10/24 08:49:30 143356312 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:49:31 143356718 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Азуритовая шахта.
+2022/10/24 08:49:31 143357078 cff943d8 [INFO Client 10300] @От кого KaiserXYZ: ty
+2022/10/24 08:49:31 143357281 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 08:53:50 143615734 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 08:53:50 143615734 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 08:53:50 143615734 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.120.153:6112
+2022/10/24 08:53:50 143615781 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 08:53:50 143615859 1186952b [DEBUG Client 10300] Generating level 68 area "Delve_Main" with seed 1453577423
+2022/10/24 08:53:51 143616906 f22b69a6 [INFO Client 10300] Tile hash: 997871408
+2022/10/24 08:53:51 143616906 f22b69a7 [INFO Client 10300] Doodad hash: 3932878745
+2022/10/24 08:53:52 143617937 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:53:53 143618390 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Азуритовая шахта.
+2022/10/24 08:53:53 143619000 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 08:54:31 143657093 3796f5cb [WARN Client 10300] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 08:54:31 143657140 3796f5cb [WARN Client 10300] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 08:54:32 143657640 3796f5cb [WARN Client 10300] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 08:54:37 143662609 3796f5cb [WARN Client 10300] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 08:55:33 143719234 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 08:55:33 143719234 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 08:55:33 143719234 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.124.129:6112
+2022/10/24 08:55:33 143719296 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 47ms
+2022/10/24 08:55:33 143719359 1186952b [DEBUG Client 10300] Generating level 68 area "Delve_Main" with seed 2862291027
+2022/10/24 08:55:34 143719734 f22b69a6 [INFO Client 10300] Tile hash: 1884138278
+2022/10/24 08:55:34 143719734 f22b69a7 [INFO Client 10300] Doodad hash: 3046762100
+2022/10/24 08:55:35 143720937 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:55:36 143721375 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Азуритовая шахта.
+2022/10/24 08:55:36 143721921 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 08:56:26 143771468 1187254d [DEBUG Client 10300] Resyncing 9102
+2022/10/24 08:56:26 143771828 1187254d [DEBUG Client 10300] Resyncing 9105
+2022/10/24 08:56:26 143771828 1187254d [DEBUG Client 10300] Resyncing 9104
+2022/10/24 08:56:26 143771828 1187254d [DEBUG Client 10300] Resyncing 9102
+2022/10/24 08:56:26 143771828 1187254d [DEBUG Client 10300] Resyncing 9045
+2022/10/24 08:56:26 143771828 1187254d [DEBUG Client 10300] Resyncing 9048
+2022/10/24 08:56:26 143771828 1187254d [DEBUG Client 10300] Resyncing 9053
+2022/10/24 08:56:26 143771828 1187254d [DEBUG Client 10300] Resyncing 9049
+2022/10/24 08:56:26 143772062 cff943d8 [INFO Client 10300] : DeeLectric был повержен.
+2022/10/24 08:56:56 143801390 cff943d8 [INFO Client 10300] : Сделка совершена.
+2022/10/24 08:57:11 143816906 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 08:57:11 143816906 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 08:57:11 143816906 ca3a6737 [INFO Client 10300] Connecting to instance server at 185.19.219.31:6112
+2022/10/24 08:57:11 143816953 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 08:57:11 143817015 1186952b [DEBUG Client 10300] Generating level 68 area "Delve_Main" with seed 3948309510
+2022/10/24 08:57:11 143817296 f22b69a6 [INFO Client 10300] Tile hash: 945131988
+2022/10/24 08:57:11 143817296 f22b69a7 [INFO Client 10300] Doodad hash: 1679233153
+2022/10/24 08:57:13 143818468 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 08:57:13 143818906 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Азуритовая шахта.
+2022/10/24 08:57:14 143819406 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 4417
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 4419
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8986
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8987
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8984
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8949
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8979
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8940
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8943
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8941
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8939
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8947
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8945
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8980
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8893
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8982
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8983
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8946
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8942
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8948
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8889
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8888
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8950
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8887
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8885
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8985
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8951
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8911
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8913
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8883
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8910
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 9062
+2022/10/24 08:57:41 143846484 1187254d [DEBUG Client 10300] Resyncing 8912
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 8900
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 8909
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 8949
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 9030
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 8915
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 9060
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 9027
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 9023
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 9024
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 9029
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 8903
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 8902
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 8896
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 8917
+2022/10/24 08:57:44 143849609 1187254d [DEBUG Client 10300] Resyncing 8899
+2022/10/24 09:00:06 143992015 1187254d [DEBUG Client 10300] Resyncing 12237
+2022/10/24 09:04:19 144244500 1187254d [DEBUG Client 10300] Resyncing 7643
+2022/10/24 09:04:19 144244500 1187254d [DEBUG Client 10300] Resyncing 7645
+2022/10/24 09:04:20 144245921 cff943d8 [INFO Client 10300] : DeeLectric был повержен.
+2022/10/24 09:07:18 144424296 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:07:18 144424296 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:07:18 144424296 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.120.123:6112
+2022/10/24 09:07:18 144424343 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 32ms
+2022/10/24 09:07:19 144424406 1186952b [DEBUG Client 10300] Generating level 68 area "Delve_Main" with seed 4293161284
+2022/10/24 09:07:19 144424687 f22b69a6 [INFO Client 10300] Tile hash: 2544669524
+2022/10/24 09:07:19 144424687 f22b69a7 [INFO Client 10300] Doodad hash: 1336332760
+2022/10/24 09:07:20 144425859 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:07:20 144426281 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Азуритовая шахта.
+2022/10/24 09:07:21 144426781 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:07:31 144436828 1187254d [DEBUG Client 10300] Resyncing 7463
+2022/10/24 09:07:31 144436828 1187254d [DEBUG Client 10300] Resyncing 7576
+2022/10/24 09:07:31 144436828 1187254d [DEBUG Client 10300] Resyncing 7491
+2022/10/24 09:07:31 144436828 1187254d [DEBUG Client 10300] Resyncing 7575
+2022/10/24 09:07:31 144436828 1187254d [DEBUG Client 10300] Resyncing 7460
+2022/10/24 09:07:31 144436828 1187254d [DEBUG Client 10300] Resyncing 7469
+2022/10/24 09:07:31 144436828 1187254d [DEBUG Client 10300] Resyncing 7574
+2022/10/24 09:07:31 144437171 cff943d8 [INFO Client 10300] : DeeLectric был повержен.
+2022/10/24 09:07:43 144449109 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:07:43 144449109 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:07:43 144449109 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.114.181:6112
+2022/10/24 09:07:43 144449156 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:07:43 144449218 1186952b [DEBUG Client 10300] Generating level 68 area "Delve_Main" with seed 1672063333
+2022/10/24 09:07:44 144449500 f22b69a6 [INFO Client 10300] Tile hash: 1386732306
+2022/10/24 09:07:44 144449500 f22b69a7 [INFO Client 10300] Doodad hash: 3790201506
+2022/10/24 09:07:45 144450656 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:07:45 144451078 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Азуритовая шахта.
+2022/10/24 09:07:46 144451578 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:08:12 144477593 cff943d8 [INFO Client 10300] : DeeLectric был повержен.
+2022/10/24 09:08:38 144503750 cff943d8 [INFO Client 10300] @Кому Cindarre: Hi, I would like to buy your Карта кратера (T5) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 1)
+2022/10/24 09:08:49 144515328 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:08:49 144515328 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:08:49 144515328 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.124.131:6112
+2022/10/24 09:08:50 144515375 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:08:50 144515437 1186952b [DEBUG Client 10300] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 09:08:50 144515531 f22b69a6 [INFO Client 10300] Tile hash: 1532260820
+2022/10/24 09:08:50 144515531 f22b69a7 [INFO Client 10300] Doodad hash: 0
+2022/10/24 09:08:50 144516093 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:08:51 144516640 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 09:08:51 144517046 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:09:00 144525937 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:09:00 144525953 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:09:00 144525953 ca3a6737 [INFO Client 10300] Connecting to instance server at 209.192.157.188:6112
+2022/10/24 09:09:00 144526140 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 172ms
+2022/10/24 09:09:00 144526328 1186952b [DEBUG Client 10300] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/24 09:09:01 144526562 f22b69a6 [INFO Client 10300] Tile hash: 2509555744
+2022/10/24 09:09:01 144526562 f22b69a7 [INFO Client 10300] Doodad hash: 0
+2022/10/24 09:09:01 144527187 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:09:02 144527781 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/24 09:09:03 144528671 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:09:08 144534046 cff943d8 [INFO Client 10300] : Сделка совершена.
+2022/10/24 09:09:10 144535687 cff943d8 [INFO Client 10300] @От кого <[Puss]> LakeKalCorpse: ty
+2022/10/24 09:09:11 144536484 cff943d8 [INFO Client 10300] @Кому Cindarre: ty gl!
+2022/10/24 09:09:12 144538109 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:09:12 144538109 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:09:12 144538109 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.124.131:6112
+2022/10/24 09:09:12 144538156 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:09:12 144538203 1186952b [DEBUG Client 10300] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 09:09:12 144538218 f22b69a6 [INFO Client 10300] Tile hash: 1532260820
+2022/10/24 09:09:12 144538218 f22b69a7 [INFO Client 10300] Doodad hash: 0
+2022/10/24 09:09:13 144538859 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:09:13 144539281 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 09:09:14 144539671 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:09:48 144573625 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:09:48 144573640 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:09:48 144573640 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.114.183:6112
+2022/10/24 09:09:48 144573703 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:09:48 144573750 1186952b [DEBUG Client 10300] Generating level 72 area "MapWorldsTribunal" with seed 182911547
+2022/10/24 09:09:49 144575375 f22b69a6 [INFO Client 10300] Tile hash: 4070963052
+2022/10/24 09:09:49 144575375 f22b69a7 [INFO Client 10300] Doodad hash: 3383347650
+2022/10/24 09:09:50 144576296 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:09:51 144576843 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/24 09:09:52 144577703 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:09:59 144585234 cff943d8 [INFO Client 10300] Странный голос: Раз все боги мертвы, придётся полностью сосредоточиться на тебе. Давай посмотрим, сколько ты выдержишь.
+2022/10/24 09:10:36 144622265 1187254d [DEBUG Client 10300] Resyncing 1844
+2022/10/24 09:11:08 144653843 1187254d [DEBUG Client 10300] Resyncing 3007
+2022/10/24 09:11:08 144653843 1187254d [DEBUG Client 10300] Resyncing 3014
+2022/10/24 09:12:26 144732343 1187254d [DEBUG Client 10300] Resyncing 3533
+2022/10/24 09:13:46 144811562 cff943d8 [INFO Client 10300] Ошаби: Сюда, изгнанник.
+2022/10/24 09:13:57 144822437 cff943d8 [INFO Client 10300] Ошаби: Упокой это порождение.
+2022/10/24 09:14:01 144827203 3796f5cb [WARN Client 10300] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/24 09:14:47 144872765 cff943d8 [INFO Client 10300] Ошаби: Нам нужен не плод, а сок.
+2022/10/24 09:15:36 144922265 1187254d [DEBUG Client 10300] Resyncing 4558
+2022/10/24 09:15:37 144922812 cff943d8 [INFO Client 10300] : DeeLectric был повержен.
+2022/10/24 09:15:40 144925812 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:15:40 144925812 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:15:40 144925812 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.93.243:6112
+2022/10/24 09:15:40 144925859 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:15:40 144925906 1186952b [DEBUG Client 10300] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 09:15:40 144925921 f22b69a6 [INFO Client 10300] Tile hash: 1532260820
+2022/10/24 09:15:40 144925921 f22b69a7 [INFO Client 10300] Doodad hash: 0
+2022/10/24 09:15:41 144926593 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:15:41 144927078 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 09:15:42 144927734 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:15:45 144930984 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:15:45 144930984 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:15:45 144930984 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.114.183:6112
+2022/10/24 09:15:45 144931031 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:15:45 144931093 1186952b [DEBUG Client 10300] Generating level 72 area "MapWorldsTribunal" with seed 182911547
+2022/10/24 09:15:45 144931171 f22b69a6 [INFO Client 10300] Tile hash: 4070963052
+2022/10/24 09:15:45 144931171 f22b69a7 [INFO Client 10300] Doodad hash: 3383347650
+2022/10/24 09:15:46 144932015 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:15:47 144932421 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/24 09:15:47 144932859 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:18:16 145081406 1187254d [DEBUG Client 10300] Resyncing 1334
+2022/10/24 09:18:16 145081406 1187254d [DEBUG Client 10300] Resyncing 1335
+2022/10/24 09:19:29 145155125 cff943d8 [INFO Client 10300] : DeeLectric был повержен.
+2022/10/24 09:19:32 145157609 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:19:32 145157609 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:19:32 145157609 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.83.55:6112
+2022/10/24 09:19:32 145157656 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:19:32 145157687 1186952b [DEBUG Client 10300] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 09:19:32 145157703 f22b69a6 [INFO Client 10300] Tile hash: 1532260820
+2022/10/24 09:19:32 145157703 f22b69a7 [INFO Client 10300] Doodad hash: 0
+2022/10/24 09:19:33 145158515 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:19:33 145158953 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 09:19:34 145159671 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:19:39 145165296 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:19:39 145165296 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:19:39 145165296 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.114.183:6112
+2022/10/24 09:19:39 145165343 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 32ms
+2022/10/24 09:19:40 145165390 1186952b [DEBUG Client 10300] Generating level 72 area "MapWorldsTribunal" with seed 182911547
+2022/10/24 09:19:40 145165484 f22b69a6 [INFO Client 10300] Tile hash: 4070963052
+2022/10/24 09:19:40 145165484 f22b69a7 [INFO Client 10300] Doodad hash: 3383347650
+2022/10/24 09:19:41 145166468 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:19:41 145166875 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/24 09:19:41 145167328 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:20:15 145201015 3797020c [WARN Client 10300] Client couldn't execute a triggered action from the server.
+action type id = 52452
+2022/10/24 09:20:15 145201015 3796fa48 [WARN Client 10300] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 41736
+action_id: 38725
+object_id: 5587
+target_id: 5587
+flags: 129
+2022/10/24 09:21:08 145253812 cff943d8 [INFO Client 10300] : DeeLectric был повержен.
+2022/10/24 09:21:11 145256671 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:21:11 145256671 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:21:11 145256671 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.120.159:6112
+2022/10/24 09:21:11 145256718 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 32ms
+2022/10/24 09:21:11 145256765 1186952b [DEBUG Client 10300] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 09:21:11 145256781 f22b69a6 [INFO Client 10300] Tile hash: 1532260820
+2022/10/24 09:21:11 145256781 f22b69a7 [INFO Client 10300] Doodad hash: 0
+2022/10/24 09:21:12 145257546 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:21:12 145257968 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 09:21:13 145258843 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:21:19 145264500 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:21:19 145264500 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:21:19 145264500 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.114.183:6112
+2022/10/24 09:21:19 145264546 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:21:19 145264593 1186952b [DEBUG Client 10300] Generating level 72 area "MapWorldsTribunal" with seed 182911547
+2022/10/24 09:21:19 145264687 f22b69a6 [INFO Client 10300] Tile hash: 4070963052
+2022/10/24 09:21:19 145264687 f22b69a7 [INFO Client 10300] Doodad hash: 3383347650
+2022/10/24 09:21:19 145265296 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:21:20 145265718 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/24 09:21:20 145266171 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:23:31 145397125 cff943d8 [INFO Client 10300] : DeeLectric был повержен.
+2022/10/24 09:23:34 145399843 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:23:34 145399843 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:23:34 145399843 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.124.131:6112
+2022/10/24 09:23:34 145399890 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 32ms
+2022/10/24 09:23:34 145399937 1186952b [DEBUG Client 10300] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/24 09:23:34 145399953 f22b69a6 [INFO Client 10300] Tile hash: 1532260820
+2022/10/24 09:23:34 145399953 f22b69a7 [INFO Client 10300] Doodad hash: 0
+2022/10/24 09:23:35 145401015 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:23:36 145401437 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/24 09:23:36 145402187 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:23:42 145408062 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:23:42 145408062 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:23:42 145408062 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.114.183:6112
+2022/10/24 09:23:42 145408109 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:23:42 145408156 1186952b [DEBUG Client 10300] Generating level 72 area "MapWorldsTribunal" with seed 182911547
+2022/10/24 09:23:42 145408250 f22b69a6 [INFO Client 10300] Tile hash: 4070963052
+2022/10/24 09:23:42 145408250 f22b69a7 [INFO Client 10300] Doodad hash: 3383347650
+2022/10/24 09:23:43 145408843 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:23:43 145409265 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кратер.
+2022/10/24 09:23:44 145409734 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:24:25 145450593 cff943d8 [INFO Client 10300] : Вы получили очко пассивных умений Атласа.
+2022/10/24 09:24:50 145476171 8da7eb3b [INFO Client 10300] Successfully allocated passive skill id: atlas_labyrinth_1_2, name: Шанс испытания Лабиринта
+2022/10/24 09:25:15 145500968 890da8d3 [INFO Client 10300] Async connecting to fra01.login.pathofexile.com:20481
+2022/10/24 09:25:15 145500984 890d9d9b [INFO Client 10300] Connected to fra01.login.pathofexile.com in 0ms.
+2022/10/24 09:25:18 145503812 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:25:18 145503812 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:25:18 145503812 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.114.181:6112
+2022/10/24 09:25:18 145503875 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:25:18 145503921 1186952b [DEBUG Client 10300] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/24 09:25:20 145505765 f22b69a6 [INFO Client 10300] Tile hash: 3842481850
+2022/10/24 09:25:20 145505765 f22b69a7 [INFO Client 10300] Doodad hash: 3697406269
+2022/10/24 09:25:21 145506593 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:25:21 145507109 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/24 09:25:21 145507125 cff943d8 [INFO Client 10300] $Ведьма_Я: Вампирский шрам, Большой кластерный самоцвет 1 д Фантомный: Наскок 1,5 д
+2022/10/24 09:25:23 145508750 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:25:23 145508765 374e1126 [INFO Client 10300] [Item Filter] Preparing to download online filter Ezq3xsj
+2022/10/24 09:25:23 145508765 374e1287 [INFO Client 10300] [Item Filter] Hash for online filter Ezq3xsj is: a3d97ca823e2cb1f11c9f84b6326751d
+2022/10/24 09:25:23 145509000 374e12ea [INFO Client 10300] [Item Filter] Online item filter Ezq3xsj returned status: 304
+2022/10/24 09:25:23 145509000 374e0d87 [DEBUG Client 10300] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/24 09:25:23 145509000 374e0d8f [DEBUG Client 10300] [Item Filter] X-HW: 1666592722.dop218.pa1.t,1666592722.cds246.pa1.shn,1666592722.dop218.pa1.t,1666592722.cds217.pa1.c
+2022/10/24 09:25:23 145509015 78847107 [INFO Client 10300] [Item Filter] Finished reloading online filter Ezq3xsj. Result: true. Hash: a3d97ca823e2cb1f11c9f84b6326751d. Message: 
+2022/10/24 09:25:32 145517937 cff943d8 [INFO Client 10300] @Кому Electrocutionist: Hi, I would like to buy your Карта атолла (T4) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 1, top 3)
+2022/10/24 09:25:34 145519484 cff943d8 [INFO Client 10300] @Кому Zamazuma: Hi, I would like to buy your Карта святыни (T5) listed for 1 chaos in Kalandra (stash tab "~price 1 chaos"; position: left 3, top 2)
+2022/10/24 09:28:19 145685015 cff943d8 [INFO Client 10300] : Сделка совершена.
+2022/10/24 09:29:56 145781937 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:29:56 145781937 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:29:56 145781937 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.124.131:6112
+2022/10/24 09:29:56 145781984 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:29:56 145782046 1186952b [DEBUG Client 10300] Generating level 72 area "MapWorldsCoralRuins" with seed 3036469853
+2022/10/24 09:29:57 145782531 f22b69a6 [INFO Client 10300] Tile hash: 1326250684
+2022/10/24 09:29:57 145782531 f22b69a7 [INFO Client 10300] Doodad hash: 2231087355
+2022/10/24 09:29:58 145783406 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:29:58 145783906 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловые руины.
+2022/10/24 09:29:59 145784406 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:32:05 145911250 cff943d8 [INFO Client 10300] : DeeLectric был повержен.
+2022/10/24 09:32:07 145913187 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:32:07 145913203 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:32:07 145913203 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.114.181:6112
+2022/10/24 09:32:07 145913234 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 31ms
+2022/10/24 09:32:07 145913296 1186952b [DEBUG Client 10300] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/24 09:32:08 145913421 f22b69a6 [INFO Client 10300] Tile hash: 3842481850
+2022/10/24 09:32:08 145913421 f22b69a7 [INFO Client 10300] Doodad hash: 3697406269
+2022/10/24 09:32:08 145914093 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:32:09 145914562 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/24 09:32:09 145915234 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:32:16 145921796 88a90480 [DEBUG Client 10300] Got Instance Details from login server
+2022/10/24 09:32:16 145921796 32759a9f [INFO Client 10300] [SHADER] Delay: OFF
+2022/10/24 09:32:16 145921796 ca3a6737 [INFO Client 10300] Connecting to instance server at 85.195.124.131:6112
+2022/10/24 09:32:16 145921843 ca3a4d51 [DEBUG Client 10300] Connect time to instance server was 47ms
+2022/10/24 09:32:16 145921890 1186952b [DEBUG Client 10300] Generating level 72 area "MapWorldsCoralRuins" with seed 3036469853
+2022/10/24 09:32:16 145921953 f22b69a6 [INFO Client 10300] Tile hash: 1326250684
+2022/10/24 09:32:16 145921953 f22b69a7 [INFO Client 10300] Doodad hash: 2231087355
+2022/10/24 09:32:17 145922765 11871c61 [DEBUG Client 10300] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 150 members 
+2022/10/24 09:32:17 145923171 cff943d8 [INFO Client 10300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловые руины.
+2022/10/24 09:32:18 145923609 32759a9f [INFO Client 10300] [SHADER] Delay: ON
+2022/10/24 09:32:53 145958984 cff943d8 [INFO Client 10300] @От кого karpuhaaa: Здравствуйте, хочу купить у вас Карта храма Луны (T2) за 1 regret в лиге Kalandra (секция "~b/o 1 regret"; позиция: 9 столбец, 8 ряд)
+2022/10/24 09:33:31 145997203 1187254d [DEBUG Client 10300] Resyncing 868
+2022/10/24 09:33:31 145997203 1187254d [DEBUG Client 10300] Resyncing 857
+2022/10/24 09:33:31 145997203 1187254d [DEBUG Client 10300] Resyncing 866
+2022/10/24 09:33:31 145997203 1187254d [DEBUG Client 10300] Resyncing 858
+2022/10/24 09:33:37 146002437 1187254d [DEBUG Client 10300] Resyncing 977
+2022/10/24 09:33:37 146002437 1187254d [DEBUG Client 10300] Resyncing 734
+2022/10/24 09:35:36 146122031 1187254d [DEBUG Client 10300] Resyncing 995
+2022/10/24 09:35:36 146122031 1187254d [DEBUG Client 10300] Resyncing 994
+2022/10/24 09:35:53 146139328 3797020c [WARN Client 10300] Client couldn't execute a triggered action from the server.
+action type id = 52452
+2022/10/24 09:35:53 146139328 3796fa48 [WARN Client 10300] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 41736
+action_id: 36157
+object_id: 1611
+target_id: 1611
+flags: 129
