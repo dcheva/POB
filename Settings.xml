@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/DeeLectric +I +G.xml"/>
-		<Arg string="DeeLectric +I +G"/>
+		<Arg string="D:\Documents/Path of Building/Builds/DeeLectric +IG.xml"/>
+		<Arg string="DeeLectric +IG"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
