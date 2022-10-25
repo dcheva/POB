@@ -33573,3 +33573,1086 @@ flags: 257
 2022/10/25 05:51:51 31092828 32759a9f [INFO Client 2964] [SHADER] Delay: ON
 2022/10/25 05:52:57 31158734 cff943d8 [INFO Client 2964] : Сделка совершена.
 2022/10/25 05:53:08 31169656 cff943d8 [INFO Client 2964] : Указанный предмет уничтожен
+2022/10/25 12:21:13 ***** LOG FILE OPENING *****
+2022/10/25 12:21:13 54454968 f954428c [INFO Client 6432] [STARTUP] Job Queues
+2022/10/25 12:21:13 54454984 9e6a0b0a [INFO Client 6432] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/25 12:21:13 54455093 9e6a1d2a [INFO Client 6432] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/25 12:21:13 54455093 9e6a1363 [INFO Client 6432] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2022/10/25 12:21:13 54455093 9e6a0b0a [INFO Client 6432] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/25 12:21:13 54455093 9e6a1d2a [INFO Client 6432] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/25 12:21:13 54455109 84a7d27d [INFO Client 6432] [ENGINE] Init
+2022/10/25 12:21:13 54455109 55713145 [INFO Client 6432] [JOB] HIGH: 3
+2022/10/25 12:21:13 54455109 55713145 [INFO Client 6432] [JOB] MEDIUM: 3
+2022/10/25 12:21:13 54455109 55713145 [INFO Client 6432] [JOB] LOW: 3
+2022/10/25 12:21:13 54455109 55713145 [INFO Client 6432] [JOB] IDLE: 1
+2022/10/25 12:21:13 54455109 7bb548f [INFO Client 6432] [BUNDLE2] Init
+2022/10/25 12:21:13 54455109 7bb36c4 [INFO Client 6432] [BUNDLE2] Index: Bundles2/_.index.bin
+2022/10/25 12:21:13 54455359 7bb61e6 [INFO Client 6432] [BUNDLE2] File cache size: 1024
+2022/10/25 12:21:13 54455359 b51d61ab [INFO Client 6432] [RENDER] Async: ON
+2022/10/25 12:21:13 54455359 b51d60c8 [INFO Client 6432] [RENDER] Warmup: ON
+2022/10/25 12:21:13 54455359 b51d60ce [INFO Client 6432] [RENDER] Skip: ON
+2022/10/25 12:21:13 54455359 b51d60eb [INFO Client 6432] [RENDER] Throttling: ON
+2022/10/25 12:21:13 54455359 32759a7a [INFO Client 6432] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2022/10/25 12:21:13 54455359 32759a70 [INFO Client 6432] [SHADER] Async: ON
+2022/10/25 12:21:13 54455359 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 12:21:13 54455359 32759aba [INFO Client 6432] [SHADER] Limit: ON
+2022/10/25 12:21:13 54455359 32759abc [INFO Client 6432] [SHADER] Warmup: ON
+2022/10/25 12:21:13 54455359 327599d7 [INFO Client 6432] [SHADER] Parallel: OFF
+2022/10/25 12:21:13 54455359 84a7e376 [INFO Client 6432] [ENGINE] Running Engine version 1.6.0
+2022/10/25 12:21:13 54455484 47bbd159 [INFO Client 6432] [SOUND] Buffer size = 64.0 MB
+2022/10/25 12:21:13 54455578 9b0d205 [INFO Client 6432] [VIDEO] Enable: ON
+2022/10/25 12:21:14 54455625 84a7d2d8 [INFO Client 6432] [ENGINE] Ready
+2022/10/25 12:21:14 54456156 951bc0b0 [INFO Client 6432] [STARTUP] Bundle Startup Start
+2022/10/25 12:21:14 54456156 951bc057 [INFO Client 6432] [STARTUP] Bundle Startup in 3.5e-05 seconds
+2022/10/25 12:21:14 54456156 951bc0b0 [INFO Client 6432] [STARTUP] Game Start
+2022/10/25 12:21:15 54456656 ca86fd3f [DEBUG Client 6432] Rebuilding UI::Core properties. Current input mode = '1'
+2022/10/25 12:21:16 54457796 951bc057 [INFO Client 6432] [STARTUP] Game in 1.65442 seconds
+2022/10/25 12:21:16 54457796 951bc0b0 [INFO Client 6432] [STARTUP] Window Start
+2022/10/25 12:21:16 54457812 9e6a0b0a [INFO Client 6432] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/25 12:21:16 54458406 9e6a1d2a [INFO Client 6432] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/25 12:21:16 54458406 9e6a1363 [INFO Client 6432] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2022/10/25 12:21:16 54458406 9e6a0b0a [INFO Client 6432] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/25 12:21:16 54458421 9e6a1d2a [INFO Client 6432] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/25 12:21:16 54458421 951bc057 [INFO Client 6432] [STARTUP] Window in 0.622307 seconds
+2022/10/25 12:21:16 54458437 413b61ff [DEBUG Client 6432] [GamepadManager] Initialising
+2022/10/25 12:21:16 54458437 951bc0b0 [INFO Client 6432] [STARTUP] Device Start
+2022/10/25 12:21:16 54458437 b51d6589 [INFO Client 6432] [RENDER] StartDevice: DirectX11
+2022/10/25 12:21:16 54458562 71b3b00 [DEBUG Client 6432] [SHADER] Load shader cache: ShaderCacheD3D11
+2022/10/25 12:21:16 54458578 97ce0484 [WARN Client 6432] [SHADER] Failed to load cache. Header version mismatch (found 0, expected 10) 
+2022/10/25 12:21:19 54461343 fafff8cf [DEBUG Client 6432] CreateSwapChain: SetFullScreenState 0
+2022/10/25 12:21:19 54461343 29d4ce01 [INFO Client 6432] [D3D11] Runtime version = 11.1
+2022/10/25 12:21:19 54461343 29d4ce00 [INFO Client 6432] [D3D11] Feature Level = 11.1
+2022/10/25 12:21:19 54461343 29d4ce03 [INFO Client 6432] [D3D11] Driver Command Lists = YES
+2022/10/25 12:21:19 54461343 29d4ce02 [INFO Client 6432] [D3D11] Driver Concurrent Creates = YES
+2022/10/25 12:21:19 54461343 29d4ce05 [INFO Client 6432] [D3D11] Driver Constant Buffer Offsetting = YES
+2022/10/25 12:21:20 54461625 9d4eeb40 [DEBUG Client 6432] [WINDOW] TrigggerDeviceCreate
+2022/10/25 12:21:20 54461718 9d4eeba7 [DEBUG Client 6432] [WINDOW] TrigggerDeviceReset
+2022/10/25 12:21:20 54461734 9d4eec8a [DEBUG Client 6432] [WINDOW] TrigggerDeviceLost
+2022/10/25 12:21:20 54461750 9d4eeba7 [DEBUG Client 6432] [WINDOW] TrigggerDeviceReset
+2022/10/25 12:21:20 54461750 951bc057 [INFO Client 6432] [STARTUP] Device in 3.31574 seconds
+2022/10/25 12:21:20 54461750 951bc0b0 [INFO Client 6432] [STARTUP] Tencent Start
+2022/10/25 12:21:20 54461750 951bc057 [INFO Client 6432] [STARTUP] Tencent in 2e-05 seconds
+2022/10/25 12:21:20 54461750 951bc0b0 [INFO Client 6432] [STARTUP] Loading Start
+2022/10/25 12:21:20 54461890 951bc057 [INFO Client 6432] [STARTUP] Loading in 0.14523 seconds
+2022/10/25 12:21:20 54461890 951bc0b0 [INFO Client 6432] [STARTUP] DebugGUI Start
+2022/10/25 12:21:20 54461890 951bc057 [INFO Client 6432] [STARTUP] DebugGUI in 1.5e-05 seconds
+2022/10/25 12:21:20 54461890 951bc0b0 [INFO Client 6432] [STARTUP] Bundle Tiny Start
+2022/10/25 12:21:20 54461890 951bc0b0 [INFO Client 6432] [STARTUP] Bundle Login Start
+2022/10/25 12:21:20 54461890 951bc057 [INFO Client 6432] [STARTUP] Bundle Login in 2.4e-05 seconds
+2022/10/25 12:21:20 54461890 951bc0b0 [INFO Client 6432] [STARTUP] Registration Start
+2022/10/25 12:21:20 54461890 951bc0b0 [INFO Client 6432] [STARTUP] Audio Start
+2022/10/25 12:21:20 54461890 951bc057 [INFO Client 6432] [STARTUP] Bundle Tiny in 5.2e-05 seconds
+2022/10/25 12:21:20 54461906 47bbee18 [INFO Client 6432] [SOUND] Channel count = 128 (asked for 128)
+2022/10/25 12:21:20 54461906 47bbee19 [INFO Client 6432] [SOUND] Source count = 512
+2022/10/25 12:21:21 54462671 951bc057 [INFO Client 6432] [STARTUP] Registration in 0.77621 seconds
+2022/10/25 12:21:21 54462875 47bbea58 [INFO Client 6432] Changing to device "Line 1 (Virtual Audio Cable)"
+2022/10/25 12:21:21 54462875 951bc057 [INFO Client 6432] [STARTUP] Audio in 0.974304 seconds
+2022/10/25 12:21:22 54463875 b51d4f61 [DEBUG Client 6432] [RENDER] SetRendererSettings
+2022/10/25 12:21:22 54463875 b51d6447 [DEBUG Client 6432] [RENDER] ResizeWindow
+2022/10/25 12:21:22 54463875 9d4eec8a [DEBUG Client 6432] [WINDOW] TrigggerDeviceLost
+2022/10/25 12:21:22 54464046 9d4eeba7 [DEBUG Client 6432] [WINDOW] TrigggerDeviceReset
+2022/10/25 12:21:22 54464046 b51d614c [DEBUG Client 6432] [RENDER] RestartSwapChain
+2022/10/25 12:21:22 54464046 9e6a0b0a [INFO Client 6432] Enumerated adapter: NVIDIA GeForce GTX 1660
+2022/10/25 12:21:23 54464953 9e6a1d2a [INFO Client 6432] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2022/10/25 12:21:23 54464968 9e6a1363 [INFO Client 6432] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2022/10/25 12:21:23 54464968 9e6a0b0a [INFO Client 6432] Enumerated adapter: Microsoft Basic Render Driver
+2022/10/25 12:21:23 54464968 9e6a1d2a [INFO Client 6432] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2022/10/25 12:21:23 54465265 fafff8cf [DEBUG Client 6432] CreateSwapChain: SetFullScreenState 0
+2022/10/25 12:21:23 54465281 9d4eec8a [DEBUG Client 6432] [WINDOW] TrigggerDeviceLost
+2022/10/25 12:21:23 54465281 9d4eeba7 [DEBUG Client 6432] [WINDOW] TrigggerDeviceReset
+2022/10/25 12:21:23 54465296 3275a75e [INFO Client 6432] [SHADER] Disable Async: 1 frames
+2022/10/25 12:21:23 54465296 b51d610e [INFO Client 6432] [RENDER] Disable Async: 1 frames
+2022/10/25 12:21:34 54476015 890da8d3 [INFO Client 6432] Async connecting to fra01.login.pathofexile.com:20481
+2022/10/25 12:21:34 54476031 890d9d9b [INFO Client 6432] Connected to fra01.login.pathofexile.com in 0ms.
+2022/10/25 12:21:37 54478671 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 12:21:37 54478703 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 12:21:37 54478703 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.127:6112
+2022/10/25 12:21:37 54478750 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 12:21:37 54478875 1186952b [DEBUG Client 6432] Generating level 69 area "2_11_endgame_town" with seed 1
+2022/10/25 12:21:42 54484468 f22b69a6 [INFO Client 6432] Tile hash: 3842481850
+2022/10/25 12:21:42 54484468 f22b69a7 [INFO Client 6432] Doodad hash: 3697406269
+2022/10/25 12:21:44 54485921 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 12:21:45 54487109 cff943d8 [INFO Client 6432] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2022/10/25 12:21:45 54487468 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2022/10/25 12:21:48 54490281 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 12:21:48 54490484 374e1126 [INFO Client 6432] [Item Filter] Preparing to download online filter Ezq3xsj
+2022/10/25 12:21:48 54490484 374e1287 [INFO Client 6432] [Item Filter] Hash for online filter Ezq3xsj is: a3d97ca823e2cb1f11c9f84b6326751d
+2022/10/25 12:21:49 54490890 374e12ea [INFO Client 6432] [Item Filter] Online item filter Ezq3xsj returned status: 304
+2022/10/25 12:21:49 54490890 374e0d87 [DEBUG Client 6432] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2022/10/25 12:21:49 54490890 374e0d8f [DEBUG Client 6432] [Item Filter] X-HW: 1666689705.dop203.pa1.t,1666689705.cds242.pa1.shn,1666689705.dop203.pa1.t,1666689705.cds217.pa1.c
+2022/10/25 12:21:49 54490906 78847107 [INFO Client 6432] [Item Filter] Finished reloading online filter Ezq3xsj. Result: true. Hash: a3d97ca823e2cb1f11c9f84b6326751d. Message: 
+2022/10/25 12:21:49 54490906 2a14a9a7 [INFO Client 6432] PrecalcBaseTypeHashMap
+2022/10/25 12:21:49 54490968 2a14a9a1 [INFO Client 6432] PrecalcModNameHashMap
+2022/10/25 12:21:50 54491890 2a14a9a3 [INFO Client 6432] PrecalcItemClassMap
+2022/10/25 12:21:50 54491890 2a14a9ad [INFO Client 6432] PrecalcSoundEffects
+2022/10/25 12:21:50 54491890 2a14a902 [INFO Client 6432] PrecalcDropEffects
+2022/10/25 12:21:50 54491890 2a14a900 [INFO Client 6432] PrecalcNonEnchantModHashes
+2022/10/25 12:21:50 54491890 2a14a906 [INFO Client 6432] PrecalcRuleNameToTypeMap
+2022/10/25 12:21:50 54491890 2a14a904 [INFO Client 6432] PrecalcCJESPNIndexMap
+2022/10/25 12:21:50 54491906 2a14a90a [INFO Client 6432] PrecalcGemAlternateQualityMap
+2022/10/25 12:22:33 54534875 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 12:22:33 54534906 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 12:22:33 54534906 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.100.201:6112
+2022/10/25 12:22:33 54534937 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 12:22:33 54535000 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 12:22:33 54535093 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 12:22:33 54535093 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 12:22:34 54535828 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 12:22:34 54536453 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 12:22:35 54537046 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 12:36:32 55374484 cff943d8 [INFO Client 6432] @Кому Kalanerg: Hi, I'd like to buy your 151 Сфера хаоса for my 1 Divine Orb in Kalandra
+2022/10/25 12:37:00 55402406 cff943d8 [INFO Client 6432] @Кому ShtyTooManyHours: Hi, I'd like to buy your 151 Сфера хаоса for my 1 Divine Orb in Kalandra
+2022/10/25 12:37:06 55407796 cff943d8 [INFO Client 6432] @Кому TWK: Hi, I'd like to buy your 150 Сфера хаоса for my 1 Divine Orb in Kalandra
+2022/10/25 12:37:11 55413406 cff943d8 [INFO Client 6432] @Кому sillygoofygoober: Hi, I'd like to buy your 150 Сфера хаоса for my 1 Divine Orb in Kalandra
+2022/10/25 12:37:25 55426875 cff943d8 [INFO Client 6432] : BurnMyBrokenHeart присоединился.
+2022/10/25 12:37:31 55432671 cff943d8 [INFO Client 6432] : BurnMyBrokenHeart покинул область.
+2022/10/25 12:37:36 55437671 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 12:37:36 55437671 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 12:37:36 55437671 ca3a6737 [INFO Client 6432] Connecting to instance server at 91.206.197.109:6112
+2022/10/25 12:37:36 55437750 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 63ms
+2022/10/25 12:37:36 55437843 1186952b [DEBUG Client 6432] Generating level 60 area "HideoutSewer" with seed 1
+2022/10/25 12:37:36 55437968 f22b69a6 [INFO Client 6432] Tile hash: 3200442970
+2022/10/25 12:37:36 55437968 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 12:37:37 55438640 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 12:37:37 55439281 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище под городом.
+2022/10/25 12:37:38 55440421 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 12:38:23 55484921 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 12:38:27 55489437 cff943d8 [INFO Client 6432] @Кому sillygoofygoober: ty gl!
+2022/10/25 12:38:27 55489546 cff943d8 [INFO Client 6432] : Цель данной операции не была членом группы
+2022/10/25 12:38:29 55491531 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 12:38:29 55491531 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 12:38:29 55491531 ca3a6737 [INFO Client 6432] Connecting to instance server at 146.0.237.249:6112
+2022/10/25 12:38:29 55491578 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 12:38:30 55491625 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 12:38:30 55491625 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 12:38:30 55491625 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 12:38:30 55492437 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 12:38:31 55492859 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 12:38:31 55493281 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 12:43:46 55808375 cff943d8 [INFO Client 6432] @Кому ESkalandrao: Hi, I would like to buy your Химерический рык, Опаловый скипетр listed for 100 chaos in Kalandra (stash tab "~b/o 30 chaos"; position: left 5, top 6)
+2022/10/25 12:48:37 56098859 cff943d8 [INFO Client 6432] @Кому Jjest: Hi, I would like to buy your Душевная грань, Жезл пророчества listed for 20 chaos in Kalandra (stash tab "9"; position: left 11, top 2)
+2022/10/25 12:48:37 56099078 cff943d8 [INFO Client 6432] @От кого Jjest: This player is AFK.
+2022/10/25 12:49:02 56124437 cff943d8 [INFO Client 6432] @Кому _zyzzbass: Hi, I would like to buy your Отвратительная защита, Волшебный жезл listed for 80 chaos in Kalandra (stash tab "~price 80 chaos"; position: left 1, top 5)
+2022/10/25 12:49:40 56162453 cff943d8 [INFO Client 6432] @Кому _zyzzbass: ty gl!
+2022/10/25 12:49:40 56162546 cff943d8 [INFO Client 6432] : Цель данной операции не была членом группы
+2022/10/25 12:52:08 56309812 cff943d8 [INFO Client 6432] @Кому Jjest: Hi, I would like to buy your Душевная грань, Жезл пророчества listed for 20 chaos in Kalandra (stash tab "9"; position: left 11, top 2)
+2022/10/25 12:52:08 56310328 cff943d8 [INFO Client 6432] @От кого Jjest: This player is AFK.
+2022/10/25 12:54:27 56449562 cff943d8 [INFO Client 6432] @Кому _zyzzbass: Hi, I would like to buy your Отвратительная защита, Волшебный жезл listed for 80 chaos in Kalandra (stash tab "~price 80 chaos"; position: left 1, top 5)
+2022/10/25 12:54:33 56454968 cff943d8 [INFO Client 6432] @Кому ESkalandrao: Hi, I would like to buy your Химерический рык, Опаловый скипетр listed for 100 chaos in Kalandra (stash tab "~b/o 30 chaos"; position: left 5, top 6)
+2022/10/25 12:54:33 56455500 cff943d8 [INFO Client 6432] @От кого ESkalandrao: This player is AFK.
+2022/10/25 12:55:30 56512109 cff943d8 [INFO Client 6432] @Кому STaryi_rf: Здравствуйте, хочу купить у вас Гипнотическое укрепление, Императорский колючий щит за 100 chaos в лиге Kalandra (секция "12"; позиция: 3 столбец, 12 ряд)
+2022/10/25 12:55:56 56538375 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 12:55:56 56538375 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 12:55:56 56538375 ca3a6737 [INFO Client 6432] Connecting to instance server at 91.206.197.107:6112
+2022/10/25 12:55:56 56538437 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 62ms
+2022/10/25 12:55:56 56538500 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 12:55:56 56538515 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 12:55:56 56538515 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 12:55:57 56539468 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 12:55:58 56540140 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 12:55:59 56541203 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 12:56:19 56561140 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 12:56:22 56563984 cff943d8 [INFO Client 6432] @Кому STaryi_rf: ty gl!
+2022/10/25 12:56:24 56566000 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 12:56:24 56566000 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 12:56:24 56566000 ca3a6737 [INFO Client 6432] Connecting to instance server at 146.0.237.249:6112
+2022/10/25 12:56:24 56566046 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 12:56:24 56566093 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 12:56:24 56566093 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 12:56:24 56566093 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 12:56:24 56566234 cff943d8 [INFO Client 6432] @От кого STaryi_rf: Thank you for the trade. Have a nice day and good luck!
+2022/10/25 12:56:25 56566812 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 12:56:25 56567250 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 12:56:26 56567625 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 12:58:28 56690515 cff943d8 [INFO Client 6432] @Кому Jjest: Hi, I would like to buy your Душевная грань, Жезл пророчества listed for 20 chaos in Kalandra (stash tab "9"; position: left 11, top 2)
+2022/10/25 12:58:29 56691109 cff943d8 [INFO Client 6432] @От кого Jjest: This player is AFK.
+2022/10/25 13:01:33 56875484 cff943d8 [INFO Client 6432] @От кого Vikstick: Здравствуйте, хочу купить у вас Врачебный Стибнитовый флакон самообладания за 1 gcp в лиге Kalandra (секция "~b/o 1 gcp"; позиция: 5 столбец, 3 ряд)
+2022/10/25 13:01:43 56885328 cff943d8 [INFO Client 6432] @Кому alkoliqq_Kalandra: Hi, I'd like to buy your 10 Сфера хаоса for my 30 Blessed Orb in Kalandra
+2022/10/25 13:01:44 56885687 cff943d8 [INFO Client 6432] @От кого alkoliqq_Kalandra: This player is AFK.
+2022/10/25 13:02:58 56959625 cff943d8 [INFO Client 6432] : Vikstick присоединился.
+2022/10/25 13:03:05 56966937 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 13:03:08 56969859 cff943d8 [INFO Client 6432] : Vikstick покинул область.
+2022/10/25 13:05:40 57121906 cff943d8 [INFO Client 6432] @Кому _zyzzbass: Hi, I would like to buy your Carrion Charm Imbued Wand listed for 70 chaos in Kalandra (stash tab "~price 80 chaos"; position: left 1, top 5)
+2022/10/25 13:22:25 58127375 cff943d8 [INFO Client 6432] @Кому OmegaNeck: Hi, I would like to buy your Змеиный хомут, Широкий ремень listed for 15 chaos in Kalandra (stash tab "~b/o 15 chaos"; position: left 8, top 8)
+2022/10/25 13:23:10 58171828 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 13:23:10 58171828 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 13:23:10 58171828 ca3a6737 [INFO Client 6432] Connecting to instance server at 216.52.30.177:6112
+2022/10/25 13:23:10 58172031 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 187ms
+2022/10/25 13:23:10 58172218 1186952b [DEBUG Client 6432] Generating level 60 area "HideoutSpace" with seed 1
+2022/10/25 13:23:10 58172218 f22b69a6 [INFO Client 6432] Tile hash: 1041720784
+2022/10/25 13:23:10 58172218 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 13:23:11 58172828 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 13:23:11 58173500 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище небесной туманности.
+2022/10/25 13:23:12 58174250 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 13:23:25 58187562 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 13:23:27 58189453 cff943d8 [INFO Client 6432] @От кого OmegaNeck: ty gl
+2022/10/25 13:23:30 58191671 cff943d8 [INFO Client 6432] @Кому OmegaNeck: ty gl!
+2022/10/25 13:24:08 58229687 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 13:24:08 58229687 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 13:24:08 58229687 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.114.179:6112
+2022/10/25 13:24:08 58229734 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 47ms
+2022/10/25 13:24:08 58229796 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 13:24:08 58229796 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 13:24:08 58229796 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 13:24:09 58230781 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 13:24:09 58231234 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 13:24:10 58231625 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 13:26:25 58367000 cff943d8 [INFO Client 6432] @Кому TheRealNikocadoAvocado: Hi, I would like to buy your Мучимое плетение, Опаловый жезл listed for 5 chaos in Kalandra (stash tab "~b/o 5 chaos"; position: left 6, top 10)
+2022/10/25 13:26:56 58397656 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 13:26:56 58397656 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 13:26:56 58397656 ca3a6737 [INFO Client 6432] Connecting to instance server at 169.62.110.172:6112
+2022/10/25 13:26:56 58397859 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 187ms
+2022/10/25 13:26:56 58398046 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutCourts" with seed 1
+2022/10/25 13:26:56 58398234 f22b69a6 [INFO Client 6432] Tile hash: 2509555744
+2022/10/25 13:26:56 58398234 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 13:26:57 58398859 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 13:26:57 58399406 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Парадное убежище.
+2022/10/25 13:26:58 58400125 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 13:27:09 58411343 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 13:27:11 58412843 cff943d8 [INFO Client 6432] @От кого TheRealNikocadoAvocado: Thank you for the trade. Have a nice day and good luck!
+2022/10/25 13:27:13 58415031 cff943d8 [INFO Client 6432] @Кому TheRealNikocadoAvocado: ty gl!
+2022/10/25 13:27:13 58415140 cff943d8 [INFO Client 6432] : Цель данной операции не была членом группы
+2022/10/25 13:27:14 58416218 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 13:27:14 58416218 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 13:27:14 58416218 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.114.179:6112
+2022/10/25 13:27:14 58416265 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 13:27:14 58416312 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 13:27:14 58416328 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 13:27:14 58416328 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 13:27:15 58417015 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 13:27:15 58417453 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 13:27:16 58417859 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 13:39:21 59142828 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 13:39:21 59142859 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 13:39:21 59142859 ca3a6737 [INFO Client 6432] Connecting to instance server at 149.81.86.235:6112
+2022/10/25 13:39:21 59142890 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 13:39:21 59142937 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsPrimordialPool" with seed 3536347139
+2022/10/25 13:39:22 59144203 f22b69a6 [INFO Client 6432] Tile hash: 1238885628
+2022/10/25 13:39:22 59144203 f22b69a7 [INFO Client 6432] Doodad hash: 1759454453
+2022/10/25 13:39:23 59144671 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 13:39:23 59145250 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Древнее озеро.
+2022/10/25 13:39:24 59145812 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 13:40:48 59230515 909127ff [INFO Client 6432] FindClosestObject found no nearby object
+2022/10/25 13:45:06 59487906 1187254d [DEBUG Client 6432] Resyncing 1019
+2022/10/25 13:45:06 59488203 1187254d [DEBUG Client 6432] Resyncing 1018
+2022/10/25 13:45:07 59488703 1187254d [DEBUG Client 6432] Resyncing 1011
+2022/10/25 13:45:07 59488703 1187254d [DEBUG Client 6432] Resyncing 1042
+2022/10/25 13:45:07 59488703 1187254d [DEBUG Client 6432] Resyncing 733
+2022/10/25 13:45:38 59519609 909127ff [INFO Client 6432] FindClosestObject found no nearby object
+2022/10/25 13:45:48 59530390 1187254d [DEBUG Client 6432] Resyncing 3563
+2022/10/25 13:46:51 59592656 1187254d [DEBUG Client 6432] Resyncing 981
+2022/10/25 13:46:51 59592656 1187254d [DEBUG Client 6432] Resyncing 989
+2022/10/25 13:47:08 59609734 909127ff [INFO Client 6432] FindClosestObject found no nearby object
+2022/10/25 13:47:16 59617812 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 13:47:19 59620968 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 13:47:19 59620968 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 13:47:19 59620968 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.82.21:6112
+2022/10/25 13:47:19 59621015 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 13:47:19 59621062 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 13:47:19 59621078 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 13:47:19 59621078 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 13:47:20 59621937 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 13:47:20 59622453 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 13:47:21 59623234 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 13:48:40 59702281 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 13:48:46 59708453 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 13:48:46 59708453 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 13:48:46 59708453 ca3a6737 [INFO Client 6432] Connecting to instance server at 149.81.86.235:6112
+2022/10/25 13:48:46 59708500 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 13:48:46 59708531 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsPrimordialPool" with seed 3536347139
+2022/10/25 13:48:47 59708609 f22b69a6 [INFO Client 6432] Tile hash: 1238885628
+2022/10/25 13:48:47 59708609 f22b69a7 [INFO Client 6432] Doodad hash: 1759454453
+2022/10/25 13:48:47 59709171 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 13:48:48 59709625 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Древнее озеро.
+2022/10/25 13:48:48 59710078 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 13:51:24 59866515 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 13:51:24 59866515 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 13:51:24 59866515 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.114.179:6112
+2022/10/25 13:51:24 59866562 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 13:51:25 59866609 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 13:51:25 59866609 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 13:51:25 59866609 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 13:51:25 59867500 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 13:51:26 59867953 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 13:51:26 59868546 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 13:53:40 60001718 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 13:53:57 60018812 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 13:53:57 60018812 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 13:53:57 60018812 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.107.169:6112
+2022/10/25 13:53:57 60018859 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 13:53:57 60019156 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsAtoll" with seed 3032405138
+2022/10/25 13:53:58 60020562 f22b69a6 [INFO Client 6432] Tile hash: 2443251122
+2022/10/25 13:53:58 60020562 f22b69a7 [INFO Client 6432] Doodad hash: 1889966574
+2022/10/25 13:54:00 60021875 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 13:54:00 60022390 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Атолл.
+2022/10/25 13:54:01 60023015 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 13:54:10 60031750 3796f5cb [WARN Client 6432] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/25 13:54:10 60031750 3796f5cb [WARN Client 6432] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/25 13:54:10 60031750 3796f5cb [WARN Client 6432] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/25 13:54:10 60031750 3796f5cb [WARN Client 6432] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2022/10/25 13:54:10 60032437 cff943d8 [INFO Client 6432] Ашлинг Лаффрей, Безмолвный палач: Когда мы закончим, никто даже не сможет назвать тебя человеком.
+2022/10/25 13:54:19 60041343 cff943d8 [INFO Client 6432] Райкер Мэлоуни, Полуночный изобретатель: Дружочек, воспрянь духом. Помощь уже здесь.
+2022/10/25 13:54:19 60041343 cff943d8 [INFO Client 6432] Джун, Скрытый мастер: Человечность покинула тебя, Райкер. За что же теперь сражаться?
+2022/10/25 13:54:19 60041343 cff943d8 [INFO Client 6432] Джун, Скрытый мастер: В этой битве нет чести, Красносабельный. Отступи.
+2022/10/25 13:54:36 60058062 cff943d8 [INFO Client 6432] Корелл Гойя, Сын камня: Не... запирай огонь... как раньше.
+2022/10/25 13:54:42 60063875 3796fa8d [WARN Client 6432] GEAL Triggered action with animation event - could not find specified event
+2022/10/25 13:55:05 60087562 cff943d8 [INFO Client 6432] Корелл Гойя, Сын камня: Ты не можешь... Это бесчеловечно... бесчеловечно!
+2022/10/25 13:55:21 60102750 cff943d8 [INFO Client 6432] Ашлинг Лаффрей, Безмолвный палач: Изгнанник, вопрос в том, хватит ли тебе глупости бросить вызов врагу. Думаю, глупости у тебя в самый раз.
+2022/10/25 13:56:53 60194640 cff943d8 [INFO Client 6432] Гравиций Возрождённый: Изгнанник, теперь я служу новому богу.
+2022/10/25 13:56:56 60198406 cff943d8 [INFO Client 6432] Гравиций Возрождённый: Разве такое возможно?
+2022/10/25 13:57:25 60226890 cff943d8 [INFO Client 6432] Гравиций Возрождённый: Изгнанник, из тебя вышла прекрасная пешка.
+2022/10/25 14:00:22 60404140 1187254d [DEBUG Client 6432] Resyncing 1065
+2022/10/25 14:01:06 60448171 3797020c [WARN Client 6432] Client couldn't execute a triggered action from the server.
+action type id = 52452
+2022/10/25 14:01:06 60448171 3796fa48 [WARN Client 6432] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 41736
+action_id: 35305
+object_id: 1376
+target_id: 1376
+flags: 129
+2022/10/25 14:01:26 60468531 1187254d [DEBUG Client 6432] Resyncing 887
+2022/10/25 14:02:27 60529046 cff943d8 [INFO Client 6432] Янус Перандус: Стань свидетелем зарождения нового мирового порядка!
+2022/10/25 14:04:41 60662843 3797020c [WARN Client 6432] Client couldn't execute a triggered action from the server.
+action type id = 52452
+2022/10/25 14:04:41 60662843 3796fa48 [WARN Client 6432] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 41736
+action_id: 37051
+object_id: 1376
+target_id: 1376
+flags: 129
+2022/10/25 14:06:19 60760656 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:06:19 60760656 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:06:19 60760656 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.123:6112
+2022/10/25 14:06:19 60760703 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 14:06:19 60760750 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 14:06:19 60760765 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 14:06:19 60760765 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 14:06:20 60761656 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:06:20 60762187 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 14:06:21 60762781 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:07:44 60846515 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 14:23:17 61778671 cff943d8 [INFO Client 6432] @От кого МатьСпайдерменов: Здравствуйте, хочу купить у вас Железный рубеж, Карта вершины (T7) за 5 chaos в лиге Kalandra (секция "~b/o 5 chaos"; позиция: 3 столбец, 2 ряд)
+2022/10/25 14:24:06 61827640 cff943d8 [INFO Client 6432] @Кому МатьСпайдерменов: Железный рубеж, Карта вершины (T7) already gone. gl!
+2022/10/25 14:27:02 62004531 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:27:02 62004531 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:27:02 62004531 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.107.169:6112
+2022/10/25 14:27:02 62004578 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 14:27:03 62004625 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsAtoll" with seed 3032405138
+2022/10/25 14:27:03 62004734 f22b69a6 [INFO Client 6432] Tile hash: 2443251122
+2022/10/25 14:27:03 62004734 f22b69a7 [INFO Client 6432] Doodad hash: 1889966574
+2022/10/25 14:27:04 62006281 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:27:05 62006765 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Атолл.
+2022/10/25 14:27:05 62007281 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:27:28 62030562 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:27:28 62030562 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:27:28 62030562 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.123:6112
+2022/10/25 14:27:29 62030609 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 14:27:29 62030656 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 14:27:29 62030671 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 14:27:29 62030671 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 14:27:30 62031703 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:27:30 62032171 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 14:27:31 62032812 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:27:38 62040265 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 14:28:26 62088093 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:28:26 62088093 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:28:26 62088093 ca3a6737 [INFO Client 6432] Connecting to instance server at 185.19.219.29:6112
+2022/10/25 14:28:26 62088140 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 14:28:26 62088171 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsLaboratory" with seed 3988063423
+2022/10/25 14:28:27 62088875 f22b69a6 [INFO Client 6432] Tile hash: 1828059470
+2022/10/25 14:28:27 62088875 f22b69a7 [INFO Client 6432] Doodad hash: 3123453401
+2022/10/25 14:28:27 62089484 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:28:28 62090125 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лаборатория.
+2022/10/25 14:28:28 62090578 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:28:36 62097656 cff943d8 [INFO Client 6432] : Заблокировано.
+2022/10/25 14:28:38 62099828 cff943d8 [INFO Client 6432] : Заблокировано.
+2022/10/25 14:30:15 62196671 1187254d [DEBUG Client 6432] Resyncing 1967
+2022/10/25 14:30:15 62196671 1187254d [DEBUG Client 6432] Resyncing 1963
+2022/10/25 14:30:15 62197281 1187254d [DEBUG Client 6432] Resyncing 1961
+2022/10/25 14:30:58 62239656 1187254d [DEBUG Client 6432] Resyncing 2049
+2022/10/25 14:31:36 62278562 1187254d [DEBUG Client 6432] Resyncing 1735
+2022/10/25 14:36:20 62562109 cff943d8 [INFO Client 6432] : Заблокировано.
+2022/10/25 14:37:08 62609765 1187254d [DEBUG Client 6432] Resyncing 2100
+2022/10/25 14:37:08 62609765 1187254d [DEBUG Client 6432] Resyncing 2106
+2022/10/25 14:37:22 62623859 1187254d [DEBUG Client 6432] Resyncing 1600
+2022/10/25 14:37:22 62623859 1187254d [DEBUG Client 6432] Resyncing 1606
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1528
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1776
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1532
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1526
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1533
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1529
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1527
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1534
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1530
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1772
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1777
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1771
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1779
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1773
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1769
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1531
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1774
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1770
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1778
+2022/10/25 14:37:38 62640390 1187254d [DEBUG Client 6432] Resyncing 1767
+2022/10/25 14:37:39 62641031 1187254d [DEBUG Client 6432] Resyncing 1780
+2022/10/25 14:37:43 62644718 1187254d [DEBUG Client 6432] Resyncing 1535
+2022/10/25 14:37:43 62644718 1187254d [DEBUG Client 6432] Resyncing 1536
+2022/10/25 14:37:43 62644718 1187254d [DEBUG Client 6432] Resyncing 1233
+2022/10/25 14:37:43 62644718 1187254d [DEBUG Client 6432] Resyncing 1130
+2022/10/25 14:37:44 62646406 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 14:37:47 62648968 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:37:47 62648968 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:37:47 62648968 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.82.23:6112
+2022/10/25 14:37:47 62649015 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 47ms
+2022/10/25 14:37:47 62649062 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 14:37:47 62649062 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 14:37:47 62649062 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 14:37:48 62649921 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:37:48 62650390 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 14:37:49 62651078 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:37:59 62661093 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:37:59 62661093 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:37:59 62661093 ca3a6737 [INFO Client 6432] Connecting to instance server at 185.19.219.29:6112
+2022/10/25 14:37:59 62661140 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 14:37:59 62661187 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsLaboratory" with seed 3988063423
+2022/10/25 14:37:59 62661296 f22b69a6 [INFO Client 6432] Tile hash: 1828059470
+2022/10/25 14:37:59 62661296 f22b69a7 [INFO Client 6432] Doodad hash: 3123453401
+2022/10/25 14:38:00 62662125 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:38:01 62662593 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лаборатория.
+2022/10/25 14:38:01 62663015 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:38:44 62705906 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:38:44 62705906 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:38:44 62705906 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.121:6112
+2022/10/25 14:38:44 62705953 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 14:38:44 62706000 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 14:38:44 62706015 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 14:38:44 62706015 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 14:38:45 62706812 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:38:45 62707281 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 14:38:46 62707937 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:39:08 62730406 cff943d8 [INFO Client 6432] : Указанный предмет уничтожен
+2022/10/25 14:41:03 62845015 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:41:03 62845031 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:41:03 62845031 ca3a6737 [INFO Client 6432] Connecting to instance server at 185.19.219.29:6112
+2022/10/25 14:41:03 62845078 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 14:41:03 62845109 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsLaboratory" with seed 3988063423
+2022/10/25 14:41:03 62845218 f22b69a6 [INFO Client 6432] Tile hash: 1828059470
+2022/10/25 14:41:03 62845218 f22b69a7 [INFO Client 6432] Doodad hash: 3123453401
+2022/10/25 14:41:04 62846078 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:41:04 62846546 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лаборатория.
+2022/10/25 14:41:05 62846953 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:43:02 62964515 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:43:02 62964515 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:43:02 62964515 ca3a6737 [INFO Client 6432] Connecting to instance server at 149.81.86.239:6112
+2022/10/25 14:43:02 62964562 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 14:43:03 62964593 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 14:43:03 62964593 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 14:43:03 62964593 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 14:43:03 62965421 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:43:04 62965875 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 14:43:04 62966484 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:44:44 63065859 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 14:44:57 63079250 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:44:57 63079250 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:44:57 63079250 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 14:44:57 63079296 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 14:44:57 63079328 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsDungeon" with seed 2451036690
+2022/10/25 14:44:58 63079968 f22b69a6 [INFO Client 6432] Tile hash: 2790195870
+2022/10/25 14:44:58 63079968 f22b69a7 [INFO Client 6432] Doodad hash: 1747466308
+2022/10/25 14:44:58 63080515 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:44:59 63080984 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Подземелье.
+2022/10/25 14:44:59 63081406 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:45:21 63103343 1187254d [DEBUG Client 6432] Resyncing 1308
+2022/10/25 14:45:56 63137671 909127ff [INFO Client 6432] FindClosestObject found no nearby object
+2022/10/25 14:46:08 63150406 3797020c [WARN Client 6432] Client couldn't execute a triggered action from the server.
+action type id = 52452
+2022/10/25 14:46:08 63150406 3796fa48 [WARN Client 6432] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 41736
+action_id: 34701
+object_id: 1379
+target_id: 1379
+flags: 129
+2022/10/25 14:47:12 63214328 1187254d [DEBUG Client 6432] Resyncing 723
+2022/10/25 14:48:04 63265781 cff943d8 [INFO Client 6432] Нико, Мастер глубин: Ух. Ну и запашок.
+2022/10/25 14:48:42 63303968 cff943d8 [INFO Client 6432] @От кого <µ™JB> SebyPatriarcal: Здравствуйте, хочу купить у вас уровень 1 20% Божественное благословение за 5 chaos в лиге Kalandra (секция "~b/o 5 chaos"; позиция: 1 столбец, 4 ряд)
+2022/10/25 14:48:54 63315609 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:48:54 63315625 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:48:54 63315625 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.107.171:6112
+2022/10/25 14:48:54 63315671 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 14:48:54 63315718 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 14:48:54 63315718 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 14:48:54 63315718 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 14:48:55 63316609 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:48:55 63317078 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 14:48:56 63317750 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:48:57 63319390 cff943d8 [INFO Client 6432] : SebyPatriarcal присоединился.
+2022/10/25 14:49:25 63347343 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 14:49:29 63351500 cff943d8 [INFO Client 6432] : SebyPatriarcal покинул область.
+2022/10/25 14:49:34 63356390 cff943d8 [INFO Client 6432] @Кому SebyPatriarcal: ty gl!
+2022/10/25 14:49:34 63356453 cff943d8 [INFO Client 6432] : Цель данной операции не была членом группы
+2022/10/25 14:49:48 63370187 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 14:50:03 63385000 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:50:03 63385000 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:50:03 63385000 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 14:50:03 63385046 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 14:50:03 63385093 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsDungeon" with seed 2451036690
+2022/10/25 14:50:03 63385140 f22b69a6 [INFO Client 6432] Tile hash: 2790195870
+2022/10/25 14:50:03 63385140 f22b69a7 [INFO Client 6432] Doodad hash: 1747466308
+2022/10/25 14:50:04 63385828 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:50:04 63386296 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Подземелье.
+2022/10/25 14:50:05 63386890 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:52:53 63554640 1187254d [DEBUG Client 6432] Resyncing 1240
+2022/10/25 14:53:08 63570062 909127ff [INFO Client 6432] FindClosestObject found no nearby object
+2022/10/25 14:53:09 63571281 cff943d8 [INFO Client 6432] : Былое сущему послужит
+2022/10/25 14:53:17 63578796 3797020c [WARN Client 6432] Client couldn't execute a triggered action from the server.
+action type id = 52452
+2022/10/25 14:53:17 63578796 3796fa48 [WARN Client 6432] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 41736
+action_id: 36587
+object_id: 1957
+target_id: 1957
+flags: 129
+2022/10/25 14:54:06 63627875 cff943d8 [INFO Client 6432] Нико, Мастер глубин: Ничего, сойдёт.
+2022/10/25 14:54:14 63636421 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:54:14 63636421 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:54:14 63636421 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.155:6112
+2022/10/25 14:54:14 63636468 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 14:54:14 63636500 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 14:54:14 63636515 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 14:54:14 63636515 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 14:54:15 63637390 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:54:16 63637875 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 14:54:16 63638218 cff943d8 [INFO Client 6432] : Sibalgame присоединился.
+2022/10/25 14:54:17 63638734 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:55:07 63688718 cff943d8 [INFO Client 6432] : Сделка отклонена.
+2022/10/25 14:55:46 63728484 cff943d8 [INFO Client 6432] @Кому Sibalgame: which one
+2022/10/25 14:56:01 63742812 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 14:56:10 63751656 cff943d8 [INFO Client 6432] : Sibalgame покинул область.
+2022/10/25 14:56:15 63756640 cff943d8 [INFO Client 6432] @Кому Sibalgame: ty
+2022/10/25 14:56:16 63758421 cff943d8 [INFO Client 6432] @От кого KalistO_: Здравствуйте, хочу купить у вас Ртутный флакон за 1 regret в лиге Kalandra (секция "~b/o 1 regret"; позиция: 7 столбец, 1 ряд)
+2022/10/25 14:56:33 63774656 cff943d8 [INFO Client 6432] @Кому KalistO_: Ртутный флакон already gone. gl!
+2022/10/25 14:56:35 63777359 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 14:56:35 63777359 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 14:56:35 63777359 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 14:56:35 63777406 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 14:56:35 63777437 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsDungeon" with seed 2451036690
+2022/10/25 14:56:35 63777500 f22b69a6 [INFO Client 6432] Tile hash: 2790195870
+2022/10/25 14:56:35 63777500 f22b69a7 [INFO Client 6432] Doodad hash: 1747466308
+2022/10/25 14:56:36 63778187 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 14:56:37 63778671 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Подземелье.
+2022/10/25 14:56:37 63779234 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 14:59:04 63925656 cff943d8 [INFO Client 6432] Нико, Мастер глубин: Ух. Ну и запашок.
+2022/10/25 14:59:50 63972406 909127ff [INFO Client 6432] FindClosestObject found no nearby object
+2022/10/25 15:01:59 64100843 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:01:59 64100843 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:01:59 64100843 ca3a6737 [INFO Client 6432] Connecting to instance server at 149.81.86.239:6112
+2022/10/25 15:01:59 64100906 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 15:01:59 64100937 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 15:01:59 64100937 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 15:01:59 64100937 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:02:00 64101859 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:02:00 64102328 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 15:02:01 64102921 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:02:07 64108703 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:02:07 64108703 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:02:07 64108703 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 15:02:07 64108750 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:02:07 64108796 1186952b [DEBUG Client 6432] Generating level 71 area "MapWorldsDungeon" with seed 2451036690
+2022/10/25 15:02:07 64108859 f22b69a6 [INFO Client 6432] Tile hash: 2790195870
+2022/10/25 15:02:07 64108859 f22b69a7 [INFO Client 6432] Doodad hash: 1747466308
+2022/10/25 15:02:07 64109531 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:02:08 64109968 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Подземелье.
+2022/10/25 15:02:08 64110390 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:02:33 64135046 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:02:33 64135046 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:02:33 64135046 ca3a6737 [INFO Client 6432] Connecting to instance server at 149.81.86.239:6112
+2022/10/25 15:02:33 64135093 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 15:02:33 64135125 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 15:02:33 64135140 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 15:02:33 64135140 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:02:34 64135765 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:02:34 64136234 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 15:02:35 64136734 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:02:40 64141953 cff943d8 [INFO Client 6432] : Сделка отклонена.
+2022/10/25 15:03:37 64198796 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 15:04:18 64240156 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:04:18 64240156 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:04:18 64240156 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.93.243:6112
+2022/10/25 15:04:18 64240203 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:04:18 64240250 1186952b [DEBUG Client 6432] Generating level 72 area "MapWorldsCrimsonTownship" with seed 849544868
+2022/10/25 15:04:19 64241156 f22b69a6 [INFO Client 6432] Tile hash: 3537187474
+2022/10/25 15:04:19 64241156 f22b69a7 [INFO Client 6432] Doodad hash: 2798242599
+2022/10/25 15:04:20 64241781 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:04:20 64242328 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кровавая община.
+2022/10/25 15:04:21 64243046 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:05:17 64299421 1187254d [DEBUG Client 6432] Resyncing 1530
+2022/10/25 15:06:53 64395296 cff943d8 [INFO Client 6432] : DeeLectric (Плут) достигает 79 уровня
+2022/10/25 15:08:59 64520968 cff943d8 [INFO Client 6432] Кадарис, Кровавый мэр: Нетронутый источник.
+2022/10/25 15:08:59 64521062 cff943d8 [INFO Client 6432] Кадарис, Кровавый мэр: Нетронутый источник.
+2022/10/25 15:09:04 64525750 cff943d8 [INFO Client 6432] Кадарис, Кровавый мэр: Кровь и боль!
+2022/10/25 15:09:05 64527375 cff943d8 [INFO Client 6432] Кадарис, Кровавый мэр: Беззаконие...
+2022/10/25 15:09:51 64572953 fb7ae604 [INFO Client 6432] Successfully allocated passive skill id: lightning_damage318, name: Урон от молнии
+2022/10/25 15:10:34 64615812 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:10:34 64615812 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:10:34 64615812 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.107.169:6112
+2022/10/25 15:10:34 64615859 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:10:34 64615906 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 15:10:34 64615906 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 15:10:34 64615906 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:10:35 64616765 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:10:35 64617234 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 15:10:36 64617828 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:11:14 64656156 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:11:14 64656171 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:11:14 64656171 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.121:6112
+2022/10/25 15:11:14 64656234 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 15:11:14 64656281 1186952b [DEBUG Client 6432] Generating level 68 area "HeistHub" with seed 2336442955
+2022/10/25 15:11:16 64657781 f22b69a6 [INFO Client 6432] Tile hash: 1554061085
+2022/10/25 15:11:16 64657781 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:11:16 64658171 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:11:17 64659343 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/25 15:11:20 64661734 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:11:43 64684875 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 15:12:01 64703046 cff943d8 [INFO Client 6432] Найлс Дознаватель: Мы развеем ложные представления.
+2022/10/25 15:12:30 64731625 cff943d8 [INFO Client 6432] Найлс Дознаватель: О-о, я в команде?
+2022/10/25 15:12:31 64732796 cff943d8 [INFO Client 6432] : Вы должны поговорить с клиентом, прежде чем отправиться на это задание.
+2022/10/25 15:13:13 64775109 cff943d8 [INFO Client 6432] Найлс Дознаватель: Вместе мы отыщем истину.
+2022/10/25 15:13:14 64776171 cff943d8 [INFO Client 6432] : Вы должны поговорить с клиентом, прежде чем отправиться на это задание.
+2022/10/25 15:13:42 64803750 cff943d8 [INFO Client 6432] Найлс Дознаватель: О-о, я в команде?
+2022/10/25 15:13:49 64810656 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:13:49 64810656 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:13:49 64810656 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.123:6112
+2022/10/25 15:13:49 64810718 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:13:49 64810765 1186952b [DEBUG Client 6432] Generating level 72 area "HeistBunker9" with seed 3380000296
+2022/10/25 15:13:50 64811671 f22b69a6 [INFO Client 6432] Tile hash: 1935851826
+2022/10/25 15:13:50 64811671 f22b69a7 [INFO Client 6432] Doodad hash: 271484563
+2022/10/25 15:13:50 64812109 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:13:51 64812593 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Бункер.
+2022/10/25 15:13:51 64813093 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:13:55 64817093 cff943d8 [INFO Client 6432] Найлс Дознаватель: Я ощущаю позыв к жестокости. Хорошо, очень хорошо.
+2022/10/25 15:14:07 64829296 cff943d8 [INFO Client 6432] Найлс Дознаватель: Будем биться.
+2022/10/25 15:14:19 64841203 cff943d8 [INFO Client 6432] Найлс Дознаватель: Я правда не хочу снова нарваться на нож.
+2022/10/25 15:14:36 64858234 cff943d8 [INFO Client 6432] : Сундук заперт
+2022/10/25 15:14:53 64875390 cff943d8 [INFO Client 6432] Найлс Дознаватель: Ускоренные пытки считаются за бой.
+2022/10/25 15:15:14 64896546 cff943d8 [INFO Client 6432] Найлс Дознаватель: Приступим к кровопролитию.
+2022/10/25 15:15:28 64909984 cff943d8 [INFO Client 6432] Найлс Дознаватель: Я правда не хочу снова нарваться на нож.
+2022/10/25 15:15:48 64930234 cff943d8 [INFO Client 6432] Найлс Дознаватель: Приступим к кровопролитию.
+2022/10/25 15:16:02 64944406 cff943d8 [INFO Client 6432] Найлс Дознаватель: Я правда не хочу снова нарваться на нож.
+2022/10/25 15:16:44 64986015 cff943d8 [INFO Client 6432] Найлс Дознаватель: Неверные!
+2022/10/25 15:16:49 64991531 cff943d8 [INFO Client 6432] Найлс Дознаватель: Нас скоро заметят.
+2022/10/25 15:18:57 65119453 cff943d8 [INFO Client 6432] : Найлс получил(а) 699 опыта в навыке контрмагия
+2022/10/25 15:18:57 65119453 cff943d8 [INFO Client 6432] : Навык контрмагия персонажа Найлс повышен
+2022/10/25 15:18:58 65120375 cff943d8 [INFO Client 6432] Найлс Дознаватель: Завтра буду отсыпаться. Я это заслужил.
+2022/10/25 15:19:03 65124984 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:19:03 65124984 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:19:03 65124984 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.121:6112
+2022/10/25 15:19:03 65125031 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:19:03 65125093 1186952b [DEBUG Client 6432] Generating level 68 area "HeistHub" with seed 2336442955
+2022/10/25 15:19:03 65125125 f22b69a6 [INFO Client 6432] Tile hash: 1554061085
+2022/10/25 15:19:03 65125125 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:19:04 65125843 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:19:04 65126531 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/25 15:19:05 65127125 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:19:18 65140453 cff943d8 [INFO Client 6432] : Сделка отклонена.
+2022/10/25 15:21:15 65256734 cff943d8 [INFO Client 6432] : Указанный предмет уничтожен
+2022/10/25 15:21:35 65276671 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 15:21:39 65281031 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 15:21:43 65284765 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 15:22:05 65307296 cff943d8 [INFO Client 6432] Найлс Дознаватель: Я сделаю из них марионеток и заставлю плясать.
+2022/10/25 15:22:12 65314000 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:22:12 65314015 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:22:12 65314015 ca3a6737 [INFO Client 6432] Connecting to instance server at 185.19.217.133:6112
+2022/10/25 15:22:12 65314062 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:22:12 65314109 1186952b [DEBUG Client 6432] Generating level 73 area "HeistMansion9" with seed 3100894146
+2022/10/25 15:22:12 65314546 f22b69a6 [INFO Client 6432] Tile hash: 1743975048
+2022/10/25 15:22:12 65314546 f22b69a7 [INFO Client 6432] Doodad hash: 354532129
+2022/10/25 15:22:13 65314921 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:22:13 65315406 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Особняк.
+2022/10/25 15:22:14 65315906 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:22:16 65317656 cff943d8 [INFO Client 6432] Найлс Дознаватель: Наши планы написаны вилами по воде. Судьбы не существует.
+2022/10/25 15:22:24 65325953 cff943d8 [INFO Client 6432] Найлс Дознаватель: Ты разберёшься с этим?
+2022/10/25 15:22:37 65339437 cff943d8 [INFO Client 6432] Найлс Дознаватель: Ускоренные пытки считаются за бой.
+2022/10/25 15:22:50 65351859 cff943d8 [INFO Client 6432] Найлс Дознаватель: Я правда не хочу снова нарваться на нож.
+2022/10/25 15:23:08 65370312 cff943d8 [INFO Client 6432] Найлс Дознаватель: Приступим к кровопролитию.
+2022/10/25 15:23:40 65402250 cff943d8 [INFO Client 6432] Найлс Дознаватель: Я правда не хочу снова нарваться на нож.
+2022/10/25 15:24:04 65426031 cff943d8 [INFO Client 6432] Найлс Дознаватель: Ты разберёшься с этим?
+2022/10/25 15:24:20 65442359 cff943d8 [INFO Client 6432] Найлс Дознаватель: Я ощущаю подозрение. Они могут искать нас.
+2022/10/25 15:25:22 65503625 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 15:25:23 65505250 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:25:23 65505265 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:25:23 65505265 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.121:6112
+2022/10/25 15:25:23 65505312 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:25:23 65505359 1186952b [DEBUG Client 6432] Generating level 68 area "HeistHub" with seed 2336442955
+2022/10/25 15:25:23 65505390 f22b69a6 [INFO Client 6432] Tile hash: 1554061085
+2022/10/25 15:25:23 65505390 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:25:24 65505953 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:25:25 65506625 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/25 15:25:25 65507453 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:25:52 65534562 cff943d8 [INFO Client 6432] Карст Взломщик: Ага, лады.
+2022/10/25 15:26:06 65548468 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:26:06 65548468 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:26:06 65548468 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.107.115:6112
+2022/10/25 15:26:06 65548515 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 47ms
+2022/10/25 15:26:06 65548562 1186952b [DEBUG Client 6432] Generating level 72 area "HeistDungeon9" with seed 2383038469
+2022/10/25 15:26:08 65549609 f22b69a6 [INFO Client 6432] Tile hash: 1031195250
+2022/10/25 15:26:08 65549609 f22b69a7 [INFO Client 6432] Doodad hash: 4171681149
+2022/10/25 15:26:08 65549968 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:26:08 65550468 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лаборатория.
+2022/10/25 15:26:09 65551140 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:26:10 65552078 cff943d8 [INFO Client 6432] Карст Взломщик: Ты у нас из молчунов?.. Да-а, точно из молчунов. Для вора в самый раз.
+2022/10/25 15:26:19 65561015 cff943d8 [INFO Client 6432] Карст Взломщик: Не, я пас. Дерись без меня.
+2022/10/25 15:27:15 65617453 cff943d8 [INFO Client 6432] Карст Взломщик: Тише, а то получишь.
+2022/10/25 15:28:11 65672937 1187254d [DEBUG Client 6432] Resyncing 725
+2022/10/25 15:28:11 65672937 1187254d [DEBUG Client 6432] Resyncing 2171
+2022/10/25 15:28:11 65672937 1187254d [DEBUG Client 6432] Resyncing 2218
+2022/10/25 15:28:11 65672937 1187254d [DEBUG Client 6432] Resyncing 2168
+2022/10/25 15:28:11 65672937 1187254d [DEBUG Client 6432] Resyncing 2172
+2022/10/25 15:28:11 65672937 1187254d [DEBUG Client 6432] Resyncing 2314
+2022/10/25 15:28:11 65672937 1187254d [DEBUG Client 6432] Resyncing 2194
+2022/10/25 15:28:11 65672937 1187254d [DEBUG Client 6432] Resyncing 2232
+2022/10/25 15:28:11 65672937 1187254d [DEBUG Client 6432] Resyncing 2221
+2022/10/25 15:29:37 65758734 cff943d8 [INFO Client 6432] Адия Проводница: Всё прошло по плану? Никто не ранен? Карст?
+2022/10/25 15:29:40 65762015 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:29:40 65762031 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:29:40 65762031 ca3a6737 [INFO Client 6432] Connecting to instance server at 149.81.86.239:6112
+2022/10/25 15:29:40 65762078 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 15ms
+2022/10/25 15:29:40 65762109 1186952b [DEBUG Client 6432] Generating level 68 area "HeistHub" with seed 2429880467
+2022/10/25 15:29:40 65762140 f22b69a6 [INFO Client 6432] Tile hash: 1555524181
+2022/10/25 15:29:40 65762140 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:29:41 65762828 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:29:41 65763546 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/25 15:29:42 65764468 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:30:13 65794640 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 15:36:22 66163875 cff943d8 [INFO Client 6432] Карст Взломщик: Главное не мешайся.
+2022/10/25 15:36:29 66171203 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:36:29 66171203 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:36:29 66171203 ca3a6737 [INFO Client 6432] Connecting to instance server at 149.81.86.239:6112
+2022/10/25 15:36:29 66171234 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:36:29 66171281 1186952b [DEBUG Client 6432] Generating level 75 area "HeistRobotTunnels9" with seed 2841156685
+2022/10/25 15:36:30 66171906 f22b69a6 [INFO Client 6432] Tile hash: 833553442
+2022/10/25 15:36:30 66171906 f22b69a7 [INFO Client 6432] Doodad hash: 3345442236
+2022/10/25 15:36:30 66172328 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:36:31 66172812 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тоннели.
+2022/10/25 15:36:31 66173265 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:36:33 66175453 cff943d8 [INFO Client 6432] Карст Взломщик: Если дело не выгорит, сможешь выбраться без меня?
+2022/10/25 15:36:55 66196828 cff943d8 [INFO Client 6432] Карст Взломщик: Да-а! Да-а-а!
+2022/10/25 15:36:56 66198187 cff943d8 [INFO Client 6432] Карст Взломщик: Шустрей, пока они не расшумелись.
+2022/10/25 15:38:11 66273171 cff943d8 [INFO Client 6432] Карст Взломщик: Допрыгались.
+2022/10/25 15:38:38 66299765 cff943d8 [INFO Client 6432] Карст Взломщик: У нас гости.
+2022/10/25 15:38:46 66308187 cff943d8 [INFO Client 6432] Карст Взломщик: Тише! Не шуми.
+2022/10/25 15:40:29 66411546 cff943d8 [INFO Client 6432] Карст Взломщик: Скоро придётся линять.
+2022/10/25 15:42:48 66549843 1187254d [DEBUG Client 6432] Resyncing 3707
+2022/10/25 15:43:05 66567343 1187254d [DEBUG Client 6432] Resyncing 3930
+2022/10/25 15:43:05 66567343 1187254d [DEBUG Client 6432] Resyncing 3932
+2022/10/25 15:43:05 66567343 1187254d [DEBUG Client 6432] Resyncing 3936
+2022/10/25 15:43:06 66567812 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 15:43:07 66569390 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:43:07 66569390 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:43:07 66569390 ca3a6737 [INFO Client 6432] Connecting to instance server at 149.81.86.239:6112
+2022/10/25 15:43:07 66569437 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:43:07 66569468 1186952b [DEBUG Client 6432] Generating level 68 area "HeistHub" with seed 2429880467
+2022/10/25 15:43:07 66569515 f22b69a6 [INFO Client 6432] Tile hash: 1555524181
+2022/10/25 15:43:07 66569515 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:43:08 66570156 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:43:09 66570765 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/25 15:43:09 66571312 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:43:39 66601281 cff943d8 [INFO Client 6432] Айла Инженер: Инженер готов к работе!
+2022/10/25 15:44:04 66625671 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:44:04 66625671 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:44:04 66625671 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.107.115:6112
+2022/10/25 15:44:04 66625718 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 15:44:04 66625765 1186952b [DEBUG Client 6432] Generating level 72 area "HeistReliquary9" with seed 775172854
+2022/10/25 15:44:04 66626156 f22b69a6 [INFO Client 6432] Tile hash: 460357362
+2022/10/25 15:44:04 66626156 f22b69a7 [INFO Client 6432] Doodad hash: 590728468
+2022/10/25 15:44:05 66626781 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:44:05 66627265 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Хранилище.
+2022/10/25 15:44:06 66627718 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:44:07 66629578 cff943d8 [INFO Client 6432] Айла Инженер: Надеюсь, мои устройства пригодятся.
+2022/10/25 15:44:27 66648843 cff943d8 [INFO Client 6432] Айла Инженер: Им следовало всё продумать.
+2022/10/25 15:44:45 66666765 cff943d8 [INFO Client 6432] Айла Инженер: Они совершили тактическую ошибку.
+2022/10/25 15:44:58 66680328 cff943d8 [INFO Client 6432] Айла Инженер: Замечательная конструкция. Жаль, что придётся её сломать.
+2022/10/25 15:45:09 66691250 cff943d8 [INFO Client 6432] : Сундук заперт
+2022/10/25 15:45:10 66691984 cff943d8 [INFO Client 6432] Айла Инженер: Сборка, разборка... Два направления одного процесса.
+2022/10/25 15:45:35 66717203 cff943d8 [INFO Client 6432] Айла Инженер: Плохо дело. Очень плохо.
+2022/10/25 15:46:11 66752640 cff943d8 [INFO Client 6432] Айла Инженер: Нас обнаружили!
+2022/10/25 15:46:42 66783796 cff943d8 [INFO Client 6432] Айла Инженер: Плохо дело. Очень плохо.
+2022/10/25 15:47:11 66813031 cff943d8 [INFO Client 6432] Айла Инженер: Охо-хо, кому-то придётся драться.
+2022/10/25 15:47:28 66830359 cff943d8 [INFO Client 6432] Айла Инженер: Нас обнаружили!
+2022/10/25 15:48:06 66868156 cff943d8 [INFO Client 6432] Айла Инженер: Охо-хо, кому-то придётся драться.
+2022/10/25 15:48:08 66870328 cff943d8 [INFO Client 6432] Айла Инженер: Отступаем!
+2022/10/25 15:48:30 66891718 cff943d8 [INFO Client 6432] Айла Инженер: План трещит по швам!
+2022/10/25 15:48:33 66895375 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 15:48:35 66897359 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:48:35 66897359 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:48:35 66897359 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.121:6112
+2022/10/25 15:48:35 66897406 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:48:35 66897453 1186952b [DEBUG Client 6432] Generating level 68 area "HeistHub" with seed 2336442955
+2022/10/25 15:48:36 66897687 f22b69a6 [INFO Client 6432] Tile hash: 1554061085
+2022/10/25 15:48:36 66897687 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:48:36 66898109 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:48:37 66899046 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разбойничья гавань.
+2022/10/25 15:48:39 66901234 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:48:50 66912375 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:48:50 66912375 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:48:50 66912375 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.123:6112
+2022/10/25 15:48:50 66912437 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 46ms
+2022/10/25 15:48:50 66912484 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 15:48:50 66912578 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 15:48:50 66912578 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:48:51 66913390 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:48:52 66914000 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 15:48:52 66914546 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:50:15 66996671 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:50:15 66996671 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:50:15 66996687 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.82.23:6112
+2022/10/25 15:50:15 66996734 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:50:15 66996781 1186952b [DEBUG Client 6432] Generating level 72 area "MapWorldsTemple" with seed 815162495
+2022/10/25 15:50:15 66997562 f22b69a6 [INFO Client 6432] Tile hash: 2274385738
+2022/10/25 15:50:15 66997562 f22b69a7 [INFO Client 6432] Doodad hash: 929390700
+2022/10/25 15:50:16 66998140 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:50:17 66998734 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Храм.
+2022/10/25 15:50:17 66999234 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:51:16 67057687 1187254d [DEBUG Client 6432] Resyncing 5871
+2022/10/25 15:54:05 67226687 cff943d8 [INFO Client 6432] @От кого <2Hot4U> DuSpinnstdoch: Здравствуйте, хочу купить у вас Зеркальная табличка за 5 chaos в лиге Kalandra (секция "~b/o 5 chaos"; позиция: 4 столбец, 1 ряд)
+2022/10/25 15:54:20 67242265 cff943d8 [INFO Client 6432] : Действие невозможно выполнить, поскольку вы находитесь в группе.
+2022/10/25 15:54:24 67245671 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:54:24 67245671 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:54:24 67245671 ca3a6737 [INFO Client 6432] Connecting to instance server at 185.19.219.31:6112
+2022/10/25 15:54:24 67245718 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 15:54:24 67245765 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 15:54:24 67245781 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 15:54:24 67245781 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:54:25 67246609 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:54:25 67247140 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 15:54:26 67247734 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:54:34 67256359 cff943d8 [INFO Client 6432] @От кого <2Hot4U> DuSpinnstdoch: do you have more than 1 tablet?
+2022/10/25 15:54:36 67258359 cff943d8 [INFO Client 6432] : DuSpinnstdoch присоединился.
+2022/10/25 15:54:44 67265796 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 15:54:47 67268734 cff943d8 [INFO Client 6432] : DuSpinnstdoch покинул область.
+2022/10/25 15:55:09 67290875 cff943d8 [INFO Client 6432] @Кому DuSpinnstdoch: ty gl!
+2022/10/25 15:55:13 67295500 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 15:55:16 67298546 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:55:16 67298546 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:55:16 67298546 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.82.23:6112
+2022/10/25 15:55:17 67298593 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 15:55:17 67298640 1186952b [DEBUG Client 6432] Generating level 72 area "MapWorldsTemple" with seed 815162495
+2022/10/25 15:55:17 67298875 f22b69a6 [INFO Client 6432] Tile hash: 2274385738
+2022/10/25 15:55:17 67298875 f22b69a7 [INFO Client 6432] Doodad hash: 929390700
+2022/10/25 15:55:17 67299390 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:55:18 67299859 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Храм.
+2022/10/25 15:55:18 67300328 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:57:49 67451343 cff943d8 [INFO Client 6432] : Вы получили очко пассивных умений Атласа.
+2022/10/25 15:58:07 67468984 8da7eb3b [INFO Client 6432] Successfully allocated passive skill id: atlas_labyrinth_1_3, name: Испытание славой
+2022/10/25 15:58:38 67500015 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 15:58:38 67500015 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 15:58:38 67500015 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.82.21:6112
+2022/10/25 15:58:38 67500062 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 15:58:38 67500109 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 15:58:38 67500109 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 15:58:38 67500109 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 15:58:39 67501062 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 15:58:39 67501578 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 15:58:40 67502171 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 15:59:00 67521906 cff943d8 [INFO Client 6432] : Указанный предмет уничтожен
+2022/10/25 15:59:23 67545125 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 16:00:40 67622031 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:00:40 67622031 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:00:40 67622031 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.82.17:6112
+2022/10/25 16:00:40 67622078 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:00:40 67622125 1186952b [DEBUG Client 6432] Generating level 73 area "MapWorldsLavaChamber" with seed 205650603
+2022/10/25 16:00:41 67622859 f22b69a6 [INFO Client 6432] Tile hash: 2502540576
+2022/10/25 16:00:41 67622859 f22b69a7 [INFO Client 6432] Doodad hash: 1602778675
+2022/10/25 16:00:42 67623734 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:00:42 67624250 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лавовая тюрьма.
+2022/10/25 16:00:43 67625187 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:01:17 67659062 1187254d [DEBUG Client 6432] Resyncing 659
+2022/10/25 16:05:48 67930406 1187254d [DEBUG Client 6432] Resyncing 729
+2022/10/25 16:05:48 67930406 1187254d [DEBUG Client 6432] Resyncing 728
+2022/10/25 16:06:20 67962234 1187254d [DEBUG Client 6432] Resyncing 836
+2022/10/25 16:07:26 68027812 cff943d8 [INFO Client 6432] Мейвен: Убийство, убийство!
+2022/10/25 16:07:28 68029812 cff943d8 [INFO Client 6432] Мейвен: Крепче.
+2022/10/25 16:07:37 68038765 cff943d8 [INFO Client 6432] Мейвен: Осушать!
+2022/10/25 16:07:44 68046031 cff943d8 [INFO Client 6432] Мейвен: Хаос...
+2022/10/25 16:07:51 68053312 cff943d8 [INFO Client 6432] Мейвен: Воскресить?
+2022/10/25 16:07:51 68053546 bce2d691 [INFO Client 6432] Steam stats stored
+2022/10/25 16:09:55 68176812 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:09:55 68176812 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:09:55 68176812 ca3a6737 [INFO Client 6432] Connecting to instance server at 185.19.219.31:6112
+2022/10/25 16:09:55 68176859 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:09:55 68176890 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 16:09:55 68176906 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 16:09:55 68176906 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:09:56 68177734 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:09:56 68178203 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 16:09:57 68178796 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:10:25 68207578 cff943d8 [INFO Client 6432] : Указанный предмет уничтожен
+2022/10/25 16:10:29 68210796 cff943d8 [INFO Client 6432] : Указанный предмет уничтожен
+2022/10/25 16:11:01 68243171 cff943d8 [INFO Client 6432] : Сделка совершена.
+2022/10/25 16:11:37 68278765 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:11:37 68278781 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:11:37 68278781 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 16:11:37 68278828 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:11:37 68278859 1186952b [DEBUG Client 6432] Generating level 73 area "MapWorldsDrySea" with seed 2638044357
+2022/10/25 16:11:37 68279312 f22b69a6 [INFO Client 6432] Tile hash: 2476005404
+2022/10/25 16:11:37 68279312 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:11:38 68279765 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:11:38 68280250 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Высохшее море.
+2022/10/25 16:11:39 68280734 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:12:44 68345921 cff943d8 [INFO Client 6432] : Покрой мир льдами
+2022/10/25 16:12:51 68352828 cff943d8 [INFO Client 6432] Рог: Для тебя есть ещё кое-что!
+2022/10/25 16:13:34 68396250 1187254d [DEBUG Client 6432] Resyncing 456
+2022/10/25 16:14:19 68440828 1187254d [DEBUG Client 6432] Resyncing 924
+2022/10/25 16:15:07 68489140 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:15:07 68489171 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:15:07 68489171 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.121:6112
+2022/10/25 16:15:07 68489218 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 16:15:07 68489265 1186952b [DEBUG Client 6432] Generating level 74 area "EndGame_Labyrinth_trials_arrows" with seed 1611671
+2022/10/25 16:15:07 68489562 f22b69a6 [INFO Client 6432] Tile hash: 899023450
+2022/10/25 16:15:07 68489562 f22b69a7 [INFO Client 6432] Doodad hash: 1393987965
+2022/10/25 16:15:08 68490031 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:15:08 68490500 cff943d8 [INFO Client 6432] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание жалящим сомнением.
+2022/10/25 16:15:09 68491046 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:15:26 68507968 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 16:15:27 68509281 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:15:27 68509281 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:15:27 68509281 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 16:15:27 68509328 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:15:27 68509375 1186952b [DEBUG Client 6432] Generating level 73 area "MapWorldsDrySea" with seed 2638044357
+2022/10/25 16:15:27 68509453 f22b69a6 [INFO Client 6432] Tile hash: 2476005404
+2022/10/25 16:15:27 68509453 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:15:28 68510078 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:15:28 68510562 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Высохшее море.
+2022/10/25 16:15:29 68510968 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:15:39 68520765 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:15:39 68520765 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:15:39 68520765 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.121:6112
+2022/10/25 16:15:39 68520812 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:15:39 68520859 1186952b [DEBUG Client 6432] Generating level 74 area "EndGame_Labyrinth_trials_arrows" with seed 1611671
+2022/10/25 16:15:39 68520890 f22b69a6 [INFO Client 6432] Tile hash: 899023450
+2022/10/25 16:15:39 68520890 f22b69a7 [INFO Client 6432] Doodad hash: 1393987965
+2022/10/25 16:15:39 68521562 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:15:40 68522000 cff943d8 [INFO Client 6432] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание жалящим сомнением.
+2022/10/25 16:15:40 68522421 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:16:40 68581687 cff943d8 [INFO Client 6432] : Дверь заперта
+2022/10/25 16:17:23 68624984 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 16:17:24 68626484 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:17:24 68626484 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:17:24 68626484 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 16:17:24 68626531 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 47ms
+2022/10/25 16:17:25 68626593 1186952b [DEBUG Client 6432] Generating level 73 area "MapWorldsDrySea" with seed 2638044357
+2022/10/25 16:17:25 68626671 f22b69a6 [INFO Client 6432] Tile hash: 2476005404
+2022/10/25 16:17:25 68626671 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:17:25 68627343 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:17:26 68627812 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Высохшее море.
+2022/10/25 16:17:26 68628218 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:17:28 68630437 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:17:28 68630437 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:17:28 68630437 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.121:6112
+2022/10/25 16:17:28 68630484 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:17:28 68630531 1186952b [DEBUG Client 6432] Generating level 74 area "EndGame_Labyrinth_trials_arrows" with seed 1611671
+2022/10/25 16:17:28 68630546 f22b69a6 [INFO Client 6432] Tile hash: 899023450
+2022/10/25 16:17:28 68630546 f22b69a7 [INFO Client 6432] Doodad hash: 1393987965
+2022/10/25 16:17:29 68631265 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:17:30 68631703 cff943d8 [INFO Client 6432] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание жалящим сомнением.
+2022/10/25 16:17:30 68632093 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:18:09 68670953 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 16:18:11 68672859 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:18:11 68672875 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:18:11 68672875 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 16:18:11 68672921 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:18:11 68672953 1186952b [DEBUG Client 6432] Generating level 73 area "MapWorldsDrySea" with seed 2638044357
+2022/10/25 16:18:11 68673031 f22b69a6 [INFO Client 6432] Tile hash: 2476005404
+2022/10/25 16:18:11 68673031 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:18:12 68673750 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:18:12 68674203 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Высохшее море.
+2022/10/25 16:18:13 68674609 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:18:15 68676875 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:18:15 68676875 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:18:15 68676875 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.120.121:6112
+2022/10/25 16:18:15 68676921 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:18:15 68676953 1186952b [DEBUG Client 6432] Generating level 74 area "EndGame_Labyrinth_trials_arrows" with seed 1611671
+2022/10/25 16:18:15 68676984 f22b69a6 [INFO Client 6432] Tile hash: 899023450
+2022/10/25 16:18:15 68676984 f22b69a7 [INFO Client 6432] Doodad hash: 1393987965
+2022/10/25 16:18:16 68677687 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:18:16 68678140 cff943d8 [INFO Client 6432] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание жалящим сомнением.
+2022/10/25 16:18:16 68678578 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:19:38 68760250 cff943d8 [INFO Client 6432] : Взгляни на страхи свысока
+2022/10/25 16:19:49 68771265 cff943d8 [INFO Client 6432] Изаро: Император должен точно знать своё место.
+2022/10/25 16:19:52 68773937 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:19:52 68773937 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:19:52 68773937 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 16:19:52 68773984 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:19:52 68774031 1186952b [DEBUG Client 6432] Generating level 73 area "MapWorldsDrySea" with seed 2638044357
+2022/10/25 16:19:52 68774093 f22b69a6 [INFO Client 6432] Tile hash: 2476005404
+2022/10/25 16:19:52 68774093 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:19:53 68774765 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:19:53 68775234 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Высохшее море.
+2022/10/25 16:19:54 68775640 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:20:09 68790656 1187254d [DEBUG Client 6432] Resyncing 358
+2022/10/25 16:21:09 68851109 cff943d8 [INFO Client 6432] Рог: Выглядит рискованно!
+2022/10/25 16:21:31 68872765 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 16:21:33 68875500 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:21:33 68875500 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:21:33 68875500 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.114.179:6112
+2022/10/25 16:21:33 68875546 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 46ms
+2022/10/25 16:21:34 68875578 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 16:21:34 68875718 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 16:21:34 68875718 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:21:34 68876531 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:21:35 68877156 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 16:21:36 68877750 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:21:41 68882859 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:21:41 68882859 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:21:41 68882859 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 16:21:41 68882906 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:21:41 68882953 1186952b [DEBUG Client 6432] Generating level 73 area "MapWorldsDrySea" with seed 2638044357
+2022/10/25 16:21:41 68883031 f22b69a6 [INFO Client 6432] Tile hash: 2476005404
+2022/10/25 16:21:41 68883031 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:21:42 68883609 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:21:42 68884062 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Высохшее море.
+2022/10/25 16:21:42 68884468 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:22:12 68913921 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 16:22:14 68915859 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:22:14 68915859 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:22:14 68915859 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.114.179:6112
+2022/10/25 16:22:14 68915906 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 47ms
+2022/10/25 16:22:14 68915968 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 16:22:14 68915968 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 16:22:14 68915968 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:22:15 68916640 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:22:15 68917109 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 16:22:16 68917890 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:22:20 68922453 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:22:20 68922453 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:22:20 68922453 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 16:22:20 68922515 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 47ms
+2022/10/25 16:22:20 68922562 1186952b [DEBUG Client 6432] Generating level 73 area "MapWorldsDrySea" with seed 2638044357
+2022/10/25 16:22:21 68922625 f22b69a6 [INFO Client 6432] Tile hash: 2476005404
+2022/10/25 16:22:21 68922625 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:22:21 68923312 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:22:22 68923765 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Высохшее море.
+2022/10/25 16:22:22 68924203 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:22:59 68960937 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
+2022/10/25 16:23:02 68963890 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:23:02 68963890 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:23:02 68963890 ca3a6737 [INFO Client 6432] Connecting to instance server at 149.81.86.239:6112
+2022/10/25 16:23:02 68963937 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 31ms
+2022/10/25 16:23:02 68963968 1186952b [DEBUG Client 6432] Generating level 20 area "HideoutTemplarLab" with seed 1
+2022/10/25 16:23:02 68963968 f22b69a6 [INFO Client 6432] Tile hash: 1532260820
+2022/10/25 16:23:02 68963968 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:23:03 68964796 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:23:03 68965265 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище картографа.
+2022/10/25 16:23:04 68965968 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:23:08 68969953 88a90480 [DEBUG Client 6432] Got Instance Details from login server
+2022/10/25 16:23:08 68969968 32759a9f [INFO Client 6432] [SHADER] Delay: OFF
+2022/10/25 16:23:08 68969968 ca3a6737 [INFO Client 6432] Connecting to instance server at 85.195.83.53:6112
+2022/10/25 16:23:08 68970015 ca3a4d51 [DEBUG Client 6432] Connect time to instance server was 32ms
+2022/10/25 16:23:08 68970046 1186952b [DEBUG Client 6432] Generating level 73 area "MapWorldsDrySea" with seed 2638044357
+2022/10/25 16:23:08 68970109 f22b69a6 [INFO Client 6432] Tile hash: 2476005404
+2022/10/25 16:23:08 68970109 f22b69a7 [INFO Client 6432] Doodad hash: 0
+2022/10/25 16:23:09 68970984 11871c61 [DEBUG Client 6432] Joined guild named discord.gg/d2mAghqeyX голосовой чат with 151 members 
+2022/10/25 16:23:09 68971453 cff943d8 [INFO Client 6432] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Высохшее море.
+2022/10/25 16:23:10 68971843 32759a9f [INFO Client 6432] [SHADER] Delay: ON
+2022/10/25 16:23:57 69018671 cff943d8 [INFO Client 6432] : DeeLectric был повержен.
