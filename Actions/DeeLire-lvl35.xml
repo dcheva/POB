@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="36" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Witch" ascendClassName="None" mainSocketGroup="8" viewMode="SKILLS" pantheonMinorGod="None">
-		<PlayerStat stat="AverageHit" value="273.2821"/>
+	<Build level="36" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Witch" ascendClassName="Elementalist" mainSocketGroup="8" viewMode="SKILLS" pantheonMinorGod="None">
+		<PlayerStat stat="AverageHit" value="280.7987"/>
 		<PlayerStat stat="Speed" value="3.3333333333333"/>
 		<PlayerStat stat="MineLayingTime" value="0.3"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="14.76"/>
 		<PlayerStat stat="CritChance" value="14.76"/>
 		<PlayerStat stat="CritMultiplier" value="1.5"/>
-		<PlayerStat stat="TotalDPS" value="910.94033333333"/>
+		<PlayerStat stat="TotalDPS" value="935.99566666667"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="910.94033333333"/>
-		<PlayerStat stat="WithIgniteDPS" value="910.94033333333"/>
-		<PlayerStat stat="WithPoisonDPS" value="910.94033333333"/>
+		<PlayerStat stat="WithBleedDPS" value="935.99566666667"/>
+		<PlayerStat stat="WithIgniteDPS" value="935.99566666667"/>
+		<PlayerStat stat="WithPoisonDPS" value="935.99566666667"/>
 		<PlayerStat stat="TotalDotDPS" value="0"/>
 		<PlayerStat stat="CullingDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="910.94033333333"/>
+		<PlayerStat stat="CombinedDPS" value="935.99566666667"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="22"/>
 		<PlayerStat stat="ManaCost" value="3"/>
 		<PlayerStat stat="LifeCost" value="0"/>
@@ -35,8 +35,8 @@
 		<PlayerStat stat="Int" value="178"/>
 		<PlayerStat stat="ReqInt" value="65"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="TotalEHP" value="1509.1836734694"/>
-		<PlayerStat stat="PhysicalMaximumHitTaken" value="1170.5882352941"/>
+		<PlayerStat stat="TotalEHP" value="1400"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="1081.5217391304"/>
 		<PlayerStat stat="LightningMaximumHitTaken" value="836.13445378151"/>
 		<PlayerStat stat="FireMaximumHitTaken" value="888.39285714286"/>
 		<PlayerStat stat="ColdMaximumHitTaken" value="966.01941747573"/>
@@ -62,11 +62,11 @@
 		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
 		<PlayerStat stat="Evasion" value="94"/>
 		<PlayerStat stat="Spec:EvasionInc" value="0"/>
-		<PlayerStat stat="MeleeEvadeChance" value="4"/>
-		<PlayerStat stat="ProjectileEvadeChance" value="4"/>
+		<PlayerStat stat="MeleeEvadeChance" value="0"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
 		<PlayerStat stat="Armour" value="45"/>
 		<PlayerStat stat="Spec:ArmourInc" value="0"/>
-		<PlayerStat stat="PhysicalDamageReduction" value="15"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="8"/>
 		<PlayerStat stat="BlockChance" value="22"/>
 		<PlayerStat stat="SpellBlockChance" value="19"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
@@ -81,12 +81,12 @@
 		<PlayerStat stat="ChaosResist" value="-60"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.04"/>
-		<PlayerStat stat="FullDPS" value="1248.437768009"/>
-		<PlayerStat stat="FullDotDPS" value="44.283865879713"/>
-		<FullDPSSkill skillPart="" source="" stat="Stormblast Mine" value="910.94033333333"/>
-		<FullDPSSkill skillPart="" source="" stat="Explosive Trap" value="222.84441176471"/>
-		<FullDPSSkill skillPart="" source="" stat="Orb of Storms" value="70.36915703125"/>
-		<FullDPSSkill skillPart="" source="Explosive Trap" stat="Best Ignite DPS" value="44.283865879713"/>
+		<PlayerStat stat="FullDPS" value="1265.463752088"/>
+		<PlayerStat stat="FullDotDPS" value="47.429148178805"/>
+		<FullDPSSkill skillPart="" source="" stat="Stormblast Mine" value="935.99566666667"/>
+		<FullDPSSkill skillPart="" source="" stat="Explosive Trap" value="209.46385052375"/>
+		<FullDPSSkill skillPart="" source="" stat="Orb of Storms" value="72.57508671875"/>
+		<FullDPSSkill skillPart="" source="Explosive Trap" stat="Best Ignite DPS" value="47.429148178805"/>
 		<PlayerStat stat="PowerCharges" value="3"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="0"/>
@@ -182,9 +182,9 @@
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="0" masteryEffects="{28680,23471},{12125,47642},{58816,28569}" nodes="4184,7938,21934,54447,9432,10115,44184,48362,27203,4432,11128,33755,30225,57264,42795,8135,58604,36774,21958,11420,17579,58816,54657,11645,49588,46469,32431,14936,2292,12125,27929,11551,1031,7503,43000,61264,4367,12852,34157,19635,28680,33296" treeVersion="3_19" classId="3">
+		<Spec ascendClassId="2" masteryEffects="{28680,23471},{12125,47642},{58816,28569}" nodes="4184,7938,21934,54447,9432,10115,44184,48362,27203,4432,11128,14936,30225,57264,42795,12125,58604,36774,21958,17579,2292,11420,49588,11551,28680,54657,11645,58998,33296,32431,46469,16023,8135,1031,7503,33755,27038,43000,61264,58816,12852,34157,19635,27929,4367" treeVersion="3_19" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMAKRBYHwJVriTYJ4OsmLzqakMRUCt4g9t2Ed-wpysfx-Tsj6ZVxiycRKvlwNWBLX3BtLWFfq86WAj0L11tGS0fBAcdT6f471ARDzI0hW1Ms3AIghAAA2-Z5cC6Gi9dW69wCA==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCKxBYHwJVriTYJ4OsmLzqakMRUCt4Olh2Ed-wpysvXeTsj6ZVxkSrCPQsnMG0LR9wCNWBLX3mdoIQfq-1hR_HBAcdT4PbaZ6n-O9Q5cAyNIVtTLNtGREPAAO6Gi9dW69wCG-Z5cA=
 			</URL>
 			<Sockets/>
 		</Spec>
@@ -192,7 +192,7 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="820.676" showHeatMap="false" zoomLevel="6" showStatDifferences="true" zoomX="-314.832"/>
+	<TreeView searchStr="" zoomY="972.676" showHeatMap="false" zoomLevel="6" showStatDifferences="true" zoomX="-221.832"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			Rarity: RARE
@@ -587,6 +587,6 @@ Grants Immunity to Maim for 8 seconds if used while Maimed
 		<Placeholder name="enemySpeed" number="700"/>
 		<Placeholder name="enemyCritDamage" number="30"/>
 		<Placeholder name="enemyCritChance" number="5"/>
-		<Placeholder name="enemyPhysicalDamage" number="51"/>
+		<Placeholder name="enemyPhysicalDamage" number="100"/>
 	</Config>
 </PathOfBuilding>
