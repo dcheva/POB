@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="100" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Duelist" ascendClassName="Slayer" mainSocketGroup="3" viewMode="TREE" pantheonMinorGod="None">
-		<PlayerStat stat="AverageDamage" value="354709.01570504"/>
+		<PlayerStat stat="AverageDamage" value="404455.61781425"/>
 		<PlayerStat stat="Speed" value="4.4226"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="0"/>
 		<PlayerStat stat="CritChance" value="0"/>
 		<PlayerStat stat="CritMultiplier" value="0"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="1568736.0928571"/>
+		<PlayerStat stat="TotalDPS" value="1788745.4153453"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="BleedDPS" value="78802.037308198"/>
-		<PlayerStat stat="WithBleedDPS" value="1647538.1301653"/>
-		<PlayerStat stat="WithIgniteDPS" value="1568736.0928571"/>
-		<PlayerStat stat="WithPoisonDPS" value="1568736.0928571"/>
-		<PlayerStat stat="TotalDotDPS" value="78802.037308198"/>
-		<PlayerStat stat="ImpaleDPS" value="37735.944127608"/>
-		<PlayerStat stat="WithImpaleDPS" value="1606472.0369847"/>
-		<PlayerStat stat="CullingDPS" value="421318.51857323"/>
-		<PlayerStat stat="CombinedDPS" value="2106592.5928662"/>
-		<PlayerStat stat="ManaCost" value="19"/>
+		<PlayerStat stat="BleedDPS" value="80385.387813044"/>
+		<PlayerStat stat="WithBleedDPS" value="1869130.8031583"/>
+		<PlayerStat stat="WithIgniteDPS" value="1788745.4153453"/>
+		<PlayerStat stat="WithPoisonDPS" value="1788745.4153453"/>
+		<PlayerStat stat="TotalDotDPS" value="80385.387813044"/>
+		<PlayerStat stat="ImpaleDPS" value="43229.2526419"/>
+		<PlayerStat stat="WithImpaleDPS" value="1831974.6679872"/>
+		<PlayerStat stat="CullingDPS" value="478090.01395006"/>
+		<PlayerStat stat="CombinedDPS" value="2390450.0697503"/>
+		<PlayerStat stat="ManaCost" value="12"/>
 		<PlayerStat stat="ManaPercentCost" value="0"/>
-		<PlayerStat stat="ManaPerSecondCost" value="84.0294"/>
+		<PlayerStat stat="ManaPerSecondCost" value="53.0712"/>
 		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
 		<PlayerStat stat="LifeCost" value="0"/>
 		<PlayerStat stat="LifePercentCost" value="0"/>
@@ -30,19 +30,19 @@
 		<PlayerStat stat="ESPerSecondCost" value="0"/>
 		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
 		<PlayerStat stat="RageCost" value="0"/>
-		<PlayerStat stat="Str" value="281"/>
+		<PlayerStat stat="Str" value="334"/>
 		<PlayerStat stat="ReqStr" value="177"/>
 		<PlayerStat stat="Dex" value="189"/>
 		<PlayerStat stat="ReqDex" value="155"/>
 		<PlayerStat stat="Int" value="81"/>
 		<PlayerStat stat="ReqInt" value="67"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="TotalEHP" value="110945.01715516"/>
-		<PlayerStat stat="PhysicalMaximumHitTaken" value="29956"/>
+		<PlayerStat stat="TotalEHP" value="106960.8038319"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="29887"/>
 		<PlayerStat stat="LightningMaximumHitTaken" value="87392"/>
 		<PlayerStat stat="FireMaximumHitTaken" value="95715"/>
 		<PlayerStat stat="ColdMaximumHitTaken" value="87392"/>
-		<PlayerStat stat="ChaosMaximumHitTaken" value="80390"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="52888"/>
 		<PlayerStat stat="Life" value="4988"/>
 		<PlayerStat stat="Spec:LifeInc" value="150"/>
 		<PlayerStat stat="LifeUnreserved" value="4651"/>
@@ -73,7 +73,7 @@
 		<PlayerStat stat="Spec:EvasionInc" value="51"/>
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
 		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
-		<PlayerStat stat="Armour" value="73445"/>
+		<PlayerStat stat="Armour" value="72770"/>
 		<PlayerStat stat="Spec:ArmourInc" value="142"/>
 		<PlayerStat stat="PhysicalDamageReduction" value="86"/>
 		<PlayerStat stat="BlockChance" value="0"/>
@@ -86,8 +86,8 @@
 		<PlayerStat stat="ColdResist" value="82"/>
 		<PlayerStat stat="ColdResistOverCap" value="22"/>
 		<PlayerStat stat="LightningResist" value="82"/>
-		<PlayerStat stat="LightningResistOverCap" value="27"/>
-		<PlayerStat stat="ChaosResist" value="75"/>
+		<PlayerStat stat="LightningResistOverCap" value="14"/>
+		<PlayerStat stat="ChaosResist" value="62"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.44712"/>
 		<PlayerStat stat="FullDPS" value="0"/>
@@ -162,8 +162,8 @@
 			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" enabled="true" slot="Body Armour" mainActiveSkill="1">
 				<Gem enableGlobal2="true" level="21" enableGlobal1="true" skillId="Boneshatter" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemBoneshatter" quality="0" enabled="true" skillPartCalcs="1" count="1" nameSpec="Boneshatter"/>
 				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="SupportRuthless" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemRuthless" quality="20" enabled="true" count="1" nameSpec="Ruthless"/>
-				<Gem enableGlobal2="true" level="4" enableGlobal1="true" skillId="SupportBrutalityPlus" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemBrutalityPlus" quality="20" enabled="true" count="1" nameSpec="Awakened Brutality"/>
-				<Gem enableGlobal2="true" level="3" enableGlobal1="true" skillId="SupportMeleePhysicalDamagePlus" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamagePlus" quality="20" enabled="true" count="1" nameSpec="Awakened Melee Physical Damage"/>
+				<Gem enableGlobal2="true" level="5" enableGlobal1="true" skillId="SupportBrutalityPlus" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemBrutalityPlus" quality="20" enabled="true" count="1" nameSpec="Awakened Brutality"/>
+				<Gem enableGlobal2="true" level="5" enableGlobal1="true" skillId="SupportMeleePhysicalDamagePlus" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamagePlus" quality="20" enabled="true" count="1" nameSpec="Awakened Melee Physical Damage"/>
 				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="SupportSlashingWeapon" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemCloseCombat" quality="20" enabled="true" count="1" nameSpec="Close Combat"/>
 				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="SupportFortify" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFortify" quality="20" enabled="true" count="1" nameSpec="Fortify"/>
 			</Skill>
@@ -194,7 +194,7 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="-271" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="0"/>
+	<TreeView searchStr="" zoomY="-352" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="-29"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			Rarity: RARE
@@ -312,15 +312,17 @@ LevelReq: 80
 Implicits: 1
 7% increased maximum Life
 Sockets:
++53 to Strength
 +36 to Dexterity
 +70 to maximum Life
 +13% to all Elemental Resistances
-{crafted}+13% to Lightning and Chaos Resistances
+{crafted}Non-Channelling Skills have -7 to Total Mana Cost
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="3"/>
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
 		</Item>
 		<Item id="6">
 			Rarity: RARE
@@ -446,21 +448,7 @@ Writhing Worms are destroyed when Hit
 		</Item>
 		<Item id="12">
 			Rarity: MAGIC
-Transgressor&apos;s Granite Flask of the Pangolin
-Unique ID: 0fae1ae24a2ce6ebe96a1cdaf64272fb652a877232a40f1de66a9e1dbfac65f3
-Item Level: 77
-Quality: 20
-LevelReq: 46
-Implicits: 1
-{crafted}Used when you Hit a Rare or Unique Enemy, if not already in effect
-Gain 1 Charge when you are Hit by an Enemy
-53% increased Armour during Effect
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-		</Item>
-		<Item id="13">
-			Rarity: MAGIC
-Scholar&apos;s Basalt Flask of the Skunk
+Constant Basalt Flask of the Tortoise
 Unique ID: 837b140f6ddd4aba6088d8662d55fbd0491ac61a14415807fb2802a4579762f3
 Item Level: 85
 Quality: 20
@@ -468,14 +456,12 @@ LevelReq: 40
 Implicits: 2
 {crafted}Used when you Hit a Rare or Unique Enemy, if not already in effect
 Taunts nearby Enemies on use
-18% reduced Charges per use
-48% less Duration
-Immunity to Poison during Effect
+16% increased Charge Recovery
+50% increased Armour during Effect
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
 		</Item>
-		<Item id="14">
+		<Item id="13">
 			Rarity: MAGIC
 Bottomless Quicksilver Flask of the Lynx
 Unique ID: 54fbea837bb42f517651c041e3ef2fb7b68a2079f70d3ba93f0e950841e9b5ec
@@ -489,7 +475,7 @@ Implicits: 1
 			<ModRange range="0.5" id="3"/>
 			<ModRange range="0.5" id="4"/>
 		</Item>
-		<Item id="15">
+		<Item id="14">
 			Rarity: MAGIC
 Ebullient Divine Life Flask of Alleviation
 Unique ID: 543046f1d95ceecb3a952991bc091ca3cbae081a9fccfd1b3443ce5c7742b1ce
@@ -506,6 +492,24 @@ Grants Immunity to Corrupted Blood for 10 seconds if used while affected by Corr
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="0.5" id="3"/>
 			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="15">
+			Rarity: UNIQUE
+Lion&apos;s Roar
+Granite Flask
+Unique ID: 489bed837e7a36ddadad517a2d7edead6b7c48858d4a590820e4e983b57646c5
+Item Level: 81
+Quality: 20
+LevelReq: 27
+Implicits: 1
+{crafted}Used when you Hit a Rare or Unique Enemy, if not already in effect
+Knocks Back Enemies in an Area when you use a Flask
+75% chance to cause Enemies to Flee on use
+Adds Knockback to Melee Attacks during Effect
+10% more Melee Physical Damage during effect
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
 		</Item>
 		<Item id="16">
 			Rarity: RARE
@@ -531,7 +535,7 @@ Implicits: 0
 			<Slot itemPbURL="" name="Boots Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
 			<Slot itemPbURL="" name="Belt Abyssal Socket 2" itemId="0"/>
-			<Slot itemPbURL="" active="true" name="Flask 3" itemId="14"/>
+			<Slot itemPbURL="" active="true" name="Flask 3" itemId="13"/>
 			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 3" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 5" itemId="0"/>
@@ -553,7 +557,7 @@ Implicits: 0
 			<Slot itemPbURL="" name="Gloves Abyssal Socket 4" itemId="0"/>
 			<Slot itemPbURL="" name="Boots Abyssal Socket 4" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 2" itemId="0"/>
-			<Slot itemPbURL="" active="true" name="Flask 5" itemId="12"/>
+			<Slot itemPbURL="" active="true" name="Flask 5" itemId="15"/>
 			<Slot itemPbURL="" name="Boots Abyssal Socket 2" itemId="0"/>
 			<Slot itemPbURL="" name="Belt Abyssal Socket 3" itemId="0"/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 1" itemId="0"/>
@@ -561,7 +565,7 @@ Implicits: 0
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 6" itemId="0"/>
 			<Slot itemPbURL="" name="Helmet" itemId="2"/>
-			<Slot itemPbURL="" active="true" name="Flask 1" itemId="15"/>
+			<Slot itemPbURL="" active="true" name="Flask 1" itemId="14"/>
 			<Slot itemPbURL="" name="Gloves Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 2" itemId="0"/>
 			<Slot itemPbURL="" name="Boots Abyssal Socket 6" itemId="0"/>
@@ -571,7 +575,7 @@ Implicits: 0
 			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
 			<Slot itemPbURL="" name="Belt Abyssal Socket 1" itemId="16"/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 3" itemId="0"/>
-			<Slot itemPbURL="" active="true" name="Flask 4" itemId="13"/>
+			<Slot itemPbURL="" active="true" name="Flask 4" itemId="12"/>
 			<Slot itemPbURL="" active="true" name="Flask 2" itemId="11"/>
 			<Slot itemPbURL="" name="Belt Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 3" itemId="0"/>
