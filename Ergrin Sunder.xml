@@ -148,18 +148,18 @@
 	<Skills sortGemsByDPSField="CombinedDPS" activeSkillSet="1" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="normalMaximum" showSupportGemTypes="ALL" showAltQualityGems="false">
 		<SkillSet id="1">
 			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="NewSunder" qualityId="Alternate1" skillPart="1" gemId="Metadata/Items/Gems/SkillGemSunder" quality="20" enabled="true" skillPartCalcs="1" count="1" nameSpec="Sunder"/>
-				<Gem enableGlobal2="true" level="6" enableGlobal1="true" skillId="SupportWeaponElementalDamagePlus" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamagePlus" quality="20" enabled="true" count="1" nameSpec="Awakened Elemental Damage with Attacks"/>
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="SupportIncreasedCriticalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalDamage" quality="20" enabled="true" count="1" nameSpec="Increased Critical Damage"/>
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="AncestralSlamSupport" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFistOfWar" quality="20" enabled="true" count="1" nameSpec="Fist of War"/>
-				<Gem enableGlobal2="true" level="5" enableGlobal1="true" skillId="SupportFirePenetrationPlus" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFirePenetrationPlus" quality="20" enabled="true" count="1" nameSpec="Awakened Fire Penetration"/>
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="SupportPulverise" qualityId="Alternate2" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="20" enabled="true" count="1" nameSpec="Pulverise"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="NewSunder" qualityId="Alternate1" skillPart="1" gemId="Metadata/Items/Gems/SkillGemSunder" quality="20" enabled="true" skillPartCalcs="1" count="1" nameSpec="Sunder"/>
+				<Gem enableGlobal2="false" level="6" enableGlobal1="true" skillId="SupportWeaponElementalDamagePlus" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamagePlus" quality="20" enabled="true" count="1" nameSpec="Awakened Elemental Damage with Attacks"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedCriticalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalDamage" quality="20" enabled="true" count="1" nameSpec="Increased Critical Damage"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="AncestralSlamSupport" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFistOfWar" quality="20" enabled="true" count="1" nameSpec="Fist of War"/>
+				<Gem enableGlobal2="false" level="5" enableGlobal1="true" skillId="SupportFirePenetrationPlus" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFirePenetrationPlus" quality="20" enabled="true" count="1" nameSpec="Awakened Fire Penetration"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportPulverise" qualityId="Alternate2" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="20" enabled="true" count="1" nameSpec="Pulverise"/>
 			</Skill>
 			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Helmet" mainActiveSkill="1">
 				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="EnduringCry" qualityId="Alternate1" gemId="Metadata/Items/Gems/SkillGemEnduringCry" quality="20" enabled="true" count="1" nameSpec="Enduring Cry"/>
 				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="AbyssalCry" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemAbyssalCry" quality="20" enabled="true" count="1" nameSpec="Infernal Cry"/>
 				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="IntimidatingCry" qualityId="Alternate1" gemId="Metadata/Items/Gems/SkillGemIntimidatingCry" quality="20" enabled="true" count="1" nameSpec="Intimidating Cry"/>
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="SupportAdditionalCooldown" qualityId="Alternate1" gemId="Metadata/Items/Gems/SupportGemSecondWind" quality="20" enabled="true" count="1" nameSpec="Second Wind"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportAdditionalCooldown" qualityId="Alternate1" gemId="Metadata/Items/Gems/SupportGemSecondWind" quality="20" enabled="true" count="1" nameSpec="Second Wind"/>
 			</Skill>
 			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Boots" mainActiveSkill="1">
 				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Determination" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemDetermination" quality="0" enabled="true" count="1" nameSpec="Determination"/>
@@ -210,9 +210,9 @@
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="2" masteryEffects="{62015,23021},{25031,14206},{38320,55308},{35977,60034},{28284,26621},{8629,11938},{33823,2987},{64406,59936}" nodes="27718,65689,66713,65728,6289,26725,46578,1325,19884,15451,12809,24914,34400,8629,31257,49080,33287,65400,30439,50197,61262,65706,48287,29933,65683,66707,29353,9271,18302,23881,25531,62319,34009,53118,11859,26712,33823,28475,58449,50225,4833,63673,44169,31628,25031,53987,25933,24083,49178,15086,54127,65701,13714,55190,32251,50024,14993,14930,49772,48438,62429,65702,10594,61636,55772,55485,14419,9511,26523,30380,3644,34973,5233,56001,18901,31471,46910,38320,24970,40907,43374,2491,63282,38664,33740,65703,50422,37647,476,10221,33631,15405,35977,29294,65680,24865,63027,66704,57992,34031,28284,58831,48807,65034,50858,6446,5865,29292,24155,63723,65696,30733,64406,62015,61602,59928,37501,50862,38999,59920,55676,39023,50288,30691,35288,8592,8879,47175,56355" treeVersion="3_20" classId="1">
+		<Spec ascendClassId="2" masteryEffects="{62015,23021},{25031,14206},{38320,55308},{35977,60034},{28284,26621},{8629,11938},{33823,2987},{64406,59936}" nodes="27718,65689,66713,65728,6289,26725,46578,1325,19884,15451,30691,24914,34400,8629,31257,49080,33287,65400,30439,50197,61262,65706,48287,29933,65683,59920,29353,9271,18302,23881,18901,62319,34009,53118,11859,26712,33823,28475,58449,50225,4833,63673,44169,31628,25031,53987,25933,24083,49178,15086,54127,65701,13714,55190,32251,50024,50862,14930,46910,50288,62429,65702,10594,61636,55772,55485,14419,9511,26523,30380,3644,34973,5233,56001,66707,31471,49772,38320,14993,65034,47175,2491,24970,38664,33740,65703,57992,50858,29292,10221,24155,15405,63027,33631,65680,24865,476,66704,28284,59928,25531,58831,37501,40907,48807,6446,37647,5865,63723,39023,65696,30733,64406,62015,61602,34031,50422,56355,38999,48438,55676,12809,63282,35977,35288,8592,8879,29294,43374" treeVersion="3_20" classId="1">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgECc2xGGJFoZbXyBS1NrDxbMglhUoZgIbV6Gb-4ggf_eHbnxBXvTryfdO1yqSQ3R35dSWO782-E2c9-LlNoWIQfbzvkUcQxEuH4uayJe4xhx9LjZU1eE8AaOu7TbzWS15Z9-8NoOpE6UsJsvTbz3Sli8MTZ3Ni9OFMlJ2ebdqwOPIidFHHawUnVeu-3PpWwYYqfy6luCbv3MpcIg8zE9pMPAdwn7YNfPC2MiWEh9jPiiITvbnzlz76n_grGqhkuFulybF5b-Ot4DfuW8j_wouoYkn3GrphX6hDZfJhvxHB344nYIZAir9wjDACZBJkAwACqAJMEkwClAKYApwCQBJAAoAguoiG1C6uEHzd-YcfYDJWw6oKMiWf9bnzqIPuWWe3yPw==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgECc2xGGJFoZbXyBS1NrDxbd-NhUoZgIbV6Gb-4ggf_eHbnxBXvTryfdO3qEHKpJDdHfl1JSdXzb4TZz34uU2hYhB9vO-RRxDES4fi5rIl7jGHH0uNlTV4TwBo67tNvNZLXln37w2jGrjpStz7EcPPdKWLwxNnc2L04UyUnZ5t2rA48iJ0UcdrBeu_CbJWwOpH-Cgm7YYqXCIPM4ojGqnJsJ-1eWzwt9jODX2EhAdxufOoYY7vlz5J9n8u-pxkukw8W6fjrmG94DfuW8j_wooTvxPbcI5hXvTbZfDIJ9zKMiYnYIZAir6luDACZBJkAwACqAJMApQCmBJMApwCQBJAAoAguoiG1C6uEHzd-YcfYDJWwZ_1ufOog-5ZZ7fI_6oKMiQ==
 			</URL>
 			<Sockets>
 				<Socket nodeId="24970" itemId="10"/>
@@ -231,27 +231,23 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="-351.3235159465" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="117.73269032922"/>
+	<TreeView searchStr="" zoomY="-334.21302726337" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="251.56643518519"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
-		<Item id="26">
-			Rarity: UNIQUE
-Brutus&apos; Lead Sprinkler
-Ritual Sceptre
-Unique ID: db946392968d22a2a69ff1392a40643cdf1aad8fe51575a371e4f5785062401c
-Item Level: 82
-Quality: 23
-Sockets: R-R-G
-LevelReq: 28
-Implicits: 2
-Adds 22 to 35 Fire Damage
-20% increased Area of Effect
-20% increased Physical Damage
-Adds 11 to 26 Physical Damage
-30% increased Fire Damage
-19% increased Attack Speed
-40% increased Critical Strike Chance
-Adds 4 to 7 Fire Damage to Attacks with this Weapon per 10 Strength
-Corrupted
+		<Item id="1">
+			Rarity: RARE
+Kraken Sliver
+Medium Cluster Jewel
+Unique ID: c118c4c8f9fbd70fcf37149d8d696f8c8f59c332e92c2b0ed7be085843e5a26b
+Item Level: 83
+LevelReq: 54
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: Exerted Attacks deal 20% increased Damage
+Added Small Passive Skills also grant: +3 to All Attributes
+Added Small Passive Skills also grant: +2% to Cold Resistance
+1 Added Passive Skill is Haunting Shout
+1 Added Passive Skill is Lead By Example
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="0.5" id="3"/>
@@ -259,49 +255,60 @@ Corrupted
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
 			<ModRange range="0.5" id="7"/>
-			<ModRange range="0.5" id="8"/>
 		</Item>
-		<Item id="24">
+		<Item id="2">
 			Rarity: UNIQUE
-Ngamahu&apos;s Flame
-Abyssal Axe
-Unique ID: d7d3f87ef029e09934be17fbeccee6e1c459e4e9e926be7e836e5d330e9735e2
-Item Level: 70
-Quality: 20
-Sockets: G R R-B R
-LevelReq: 55
+The Interrogation
+Small Cluster Jewel
+Unique ID: a6799b2fe6dcf2ce7591c2a68f73faedae1ada2afd2532a306d3dc43395983f4
+Item Level: 77
 Implicits: 0
-20% chance to Trigger Level 16 Molten Burst on Melee Hit
-177% increased Physical Damage
-11% increased Attack Speed
-60% of Physical Damage Converted to Fire Damage
-Damage Penetrates 20% Fire Resistance
+Adds Secrets of Suffering
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="3">
+			Rarity: UNIQUE
+Forbidden Flame
+Crimson Jewel
+Unique ID: 2e21e6adc3ec3471276e44d0c871efd4b043771a8d92fc7ca14fd276b63d502e
+Item Level: 86
+Limited to: 1
+Requires Class Marauder
+Implicits: 0
+Allocates Unbreakable if you have the matching modifier on Forbidden Flesh
+Corrupted
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="4">
+			Rarity: UNIQUE
+Lethal Pride
+Timeless Jewel
+Unique ID: 6e3f9574a70086481ab292fc25bad9aff81d0de15905f72578cc01a79c1825fc
+Item Level: 86
+Radius: Large
+Implicits: 0
+Commanded leadership over 13650 warriors under Kaom
+Passives in radius are Conquered by the Karui
+Historic
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
 		</Item>
-		<Item id="21">
-			Rarity: UNIQUE
-Redblade Banner
-Painted Tower Shield
-Armour: 436
-ArmourBasePercentile: 0.3636
-Unique ID: 75f3340ac000b13326af2b2f5033547d2ac63004ec30f796f652e70153408c74
-Item Level: 76
-Quality: 20
-Sockets: R R-R
-LevelReq: 35
-Implicits: 1
-+2 to Level of Socketed Warcry Gems
-100% increased Armour
-+50 to maximum Life
-20% increased Taunt Duration
-+5% Chance to Block
-50% increased Warcry Cooldown Recovery Rate
-Warcries have infinite Power
-Corrupted
+		<Item id="5">
+			Rarity: RARE
+Plague Splinter
+Medium Cluster Jewel
+Unique ID: 1983aa19eeb122363e658915ce0882f8ef39bbf5b40a11e1997ecc8dd82e4cd0
+Item Level: 81
+LevelReq: 60
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: Exerted Attacks deal 20% increased Damage
+Added Small Passive Skills also grant: +3 to All Attributes
+Added Small Passive Skills also grant: +3% to Chaos Resistance
+1 Added Passive Skill is Mob Mentality
+1 Added Passive Skill is Warning Call
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="0.5" id="3"/>
@@ -309,6 +316,148 @@ Corrupted
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
 			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="6">
+			Rarity: UNIQUE
+Split Personality
+Crimson Jewel
+Unique ID: 98159ea27373c4f5cbee141f594c051cd45800358bf26c7273016a1bc264ff0c
+Item Level: 84
+Limited to: 2
+Implicits: 0
+This Jewel&apos;s Socket has 25% increased effect per Allocated Passive Skill between
+it and your Class&apos; starting location
++5 to Strength
++40 to Armour
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="7">
+			Rarity: UNIQUE
+Forbidden Flesh
+Cobalt Jewel
+Unique ID: b644010bbfca3ed15a30058f477e87538fce5c75d8a9489bb6686de5acaa11b8
+Item Level: 85
+Limited to: 1
+Requires Class Marauder
+Implicits: 0
+Allocates Unbreakable if you have the matching modifier on Forbidden Flame
+Corrupted
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="8">
+			Rarity: UNIQUE
+Watcher&apos;s Eye
+Prismatic Jewel
+Unique ID: fe803671f2e1c552ac62f3bfaaf8ccfb1613b14bc1dcf6257ff80fd7a9878c6a
+Item Level: 85
+Limited to: 1
+Implicits: 0
+6% increased maximum Energy Shield
+4% increased maximum Life
+6% increased maximum Mana
++47% to Chaos Resistance while affected by Purity of Elements
+Your Hits Intimidate Enemies for 4 seconds while you are using Pride
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="9">
+			Rarity: RARE
+Bramble Scar
+Large Cluster Jewel
+Unique ID: 2c2573354801aef67cd0a47e5e70971356c35843a48e6a35e85a4eb87502c292
+Item Level: 83
+LevelReq: 60
+Implicits: 4
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: Staff Attacks deal 12% increased Damage with Hits and Ailments
+Added Small Passive Skills grant: Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments
+Added Small Passive Skills also grant: 4% increased Mana Regeneration Rate
+Added Small Passive Skills also grant: +2 to Strength
+1 Added Passive Skill is Fuel the Fight
+1 Added Passive Skill is Overlord
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="10">
+			Rarity: UNIQUE
+Split Personality
+Crimson Jewel
+Unique ID: bcde88f5cbd70f379816d114902a7b0975942e0ce527c2e5ec334fd8d1b3a477
+Item Level: 83
+Limited to: 2
+Implicits: 0
+This Jewel&apos;s Socket has 25% increased effect per Allocated Passive Skill between
+it and your Class&apos; starting location
++5 to Strength
++5 to Intelligence
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="11">
+			Rarity: UNIQUE
+The Iron Fortress
+Crusader Plate
+Armour: 1255
+ArmourBasePercentile: 0.1914
+Unique ID: 7046ab715ab1383d285636f4ebaa99e2116f98e3058b61a517ad10b9e5f96940
+Item Level: 83
+Quality: 20
+Sockets: R-R-B-W-R-R
+LevelReq: 59
+Implicits: 0
++1% Chance to Block Attack Damage per 50 Strength
+Chance to Block Spell Damage is Unlucky
++113 to Strength
+83% increased Armour
+10% reduced Movement Speed
+Strength&apos;s Damage Bonus instead grants 3% increased Melee
+Physical Damage per 10 Strength
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="12">
+			Rarity: MAGIC
+Flagellant&apos;s Granite Flask of the Order
+Unique ID: bf57d5ffe23105d492b68faf1b6663c0bc18138d329b42703029050faff0698e
+Item Level: 84
+Quality: 20
+LevelReq: 64
+Implicits: 1
+{crafted}Used when Charges reach full
+Gain 3 Charges when you are Hit by an Enemy
+{crafted}Regenerate 3% of Life per second during Effect
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="13">
+			Rarity: MAGIC
+Flagellant&apos;s Quartz Flask of the Tortoise
+Unique ID: ec6849b530d21dc0253a14ed9bf0f53858c0cdd30f64f42bea309d924684ff19
+Item Level: 84
+Quality: 20
+LevelReq: 64
+Implicits: 1
+{crafted}Used when Charges reach full
+Gain 3 Charges when you are Hit by an Enemy
+48% increased Armour during Effect
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
 		</Item>
 		<Item id="14">
 			Rarity: RARE
@@ -349,53 +498,23 @@ Gain Accuracy Rating equal to your Strength
 			<ModRange range="0.5" id="10"/>
 			<ModRange range="0.5" id="11"/>
 		</Item>
-		<Item id="11">
-			Rarity: UNIQUE
-The Iron Fortress
-Crusader Plate
-Armour: 1255
-ArmourBasePercentile: 0.1914
-Unique ID: 7046ab715ab1383d285636f4ebaa99e2116f98e3058b61a517ad10b9e5f96940
-Item Level: 83
-Quality: 20
-Sockets: R-R-B-W-R-R
-LevelReq: 59
-Implicits: 0
-+1% Chance to Block Attack Damage per 50 Strength
-Chance to Block Spell Damage is Unlucky
-+113 to Strength
-83% increased Armour
-10% reduced Movement Speed
-Strength&apos;s Damage Bonus instead grants 3% increased Melee
-Physical Damage per 10 Strength
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
-		</Item>
-		<Item id="22">
+		<Item id="15">
 			Rarity: RARE
-Rift Touch
-Titan Gauntlets
-Armour: 655
-ArmourBasePercentile: 0.9225
-Unique ID: 02b7af75eb7c4b7ca6f871ce8bf5c2417c19f0ba7acea97a14e1d05e40675fa6
-Item Level: 84
-Quality: 20
-Sockets: B-B-G-R
-LevelReq: 69
-Implicits: 3
-{crafted}Trigger Commandment of Fury on Hit
-Inflict Fire Exposure on Hit, applying -12% to Fire Resistance
-25% increased Critical Strike Chance for Attacks
-{fractured}+88 to maximum Life
-+51 to Strength
-118% increased Armour
-+17 to maximum Life
-+42% to Lightning Resistance
-+22% to Chaos Resistance
-			<ModRange range="0.5" id="1"/>
+Rapture Twine
+Cloth Belt
+Unique ID: f4e9ef5e290a4ec130d1bb1f6fb5920f22d2b605cea23493aa1c670d30741bd0
+Item Level: 85
+LevelReq: 66
+Implicits: 2
+{crafted}Enemies Taunted by you deal 5% less Area Damage
+18% increased Strength
++68 to Strength
++51 to maximum Energy Shield
++57 to maximum Life
+Regenerate 5.3 Mana per second
++43% to Fire Resistance
++41% to Lightning Resistance
+{crafted}32% increased Elemental Damage with Attack Skills
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="0.5" id="3"/>
 			<ModRange range="0.5" id="4"/>
@@ -462,6 +581,152 @@ Implicits: 2
 			<ModRange range="0.5" id="7"/>
 			<ModRange range="0.5" id="8"/>
 		</Item>
+		<Item id="18">
+			Rarity: MAGIC
+Flagellant&apos;s Basalt Flask of the Eagle
+Unique ID: b56714d0203a9a9f273d50a61ccfcbfb90fbd64eb740fa7a3dab26301d2813b3
+Item Level: 84
+Quality: 20
+LevelReq: 64
+Implicits: 2
+{crafted}Used when Charges reach full
+Taunts nearby Enemies on use
+Gain 3 Charges when you are Hit by an Enemy
+12% increased Attack Speed during Effect
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="19">
+			Rarity: MAGIC
+Flagellant&apos;s Diamond Flask of Penetrating
+Unique ID: 770cb49370792f0c0585c687610a3c6d6042204da7c5efe9dadde22695f34019
+Item Level: 83
+Quality: 24
+LevelReq: 64
+Implicits: 1
+{crafted}Used when Charges reach full
+Gain 3 Charges when you are Hit by an Enemy
+49% increased Critical Strike Chance during Effect
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="20">
+			Rarity: RARE
+Empyrean Grip
+Bone Ring
+Unique ID: 47d7449d33fe843d9354cf97b9db5edd7a99ff17eefb80399b07abb62eb024a9
+Item Level: 83
+LevelReq: 65
+Implicits: 1
+7% increased Strength
++62 to Strength
++32 to Dexterity
+Adds 5 to 12 Fire Damage to Attacks
++8% to Cold Resistance
+23% increased Elemental Damage with Attack Skills
+{crafted}Non-Channelling Skills have -7 to Total Mana Cost
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="21">
+			Rarity: UNIQUE
+Redblade Banner
+Painted Tower Shield
+Armour: 436
+ArmourBasePercentile: 0.3636
+Unique ID: 75f3340ac000b13326af2b2f5033547d2ac63004ec30f796f652e70153408c74
+Item Level: 76
+Quality: 20
+Sockets: R R-R
+LevelReq: 35
+Implicits: 1
++2 to Level of Socketed Warcry Gems
+100% increased Armour
++50 to maximum Life
+20% increased Taunt Duration
++5% Chance to Block
+50% increased Warcry Cooldown Recovery Rate
+Warcries have infinite Power
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="22">
+			Rarity: RARE
+Rift Touch
+Titan Gauntlets
+Armour: 655
+ArmourBasePercentile: 0.9225
+Unique ID: 02b7af75eb7c4b7ca6f871ce8bf5c2417c19f0ba7acea97a14e1d05e40675fa6
+Item Level: 84
+Quality: 20
+Sockets: B-B-G-R
+LevelReq: 69
+Implicits: 3
+{crafted}Trigger Commandment of Fury on Hit
+Inflict Fire Exposure on Hit, applying -12% to Fire Resistance
+25% increased Critical Strike Chance for Attacks
+{fractured}+88 to maximum Life
++51 to Strength
+118% increased Armour
++17 to maximum Life
++42% to Lightning Resistance
++22% to Chaos Resistance
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+		</Item>
+		<Item id="23">
+			Rarity: MAGIC
+Flagellant&apos;s Amethyst Flask of the Kakapo
+Unique ID: 7286ee525bb72e8f4ef3e2b1c402546cef669173086e2a861263cae1714b80e5
+Item Level: 84
+Quality: 20
+LevelReq: 64
+Implicits: 1
+{crafted}Used when Charges reach full
+Gain 3 Charges when you are Hit by an Enemy
+56% reduced Effect of Curses on you during Effect
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="24">
+			Rarity: UNIQUE
+Ngamahu&apos;s Flame
+Abyssal Axe
+Unique ID: d7d3f87ef029e09934be17fbeccee6e1c459e4e9e926be7e836e5d330e9735e2
+Item Level: 70
+Quality: 20
+Sockets: G R R-B R
+LevelReq: 55
+Implicits: 0
+20% chance to Trigger Level 16 Molten Burst on Melee Hit
+177% increased Physical Damage
+11% increased Attack Speed
+60% of Physical Damage Converted to Fire Damage
+Damage Penetrates 20% Fire Resistance
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
 		<Item id="25">
 			Rarity: RARE
 Corpse Nail
@@ -487,46 +752,26 @@ Regenerate 5.3 Mana per second
 			<ModRange range="0.5" id="7"/>
 			<ModRange range="0.5" id="8"/>
 		</Item>
-		<Item id="20">
-			Rarity: RARE
-Empyrean Grip
-Bone Ring
-Unique ID: 47d7449d33fe843d9354cf97b9db5edd7a99ff17eefb80399b07abb62eb024a9
-Item Level: 83
-LevelReq: 65
-Implicits: 1
-7% increased Strength
-+62 to Strength
-+32 to Dexterity
-Adds 5 to 12 Fire Damage to Attacks
-+8% to Cold Resistance
-23% increased Elemental Damage with Attack Skills
-{crafted}Non-Channelling Skills have -7 to Total Mana Cost
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
-			<ModRange range="0.5" id="7"/>
-		</Item>
-		<Item id="15">
-			Rarity: RARE
-Rapture Twine
-Cloth Belt
-Unique ID: f4e9ef5e290a4ec130d1bb1f6fb5920f22d2b605cea23493aa1c670d30741bd0
-Item Level: 85
-LevelReq: 66
+		<Item id="26">
+			Rarity: UNIQUE
+Brutus&apos; Lead Sprinkler
+Ritual Sceptre
+Unique ID: db946392968d22a2a69ff1392a40643cdf1aad8fe51575a371e4f5785062401c
+Item Level: 82
+Quality: 23
+Sockets: R-R-G
+LevelReq: 28
 Implicits: 2
-{crafted}Enemies Taunted by you deal 5% less Area Damage
-18% increased Strength
-+68 to Strength
-+51 to maximum Energy Shield
-+57 to maximum Life
-Regenerate 5.3 Mana per second
-+43% to Fire Resistance
-+41% to Lightning Resistance
-{crafted}32% increased Elemental Damage with Attack Skills
+Adds 22 to 35 Fire Damage
+20% increased Area of Effect
+20% increased Physical Damage
+Adds 11 to 26 Physical Damage
+30% increased Fire Damage
+19% increased Attack Speed
+40% increased Critical Strike Chance
+Adds 4 to 7 Fire Damage to Attacks with this Weapon per 10 Strength
+Corrupted
+			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="0.5" id="3"/>
 			<ModRange range="0.5" id="4"/>
@@ -534,251 +779,6 @@ Regenerate 5.3 Mana per second
 			<ModRange range="0.5" id="6"/>
 			<ModRange range="0.5" id="7"/>
 			<ModRange range="0.5" id="8"/>
-			<ModRange range="0.5" id="9"/>
-		</Item>
-		<Item id="12">
-			Rarity: MAGIC
-Flagellant&apos;s Granite Flask of the Order
-Unique ID: bf57d5ffe23105d492b68faf1b6663c0bc18138d329b42703029050faff0698e
-Item Level: 84
-Quality: 20
-LevelReq: 64
-Implicits: 1
-{crafted}Used when Charges reach full
-Gain 3 Charges when you are Hit by an Enemy
-{crafted}Regenerate 3% of Life per second during Effect
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-		</Item>
-		<Item id="13">
-			Rarity: MAGIC
-Flagellant&apos;s Quartz Flask of the Tortoise
-Unique ID: ec6849b530d21dc0253a14ed9bf0f53858c0cdd30f64f42bea309d924684ff19
-Item Level: 84
-Quality: 20
-LevelReq: 64
-Implicits: 1
-{crafted}Used when Charges reach full
-Gain 3 Charges when you are Hit by an Enemy
-48% increased Armour during Effect
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-		</Item>
-		<Item id="23">
-			Rarity: MAGIC
-Flagellant&apos;s Amethyst Flask of the Kakapo
-Unique ID: 7286ee525bb72e8f4ef3e2b1c402546cef669173086e2a861263cae1714b80e5
-Item Level: 84
-Quality: 20
-LevelReq: 64
-Implicits: 1
-{crafted}Used when Charges reach full
-Gain 3 Charges when you are Hit by an Enemy
-56% reduced Effect of Curses on you during Effect
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-		</Item>
-		<Item id="19">
-			Rarity: MAGIC
-Flagellant&apos;s Diamond Flask of Penetrating
-Unique ID: 770cb49370792f0c0585c687610a3c6d6042204da7c5efe9dadde22695f34019
-Item Level: 83
-Quality: 24
-LevelReq: 64
-Implicits: 1
-{crafted}Used when Charges reach full
-Gain 3 Charges when you are Hit by an Enemy
-49% increased Critical Strike Chance during Effect
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-		</Item>
-		<Item id="18">
-			Rarity: MAGIC
-Flagellant&apos;s Basalt Flask of the Eagle
-Unique ID: b56714d0203a9a9f273d50a61ccfcbfb90fbd64eb740fa7a3dab26301d2813b3
-Item Level: 84
-Quality: 20
-LevelReq: 64
-Implicits: 2
-{crafted}Used when Charges reach full
-Taunts nearby Enemies on use
-Gain 3 Charges when you are Hit by an Enemy
-12% increased Attack Speed during Effect
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-		</Item>
-		<Item id="2">
-			Rarity: UNIQUE
-The Interrogation
-Small Cluster Jewel
-Unique ID: a6799b2fe6dcf2ce7591c2a68f73faedae1ada2afd2532a306d3dc43395983f4
-Item Level: 77
-Implicits: 0
-Adds Secrets of Suffering
-			<ModRange range="0.5" id="1"/>
-		</Item>
-		<Item id="6">
-			Rarity: UNIQUE
-Split Personality
-Crimson Jewel
-Unique ID: 98159ea27373c4f5cbee141f594c051cd45800358bf26c7273016a1bc264ff0c
-Item Level: 84
-Limited to: 2
-Implicits: 0
-This Jewel&apos;s Socket has 25% increased effect per Allocated Passive Skill between
-it and your Class&apos; starting location
-+5 to Strength
-+40 to Armour
-Corrupted
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-		</Item>
-		<Item id="10">
-			Rarity: UNIQUE
-Split Personality
-Crimson Jewel
-Unique ID: bcde88f5cbd70f379816d114902a7b0975942e0ce527c2e5ec334fd8d1b3a477
-Item Level: 83
-Limited to: 2
-Implicits: 0
-This Jewel&apos;s Socket has 25% increased effect per Allocated Passive Skill between
-it and your Class&apos; starting location
-+5 to Strength
-+5 to Intelligence
-Corrupted
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-		</Item>
-		<Item id="3">
-			Rarity: UNIQUE
-Forbidden Flame
-Crimson Jewel
-Unique ID: 2e21e6adc3ec3471276e44d0c871efd4b043771a8d92fc7ca14fd276b63d502e
-Item Level: 86
-Limited to: 1
-Requires Class Marauder
-Implicits: 0
-Allocates Unbreakable if you have the matching modifier on Forbidden Flesh
-Corrupted
-			<ModRange range="0.5" id="1"/>
-		</Item>
-		<Item id="7">
-			Rarity: UNIQUE
-Forbidden Flesh
-Cobalt Jewel
-Unique ID: b644010bbfca3ed15a30058f477e87538fce5c75d8a9489bb6686de5acaa11b8
-Item Level: 85
-Limited to: 1
-Requires Class Marauder
-Implicits: 0
-Allocates Unbreakable if you have the matching modifier on Forbidden Flame
-Corrupted
-			<ModRange range="0.5" id="1"/>
-		</Item>
-		<Item id="8">
-			Rarity: UNIQUE
-Watcher&apos;s Eye
-Prismatic Jewel
-Unique ID: fe803671f2e1c552ac62f3bfaaf8ccfb1613b14bc1dcf6257ff80fd7a9878c6a
-Item Level: 85
-Limited to: 1
-Implicits: 0
-6% increased maximum Energy Shield
-4% increased maximum Life
-6% increased maximum Mana
-+47% to Chaos Resistance while affected by Purity of Elements
-Your Hits Intimidate Enemies for 4 seconds while you are using Pride
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-		</Item>
-		<Item id="1">
-			Rarity: RARE
-Kraken Sliver
-Medium Cluster Jewel
-Unique ID: c118c4c8f9fbd70fcf37149d8d696f8c8f59c332e92c2b0ed7be085843e5a26b
-Item Level: 83
-LevelReq: 54
-Implicits: 3
-{crafted}Adds 4 Passive Skills
-{crafted}1 Added Passive Skill is a Jewel Socket
-{crafted}Added Small Passive Skills grant: Exerted Attacks deal 20% increased Damage
-Added Small Passive Skills also grant: +3 to All Attributes
-Added Small Passive Skills also grant: +2% to Cold Resistance
-1 Added Passive Skill is Haunting Shout
-1 Added Passive Skill is Lead By Example
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
-			<ModRange range="0.5" id="7"/>
-		</Item>
-		<Item id="5">
-			Rarity: RARE
-Plague Splinter
-Medium Cluster Jewel
-Unique ID: 1983aa19eeb122363e658915ce0882f8ef39bbf5b40a11e1997ecc8dd82e4cd0
-Item Level: 81
-LevelReq: 60
-Implicits: 3
-{crafted}Adds 4 Passive Skills
-{crafted}1 Added Passive Skill is a Jewel Socket
-{crafted}Added Small Passive Skills grant: Exerted Attacks deal 20% increased Damage
-Added Small Passive Skills also grant: +3 to All Attributes
-Added Small Passive Skills also grant: +3% to Chaos Resistance
-1 Added Passive Skill is Mob Mentality
-1 Added Passive Skill is Warning Call
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
-			<ModRange range="0.5" id="7"/>
-		</Item>
-		<Item id="4">
-			Rarity: UNIQUE
-Lethal Pride
-Timeless Jewel
-Unique ID: 6e3f9574a70086481ab292fc25bad9aff81d0de15905f72578cc01a79c1825fc
-Item Level: 86
-Radius: Large
-Implicits: 0
-Commanded leadership over 13650 warriors under Kaom
-Passives in radius are Conquered by the Karui
-Historic
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-		</Item>
-		<Item id="9">
-			Rarity: RARE
-Bramble Scar
-Large Cluster Jewel
-Unique ID: 2c2573354801aef67cd0a47e5e70971356c35843a48e6a35e85a4eb87502c292
-Item Level: 83
-LevelReq: 60
-Implicits: 4
-{crafted}Adds 8 Passive Skills
-{crafted}2 Added Passive Skills are Jewel Sockets
-{crafted}Added Small Passive Skills grant: Staff Attacks deal 12% increased Damage with Hits and Ailments
-Added Small Passive Skills grant: Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments
-Added Small Passive Skills also grant: 4% increased Mana Regeneration Rate
-Added Small Passive Skills also grant: +2 to Strength
-1 Added Passive Skill is Fuel the Fight
-1 Added Passive Skill is Overlord
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
-			<ModRange range="0.5" id="6"/>
-			<ModRange range="0.5" id="7"/>
 		</Item>
 		<ItemSet useSecondWeaponSet="false" id="1">
 			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 5" itemId="0"/>
@@ -867,22 +867,22 @@ Added Small Passive Skills also grant: +2 to Strength
 	<Config>
 		<Input name="conditionCritRecently" boolean="true"/>
 		<Input name="enemyIsBoss" string="Pinnacle"/>
-		<Input name="pantheonMajorGod" string="None"/>
+		<Input name="conditionEnemyTaunted" boolean="true"/>
 		<Input name="bandit" string="None"/>
 		<Input name="enemySizePreset" string="Medium"/>
 		<Input name="conditionEnemyBrittle" boolean="true"/>
 		<Input name="useFrenzyCharges" boolean="true"/>
 		<Input name="conditionUsedWarcryRecently" boolean="true"/>
-		<Input name="conditionEnemyTaunted" boolean="true"/>
+		<Input name="conditionEnemyScorched" boolean="true"/>
+		<Input name="buffOnslaught" boolean="true"/>
 		<Input name="conditionScorchedEffect" number="30"/>
 		<Input name="useEnduranceCharges" boolean="true"/>
-		<Input name="buffOnslaught" boolean="true"/>
+		<Input name="buffFortification" boolean="true"/>
 		<Input name="multiplierRage" number="60"/>
 		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="pantheonMinorGod" string="None"/>
-		<Input name="conditionEnemyScorched" boolean="true"/>
 		<Input name="conditionUsedWarcryInPast8Seconds" boolean="true"/>
-		<Input name="buffFortification" boolean="true"/>
+		<Input name="pantheonMajorGod" string="None"/>
 		<Input name="conditionBrittleEffect" number="2"/>
 		<Placeholder name="enemySpeed" number="700"/>
 		<Placeholder name="enemyPhysicalDamage" number="2320"/>
