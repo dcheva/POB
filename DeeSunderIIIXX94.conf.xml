@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="94" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Marauder" ascendClassName="Berserker" mainSocketGroup="8" viewMode="SKILLS" pantheonMinorGod="None">
-		<PlayerStat stat="AverageDamage" value="539239.70245258"/>
-		<PlayerStat stat="AverageBurstDamage" value="539239.70245258"/>
+		<PlayerStat stat="AverageDamage" value="542526.53985004"/>
+		<PlayerStat stat="AverageBurstDamage" value="542526.53985004"/>
 		<PlayerStat stat="Speed" value="2.1168"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="45.0796"/>
 		<PlayerStat stat="CritChance" value="37.866864"/>
 		<PlayerStat stat="CritMultiplier" value="4.2"/>
 		<PlayerStat stat="HitChance" value="84"/>
-		<PlayerStat stat="TotalDPS" value="1141462.6021516"/>
+		<PlayerStat stat="TotalDPS" value="1148420.1795546"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="1141462.6021516"/>
+		<PlayerStat stat="WithBleedDPS" value="1148420.1795546"/>
 		<PlayerStat stat="IgniteDPS" value="38127.904197921"/>
-		<PlayerStat stat="WithIgniteDPS" value="1179590.5063495"/>
-		<PlayerStat stat="WithPoisonDPS" value="1141462.6021516"/>
+		<PlayerStat stat="WithIgniteDPS" value="1186548.0837525"/>
+		<PlayerStat stat="WithPoisonDPS" value="1148420.1795546"/>
 		<PlayerStat stat="TotalDotDPS" value="38127.904197921"/>
 		<PlayerStat stat="CullingDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="1179590.5063495"/>
+		<PlayerStat stat="CombinedDPS" value="1186548.0837525"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="21"/>
 		<PlayerStat stat="ManaCost" value="24"/>
 		<PlayerStat stat="ManaPercentCost" value="0"/>
@@ -37,12 +37,12 @@
 		<PlayerStat stat="Int" value="118"/>
 		<PlayerStat stat="ReqInt" value="116"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="TotalEHP" value="58397.113180393"/>
-		<PlayerStat stat="PhysicalMaximumHitTaken" value="19643"/>
-		<PlayerStat stat="LightningMaximumHitTaken" value="42770"/>
-		<PlayerStat stat="FireMaximumHitTaken" value="42770"/>
-		<PlayerStat stat="ColdMaximumHitTaken" value="42770"/>
-		<PlayerStat stat="ChaosMaximumHitTaken" value="13166"/>
+		<PlayerStat stat="TotalEHP" value="59152.291201254"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="19965"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="43376"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="43376"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="43376"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="13354"/>
 		<PlayerStat stat="Life" value="4299"/>
 		<PlayerStat stat="Spec:LifeInc" value="105"/>
 		<PlayerStat stat="LifeUnreserved" value="2434"/>
@@ -68,9 +68,9 @@
 		<PlayerStat stat="Spec:EvasionInc" value="24"/>
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
 		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
-		<PlayerStat stat="Armour" value="22562"/>
+		<PlayerStat stat="Armour" value="23151"/>
 		<PlayerStat stat="Spec:ArmourInc" value="121"/>
-		<PlayerStat stat="PhysicalDamageReduction" value="82"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="83"/>
 		<PlayerStat stat="BlockChance" value="56"/>
 		<PlayerStat stat="SpellBlockChance" value="0"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
@@ -161,7 +161,7 @@
 			</Skill>
 			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Weapon 2 Swap" mainActiveSkill="nil">
 				<Gem enableGlobal2="nil" level="19" enableGlobal1="true" skillId="LeapSlam" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemLeapSlam" quality="0" enabled="true" count="nil" nameSpec="Leap Slam"/>
-				<Gem enableGlobal2="nil" level="19" enableGlobal1="true" skillId="Boneshatter" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemBoneshatter" quality="4" enabled="true" count="nil" nameSpec="Boneshatter"/>
+				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Boneshatter" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemBoneshatter" quality="4" enabled="true" count="nil" nameSpec="Boneshatter"/>
 				<Gem enableGlobal2="nil" level="19" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="nil" nameSpec="Melee Physical Damage"/>
 			</Skill>
 			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Boots" mainActiveSkill="nil">
@@ -182,14 +182,14 @@
 				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportMultistrike" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMultistrike" quality="0" enabled="true" count="nil" nameSpec="Multistrike"/>
 			</Skill>
 			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="NewSunder" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemSunder" quality="16" enabled="true" count="nil" nameSpec="Sunder"/>
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="AncestralSlamSupport" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFistOfWar" quality="10" enabled="true" count="nil" nameSpec="Fist of War"/>
-				<Gem enableGlobal2="nil" level="17" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="2" enabled="true" count="nil" nameSpec="Pulverise"/>
+				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="NewSunder" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemSunder" quality="20" enabled="true" count="nil" nameSpec="Sunder"/>
+				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="AncestralSlamSupport" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFistOfWar" quality="20" enabled="true" count="nil" nameSpec="Fist of War"/>
+				<Gem enableGlobal2="nil" level="18" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="20" enabled="true" count="nil" nameSpec="Pulverise"/>
 				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportIncreasedCriticalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalDamage" quality="0" enabled="true" count="nil" nameSpec="Increased Critical Damage"/>
 				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportWeaponElementalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" quality="10" enabled="true" count="nil" nameSpec="Elemental Damage with Attacks"/>
 			</Skill>
 			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Body Armour" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="17" enableGlobal1="true" skillId="Determination" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemDetermination" quality="0" enabled="true" count="nil" nameSpec="Determination"/>
+				<Gem enableGlobal2="nil" level="18" enableGlobal1="true" skillId="Determination" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemDetermination" quality="0" enabled="true" count="nil" nameSpec="Determination"/>
 			</Skill>
 		</SkillSet>
 	</Skills>
@@ -382,25 +382,6 @@ Attacks have 20% chance to cause Bleeding
 			<ModRange range="0.5" id="7"/>
 		</Item>
 		<Item id="6">
-			Rarity: UNIQUE
-The Writhing Jar
-Hallowed Hybrid Flask
-Unique ID: 452c84d98a3dac703bb7c30030e9cbde8099c79299915118e2c9c6ad9549f093
-Item Level: 72
-Quality: 20
-LevelReq: 60
-Implicits: 0
-11% reduced Charges per use
-69% reduced Amount Recovered
-Instant Recovery
-2 Enemy Writhing Worms escape the Flask when used
-Writhing Worms are destroyed when Hit
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-		</Item>
-		<Item id="7">
 			Rarity: RARE
 Foe Caress
 Spiked Gloves
@@ -425,35 +406,21 @@ Implicits: 1
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
 		</Item>
-		<Item id="8">
+		<Item id="7">
 			Rarity: MAGIC
 Investigator&apos;s Jade Flask of Imposing
 Unique ID: b41deaea377e673b886ef5e94ce2ba2f9a2a5f254b8066f586c657c9503bc078
 Item Level: 41
 Quality: 20
 LevelReq: 27
-Implicits: 2
-{crafted}67% increased effect
-{crafted}Gains no Charges during Effect
+Implicits: 1
+{crafted}Used when you take a Savage Hit
 17% increased Duration
 25% chance to Freeze, Shock and Ignite during Effect
-			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
 			<ModRange range="0.5" id="4"/>
-			<ModRange range="0.5" id="5"/>
 		</Item>
-		<Item id="9">
-			Rarity: MAGIC
-Specialist&apos;s Eternal Life Flask of the Remedy
-Unique ID: f2e885819dc02a99b6aa68f28913f057102dad2b17503f89e222165b743354bf
-Item Level: 69
-Quality: 0
-LevelReq: 65
-Implicits: 0
-26% chance to gain a Flask Charge when you deal a Critical Strike
-Grants Immunity to Poison for 11 seconds if used while Poisoned
-			<ModRange range="0.5" id="2"/>
-		</Item>
-		<Item id="10">
+		<Item id="8">
 			Rarity: UNIQUE
 Redblade Banner
 Painted Tower Shield
@@ -480,7 +447,23 @@ Warcries have infinite Power
 			<ModRange range="0.5" id="6"/>
 			<ModRange range="0.5" id="7"/>
 		</Item>
-		<Item id="11">
+		<Item id="9">
+			Rarity: MAGIC
+Constant Granite Flask of Rupturing
+Unique ID: 1a4da96ae69a0d951177f3687250d34452f36f46983d642933f0f8c25e176dee
+Item Level: 64
+Quality: 20
+LevelReq: 40
+Implicits: 2
+{crafted}65% increased effect
+{crafted}Gains no Charges during Effect
+16% increased Charge Recovery
+38% increased Critical Strike Chance during Effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="10">
 			Rarity: UNIQUE
 Wheel of the Stormsail
 Rotted Round Shield
@@ -507,7 +490,7 @@ Implicits: 1
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
 		</Item>
-		<Item id="12">
+		<Item id="11">
 			Rarity: RARE
 Corruption Heart
 Ashscale Talisman
@@ -527,13 +510,13 @@ Corrupted
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
 		</Item>
-		<Item id="13">
+		<Item id="12">
 			Rarity: UNIQUE
 The Overflowing Chalice
 Sulphur Flask
 Unique ID: 7831723dd706458eb433f71ad217eab4615807162f0c85c18b2d19e91af2d50d
 Item Level: 77
-Quality: 0
+Quality: 20
 LevelReq: 35
 Implicits: 2
 {crafted}Used when you Hit a Rare or Unique Enemy, if not already in effect
@@ -545,7 +528,7 @@ Gains no Charges during Effect of any Overflowing Chalice Flask
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
 		</Item>
-		<Item id="14">
+		<Item id="13">
 			Rarity: UNIQUE
 The Magnate
 Studded Belt
@@ -567,7 +550,7 @@ Corrupted
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
 		</Item>
-		<Item id="15">
+		<Item id="14">
 			Rarity: UNIQUE
 Alberon&apos;s Warpath
 Soldier Boots
@@ -594,7 +577,7 @@ Summoned Skeleton Warriors are Permanent and Follow you
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
 		</Item>
-		<Item id="16">
+		<Item id="15">
 			Rarity: RARE
 Miracle Spiral
 Two-Stone Ring
@@ -614,6 +597,21 @@ Implicits: 1
 			<ModRange range="0.5" id="4"/>
 			<ModRange range="0.5" id="5"/>
 			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="16">
+			Rarity: UNIQUE
+Blood of the Karui
+Sanctified Life Flask
+Unique ID: ee4a62a292d4949ba2a54a163a9491a5a93e81321077c95eab94e3a5f2100f4b
+Item Level: 84
+Quality: 20
+LevelReq: 50
+Implicits: 0
+50% increased Life Recovered
+35% reduced Recovery rate
+Recover Full Life at the end of the Effect
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
 		</Item>
 		<Item id="17">
 			Rarity: UNIQUE
@@ -698,7 +696,7 @@ Physical Damage per 10 Strength
 Doctor&apos;s Eternal Life Flask of Alleviation
 Unique ID: 826d7799fb4fce5f33af27aa6a1e1c7f0e05a7463aa8e368e7d3db54b4683b7b
 Item Level: 66
-Quality: 0
+Quality: 20
 LevelReq: 65
 Implicits: 0
 21% chance to gain a Flask Charge when you deal a Critical Strike
@@ -727,17 +725,17 @@ Grants Immunity to Corrupted Blood for 10 seconds if used while affected by Corr
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 1" itemId="0"/>
 			<Slot itemPbURL="" name="Belt Abyssal Socket 6" itemId="0"/>
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 2" itemId="0"/>
-			<Slot itemPbURL="" name="Gloves" itemId="7"/>
+			<Slot itemPbURL="" name="Gloves" itemId="6"/>
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 3" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 4" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 1" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 4" itemId="0"/>
-			<Slot itemPbURL="" name="Belt" itemId="14"/>
+			<Slot itemPbURL="" name="Belt" itemId="13"/>
 			<Slot itemPbURL="" name="Gloves Abyssal Socket 4" itemId="0"/>
 			<Slot itemPbURL="" name="Boots Abyssal Socket 4" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 2" itemId="0"/>
-			<Slot itemPbURL="" name="Flask 5" itemId="8"/>
+			<Slot itemPbURL="" name="Flask 5" itemId="7"/>
 			<SocketIdURL nodeId="55190" name="Jewel 55190" itemPbURL=""/>
 			<SocketIdURL nodeId="44169" name="Jewel 44169" itemPbURL=""/>
 			<Slot itemPbURL="" name="Boots Abyssal Socket 2" itemId="0"/>
@@ -748,7 +746,7 @@ Grants Immunity to Corrupted Blood for 10 seconds if used while affected by Corr
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 6" itemId="0"/>
 			<SocketIdURL nodeId="33631" name="Jewel 33631" itemPbURL=""/>
 			<Slot itemPbURL="" name="Helmet" itemId="18"/>
-			<Slot itemPbURL="" name="Flask 1" itemId="13"/>
+			<Slot itemPbURL="" name="Flask 1" itemId="12"/>
 			<Slot itemPbURL="" name="Gloves Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 2" itemId="0"/>
 			<Slot itemPbURL="" name="Boots Abyssal Socket 6" itemId="0"/>
@@ -759,15 +757,15 @@ Grants Immunity to Corrupted Blood for 10 seconds if used while affected by Corr
 			<Slot itemPbURL="" name="Belt Abyssal Socket 1" itemId="0"/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 3" itemId="0"/>
 			<Slot itemPbURL="" name="Flask 4" itemId="9"/>
-			<Slot itemPbURL="" name="Flask 2" itemId="6"/>
+			<Slot itemPbURL="" name="Flask 2" itemId="16"/>
 			<Slot itemPbURL="" name="Belt Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 3" itemId="0"/>
-			<Slot itemPbURL="" name="Weapon 2" itemId="10"/>
+			<Slot itemPbURL="" name="Weapon 2" itemId="8"/>
 			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 6" itemId="0"/>
 			<Slot itemPbURL="" name="Boots Abyssal Socket 1" itemId="0"/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 4" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 4" itemId="0"/>
-			<Slot itemPbURL="" name="Weapon 2 Swap" itemId="11"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap" itemId="10"/>
 			<Slot itemPbURL="" name="Weapon 1 Swap" itemId="5"/>
 			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 6" itemId="0"/>
 			<Slot itemPbURL="" name="Ring 2" itemId="4"/>
@@ -778,13 +776,13 @@ Grants Immunity to Corrupted Blood for 10 seconds if used while affected by Corr
 			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 1" itemId="0"/>
 			<Slot itemPbURL="" name="Body Armour" itemId="19"/>
 			<Slot itemPbURL="" name="Gloves Abyssal Socket 3" itemId="0"/>
-			<Slot itemPbURL="" name="Ring 1" itemId="16"/>
+			<Slot itemPbURL="" name="Ring 1" itemId="15"/>
 			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 4" itemId="0"/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Gloves Abyssal Socket 6" itemId="0"/>
-			<Slot itemPbURL="" name="Boots" itemId="15"/>
+			<Slot itemPbURL="" name="Boots" itemId="14"/>
 			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 5" itemId="0"/>
-			<Slot itemPbURL="" name="Amulet" itemId="12"/>
+			<Slot itemPbURL="" name="Amulet" itemId="11"/>
 		</ItemSet>
 	</Items>
 	<Config>
