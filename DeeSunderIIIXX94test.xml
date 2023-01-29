@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="94" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Marauder" ascendClassName="Berserker" mainSocketGroup="8" viewMode="ITEMS" pantheonMinorGod="None">
-		<PlayerStat stat="AverageDamage" value="631358.53724843"/>
-		<PlayerStat stat="AverageBurstDamage" value="631358.53724843"/>
+		<PlayerStat stat="AverageDamage" value="748778.23687291"/>
+		<PlayerStat stat="AverageBurstDamage" value="748778.23687291"/>
 		<PlayerStat stat="Speed" value="2.016"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="55.1196"/>
-		<PlayerStat stat="CritChance" value="45.749268"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="53.1116"/>
+		<PlayerStat stat="CritChance" value="48.331556"/>
 		<PlayerStat stat="CritMultiplier" value="4.3"/>
-		<PlayerStat stat="HitChance" value="83"/>
-		<PlayerStat stat="TotalDPS" value="1272818.8110928"/>
+		<PlayerStat stat="HitChance" value="91"/>
+		<PlayerStat stat="TotalDPS" value="1509536.9255358"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="1272818.8110928"/>
-		<PlayerStat stat="IgniteDPS" value="37412.366413277"/>
-		<PlayerStat stat="WithIgniteDPS" value="1310231.1775061"/>
-		<PlayerStat stat="WithPoisonDPS" value="1272818.8110928"/>
-		<PlayerStat stat="TotalDotDPS" value="37412.366413277"/>
+		<PlayerStat stat="WithBleedDPS" value="1509536.9255358"/>
+		<PlayerStat stat="IgniteDPS" value="38684.447281773"/>
+		<PlayerStat stat="WithIgniteDPS" value="1548221.3728176"/>
+		<PlayerStat stat="WithPoisonDPS" value="1509536.9255358"/>
+		<PlayerStat stat="TotalDotDPS" value="38684.447281773"/>
 		<PlayerStat stat="CullingDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="1310231.1775061"/>
+		<PlayerStat stat="CombinedDPS" value="1548221.3728176"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="20"/>
 		<PlayerStat stat="ManaCost" value="24"/>
 		<PlayerStat stat="ManaPercentCost" value="0"/>
@@ -30,25 +30,25 @@
 		<PlayerStat stat="ESPerSecondCost" value="0"/>
 		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
 		<PlayerStat stat="RageCost" value="0"/>
-		<PlayerStat stat="Str" value="1285"/>
+		<PlayerStat stat="Str" value="1320"/>
 		<PlayerStat stat="ReqStr" value="160"/>
 		<PlayerStat stat="Dex" value="112"/>
 		<PlayerStat stat="ReqDex" value="111"/>
 		<PlayerStat stat="Int" value="123"/>
 		<PlayerStat stat="ReqInt" value="116"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="TotalEHP" value="63303.059244355"/>
-		<PlayerStat stat="PhysicalMaximumHitTaken" value="19848"/>
-		<PlayerStat stat="LightningMaximumHitTaken" value="43050"/>
-		<PlayerStat stat="FireMaximumHitTaken" value="43050"/>
-		<PlayerStat stat="ColdMaximumHitTaken" value="43050"/>
-		<PlayerStat stat="ChaosMaximumHitTaken" value="13253"/>
-		<PlayerStat stat="Life" value="4233"/>
+		<PlayerStat stat="TotalEHP" value="63731.998815882"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="19921"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="43245"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="43245"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="43245"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="13313"/>
+		<PlayerStat stat="Life" value="4270"/>
 		<PlayerStat stat="Spec:LifeInc" value="105"/>
-		<PlayerStat stat="LifeUnreserved" value="2382"/>
-		<PlayerStat stat="LifeRecoverable" value="2382"/>
-		<PlayerStat stat="LifeUnreservedPercent" value="56.272147413182"/>
-		<PlayerStat stat="LifeRegenRecovery" value="413.9"/>
+		<PlayerStat stat="LifeUnreserved" value="2411"/>
+		<PlayerStat stat="LifeRecoverable" value="2411"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="56.463700234192"/>
+		<PlayerStat stat="LifeRegenRecovery" value="415.5"/>
 		<PlayerStat stat="LifeLeechGainRate" value="0"/>
 		<PlayerStat stat="Mana" value="698"/>
 		<PlayerStat stat="Spec:ManaInc" value="0"/>
@@ -71,7 +71,7 @@
 		<PlayerStat stat="Armour" value="23174"/>
 		<PlayerStat stat="Spec:ArmourInc" value="121"/>
 		<PlayerStat stat="PhysicalDamageReduction" value="83"/>
-		<PlayerStat stat="BlockChance" value="58"/>
+		<PlayerStat stat="BlockChance" value="59"/>
 		<PlayerStat stat="SpellBlockChance" value="0"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
@@ -85,12 +85,12 @@
 		<PlayerStat stat="ChaosResist" value="3"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.976"/>
-		<PlayerStat stat="FullDPS" value="1849671.0584037"/>
-		<PlayerStat stat="FullDotDPS" value="37412.366413277"/>
-		<FullDPSSkill skillPart="First Wave Area" source="" stat="Sunder" value="1272818.8110928"/>
-		<FullDPSSkill skillPart="" source="" stat="Ancestral Warchief" value="359713.92739912"/>
-		<FullDPSSkill skillPart="" source="" stat="Leap Slam" value="179725.95349847"/>
-		<FullDPSSkill skillPart="" source="Sunder" stat="Best Ignite DPS" value="37412.366413277"/>
+		<PlayerStat stat="FullDPS" value="2183184.9983074"/>
+		<PlayerStat stat="FullDotDPS" value="38684.447281773"/>
+		<FullDPSSkill skillPart="First Wave Area" source="" stat="Sunder" value="1509536.9255358"/>
+		<FullDPSSkill skillPart="" source="" stat="Ancestral Warchief" value="423382.61878374"/>
+		<FullDPSSkill skillPart="" source="" stat="Leap Slam" value="211581.00670614"/>
+		<FullDPSSkill skillPart="" source="Sunder" stat="Best Ignite DPS" value="38684.447281773"/>
 		<PlayerStat stat="PowerCharges" value="3"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="3"/>
@@ -195,9 +195,9 @@
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="2" masteryEffects="{62015,23021},{35977,14206},{28284,26621},{25031,60034},{38320,55308},{8556,11938},{12382,47642},{62588,64381},{33823,2987},{64406,10680}" nodes="34009,24083,64406,19782,49178,61602,59928,15086,65701,65696,44169,56355,14056,63282,46578,12236,47175,29294,13714,55190,15451,1325,25324,24155,50858,50862,19884,62588,34601,50024,55676,30691,24914,34400,14930,31257,9271,62429,49080,20835,61262,33287,15405,30439,65698,24383,39768,49772,65702,55485,61198,55772,50422,32251,12795,50969,63583,11792,14419,29933,34031,26523,50288,3644,32739,5233,29353,56001,31471,34973,18302,47426,25531,38320,46910,65034,23881,63027,36200,58831,63723,65703,48807,11859,48438,10221,49538,43374,8556,26712,33823,24865,11700,39023,12382,33631,37501,49416,28475,25933,28284,6446,58449,20551,10073,50225,4833,30733,49147,62015,18025,26725,35977,15678,24528,5865,33740,31628,25031,53987,35288,9511,8879,54127,476" treeVersion="3_20" classId="1">
+		<Spec ascendClassId="2" masteryEffects="{62015,23021},{35977,14206},{28284,26621},{25031,60034},{38320,55308},{8556,11938},{12382,47642},{62588,64381},{33823,2987},{64406,10680}" nodes="37501,24083,49147,19782,49178,18025,15678,15086,44169,65696,65701,476,54127,63282,46578,47175,34031,9511,13714,55190,59928,1325,25324,15451,50858,32251,19884,62588,31628,50024,33740,30691,24914,34400,14930,31257,5865,55485,49080,50288,35977,26725,62429,30439,65698,24383,39768,61262,65702,9271,61198,55772,50422,24155,12795,50969,14056,11792,14419,29933,10073,26523,20551,3644,34973,5233,29353,56001,56355,46910,18302,47426,28284,38320,25933,65034,23881,25531,63723,49416,34009,65703,33631,11859,12382,10221,49538,39023,8556,29294,24865,33823,11700,26712,43374,48438,48807,58831,28475,36200,63027,6446,58449,63583,50862,50225,4833,30733,64406,62015,61602,33287,15405,49772,24528,20835,55676,34601,25031,53987,35288,12236,8879,32739,31471" treeVersion="3_20" classId="1">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgECdoTZXhP7lk1GwBrwouoYOu6sidwjNuj3MrXyL8w1kteWPFsFLWLsXlvGqsauTaz0fIcpw2jZfHfjYVKGYDpSehkkN_Pdv7hRY-9Oggc8LXbnXz-bWMJs2L3vDtncxPZ9-zH7xxn4Xy4QOFN07YTvZ5vEcA48f-MUcXKp2sF674idR365QmO7lbC3Pv4KXUn2M41o5c_4676nLlO9NiftwYKpbiFsaFiEH2EhLbSYbzBeg1-SfcEIbztlTW58GS7kUVBHJ1nEMRLheA2_-_I_RmloZYyJPT5f0Bbpg8x7jGHH0uOJ2CUnIq_TbwHcBQClAKAAogCmAKcKKbj7lvt99HzYDJWwLqIhbAurhB-6GjBeZ_1ufFnt8j83foyJ6oJhxw==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgECdpJ9XhO_-01GwBpGaT0-Ou6siQHc02_3MrXyhO8lJzWS15bqGAUtYuw8W8aqfftNrPR8e4zDaIPMd-NhUoZgOlJ6GRbp2L2_uMRwjIloZfPddudfP5tY704kN-8O2dzE9l5bMfvHGTboLhA4U3TtJ1lnm1BHDjyInRRxcqnawdwjtz5HfrlCbnyVsGVN_gpdSWO7-OvBCITZg18uUzBeJ-3BgphvIWxhIYQfLbRoWKluvTa-p-XPbzuNaPYzGS7kUfhfxq7EMRLheA37lvI_8KKCBzwtwmxf0FFj2XyHKWHH0uOJ2C_MIq9_43rvBQCgAKUAogCmAKcK-330fDd-jIln_W582AyVsLoaMF4uoiFsC6uEHym4-5ZZ7fI_6oJhxw==
 			</URL>
 			<Sockets>
 				<Socket nodeId="55190" itemId="23"/>
@@ -205,8 +205,8 @@
 				<Socket nodeId="28475" itemId="25"/>
 				<Socket nodeId="49080" itemId="24"/>
 				<Socket nodeId="33631" itemId="25"/>
-				<Socket nodeId="26725" itemId="25"/>
 				<Socket nodeId="44169" itemId="1"/>
+				<Socket nodeId="26725" itemId="24"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -228,52 +228,6 @@ it and your Class&apos; starting location
 +5 to Strength
 +40 to Armour
 Corrupted
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-		</Item>
-		<Item id="2">
-			Rarity: RARE
-Phoenix Cut
-Crimson Jewel
-Unique ID: 229394fd28a51ecdefc9841cd02094dbb5caaf378701360d6527fdf08ddeaca9
-Item Level: 57
-Implicits: 0
-8% increased Damage
-14% increased Global Physical Damage
-4% increased Attack Speed
-Damaging Ailments deal damage 5% faster
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-		</Item>
-		<Item id="3">
-			Rarity: RARE
-Ghoul Ornament
-Crimson Jewel
-Unique ID: c0201fd157465f7d6ea98df0b6527333b33e3c964e6265cf1709c56adf796b19
-Item Level: 85
-Implicits: 0
-+9 to Strength and Dexterity
-15% increased Global Physical Damage
-15% increased Fire Damage
-+10% to Fire and Lightning Resistances
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
-			<ModRange range="0.5" id="3"/>
-			<ModRange range="0.5" id="4"/>
-		</Item>
-		<Item id="21">
-			Rarity: RARE
-Dragon Desire
-Crimson Jewel
-Unique ID: 6f54d5b88e3744ca8c468e9b696920a0e47db2049f12bbd391db2a39081ea249
-Item Level: 74
-Implicits: 0
-10% increased Damage
-16% increased Global Physical Damage
-5% increased Attack Speed
 			<ModRange range="0.5" id="1"/>
 			<ModRange range="0.5" id="2"/>
 			<ModRange range="0.5" id="3"/>
@@ -813,36 +767,36 @@ Murderous Eye Jewel affecting you, up to a maximum of +50%
 		<Input name="enemyIsBoss" string="Pinnacle"/>
 		<Input name="pantheonMajorGod" string="None"/>
 		<Input name="bandit" string="None"/>
-		<Input name="enemySizePreset" string="Medium"/>
+		<Input name="multiplierRage" number="60"/>
 		<Input name="conditionEnemyBrittle" boolean="true"/>
 		<Input name="useFrenzyCharges" boolean="true"/>
-		<Input name="conditionBrittleEffect" number="2"/>
+		<Input name="conditionUsedWarcryRecently" boolean="true"/>
+		<Input name="conditionEnemyScorched" boolean="true"/>
 		<Input name="buffFortification" boolean="true"/>
-		<Input name="conditionScorchedEffect" number="30"/>
+		<Input name="conditionBrittleEffect" number="2"/>
 		<Input name="useEnduranceCharges" boolean="true"/>
 		<Input name="buffOnslaught" boolean="true"/>
-		<Input name="multiplierRage" number="60"/>
+		<Input name="conditionEnemyTaunted" boolean="true"/>
 		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="pantheonMinorGod" string="None"/>
-		<Input name="conditionEnemyTaunted" boolean="true"/>
 		<Input name="conditionUsedWarcryInPast8Seconds" boolean="true"/>
-		<Input name="conditionEnemyScorched" boolean="true"/>
-		<Input name="conditionUsedWarcryRecently" boolean="true"/>
+		<Input name="enemySizePreset" string="Medium"/>
+		<Input name="conditionScorchedEffect" number="30"/>
 		<Placeholder name="enemySpeed" number="700"/>
 		<Placeholder name="enemyPhysicalDamage" number="2320"/>
 		<Placeholder name="enemyChaosResist" number="30"/>
 		<Placeholder name="enemyLightningDamage" number="2320"/>
 		<Placeholder name="enemyCritChance" number="5"/>
-		<Placeholder name="enemyFirePen" number="5"/>
+		<Placeholder name="enemyLightningPen" number="5"/>
 		<Placeholder name="enemyFireResist" number="50"/>
 		<Placeholder name="enemyColdDamage" number="2320"/>
 		<Placeholder name="enemyColdPen" number="5"/>
-		<Placeholder name="enemyFireDamage" number="2320"/>
+		<Placeholder name="enemyLevel" number="84"/>
 		<Placeholder name="enemyCritDamage" number="30"/>
 		<Placeholder name="enemyChaosDamage" number="580"/>
 		<Placeholder name="enemyColdResist" number="50"/>
-		<Placeholder name="enemyLevel" number="84"/>
-		<Placeholder name="enemyLightningPen" number="5"/>
+		<Placeholder name="enemyFireDamage" number="2320"/>
+		<Placeholder name="enemyFirePen" number="5"/>
 		<Placeholder name="enemyLightningResist" number="50"/>
 	</Config>
 </PathOfBuilding>
