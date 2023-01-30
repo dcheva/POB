@@ -84,10 +84,10 @@
 		<PlayerStat stat="ChaosResist" value="-60"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.6848"/>
-		<PlayerStat stat="FullDPS" value="14944722.111772"/>
+		<PlayerStat stat="FullDPS" value="15091990.166691"/>
 		<PlayerStat stat="FullDotDPS" value="0"/>
-		<FullDPSSkill skillPart="" source="Mjolner" stat="Manabond" value="12856501.194385"/>
-		<FullDPSSkill skillPart="" source="" stat="Full Culling DPS" value="1494472.2111772"/>
+		<FullDPSSkill skillPart="" source="Mjolner" stat="Manabond" value="12989042.443812"/>
+		<FullDPSSkill skillPart="" source="" stat="Full Culling DPS" value="1509199.0166691"/>
 		<FullDPSSkill skillPart="Ring" source="CwC" stat="Shock Nova" value="545599.95172571"/>
 		<FullDPSSkill skillPart="" source="" stat="Cyclone" value="48148.754484372"/>
 		<PlayerStat stat="PowerCharges" value="4"/>
@@ -187,9 +187,9 @@
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="2" masteryEffects="{14122,20364},{4492,5356},{47197,23621},{3471,29586}" nodes="7388,58168,12250,38701,7444,2292,20228,20987,52407,9392,10115,21984,53279,30940,44924,27203,51108,9408,29712,65895,35556,64583,42760,61525,27659,25651,65894,65888,65578,65898,49605,65568,32932,13170,50862,21958,55114,27592,22618,29026,47251,60398,33479,52502,15405,7960,65570,61419,41263,48298,10835,22472,14122,46340,7503,22473,6204,18767,43000,25237,19635,47197,40510,5296,25714,7938,54645,4492,48362,11046,18174,46910,55332,31819,48778,48423,21033,44797,32710,26270,45680,65893,6230,922,1031,24362,16775,39916,57167,3452,50826,33631,41026,4397,65203,63976,11420,36678,27929,27415,12913,36634,26866,64210,33755,60388,38516,33310,63425,24256,44908,2913,27163,3471,22637,5456,26960,31703,33740,10490,29994,14021,5935,34906,8948,56029,37671" treeVersion="3_20" classId="5">
+		<Spec ascendClassId="2" masteryEffects="{14122,20364},{4492,5356},{47197,23621},{3471,29586}" nodes="7388,58168,12250,38701,7444,2292,20228,20987,52407,9392,10115,21984,44908,5935,44924,27203,51108,13170,65568,65895,35556,65898,42760,61525,27659,25651,65578,65888,65894,64583,49605,29712,32932,9408,50862,21958,37671,46910,22618,29026,47251,56029,33479,8948,15405,27592,65570,61419,41263,14021,10835,22472,29994,46340,7503,22473,6204,18767,10490,25237,19635,47197,33740,5296,31703,7938,26960,4492,5456,11046,18174,48362,55332,3471,48778,48423,21033,922,32710,26270,2913,65893,6230,44797,31819,24256,33631,39916,57167,3452,50826,24362,33310,4397,65203,38516,11420,36678,33755,64210,27415,26866,36634,12913,27929,60388,63976,41026,63425,16775,53279,1031,27163,45680,22637,54645,7960,14122,40510,43000,48298,52502,30940,34906,25714,60398,55114" treeVersion="3_20" classId="5">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgUCdRzc4zgv2pctHRQI9E8EUfvMtySwJ4NV4NAfr3xqQ8ekJMB0EIrk_EenCGwLZDPBxYCkM3LGrlXG10pryFhacWK4k-vugsfNFjwtHxjv66EvvKoqU1fINyq1BB1PV8kYPElPp_hilUyzuF2ePhSwZHIfAtV1EYy86ismRv63PtgkfEu-ir0nUimu_X_GZp6ycBhWA5oEB18qQYeb7N9PDXzGioNfoEIRLf6z-egsnI9GbRlrFzJxjxpo8vrSg9vr5JZ0gh73wV7Ar2wLYWobDY9YbRVQaVB714PMKPp1KjbFFy-IWiL02t2TJwgBZwFmAWAAKgFqACAAIgFlBE-MNypcRbhdFOwRjHOSDY8=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgUCdRzc4zgv2pctHRQI9E8EUfvMtySwJ4NV4K9sFy-vfGpDx6QzcorkpwhsC2Qz_EfBxXQQgKQkwMauVcaTJ7c-WFpxYriT2t2CxyL0PC1ryO_roS82xSpTV8h1KrUEHU9XyRg8SU8o-mKVTLO4XYPMFLB71x8CaVARjBVQKyZG_rzq2CQNj76KvSdSKQOaf8ZmngthGFau_XxLXsCDX5vs308NfMaKXyqCHhEt_rOWdCycj0aD2_rSaxdo8o8aMnFtGevk-eigQvfBQYfQHwQHahuycFht1XUfGDcqnj6n-LyqzRaIWmRy6-7XSggAIAFnAWoAKgFgAWYAIgFlBFxFuF0U7BGMc5INj0-MNyo=
 			</URL>
 			<Sockets>
 				<Socket nodeId="64583" itemId="3"/>
@@ -209,7 +209,7 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="274.644" showHeatMap="false" zoomLevel="6" showStatDifferences="true" zoomX="110.856"/>
+	<TreeView searchStr="" zoomY="397.51666666667" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="242.31666666667"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			Rarity: RARE
@@ -834,16 +834,16 @@ Chaos Damage is taken from Mana before Life
 		<Placeholder name="enemyChaosResist" number="30"/>
 		<Placeholder name="enemyLightningDamage" number="2320"/>
 		<Placeholder name="enemyCritChance" number="5"/>
-		<Placeholder name="enemyFirePen" number="5"/>
+		<Placeholder name="enemyLightningPen" number="5"/>
 		<Placeholder name="enemyFireResist" number="50"/>
 		<Placeholder name="enemyColdDamage" number="2320"/>
 		<Placeholder name="enemyColdPen" number="5"/>
-		<Placeholder name="enemyFireDamage" number="2320"/>
+		<Placeholder name="enemyLevel" number="84"/>
 		<Placeholder name="enemyCritDamage" number="30"/>
 		<Placeholder name="enemyChaosDamage" number="580"/>
 		<Placeholder name="enemyColdResist" number="50"/>
-		<Placeholder name="enemyLevel" number="84"/>
-		<Placeholder name="enemyLightningPen" number="5"/>
+		<Placeholder name="enemyFireDamage" number="2320"/>
+		<Placeholder name="enemyFirePen" number="5"/>
 		<Placeholder name="enemyLightningResist" number="50"/>
 	</Config>
 </PathOfBuilding>
