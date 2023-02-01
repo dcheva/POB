@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="74" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Templar" ascendClassName="Hierophant" mainSocketGroup="8" viewMode="TREE" pantheonMinorGod="None">
+	<Build level="74" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Templar" ascendClassName="Hierophant" mainSocketGroup="8" viewMode="ITEMS" pantheonMinorGod="None">
 		<PlayerStat stat="AverageHit" value="54595.621395"/>
 		<PlayerStat stat="AverageBurstDamage" value="54595.621395"/>
 		<PlayerStat stat="Speed" value="3.174"/>
@@ -181,10 +181,10 @@
 				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedDuration" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" quality="20" enabled="true" count="1" nameSpec="Increased Duration"/>
 				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportArcaneSurge" qualityId="Alternate1" gemId="Metadata/Items/Gems/SupportGemArcaneSurge" quality="20" enabled="true" count="1" nameSpec="Arcane Surge"/>
 			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="---------------------------" enabled="true" mainActiveSkill="1"/>
 			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" source="Item:14:Shaper&apos;s Touch, Crusader Gloves" enabled="true" slot="Gloves" mainActiveSkill="nil">
 				<Gem enableGlobal2="nil" level="1" enableGlobal1="true" skillId="ElementalWeakness" quality="0" enabled="true" count="nil" nameSpec=""/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="---------------------------" enabled="true" mainActiveSkill="1"/>
 		</SkillSet>
 		<SkillSet title="100-2" id="2">
 			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="false" slot="Weapon 1" mainActiveSkill="1">
@@ -266,9 +266,9 @@
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="2">
-		<Spec title="100-" ascendClassId="2" masteryEffects="{14122,20364},{4492,5356},{47197,23621},{3471,29586}" nodes="7388,39841,38701,64583,2292,20987,52407,9392,21984,63976,51108,35556,60090,63447,25651,31703,27592,22618,47251,61419,41263,10835,7503,22473,18767,47197,26960,1346,4492,18174,48778,48423,32710,26270,65893,38516,922,1031,39916,57167,3452,50826,24362,36678,12913,63425,44908,65894,40510,43000,34906,60398,37671,58168,12250,7444,20228,52502,9408,10115,44924,45680,65895,42760,61525,27659,41026,49605,32932,50862,21958,46910,11420,33479,15405,65570,22472,46340,65578,2913,24256,25237,19635,34907,5296,26866,46092,11046,21033,44184,3471,33755,65568,13170,65898,29712,65888,33631,48298,10490,65203,25714,48362,31819,16775,7960,27415,45067,64210,14936,33310,60388,29994,29026,36634,44797,53279,6230,27163,5935,22637,5456,44723,27203,33740,6204,14122,30940,8948,54645,27929,56029,55114" treeVersion="3_20" classId="5">
+		<Spec title="100-" ascendClassId="2" masteryEffects="{14122,20364},{4492,5356},{47197,23621},{3471,29586}" nodes="7388,39841,38701,64583,2292,20987,52407,9392,21984,63976,51108,35556,60090,63447,25651,31703,27592,22618,47251,61419,41263,10835,7503,22473,18767,47197,26960,1346,4492,18174,48778,48423,32710,26270,65893,38516,922,1031,39916,57167,3452,50826,24362,36678,12913,63425,44908,65894,40510,43000,34906,60398,37671,58168,12250,7444,20228,52502,9408,10115,44924,45680,65895,42760,61525,27659,41026,49605,32932,50862,21958,46910,11420,33479,15405,65570,22472,46340,65578,2913,24256,55485,25237,19635,34907,5296,26866,46092,11046,21033,44184,3471,65034,33755,65568,13170,65898,29712,65888,33631,48298,10490,65203,25714,48362,31819,16775,7960,27415,45067,64210,14936,33310,60388,29994,29026,36634,44797,53279,6230,27163,5935,22637,5456,44723,27203,33740,6204,14122,30940,8948,54645,27929,56029,55114" treeVersion="3_20" classId="5">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgUCexzcm6GXLfxHCPRR-8y3JLBV4Pnox6SK5Oq699dkM3vXa8hYWriT7-uhLypTHU9XyUlPuF1pUAVCEYxG_r6KvSd_xmaelnQDmgQHm-zfTw18xopfKo9GMnH3wa9snj6n-Iha6-6TJ-M4L9odFE8EzRYkwCeDr3yycKcIbAugQsHFgKTGrlXGtz4snILHPC1XyLUEC2FewGKVTLOIWxSwaPK0DCsmUimsmA2Pg9szcnQQg1-8qij6_rNkcrzqfEtBhx8YaxewC_rSOliCHuvkdSpxYo8arv3QHxhWahsXL1htFVCus2pDg8wYPDcqIvTVdW0Z2t3XSggBZQFmAWcAIgAqACABagFgBFxFuF0U7BGMc5INj0-MNyo=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgUCfRzcm6GXLfxHCPRR-8y3JLBV4Pnox6SK5Oq699dkM3vXa8hYWriT7-uhLypTHU9XyUlPuF1pUAVCEYxG_r6KvSd_xmaelnQDmgQHm-zfTw18xopfKo9GMnH3wa9snj6n-Iha6-6TJ-M4L9odFE8EzRYkwCeDr3yycKcIbAugQsHFgKTGrlXGtz4snILHPC1XyLUEC2FewNi9YpVMs4hbFLBo8rQMKyZSKayYDY_-CoPbM3J0EINfvKoo-v6zZHK86nxLQYcfGGsXsAv60jpYgh7r5HUqcWKPGq790B8YVmobFy9YbRVQrrNqQ4PMGDw3KiL01XVtGdrd10oIAWUBZgFnACIAKgAgAWoBYARcRbhdFOwRjHOSDY9PjDcq
 			</URL>
 			<Sockets>
 				<Socket nodeId="64583" itemId="3"/>
