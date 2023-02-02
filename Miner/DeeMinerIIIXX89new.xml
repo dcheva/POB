@@ -84,8 +84,10 @@
 		<PlayerStat stat="ChaosResist" value="-34"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.24"/>
-		<PlayerStat stat="FullDPS" value="0"/>
+		<PlayerStat stat="FullDPS" value="6511402.3252107"/>
 		<PlayerStat stat="FullDotDPS" value="0"/>
+		<FullDPSSkill skillPart="" source="" stat="10x Ice Trap" value="5977136.2271578"/>
+		<FullDPSSkill skillPart="" source="" stat="Full Culling DPS" value="534266.09805297"/>
 		<PlayerStat stat="PowerCharges" value="6"/>
 		<PlayerStat stat="PowerChargesMax" value="6"/>
 		<PlayerStat stat="FrenzyCharges" value="3"/>
@@ -141,66 +143,66 @@
 	</Calcs>
 	<Skills sortGemsByDPSField="CombinedDPS" activeSkillSet="1" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="normalMaximum" showSupportGemTypes="ALL" showAltQualityGems="false">
 		<SkillSet id="1">
-			<Skill mainActiveSkillCalcs="1" includeInFullDPS="nil" label="" enabled="true" slot="Boots" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" skillMinionCalcs="SummonedIceGolem" level="19" enableGlobal1="true" skillId="SummonIceGolem" skillMinionSkill="1" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" quality="0" enabled="true" count="nil" nameSpec="Summon Ice Golem" skillMinion="SummonedIceGolem"/>
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportAddedColdDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedColdDamage" quality="0" enabled="true" count="nil" nameSpec="Added Cold Damage"/>
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="HeraldOfIce" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemHeraldOfIce" quality="0" enabled="false" count="nil" nameSpec="Herald of Ice"/>
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="FrostBomb" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFrostBomb" quality="0" enabled="true" count="nil" nameSpec="Frost Bomb"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Boots" mainActiveSkill="1">
+				<Gem enableGlobal2="false" skillMinionSkillCalcs="1" skillMinionCalcs="SummonedIceGolem" level="19" enableGlobal1="true" skillId="SummonIceGolem" skillMinionSkill="1" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" quality="0" enabled="true" count="1" nameSpec="Summon Ice Golem" skillMinion="SummonedIceGolem"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportAddedColdDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedColdDamage" quality="0" enabled="true" count="1" nameSpec="Added Cold Damage"/>
+				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="HeraldOfIce" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemHeraldOfIce" quality="0" enabled="false" count="1" nameSpec="Herald of Ice"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="FrostBomb" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFrostBomb" quality="0" enabled="true" count="1" nameSpec="Frost Bomb"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Gloves" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="19" enableGlobal1="true" skillId="ElementalWeakness" qualityId="Alternate1" gemId="Metadata/Items/Gems/SkillGemElementalWeakness" quality="19" enabled="true" count="nil" nameSpec="Elemental Weakness"/>
-				<Gem enableGlobal2="nil" level="6" enableGlobal1="true" skillId="ViciousHexSupport" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemImpendingDoom" quality="0" enabled="true" count="nil" nameSpec="Impending Doom"/>
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportIncreasedAreaOfEffect" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedAreaOfEffect" quality="0" enabled="true" count="nil" nameSpec="Increased Area of Effect"/>
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportHexBloom" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemHexBloom" quality="0" enabled="true" count="nil" nameSpec="Hex Bloom"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Gloves" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="19" enableGlobal1="true" skillId="ElementalWeakness" qualityId="Alternate1" gemId="Metadata/Items/Gems/SkillGemElementalWeakness" quality="19" enabled="true" count="1" nameSpec="Elemental Weakness"/>
+				<Gem enableGlobal2="false" level="6" enableGlobal1="true" skillId="ViciousHexSupport" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemImpendingDoom" quality="0" enabled="true" count="1" nameSpec="Impending Doom"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedAreaOfEffect" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedAreaOfEffect" quality="0" enabled="true" count="1" nameSpec="Increased Area of Effect"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportHexBloom" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemHexBloom" quality="0" enabled="true" count="1" nameSpec="Hex Bloom"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Weapon 1 Swap" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="19" enableGlobal1="true" skillId="IceDash" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFrostblink" quality="0" enabled="true" count="nil" nameSpec="Frostblink"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Weapon 1 Swap" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="19" enableGlobal1="true" skillId="IceDash" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFrostblink" quality="0" enabled="true" count="1" nameSpec="Frostblink"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Weapon 1 Swap" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="19" enableGlobal1="true" skillId="SupportMultiTrap" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMultiTrap" quality="0" enabled="true" count="nil" nameSpec="Multiple Traps"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Weapon 1 Swap" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="19" enableGlobal1="true" skillId="SupportMultiTrap" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMultiTrap" quality="0" enabled="true" count="1" nameSpec="Multiple Traps"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Weapon 2 Swap" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="19" enableGlobal1="true" skillId="IceDash" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFrostblink" quality="0" enabled="true" count="nil" nameSpec="Frostblink"/>
-				<Gem enableGlobal2="nil" level="19" enableGlobal1="true" skillId="IceDash" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFrostblink" quality="0" enabled="true" count="nil" nameSpec="Frostblink"/>
-				<Gem enableGlobal2="nil" level="19" enableGlobal1="true" skillId="IceDash" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFrostblink" quality="0" enabled="true" count="nil" nameSpec="Frostblink"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Weapon 2 Swap" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="19" enableGlobal1="true" skillId="IceDash" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFrostblink" quality="0" enabled="true" count="1" nameSpec="Frostblink"/>
+				<Gem enableGlobal2="false" level="19" enableGlobal1="true" skillId="IceDash" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFrostblink" quality="0" enabled="true" count="1" nameSpec="Frostblink"/>
+				<Gem enableGlobal2="false" level="19" enableGlobal1="true" skillId="IceDash" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFrostblink" quality="0" enabled="true" count="1" nameSpec="Frostblink"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Weapon 2" mainActiveSkill="nil">
-				<Gem enableGlobal2="true" level="19" enableGlobal1="true" skillId="Hatred" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemHatred" quality="0" enabled="true" count="nil" nameSpec="Hatred"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Weapon 2" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="19" enableGlobal1="true" skillId="Hatred" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemHatred" quality="0" enabled="true" count="1" nameSpec="Hatred"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Weapon 2" mainActiveSkill="1">
-				<Gem enableGlobal2="true" level="19" enableGlobal1="true" skillId="Haste" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemHaste" quality="0" enabled="false" count="nil" nameSpec="Haste"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Weapon 2" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="19" enableGlobal1="true" skillId="Haste" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemHaste" quality="0" enabled="false" count="1" nameSpec="Haste"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Weapon 2" mainActiveSkill="nil">
-				<Gem enableGlobal2="true" level="6" enableGlobal1="true" skillId="PetrifiedBlood" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPetrifiedBlood" quality="0" enabled="false" count="nil" nameSpec="Petrified Blood"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Weapon 2" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="6" enableGlobal1="true" skillId="PetrifiedBlood" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPetrifiedBlood" quality="0" enabled="false" count="1" nameSpec="Petrified Blood"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="IceTrap" qualityId="Alternate1" gemId="Metadata/Items/Gems/SkillGemIceTrap" quality="23" enabled="true" count="nil" nameSpec="Ice Trap"/>
-				<Gem enableGlobal2="nil" level="5" enableGlobal1="true" skillId="SupportAddedColdDamagePlus" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedColdDamagePlus" quality="20" enabled="true" count="nil" nameSpec="Awakened Added Cold Damage"/>
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportAdditionalTrapMine" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemSwiftAssembly" quality="0" enabled="true" count="nil" nameSpec="Swift Assembly"/>
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportPowerChargeOnCrit" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" quality="20" enabled="true" count="nil" nameSpec="Power Charge On Critical"/>
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportTrapAndMineDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemTrapAndMineDamage" quality="20" enabled="true" count="nil" nameSpec="Trap and Mine Damage"/>
-				<Gem enableGlobal2="nil" level="19" enableGlobal1="true" skillId="SupportIncreasedCriticalStrikes" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes" quality="2" enabled="true" count="nil" nameSpec="Increased Critical Strikes"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="IceTrap" qualityId="Alternate1" gemId="Metadata/Items/Gems/SkillGemIceTrap" quality="23" enabled="true" count="10" nameSpec="Ice Trap"/>
+				<Gem enableGlobal2="false" level="5" enableGlobal1="true" skillId="SupportAddedColdDamagePlus" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedColdDamagePlus" quality="20" enabled="true" count="1" nameSpec="Awakened Added Cold Damage"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportAdditionalTrapMine" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemSwiftAssembly" quality="0" enabled="true" count="1" nameSpec="Swift Assembly"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportPowerChargeOnCrit" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" quality="20" enabled="true" count="1" nameSpec="Power Charge On Critical"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportTrapAndMineDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemTrapAndMineDamage" quality="20" enabled="true" count="1" nameSpec="Trap and Mine Damage"/>
+				<Gem enableGlobal2="false" level="19" enableGlobal1="true" skillId="SupportIncreasedCriticalStrikes" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes" quality="2" enabled="true" count="1" nameSpec="Increased Critical Strikes"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Weapon 1" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="IceDash" qualityId="Alternate1" gemId="Metadata/Items/Gems/SkillGemFrostblink" quality="14" enabled="true" count="nil" nameSpec="Frostblink"/>
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportElementalProliferation" qualityId="Alternate2" gemId="Metadata/Items/Gems/SupportGemElementalProliferation" quality="20" enabled="true" count="nil" nameSpec="Elemental Proliferation"/>
-				<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportEfficacy" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemEfficacy" quality="0" enabled="true" count="nil" nameSpec="Efficacy"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Weapon 1" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="IceDash" qualityId="Alternate1" gemId="Metadata/Items/Gems/SkillGemFrostblink" quality="14" enabled="true" count="1" nameSpec="Frostblink"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportElementalProliferation" qualityId="Alternate2" gemId="Metadata/Items/Gems/SupportGemElementalProliferation" quality="20" enabled="true" count="1" nameSpec="Elemental Proliferation"/>
+				<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportEfficacy" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemEfficacy" quality="0" enabled="true" count="1" nameSpec="Efficacy"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" enabled="true" slot="Helmet" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" level="20" enableGlobal1="true" skillId="Skitterbots" skillMinionSkill="1" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemSummonSkitterbots" quality="0" enabled="true" count="nil" nameSpec="Summon Skitterbots" skillMinion="SkitterbotCold"/>
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="TempestShield" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemTempestShield" quality="0" enabled="true" count="nil" nameSpec="Tempest Shield"/>
-				<Gem enableGlobal2="true" level="17" enableGlobal1="true" skillId="Vitality" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemVitality" quality="0" enabled="true" count="nil" nameSpec="Vitality"/>
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="Clarity" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemClarity" quality="0" enabled="true" count="nil" nameSpec="Clarity"/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Helmet" mainActiveSkill="1">
+				<Gem enableGlobal2="false" skillMinionSkillCalcs="1" level="20" enableGlobal1="true" skillId="Skitterbots" skillMinionSkill="1" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemSummonSkitterbots" quality="0" enabled="true" count="1" nameSpec="Summon Skitterbots" skillMinion="SkitterbotCold"/>
+				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="TempestShield" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemTempestShield" quality="0" enabled="true" count="1" nameSpec="Tempest Shield"/>
+				<Gem enableGlobal2="true" level="17" enableGlobal1="true" skillId="Vitality" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemVitality" quality="0" enabled="true" count="1" nameSpec="Vitality"/>
+				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="Clarity" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemClarity" quality="0" enabled="true" count="1" nameSpec="Clarity"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" source="Item:9:Tempest Hand, Conjurer Gloves" enabled="true" slot="Gloves" mainActiveSkill="nil">
-				<Gem enableGlobal2="nil" level="1" enableGlobal1="true" skillId="EnchantmentOfWinterWhenHit3" quality="0" enabled="true" count="nil" nameSpec=""/>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" source="Item:9:Tempest Hand, Conjurer Gloves" enabled="true" slot="Gloves" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="1" enableGlobal1="true" skillId="EnchantmentOfWinterWhenHit3" qualityId="Default" quality="0" enabled="true" count="1" nameSpec="Decree of Winter"/>
 			</Skill>
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="1" masteryEffects="{27193,47642},{10429,763},{44540,8298},{16141,5995}" nodes="7388,4184,40644,1891,60949,42686,20987,9408,36634,8833,27656,44955,38129,4011,10429,44540,4242,16141,42760,33310,52157,60398,49605,12439,7920,65573,7960,65898,15852,1767,21958,56295,22618,11420,63639,39861,33989,65575,65888,29712,65570,61419,35283,2474,65574,38148,19083,46340,65578,31875,9014,54974,58229,35894,59605,59009,56158,5296,31583,22090,61834,25789,7136,55686,60440,54452,53456,47362,36858,36412,21033,44184,49978,30319,36877,52502,53213,46965,33755,65897,36226,40609,41989,48239,39814,62069,27190,4397,37403,28753,36678,20528,5972,28754,21264,14936,13885,18182,27193,21984,12850,9355,65568,1031,25411,44683,7112,21460,6064,22488,24050,55804,15117,25770,21297,19501,12852,4367,5823,1600,32432" treeVersion="3_20" classId="6">
+		<Spec ascendClassId="1" masteryEffects="{44540,8298},{27193,47642},{10429,763},{16141,5995}" nodes="7388,4184,40644,1891,60949,42686,20987,9408,36634,8833,27656,44955,56295,4011,10429,44540,4242,16141,42760,33310,52157,20528,30319,12439,7920,4367,7960,1600,15852,1767,32432,29712,22618,11420,65898,39861,63639,65575,65888,65573,65570,61419,35283,2474,65574,5823,19083,46340,65578,31875,9014,59009,58229,35894,19501,21297,56158,5296,31583,22090,61834,25789,38129,55686,60440,49978,24050,47362,36858,36412,21033,44184,22488,54452,36877,6064,53213,46965,33755,65897,36226,41989,25411,48239,1031,62069,27190,4397,9355,28753,13885,36678,5972,28754,21264,21984,27193,54974,37403,18182,12850,14936,65568,39814,7136,44683,7112,21958,52502,21460,38148,55804,15117,25770,33989,59605,12852,40609,49605,60398,53456" treeVersion="3_20" classId="6">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgYBbhzcEFiexAdj7hWmvlH7JMCPGiKBbAivm5TxD6sova38EJI_DacIgh7LvevuwcUwlx7wHxg97AbnVcbb51haLJz4l5u1hMV0EO_ridMJqpUESou1BHyDIzbWvow26NXmgdteFLB7X1ZK8YpkvRvg2YbsGNS00NC5Ao_6jjxSKayYwzp2b5ANzRbP3bd1g9uNgp6hpAW8b5uG8nVqNhEtkhtwUY9GUDAXVHBSUxA6WDY9RwZqOVXgMjIkiwQHY0MbyFPUF7BX2F3y2fw7DWSqUzFMLTI0EQ8WvwZAfrAJACUBagAnAWAAIgAmACoBaQAgBAL7KL0gaq38F2s_Dboaajk=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgYBbhzcEFiexAdj7hWmvlH7JMCPGiKBbAivm9vnD6sova38EJI_DacIgh7LvVAwdm8wlx7wEQ8fGAZAPewG536wdBBYWiycm7X4l-_ridMJqha_Sou1BHyDIzbmgYw2TC1TMdteFLB7X1ZK8YpkvZTx2YbsGMM6XfK5Ao_6jjxSKayYV9jUtJANF7DP3bd1g9uNgqQFY0O8bwQH8nVqNhEtJItwUTY9j0YXVHBSUxBV4Go51r6SG0cGMjI6WJuGG-AbyFXGzRZT1JUE2fw7DWSqhMXo1TI0nqHBxevu0NAJAWoAJwFgACUAIgAmACoBaQAgBAL7KL0gaq38F2s_Dboaajk=
 			</URL>
 			<Sockets>
 				<Socket nodeId="61834" itemId="24"/>
