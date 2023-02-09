@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="45" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Duelist" ascendClassName="Gladiator" mainSocketGroup="5" viewMode="TREE" pantheonMinorGod="None">
+	<Build level="45" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Duelist" ascendClassName="Gladiator" mainSocketGroup="5" viewMode="SKILLS" pantheonMinorGod="None">
 		<PlayerStat stat="AverageDamage" value="765.3020654592"/>
 		<PlayerStat stat="AverageBurstDamage" value="765.3020654592"/>
 		<PlayerStat stat="Speed" value="2.28"/>
