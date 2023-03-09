@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="100" targetVersion="3_0" pantheonMajorGod="Solaris" bandit="None" className="Ranger" ascendClassName="Pathfinder" mainSocketGroup="1" viewMode="ITEMS" pantheonMinorGod="Abberath">
+	<Build level="100" targetVersion="3_0" pantheonMajorGod="Solaris" bandit="None" className="Ranger" ascendClassName="Pathfinder" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="Abberath">
 		<PlayerStat stat="AverageDamage" value="554.78093499858"/>
 		<PlayerStat stat="AverageBurstDamage" value="554.78093499858"/>
 		<PlayerStat stat="Speed" value="10.086642"/>
@@ -283,30 +283,30 @@
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec title="End Game" ascendClassId="3" masteryEffects="{44316,47642},{34927,24180},{49820,42014},{63861,2987},{65528,57074},{31039,38070},{53615,61097},{12125,64381},{55491,28638}" nodes="65875,10893,64583,49820,61804,21984,27656,64265,33310,49929,41866,22618,39861,65528,61981,12143,61419,22748,2715,32640,20807,9206,18769,51101,16954,55491,60440,53114,14156,33753,62744,12783,65296,65808,59370,29454,64111,66832,59585,13170,63293,18182,18715,65824,25411,9469,37504,30767,65502,4367,60501,28859,36221,53615,53456,36287,63251,14292,6250,61653,12888,65872,12125,65810,66896,45593,66834,21958,9797,19501,40631,66842,65888,45035,65826,59220,19858,65834,31039,14040,6910,5296,50459,61834,49978,18770,66905,36858,60405,6799,44184,60735,14936,903,8938,66899,65881,65890,65898,18436,15117,38662,61805,12801,56158,63194,55571,34927,21033,63795,20528,63861,22535,59606,23334,3187,54307,44316,6797,12412,1461,56295,46277,9261,36242,3359,49900,33989,6538,47507,32763,49605,65818" treeVersion="3_20" classId="2">
+		<Spec title="End Game" ascendClassId="3" masteryEffects="{44316,47642},{55491,28638},{49820,42014},{63861,2987},{65528,57074},{31039,38070},{53615,61097},{12125,64381},{34927,24180}" nodes="65875,10893,66899,49820,61804,21984,27656,64265,33310,49929,41866,22618,39861,65528,61981,12143,61419,22748,2715,32640,20807,56158,18769,51101,16954,55491,60440,53114,14156,33753,3187,12783,23334,65808,59370,29454,64111,66832,59585,13170,63293,18182,18715,65824,25411,9469,37504,30767,15117,4367,60501,28859,36221,53615,53456,36287,63251,14292,6250,61653,12888,65872,12125,65810,66896,45593,66834,21958,9797,49900,40631,66842,65888,45035,65826,59220,19858,65834,31039,14040,6910,5296,50459,61834,49978,18770,66905,36858,60405,12412,44184,44316,14936,903,8938,64583,65818,18436,65898,65890,65881,65502,38662,56295,12801,65296,34927,55571,63795,21033,20528,63194,63861,22535,59606,62744,60735,54307,6799,61805,6797,1461,9206,46277,9261,36242,3359,33989,6538,47507,19501,32763,49605" treeVersion="3_20" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIDcSqN_EfCnPFsVeBsCPsJgh7DCaOKWFqbtf_48h0vb-_rWNwKm3-AUUcj9klRx51COtjD7BjPejdMg9n1GDHv_xDn6nMO6MEzcvc9RwZJG2NDJP2SgHgv_94RD-xVcLuNfdFv0NCNv_cTN9QYavDVMlgvXbIZVcYmRUwtnrev6-dUTZJ5PzbYGv4UsPGKwzpJUo_66_Uaj6yY7T86WAOHIupIBDsNlwbxbTIB21722tkTiG9SKfkzUDD5dVgH6NZbJgxz1COtHBqNMHwFtdvntMUkLY2SDR_C7ITFGYq5k3_7wcUSAVMBEAUQASABUAESBVAFEgUaAWABIgEqBVkFUwFZAWIBagEaCaQewpze8v_4b97Yw-6p0W_7fS9dlLZ5P150iG8Lq_l1uhqtHA==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIDcSqNwpzxbFXgbAj7CYIewwmjilham7X_-PIdL2_v61jcCpt_gFFH215JUcedQjrYw-wYz3o3TIPZDHMx71sm5-pzDujBM3L3PUcGSRtjQyT9koB4LzsNEQ_sVXC7jX3Rb9DQjb_3EzfUGGrw1TJYL12yGVXGJkXC7J63r-vnVE2SeT822Br-FLDxisM6SVKP-uv1MHysmK0cOlgDhyLq_EdIBP_elwbb5zIB_xCIb9kT-TNSKVAw9tr5dVgH6Nb1GO0_1CMaj_FtGo0FtSP2tMUkLY2SDR-ExRmKuZNMLX_7wcUSAVMFUwEQBRABIAFQARIFUAUSBRoBYAEiASoFWQEaAWoBYgFZCaQewpze8v_4b97Yw-6p0W_7fS9dlLZ5P7oarRxedIhvC6v5dQ==
 			</URL>
 			<Sockets>
 				<Socket nodeId="61834" itemId="36"/>
 				<Socket nodeId="64583" itemId="46"/>
 				<Socket nodeId="21984" itemId="45"/>
 				<Socket nodeId="33753" itemId="21"/>
-				<Socket nodeId="18436" itemId="16"/>
-				<Socket nodeId="32763" itemId="39"/>
 				<Socket nodeId="59585" itemId="20"/>
+				<Socket nodeId="32763" itemId="39"/>
 				<Socket nodeId="13170" itemId="47"/>
 				<Socket nodeId="33989" itemId="35"/>
 				<Socket nodeId="22748" itemId="26"/>
 				<Socket nodeId="61419" itemId="13"/>
-				<Socket nodeId="9797" itemId="50"/>
 				<Socket nodeId="60735" itemId="25"/>
+				<Socket nodeId="18436" itemId="16"/>
 				<Socket nodeId="6910" itemId="18"/>
+				<Socket nodeId="9797" itemId="50"/>
 			</Sockets>
 		</Spec>
-		<Spec title="Bare Bones" ascendClassId="3" masteryEffects="{44316,47642},{55491,28638},{49820,42014},{63861,2987},{65528,57074},{31039,38070},{53615,61097},{12125,64381},{34927,24180}" nodes="10893,66899,49820,61804,21984,27656,64265,33310,49929,41866,22618,39861,33989,61981,12143,61419,22748,2715,32640,20807,9206,18769,51101,16954,55491,60440,53114,14156,33753,62744,12783,22535,65808,59370,29454,64111,66832,20528,13170,63293,18182,18715,65824,25411,9469,37504,30767,15117,4367,60501,28859,36221,53615,53456,36287,63251,18436,6250,61653,12888,65872,12125,65810,66896,45593,66834,21958,9797,65818,40631,66842,65888,6538,65826,59220,19858,65834,31039,14040,6910,5296,50459,61834,49978,18770,66905,36858,60405,12412,44184,60735,14936,903,8938,59585,65898,63795,38662,65890,65502,65874,56158,59606,12801,23334,65296,55571,34927,65882,56295,63194,63861,44316,19501,38995,49900,54307,6799,21033,61805,1461,3359,46277,9261,36242,47507,6797,65528,45035,32763,49605,14292,64583" treeVersion="3_20" classId="2">
+		<Spec title="Bare Bones" ascendClassId="3" masteryEffects="{44316,47642},{34927,24180},{49820,42014},{63861,2987},{65528,57074},{31039,38070},{53615,61097},{12125,64381},{55491,28638}" nodes="10893,66899,49820,61804,21984,27656,64265,33310,49929,41866,22618,39861,47507,61981,12143,61419,22748,2715,32640,20807,9206,18769,51101,16954,55491,60440,53114,14156,33753,62744,12783,22535,65808,59370,29454,64111,66832,59585,13170,63293,18182,18715,65824,25411,9469,37504,30767,65502,4367,60501,28859,36221,53615,53456,36287,63251,14292,6250,61653,12888,65872,12125,65810,66896,45593,66834,21958,9797,65818,40631,66842,65888,6538,65826,59220,19858,65834,31039,14040,6910,5296,50459,61834,49978,18770,66905,36858,60405,21033,44184,60735,14936,903,8938,64583,59606,38662,65890,65898,15117,65874,61805,63795,12801,56158,20528,55571,34927,65882,65296,23334,63861,63194,56295,38995,44316,54307,19501,49900,12412,1461,6799,46277,9261,36242,3359,6797,65528,45035,33989,32763,49605,18436" treeVersion="3_20" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIDcSqNwpzxbFXgbAj7CYIewwmjilham7WExfIdL2_v61jcCpt_gFFHI_ZJUcedQjrYw-wYz3o3TIPZ9Rgx71gH5-pzDlAwM3L3PUcGSRtjQyT9koB4LzsNEQ_sVXC7jX3Rb9DQjb_3E0gEGGrw1TJYL12yGVXGJkWetxmK51RNknk_Ntga_hSw8YrDOklSj_rr9TB8rJjtPzpYA4ci6ujB-TOXBv_e217o1jIBWyb_ENkTiG_b5_ba-XWtHEwtmFPC7NQjGo9SKfFtBbUNH7TFJC2NkrmTGo3_-K_rf_vBxTfU_EcSBVMBEAUQASABUAESBVAFEgEaBRoBYAEiASoFWQFqAWIBUgFaCaQewpxv3tjD7qnRb_t9L12Utnk_XnSIbwur-XW6Gq0c3vL_-A==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIDcSqNwpzxbFXgbAj7CYIewwmjilham7W5k_IdL2_v61jcCpt_gFFHI_ZJUcedQjrYw-wYz3o3TIPZ9Rgx71gH5-pzDujBM3L3PUcGSRtjQyT9koB4L__eEQ_sVXC7jX3Rb9DQjb_3EzfUGGrw1TJYL12yGVXGJkWetxmK51RNknk_Ntga_hSw8YrDOklSj_rr9VIprJjtPzpYA4ci6vxH6NaXBjsN8W35MzIB215QMNkTiG__EFsm-XX22tvnmFOtHNQjTC3C7DB8BbUaj7TFJC2Nkg0fGo3_-K_rhMV_-8HFSAQSBVMBEAUQASABUAESBVAFEgEaBRoBYAEiASoFWQFiAWoBUgFaCaQewpxv3tjD7qnRb_t9L12Utnk_XnSIbwur-XW6Gq0c3vL_-A==
 			</URL>
 			<Sockets>
 				<Socket nodeId="61419" itemId="9"/>
@@ -315,19 +315,19 @@
 				<Socket nodeId="60735" itemId="25"/>
 				<Socket nodeId="64583" itemId="40"/>
 				<Socket nodeId="9797" itemId="50"/>
+				<Socket nodeId="61834" itemId="52"/>
 				<Socket nodeId="32763" itemId="48"/>
-				<Socket nodeId="13170" itemId="41"/>
-				<Socket nodeId="18436" itemId="16"/>
+				<Socket nodeId="22748" itemId="26"/>
 				<Socket nodeId="33989" itemId="51"/>
 				<Socket nodeId="21984" itemId="45"/>
-				<Socket nodeId="22748" itemId="26"/>
+				<Socket nodeId="18436" itemId="16"/>
 				<Socket nodeId="6910" itemId="38"/>
-				<Socket nodeId="61834" itemId="52"/>
+				<Socket nodeId="13170" itemId="41"/>
 			</Sockets>
 		</Spec>
-		<Spec title="Above End Game" ascendClassId="3" masteryEffects="{44316,47642},{55491,28638},{49820,42014},{63861,2987},{65528,57074},{31039,38070},{53615,61097},{12125,64381},{34927,24180}" nodes="65875,10893,66899,49820,61804,21984,27656,64265,33310,49929,41866,22618,39861,65528,61981,12143,61419,22748,2715,32640,20807,56158,18769,51101,16954,55491,60440,53114,14156,33753,3187,12783,23334,65808,59370,29454,64111,66832,59585,13170,63293,18182,18715,65824,25411,9469,37504,30767,15117,4367,60501,28859,36221,53615,53456,36287,63251,14292,6250,61653,12888,65872,12125,65810,66896,45593,66834,21958,9797,49900,40631,66842,65888,45035,65826,59220,19858,65834,31039,14040,6910,5296,50459,61834,49978,18770,66905,36858,60405,12412,44184,44316,14936,903,8938,65818,18436,65898,65890,65881,65502,38662,56295,12801,65296,34927,55571,63795,21033,20528,63194,63861,22535,59606,62744,60735,54307,6799,61805,6797,1461,9206,46277,9261,36242,3359,33989,6538,47507,19501,32763,49605,64583" treeVersion="3_20" classId="2">
+		<Spec title="Above End Game" ascendClassId="3" masteryEffects="{44316,47642},{34927,24180},{49820,42014},{63861,2987},{65528,57074},{31039,38070},{53615,61097},{12125,64381},{55491,28638}" nodes="65875,10893,66899,49820,61804,21984,27656,64265,33310,49929,41866,22618,39861,33989,61981,12143,61419,22748,2715,32640,20807,56158,18769,51101,16954,55491,60440,53114,14156,33753,62744,12783,22535,65808,59370,29454,64111,66832,20528,13170,63293,18182,18715,65824,25411,9469,37504,30767,65502,4367,60501,28859,36221,53615,53456,36287,63251,14292,6250,61653,12888,65872,12125,65810,66896,45593,66834,21958,9797,65818,40631,66842,65888,45035,65826,59220,19858,65834,31039,14040,6910,5296,50459,61834,49978,18770,66905,36858,60405,6799,44184,60735,14936,903,8938,64583,65881,65890,65898,18436,15117,38662,9206,12801,23334,65296,55571,63795,34927,21033,63194,63861,56295,3187,59606,44316,54307,12412,61805,6797,1461,3359,46277,9261,36242,6538,47507,19501,65528,49900,32763,49605,59585" treeVersion="3_20" classId="2">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIDcSqNwpzxbFXgbAj7CYIewwmjilham7X_-PIdL2_v61jcCpt_gFFH215JUcedQjrYw-wYz3o3TIPZDHMx71sm5-pzDujBM3L3PUcGSRtjQyT9koB4LzsNEQ_sVXC7jX3Rb9DQjb_3EzfUGGrw1TJYL12yGVXGJkXC7J63r-vnVE2SeT822Br-FLDxisM6SVKP-uv1MHysmK0cOlgDhyLqSAT_3pcG2-cyAf8QiG_ZE_kzUilQMPba-XVYB-jW9RjtP9QjGo_xbRqNBbUj9rTFJC2Nkg0fhMUZirmTTC1_-8HF_EcSAVMFUwEQBRABIAFQARIFUAUSBRoBYAEiASoFWQEaAWoBYgFZCaQewpze8v_4b97Yw-6p0W_7fS9dlLZ5P7oarRxedIhvC6v5dQ==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIDcSqNwpzxbFXgbAj7CYIewwmjilham7WExfIdL2_v61jcCpt_gFFH215JUcedQjrYw-wYz3o3TIPZ9Rgx71gH5-pzDlAwM3L3PUcGSRtjQyT9koB4L__eEQ_sVXC7jX3Rb9DQjb_3EzfUGGrw1TJYL12yGVXGJkWet6_r51RNknk_Ntga_hSw8YrDOklSj_rr9RqPrJjtPzpYA4ci6vxHSAQ7DZcGI_YyAVsm_xDZE_kziG9SKfba-XXb5wxz6NatHNQjMHzxbRqNBbUNH7TFJC2NkhmKuZNMLf_4wux_-8HF6MESAVMFUwEQBRABIAFQARIFUAUSARoFGgFgASIBKgVZAVkBYgFqCaQewpxv3tjD7qnRb_t9L12Utnk_XnSIbwur-XW6Gq0c3vL_-A==
 			</URL>
 			<Sockets>
 				<Socket nodeId="61419" itemId="13"/>
@@ -336,14 +336,14 @@
 				<Socket nodeId="60735" itemId="25"/>
 				<Socket nodeId="64583" itemId="46"/>
 				<Socket nodeId="9797" itemId="50"/>
+				<Socket nodeId="61834" itemId="53"/>
 				<Socket nodeId="32763" itemId="39"/>
-				<Socket nodeId="13170" itemId="47"/>
-				<Socket nodeId="18436" itemId="16"/>
+				<Socket nodeId="22748" itemId="26"/>
 				<Socket nodeId="33989" itemId="35"/>
 				<Socket nodeId="21984" itemId="45"/>
-				<Socket nodeId="22748" itemId="26"/>
+				<Socket nodeId="18436" itemId="16"/>
 				<Socket nodeId="6910" itemId="18"/>
-				<Socket nodeId="61834" itemId="53"/>
+				<Socket nodeId="13170" itemId="47"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -512,7 +512,7 @@ Make sure they are capped.
 
 ^7^7
 	</Notes>
-	<TreeView searchStr="cham" zoomY="147.50480109739" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="-427.92230915638"/>
+	<TreeView searchStr="cham" zoomY="200.50480109739" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="-335.92230915638"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="28">
 			Rarity: RARE
@@ -2307,24 +2307,24 @@ Corrupted
 		<Input name="waveOfConvictionExposureType" string="Fire"/>
 		<Input name="conditionEnemyUnnerved" boolean="true"/>
 		<Input name="buffAlchemistsGenius" boolean="true"/>
-		<Input name="presetBossSkills" string="Shaper Slam"/>
+		<Input name="useEnduranceCharges" boolean="true"/>
 		<Input name="conditionEnemyBrittle" boolean="true"/>
-		<Input name="conditionEnemyScorched" boolean="true"/>
+		<Input name="enemyDamageType" string="Melee"/>
 		<Input name="targetBrandedEnemy" boolean="true"/>
+		<Input name="channellingCycloneCheck" boolean="true"/>
+		<Input name="bloodSandStance" string="SAND"/>
+		<Input name="conditionEnemySapped" boolean="true"/>
+		<Input name="conditionBrittleEffect" number="2"/>
+		<Input name="conditionEnemyOnConsecratedGround" boolean="true"/>
+		<Input name="conditionSapEffect" number="10"/>
+		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="pantheonMinorGod" string="Abberath"/>
+		<Input name="conditionScorchedEffect" number="22"/>
 		<Input name="customMods" string="Relic: 
 19% increased effect of your marks 
 call to arms"/>
-		<Input name="conditionBrittleEffect" number="2"/>
-		<Input name="conditionEnemySapped" boolean="true"/>
-		<Input name="conditionScorchedEffect" number="22"/>
-		<Input name="usePowerCharges" boolean="true"/>
-		<Input name="conditionSapEffect" number="10"/>
-		<Input name="conditionEnemyOnConsecratedGround" boolean="true"/>
-		<Input name="pantheonMinorGod" string="Abberath"/>
-		<Input name="bloodSandStance" string="SAND"/>
-		<Input name="channellingCycloneCheck" boolean="true"/>
-		<Input name="enemyDamageType" string="Melee"/>
-		<Input name="useEnduranceCharges" boolean="true"/>
+		<Input name="conditionEnemyScorched" boolean="true"/>
+		<Input name="presetBossSkills" string="Shaper Slam"/>
 		<Placeholder name="enemySpeed" number="3510"/>
 		<Placeholder name="enemyChaosResist" number="30"/>
 		<Placeholder name="enemyCritChance" number="5"/>
