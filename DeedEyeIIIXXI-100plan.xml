@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build level="1" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Ranger" ascendClassName="None" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="None">
+		<PlayerStat stat="AverageDamage" value="2.2752808988764"/>
+		<PlayerStat stat="AverageBurstDamage" value="2.2752808988764"/>
+		<PlayerStat stat="Speed" value="1.488"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="0"/>
+		<PlayerStat stat="CritChance" value="0"/>
+		<PlayerStat stat="CritMultiplier" value="1.5"/>
+		<PlayerStat stat="HitChance" value="100"/>
+		<PlayerStat stat="TotalDPS" value="3.3856179775281"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="WithBleedDPS" value="3.3856179775281"/>
+		<PlayerStat stat="WithIgniteDPS" value="3.3856179775281"/>
+		<PlayerStat stat="WithPoisonDPS" value="3.3856179775281"/>
+		<PlayerStat stat="TotalDotDPS" value="0"/>
+		<PlayerStat stat="CullingDPS" value="0"/>
+		<PlayerStat stat="CombinedDPS" value="3.3856179775281"/>
+		<PlayerStat stat="ManaCost" value="0"/>
+		<PlayerStat stat="ManaPercentCost" value="0"/>
+		<PlayerStat stat="ManaPerSecondCost" value="0"/>
+		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="LifeCost" value="0"/>
+		<PlayerStat stat="LifePercentCost" value="0"/>
+		<PlayerStat stat="LifePerSecondCost" value="0"/>
+		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
+		<PlayerStat stat="ESCost" value="0"/>
+		<PlayerStat stat="ESPerSecondCost" value="0"/>
+		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="RageCost" value="0"/>
+		<PlayerStat stat="Str" value="34"/>
+		<PlayerStat stat="Dex" value="72"/>
+		<PlayerStat stat="Int" value="34"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="TotalEHP" value="67"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="67"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="42"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="42"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="42"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="42"/>
+		<PlayerStat stat="Life" value="67"/>
+		<PlayerStat stat="Spec:LifeInc" value="0"/>
+		<PlayerStat stat="LifeUnreserved" value="67"/>
+		<PlayerStat stat="LifeRecoverable" value="67"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
+		<PlayerStat stat="LifeRegenRecovery" value="0"/>
+		<PlayerStat stat="LifeLeechGainRate" value="0"/>
+		<PlayerStat stat="Mana" value="78"/>
+		<PlayerStat stat="Spec:ManaInc" value="36"/>
+		<PlayerStat stat="ManaUnreserved" value="78"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="100"/>
+		<PlayerStat stat="ManaRegenRecovery" value="1.4"/>
+		<PlayerStat stat="ManaLeechGainRate" value="0"/>
+		<PlayerStat stat="EnergyShield" value="0"/>
+		<PlayerStat stat="EnergyShieldRecoveryCap" value="0"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
+		<PlayerStat stat="EnergyShieldRegenRecovery" value="0"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="Ward" value="0"/>
+		<PlayerStat stat="RageRegenRecovery" value="0"/>
+		<PlayerStat stat="Evasion" value="17"/>
+		<PlayerStat stat="Spec:EvasionInc" value="0"/>
+		<PlayerStat stat="MeleeEvadeChance" value="0"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
+		<PlayerStat stat="Armour" value="0"/>
+		<PlayerStat stat="Spec:ArmourInc" value="0"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="0"/>
+		<PlayerStat stat="BlockChance" value="0"/>
+		<PlayerStat stat="SpellBlockChance" value="0"/>
+		<PlayerStat stat="AttackDodgeChance" value="0"/>
+		<PlayerStat stat="SpellDodgeChance" value="0"/>
+		<PlayerStat stat="SpellSuppressionChance" value="0"/>
+		<PlayerStat stat="FireResist" value="-60"/>
+		<PlayerStat stat="FireResistOverCap" value="0"/>
+		<PlayerStat stat="ColdResist" value="-60"/>
+		<PlayerStat stat="ColdResistOverCap" value="0"/>
+		<PlayerStat stat="LightningResist" value="-60"/>
+		<PlayerStat stat="LightningResistOverCap" value="0"/>
+		<PlayerStat stat="ChaosResist" value="-60"/>
+		<PlayerStat stat="ChaosResistOverCap" value="0"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.05"/>
+		<PlayerStat stat="FullDPS" value="0"/>
+		<PlayerStat stat="FullDotDPS" value="0"/>
+		<PlayerStat stat="PowerCharges" value="0"/>
+		<PlayerStat stat="PowerChargesMax" value="3"/>
+		<PlayerStat stat="FrenzyCharges" value="0"/>
+		<PlayerStat stat="FrenzyChargesMax" value="3"/>
+		<PlayerStat stat="EnduranceCharges" value="0"/>
+		<PlayerStat stat="EnduranceChargesMax" value="3"/>
+		<TimelessData searchList="" searchListFallback=""/>
+	</Build>
+	<Import/>
+	<Calcs>
+		<Input name="misc_buffMode" string="EFFECTIVE"/>
+		<Input name="skill_number" number="1"/>
+		<Section subsection="ViewSkillDetails" collapsed="false" id="SkillSelect"/>
+		<Section subsection="SkillHitDamage" collapsed="false" id="HitDamage"/>
+		<Section subsection="ExertingWarcries" collapsed="false" id="Warcries"/>
+		<Section subsection="SkillDamageoverTime" collapsed="false" id="Dot"/>
+		<Section subsection="AttackCastRate" collapsed="false" id="Speed"/>
+		<Section subsection="Crits" collapsed="false" id="Crit"/>
+		<Section subsection="Impale" collapsed="false" id="Impale"/>
+		<Section subsection="SkilltypespecificStats" collapsed="false" id="SkillTypeStats"/>
+		<Section subsection="Accuracy" collapsed="false" id="HitChance"/>
+		<Section subsection="Bleed" collapsed="false" id="Bleed"/>
+		<Section subsection="Poison" collapsed="false" id="Poison"/>
+		<Section subsection="Ignite" collapsed="false" id="Ignite"/>
+		<Section subsection="Decay" collapsed="false" id="Decay"/>
+		<Section subsection="LeechGainonHit" collapsed="false" id="LeechGain"/>
+		<Section subsection="NonDamagingAilments" collapsed="false" id="EleAilments"/>
+		<Section subsection="OtherEffects" collapsed="false" id="MiscEffects"/>
+		<Section subsection="Attributes" collapsed="false" id="Attributes"/>
+		<Section subsection="Life" collapsed="false" id="Life"/>
+		<Section subsection="Mana" collapsed="false" id="Mana"/>
+		<Section subsection="EnergyShield" collapsed="false" id="EnergyShield"/>
+		<Section subsection="Ward" collapsed="false" id="Ward"/>
+		<Section subsection="Rage" collapsed="false" id="Rage"/>
+		<Section subsection="Armour" collapsed="false" id="Armour"/>
+		<Section subsection="Evasion" collapsed="false" id="Evasion"/>
+		<Section subsection="Resists" collapsed="false" id="Resist"/>
+		<Section subsection="Block" collapsed="false" id="Block"/>
+		<Section subsection="GainonBlock" collapsed="true" id="Block"/>
+		<Section subsection="OtherDefences" collapsed="false" id="MiscDefences"/>
+		<Section subsection="StunDuration" collapsed="false" id="MiscDefences"/>
+		<Section subsection="DamageAvoidance" collapsed="false" id="MiscDefences"/>
+		<Section subsection="OtherAvoidance" collapsed="true" id="MiscDefences"/>
+		<Section subsection="OtherAilmentDefences" collapsed="true" id="MiscDefences"/>
+		<Section subsection="Dodge" collapsed="false" id="MiscDefences"/>
+		<Section subsection="SpellSuppression" collapsed="false" id="MiscDefences"/>
+		<Section subsection="DamageTaken" collapsed="false" id="DamageTaken"/>
+		<Section subsection="DamagingHits" collapsed="false" id="DamageTaken"/>
+		<Section subsection="EffectiveHealthPool" collapsed="false" id="DamageTaken"/>
+		<Section subsection="MaximumHitTaken" collapsed="false" id="DamageTaken"/>
+		<Section subsection="DotsandDegens" collapsed="false" id="DamageTaken"/>
+		<Section subsection="RecoupandHitTakenOverTime" collapsed="true" id="DamageTaken"/>
+	</Calcs>
+	<Skills sortGemsByDPSField="CombinedDPS" activeSkillSet="1" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="normalMaximum" showSupportGemTypes="ALL" showAltQualityGems="false">
+		<SkillSet id="1"/>
+	</Skills>
+	<Tree activeSpec="1">
+		<Spec title="-12-act1" ascendClassId="0" masteryEffects="" nodes="65033,42964,25178,54142,9373,50338,31508,50459,65224,57240,10017,45035,6654,465,6913,38344" treeVersion="3_20" classId="2">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIAD_4Jp9RiWtN-JJ3EonsU_sjfmCchr-sZ_gHRGwGVyAAA
+			</URL>
+			<Sockets/>
+		</Spec>
+		<Spec title="-100-plan" ascendClassId="2" masteryEffects="{50757,6462},{3883,37190},{56023,1167},{24552,56951},{25349,36967},{6427,45512},{41163,25487},{27371,57074},{65528,61741},{5826,2198},{47212,52404},{27865,26894},{37502,42952}" nodes="50041,39938,5237,63439,36874,65033,52632,5082,56134,11497,41119,31222,37619,32091,24848,29089,20010,45033,65528,56856,27371,42964,16851,61039,20807,19506,44306,48807,930,24133,59606,9786,25178,43608,24552,11859,64235,21228,4573,63921,32555,48823,60002,41163,54142,51881,56023,9373,25349,60204,9535,22266,34510,24083,53324,34483,61306,50338,3469,36287,15344,54868,31508,26067,42632,28330,47212,45593,17201,3309,19144,18103,6538,63139,11678,17814,36687,6427,7786,30155,5826,28658,55648,63618,50459,49978,56001,5408,8458,65224,22852,12412,36222,27283,12068,54127,3883,10829,8938,39665,27444,57240,12926,41380,10843,46291,38149,33989,56589,12801,61627,15290,46578,16544,10017,2185,45035,544,16167,19711,27865,23169,37502,59837,50757,30679,39861,465,38662,53114,23912,14804,57819,46344,238,38344,54922,47743,23471" treeVersion="3_20" classId="2">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgICicN5nAIUdffPkAr-Cc2YE9rbRizpoJ959pLzfVthEHGhTiqv6f_4auun1EHT7m9RR0wyrRK-pwOiXkXo1iY6YlqqWF_oLlP661LsEd35sX8rvrfqYqDL037KqdrXJJ1jBessJT9W-obOXhPQTIaz73rEog2Njb878NZUexRl06aIbqq4bLIZQzEM7UrIRrcZivajLZ5Flo9PGRseanXLFsJv8tlg-ILDOtrBFSAhCv7IWUQwfI1-apMvJNNvDysqTSLqmvFrNN-YMn6hpCpbtNOVBYTF3Q0yAfC7O7q18kCgJyEIia_rAiA_J0z_bNlagZJ-6b3GRXfXm7UB0ZcGz3pdaDnU4du1CADulcjWirp_W68ADfEt__je8mrr3ndf6GOPoMsEj9rXkGdjBcy0uGyxyBkbCJYWwpFGDytpDmzZp8iSfhk-xkU=
+			</URL>
+			<Sockets/>
+		</Spec>
+	</Tree>
+	<Notes>
+		
+	</Notes>
+	<TreeView searchStr="evasion master" zoomY="-151.80815877915" showHeatMap="nil" zoomLevel="5" showStatDifferences="true" zoomX="-528.38079509602"/>
+	<Items activeItemSet="1" useSecondWeaponSet="nil">
+		<ItemSet useSecondWeaponSet="nil" id="1">
+			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Flask 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Belt" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Flask 5" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet" itemId="0"/>
+			<Slot itemPbURL="" name="Flask 1" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Flask 4" itemId="0"/>
+			<Slot itemPbURL="" name="Flask 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Ring 2" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Ring 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1Swap Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Boots" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2Swap Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Amulet" itemId="0"/>
+		</ItemSet>
+	</Items>
+	<Config>
+		<Input name="enemySizePreset" string="Medium"/>
+		<Input name="pantheonMinorGod" string="None"/>
+		<Input name="enemyIsBoss" string="None"/>
+		<Input name="pantheonMajorGod" string="None"/>
+		<Input name="bandit" string="None"/>
+		<Placeholder name="enemySpeed" number="700"/>
+		<Placeholder name="enemyCritDamage" number="30"/>
+		<Placeholder name="enemyCritChance" number="5"/>
+		<Placeholder name="enemyPhysicalDamage" number="7"/>
+	</Config>
+</PathOfBuilding>
